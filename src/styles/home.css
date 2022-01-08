@@ -42,21 +42,12 @@
 
 }
 
-#home-cv {
-  display: grid;
-  place-items: center center;
-  height: 100%;
-
-  background-color: var(--home-odd-colour);
-
-}
-
 #home-flash-fiction {
   display: grid;
   place-items: center center;
   height: 100%;
 
-  background-color: var(--home-even-colour);
+  background-color: var(--home-odd-colour);
 
 }
 
@@ -65,7 +56,7 @@
   place-items: center center;
   height: 100%;
 
-  background-color: var(--home-odd-colour);
+  background-color: var(--home-even-colour);
 
 }
 
@@ -74,7 +65,7 @@
   place-items: center center;
   height: 100%;
 
-  background-color: var(--home-even-colour);
+  background-color: var(--home-odd-colour);
 
 }
 
@@ -83,7 +74,7 @@
   place-items: center center;
   height: 100%;
 
-  background-color: var(--home-odd-colour);
+  background-color: var(--home-even-colour);
 
 }
 
@@ -92,7 +83,7 @@
   place-items: center center;
   height: 100%;
 
-  background-color: var(--home-even-colour);
+  background-color: var(--home-odd-colour);
 
 }
 
@@ -101,6 +92,6 @@
   place-items: center center;
   height: 100%;
 
-  background-color: var(--home-odd-colour);
+  background-color: var(--home-even-colour);
 
 }

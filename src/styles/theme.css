@@ -1,0 +1,22 @@
+[data-theme="dark"] {
+  --background-colour: rgba(254, 205, 211, 1);
+  --header-colour: rgba(136, 19, 55, 1);
+  --footer-colour: rgba(159, 18, 57, 1);
+
+  --home-odd-colour: rgb(251, 113, 133);
+  --home-even-colour: rgb(253, 164, 175);
+
+  --text-colour: #ffffff;
+}
+
+[data-theme="light"] {
+
+  --background-colour: rgb(251, 113, 133);
+  --header-colour: rgb(253, 164, 175);
+  --footer-colour: rgb(254, 205, 211);
+
+  --home-odd-colour: rgb(252, 165, 165);
+  --home-even-colour: rgb(254, 202, 202);
+
+  --text-colour: #000000;
+}

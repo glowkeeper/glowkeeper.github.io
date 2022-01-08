@@ -1,18 +1,18 @@
+import { LocalRoutes } from '../../config'
+
 export const Home = () => {
   return (
-    <div id="home">
-        <div id="home-academia">academia</div>
-        <div id="home-apps">apps</div>
-        <div id="home-blog">blog</div>
-        <div id="home-books">books</div>
-        <div id="home-cv">cv</div>
-        <div id="home-flash-fiction">flash fiction</div>
-        <div id="home-misc">misc</div>
-        <div id="home-poetry">poetry</div>
-        <div id="home-songs">songs</div>
-        <div id="home-stories">stories</div>
-        <div id="home-contact">contact</div>
-    </div>
+    <>
+        <div id={LocalRoutes.academiaId}>academia</div>
+        <div id={LocalRoutes.appsId}>apps</div>
+        <div id={LocalRoutes.blogId}>blog</div>
+        <div id={LocalRoutes.booksId}>books</div>
+        <div id={LocalRoutes.flashId}>flash fiction</div>
+        <div id={LocalRoutes.miscId}>misc</div>
+        <div id={LocalRoutes.poetryId}>poetry</div>
+        <div id={LocalRoutes.songsId}>songs</div>
+        <div id={LocalRoutes.storiesId}>stories</div>
+    </>
   );
 }
 
