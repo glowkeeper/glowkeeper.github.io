@@ -18,8 +18,7 @@ export const Header = () => {
 
   return (
     <header>
-      <a
-        href={LocalRoutes.homeAcademia}
+      <button
         onClick={() => anchors.academia.scrollIntoView({
             block: "nearest",
             inline: "center",
@@ -29,9 +28,8 @@ export const Header = () => {
         }
       >
         Academia
-      </a>
-      <a
-        href={LocalRoutes.homeStories}
+      </button>
+      <button
         onClick={() => anchors.stories.scrollIntoView({
             block: "nearest",
             inline: "center",
@@ -41,7 +39,7 @@ export const Header = () => {
         }
       >
         Stories
-      </a>
+      </button>
     </header>
   );
 }
