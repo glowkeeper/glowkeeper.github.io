@@ -1,6 +1,6 @@
 export const Poetry = () => {
   return (
-    <div className="poetry">
+    <div id="poetry">
       <p>
         Poetry
       </p>

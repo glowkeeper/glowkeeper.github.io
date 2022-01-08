@@ -1,6 +1,6 @@
 export const CV = () => {
   return (
-    <div className="cv">
+    <div id="cv">
       <p>
         cv
       </p>

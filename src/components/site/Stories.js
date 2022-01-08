@@ -1,6 +1,6 @@
 export const Stories = () => {
   return (
-    <div className="stories">
+    <div id="stories">
       <p>
         Stories
       </p>

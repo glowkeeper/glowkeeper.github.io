@@ -1,6 +1,6 @@
 export const Songs = () => {
   return (
-    <div className="songs">
+    <div id="songs">
       <p>
         songs
       </p>

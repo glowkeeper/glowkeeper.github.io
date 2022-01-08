@@ -1,7 +1,9 @@
+import { Home } from '../site/Home';
+
 export const Main = () => {
   return (
     <main>
-      <p>main</p>
+      <Home />
     </main>
   );
 }

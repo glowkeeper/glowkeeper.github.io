@@ -1,6 +1,6 @@
 export const Academia = () => {
   return (
-    <div className="academia">
+    <div id="academia">
         <p>
           academia
         </p>

@@ -1,0 +1,10 @@
+:root {
+  --background-colour: #f4f4f4;
+  --header-colour: #2c0d0d;
+  --footer-colour: #2c0d0d;
+  --home-odd-colour: #282c34;
+  --home-even-colour: white;
+
+  --header-height: 4rem;
+  --footer-height: 4rem;
+}

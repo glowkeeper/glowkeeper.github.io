@@ -1,6 +1,6 @@
 export const FlashFiction = () => {
   return (
-    <div className="flash-fiction">
+    <div id="flash-fiction">
       <p>
         flash fiction
       </p>

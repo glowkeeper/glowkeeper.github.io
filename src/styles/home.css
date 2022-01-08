@@ -1,0 +1,102 @@
+@import "variables.css";
+
+#home {
+  height: 100%;
+}
+
+#home-academia {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  background-color: var(--home-odd-colour);
+}
+
+#home-apps {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  background-color: var(--home-even-colour);
+}
+
+#home-blog {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  background-color: var(--home-odd-colour);
+
+}
+
+#home-books {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  background-color: var(--home-even-colour);
+
+}
+
+#home-cv {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  background-color: var(--home-odd-colour);
+
+}
+
+#home-flash-fiction {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  background-color: var(--home-even-colour);
+
+}
+
+#home-misc {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  background-color: var(--home-odd-colour);
+
+}
+
+#home-poetry {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  background-color: var(--home-even-colour);
+
+}
+
+#home-songs {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  background-color: var(--home-odd-colour);
+
+}
+
+#home-stories {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  background-color: var(--home-even-colour);
+
+}
+
+#home-contact {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+  
+  background-color: var(--home-odd-colour);
+
+}

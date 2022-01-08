@@ -1,6 +1,6 @@
 export const Books = () => {
   return (
-    <div className="books">
+    <div id="books">
       <p>
         books
       </p>
