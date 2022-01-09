@@ -1,9 +1,14 @@
+import { MiscHeader } from '../layout/headers/Misc'
+
 export const Misc = () => {
   return (
-    <div id="misc">
-      <p>
-        Misc
-      </p>
-    </div>
+    <>
+      <MiscHeader />
+      <main>
+        <p>
+          misc
+        </p>
+      </main>
+    </>
   );
 }

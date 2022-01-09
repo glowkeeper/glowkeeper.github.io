@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom"
 
-import { HomeHeader } from '../layout/headers/HomeHeader'
+import { HomeHeader } from '../layout/headers/Home'
 
-import { LocalRoutes, UIText } from '../../config'
+import { LocalRoutes, UIText, IDs } from '../../config'
 
 export const Home = () => {
 
@@ -13,7 +13,7 @@ export const Home = () => {
         <Link to={LocalRoutes.academia}>
           <div
             tabIndex="0"
-            id={LocalRoutes.academiaId}
+            id={IDs.academia}
           >
             {UIText.academia}
           </div>
@@ -21,7 +21,7 @@ export const Home = () => {
         <Link to={LocalRoutes.apps}>
           <div
             tabIndex="1"
-            id={LocalRoutes.appsId}
+            id={IDs.apps}
           >
             {UIText.apps}
           </div>
@@ -29,7 +29,7 @@ export const Home = () => {
         <Link to={LocalRoutes.blog}>
           <div
             tabIndex="2"
-            id={LocalRoutes.blogId}
+            id={IDs.blog}
           >
             {UIText.blog}
           </div>
@@ -37,7 +37,7 @@ export const Home = () => {
         <Link to={LocalRoutes.books}>
           <div
             tabIndex="3"
-            id={LocalRoutes.booksId}
+            id={IDs.books}
           >
             {UIText.books}
           </div>
@@ -45,7 +45,7 @@ export const Home = () => {
         <Link to={LocalRoutes.flashFiction}>
           <div
             tabIndex="4"
-            id={LocalRoutes.flashId}
+            id={IDs.flashFiction}
           >
             {UIText.flashFiction}
           </div>
@@ -53,7 +53,7 @@ export const Home = () => {
         <Link to={LocalRoutes.misc}>
           <div
             tabIndex="5"
-            id={LocalRoutes.miscId}
+            id={IDs.misc}
           >
             {UIText.misc}
           </div>
@@ -61,7 +61,7 @@ export const Home = () => {
         <Link to={LocalRoutes.poetry}>
           <div
             tabIndex="6"
-            id={LocalRoutes.poetryId}
+            id={IDs.poetry}
           >
             {UIText.poetry}
           </div>
@@ -69,7 +69,7 @@ export const Home = () => {
         <Link to={LocalRoutes.songs}>
           <div
             tabIndex="7"
-            id={LocalRoutes.songsId}
+            id={IDs.songs}
           >
             {UIText.songs}
           </div>
@@ -77,7 +77,7 @@ export const Home = () => {
         <Link to={LocalRoutes.stories}>
           <div
             tabIndex="8"
-            id={LocalRoutes.storiesId}
+            id={IDs.stories}
           >
             {UIText.stories}
           </div>

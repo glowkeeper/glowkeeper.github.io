@@ -1,9 +1,14 @@
+import { ContactHeader } from '../layout/headers/Contact'
+
 export const Contact = () => {
   return (
-    <div id="contact">
-      <p>
-        Contact
-      </p>
-    </div>
+    <>
+      <ContactHeader />
+      <main>
+        <p>
+          contact
+        </p>
+      </main>
+    </>
   );
 }

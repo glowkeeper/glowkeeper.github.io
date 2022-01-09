@@ -1,9 +1,14 @@
+import { AcademiaHeader } from '../layout/headers/Academia'
+
 export const Academia = () => {
   return (
-    <div id="academia">
-      <p>
-        academia
-      </p>
-    </div>
+    <>
+      <AcademiaHeader />
+      <main>
+        <p>
+          academia
+        </p>
+      </main>
+    </>
   );
 }

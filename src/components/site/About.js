@@ -1,9 +1,14 @@
+import { AboutHeader } from '../layout/headers/About'
+
 export const About = () => {
   return (
-    <div id="about">
-      <p>
-        About
-      </p>
-    </div>
+    <>
+      <AboutHeader />
+      <main>
+        <p>
+          About
+        </p>
+      </main>
+    </>
   );
 }

@@ -1,9 +1,14 @@
+import { AppsHeader } from '../layout/headers/Apps'
+
 export const Apps = () => {
   return (
-    <div id="apps">
-      <p>
-        apps
-      </p>
-    </div>
+    <>
+      <AppsHeader />
+      <main>
+        <p>
+          apps
+        </p>
+      </main>
+    </>
   );
 }

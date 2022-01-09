@@ -1,9 +1,14 @@
+import { StoriesHeader } from '../layout/headers/Stories'
+
 export const Stories = () => {
   return (
-    <div id="stories">
-      <p>
-        Stories
-      </p>
-    </div>
+    <>
+      <StoriesHeader />
+      <main>
+        <p>
+          Stories
+        </p>
+      </main>
+    </>
   );
 }

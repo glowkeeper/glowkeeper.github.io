@@ -1,9 +1,14 @@
+import { BooksHeader } from '../layout/headers/Books'
+
 export const Books = () => {
   return (
-    <div id="books">
-      <p>
-        books
-      </p>
-    </div>
+    <>
+      <BooksHeader />
+      <main>
+        <p>
+          books
+        </p>
+      </main>
+    </>
   );
 }

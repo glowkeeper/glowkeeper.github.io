@@ -1,9 +1,14 @@
+import { CVHeader } from '../layout/headers/CV'
+
 export const CV = () => {
   return (
-    <div id="cv">
-      <p>
-        cv
-      </p>
-    </div>
+    <>
+      <CVHeader />
+      <main>
+        <p>
+          CV
+        </p>
+      </main>
+    </>
   );
 }

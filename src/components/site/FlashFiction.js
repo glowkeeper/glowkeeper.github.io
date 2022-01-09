@@ -1,9 +1,14 @@
+import { FlashFictionHeader } from '../layout/headers/FlashFiction'
+
 export const FlashFiction = () => {
   return (
-    <div id="flash-fiction">
-      <p>
-        flash fiction
-      </p>
-    </div>
+    <>
+      <FlashFictionHeader />
+      <main>
+        <p>
+          flash fiction
+        </p>
+      </main>
+    </>
   );
 }

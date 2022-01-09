@@ -1,9 +1,14 @@
+import { SettingsHeader } from '../layout/headers/Settings'
+
 export const Settings = () => {
   return (
-    <div id="settings">
-      <p>
-        Settings
-      </p>
-    </div>
+    <>
+      <SettingsHeader />
+      <main>
+        <p>
+          Settings
+        </p>
+      </main>
+    </>
   );
 }

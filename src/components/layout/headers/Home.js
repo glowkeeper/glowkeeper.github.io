@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-import { LocalRoutes, UIText } from '../../../config'
+import { LocalRoutes, UIText, IDs } from '../../../config'
 
 const initAnchors = {
   academia: null,
@@ -18,15 +18,15 @@ export const HomeHeader = () => {
   const [anchors, setAnchors] = useState(initAnchors)
 
   useEffect(() => {
-    const academia = document.getElementById(LocalRoutes.academiaId);
-    const apps = document.getElementById(LocalRoutes.appsId)
-    const blog = document.getElementById(LocalRoutes.blogId)
-    const books = document.getElementById(LocalRoutes.booksId)
-    const flashFiction = document.getElementById(LocalRoutes.flashId)
-    const misc = document.getElementById(LocalRoutes.miscId)
-    const poetry = document.getElementById(LocalRoutes.poetryId)
-    const songs = document.getElementById(LocalRoutes.songsId)
-    const stories = document.getElementById(LocalRoutes.storiesId);
+    const academia = document.getElementById(IDs.academia);
+    const apps = document.getElementById(IDs.apps)
+    const blog = document.getElementById(IDs.blog)
+    const books = document.getElementById(IDs.books)
+    const flashFiction = document.getElementById(IDs.flashFiction)
+    const misc = document.getElementById(IDs.misc)
+    const poetry = document.getElementById(IDs.poetry)
+    const songs = document.getElementById(IDs.songs)
+    const stories = document.getElementById(IDs.stories);
 
     setAnchors({
       academia: academia,

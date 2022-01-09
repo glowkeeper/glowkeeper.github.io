@@ -1,14 +1,14 @@
 @import "variables.css";
 
-#home-academia,
-#home-apps,
-#home-blog,
-#home-books,
-#home-flash-fiction,
-#home-misc,
-#home-poetry,
-#home-songs,
-#home-stories {
+#academia,
+#apps,
+#blog,
+#books,
+#flash-fiction,
+#misc,
+#poetry,
+#songs,
+#stories {
   display: grid;
   place-items: center center;
   height: 100%;
@@ -18,24 +18,24 @@
 
 }
 
-#home-academia:focus,
-#home-academia:hover,
-#home-apps:focus,
-#home-apps:hover,
-#home-blog:focus,
-#home-blog:hover,
-#home-books:focus,
-#home-books:hover,
-#home-flash-fiction:focus,
-#home-flash-fiction:hover,
-#home-misc:focus,
-#home-misc:hover,
-#home-poetry:focus,
-#home-poetry:hover,
-#home-songs:focus,
-#home-songs:hover,
-#home-stories:focus,
-#home-stories:hover {
+#academia:focus,
+#academia:hover,
+#apps:focus,
+#apps:hover,
+#blog:focus,
+#blog:hover,
+#books:focus,
+#books:hover,
+#flash-fiction:focus,
+#flash-fiction:hover,
+#misc:focus,
+#misc:hover,
+#poetry:focus,
+#poetry:hover,
+#songs:focus,
+#songs:hover,
+#stories:focus,
+#stories:hover {
   opacity: 1;
   background-color: var(--home-active-colour);
   animation: homeFadeIn linear 2s;

@@ -1,9 +1,14 @@
+import { SongsHeader } from '../layout/headers/Songs'
+
 export const Songs = () => {
   return (
-    <div id="songs">
-      <p>
-        songs
-      </p>
-    </div>
+    <>
+      <SongsHeader />
+      <main>
+        <p>
+          songs
+        </p>
+      </main>
+    </>
   );
 }

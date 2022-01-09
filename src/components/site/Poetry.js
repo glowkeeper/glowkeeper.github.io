@@ -1,9 +1,14 @@
+import { PoetryHeader } from '../layout/headers/Poetry'
+
 export const Poetry = () => {
   return (
-    <div id="poetry">
-      <p>
-        Poetry
-      </p>
-    </div>
+    <>
+      <PoetryHeader />
+      <main>
+        <p>
+          Poetry
+        </p>
+      </main>
+    </>
   );
 }
