@@ -3,15 +3,15 @@ import { LocalRoutes } from '../../config'
 export const Home = () => {
   return (
     <>
-        <div id={LocalRoutes.academiaId}>academia</div>
-        <div id={LocalRoutes.appsId}>apps</div>
-        <div id={LocalRoutes.blogId}>blog</div>
-        <div id={LocalRoutes.booksId}>books</div>
-        <div id={LocalRoutes.flashId}>flash fiction</div>
-        <div id={LocalRoutes.miscId}>misc</div>
-        <div id={LocalRoutes.poetryId}>poetry</div>
-        <div id={LocalRoutes.songsId}>songs</div>
-        <div id={LocalRoutes.storiesId}>stories</div>
+        <div tabIndex="0" id={LocalRoutes.academiaId}>academia</div>
+        <div tabIndex="1" id={LocalRoutes.appsId}>apps</div>
+        <div tabIndex="2" id={LocalRoutes.blogId}>blog</div>
+        <div tabIndex="3" id={LocalRoutes.booksId}>books</div>
+        <div tabIndex="4" id={LocalRoutes.flashId}>flash fiction</div>
+        <div tabIndex="5" id={LocalRoutes.miscId}>misc</div>
+        <div tabIndex="6" id={LocalRoutes.poetryId}>poetry</div>
+        <div tabIndex="7" id={LocalRoutes.songsId}>songs</div>
+        <div tabIndex="8" id={LocalRoutes.storiesId}>stories</div>
     </>
   );
 }

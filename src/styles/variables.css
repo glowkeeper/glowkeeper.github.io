@@ -1,12 +1,12 @@
 :root {
-  --background-colour: rgb(255, 241, 242);
-  --header-colour: rgb(251, 113, 133);
-  --footer-colour: rgb(251, 113, 133);
+  --background-colour: rgba(255, 241, 242, 1);
+  --header-colour: rgba(251, 113, 133, 1);
+  --footer-colour: rgba(251, 113, 133, 1);
 
   --text-colour: #000000;
 
-  --home-odd-colour: rgb(253, 164, 175);
-  --home-even-colour: rgb(255, 228, 230);
+  --home-inactive-colour: rgba(255, 228, 230, 0.5);
+  --home-active-colour: rgba(255, 228, 230, 1);
 
   --header-height: 4rem;
   --footer-height: 4rem;

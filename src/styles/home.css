@@ -1,97 +1,48 @@
 @import "variables.css";
 
-#home {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-}
-
-#home-academia {
-  display: grid;
-  place-items: center center;
-    margin: 0;
-    padding: 0;
-  height: 100%;
-
-  background-color: var(--home-odd-colour);
-}
-
-#home-apps {
-  display: grid;
-  place-items: center center;
-  height: 100%;
-
-  background-color: var(--home-even-colour);
-}
-
-#home-blog {
-  display: grid;
-  place-items: center center;
-  height: 100%;
-
-  background-color: var(--home-odd-colour);
-
-}
-
-#home-books {
-  display: grid;
-  place-items: center center;
-  height: 100%;
-
-  background-color: var(--home-even-colour);
-
-}
-
-#home-flash-fiction {
-  display: grid;
-  place-items: center center;
-  height: 100%;
-
-  background-color: var(--home-odd-colour);
-
-}
-
-#home-misc {
-  display: grid;
-  place-items: center center;
-  height: 100%;
-
-  background-color: var(--home-even-colour);
-
-}
-
-#home-poetry {
-  display: grid;
-  place-items: center center;
-  height: 100%;
-
-  background-color: var(--home-odd-colour);
-
-}
-
-#home-songs {
-  display: grid;
-  place-items: center center;
-  height: 100%;
-
-  background-color: var(--home-even-colour);
-
-}
-
+#home-academia,
+#home-apps,
+#home-blog,
+#home-books,
+#home-flash-fiction,
+#home-misc,
+#home-poetry,
+#home-songs,
 #home-stories {
   display: grid;
   place-items: center center;
   height: 100%;
 
-  background-color: var(--home-odd-colour);
+  opacity: 0.4;
+  background-color: var(--home-inactive-colour);
 
 }
 
-#home-contact {
-  display: grid;
-  place-items: center center;
-  height: 100%;
+#home-academia:focus,
+#home-academia:hover,
+#home-apps:focus,
+#home-apps:hover,
+#home-blog:focus,
+#home-blog:hover,
+#home-books:focus,
+#home-books:hover,
+#home-flash-fiction:focus,
+#home-flash-fiction:hover,
+#home-misc:focus,
+#home-misc:hover,
+#home-poetry:focus,
+#home-poetry:hover,
+#home-songs:focus,
+#home-songs:hover,
+#home-stories:focus,
+#home-stories:hover {
+  opacity: 1;
+  background-color: var(--home-active-colour);
+  animation: homeFadeIn linear 2s;
+}
 
-  background-color: var(--home-even-colour);
-
+@keyframes homeFadeIn {
+  0% {opacity:0;}
+  50% {opacity:0.5;}
+  100% {opacity:1;}
 }
