@@ -22,7 +22,7 @@ body {
 
 header {
   display: grid;
-  place-items: center center;
+  grid-template-columns: repeat(9, auto);
   position: fixed;
   top: 0;
   left: 0;

@@ -10,4 +10,10 @@
 
   --header-height: 4rem;
   --footer-height: 4rem;
+
+  --links-colour: var(--text-colour);
+  --links-colour-visited: purple;
+  --links-colour-hover: blue;
+  --links-colour-active: red;
+
 }

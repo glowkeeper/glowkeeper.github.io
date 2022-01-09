@@ -36,3 +36,20 @@ export class LocalRoutes {
       static cv = `/cv`
       static settings = `/settings`
 }
+
+export class UIText {
+
+  static academia = "Academia"
+  static apps = `Apps`
+  static blog = `Blog`
+  static books = `Books`
+  static flashFiction = `Flash Fiction`
+  static misc = `Miscellany`
+  static poetry = `Poetry`
+  static songs = `Songs`
+  static stories = `Stories`
+
+  static about = `About`
+  static cv = `CV`
+  static settings = `Settings`
+}

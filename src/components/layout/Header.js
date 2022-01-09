@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { LocalRoutes } from '../../config'
+import { LocalRoutes, UIText } from '../../config'
 
 const initAnchors = {
   academia: null,
@@ -43,6 +43,7 @@ export const Header = () => {
   return (
     <header>
       <button
+        className="navbar-button"
         onClick={() => {
           if (anchors.academia) {
             anchors.academia.scrollIntoView({
@@ -55,9 +56,122 @@ export const Header = () => {
           }
         }}
       >
-        Academia
+        {UIText.academia}
       </button>
       <button
+        className="navbar-button"
+        onClick={() => {
+          if (anchors.apps) {
+            anchors.apps.scrollIntoView({
+              block: "nearest",
+              inline: "center",
+              behavior: "smooth",
+              alignToTop: false
+            })
+            anchors.apps.focus({preventScroll: true})
+          }
+        }}
+      >
+        {UIText.apps}
+      </button>
+      <button
+        className="navbar-button"
+        onClick={() => {
+          if (anchors.blog) {
+            anchors.blog.scrollIntoView({
+              block: "nearest",
+              inline: "center",
+              behavior: "smooth",
+              alignToTop: false
+            })
+            anchors.blog.focus({preventScroll: true})
+          }
+        }}
+      >
+        {UIText.blog}
+      </button>
+      <button
+        className="navbar-button"
+        onClick={() => {
+          if (anchors.books) {
+            anchors.books.scrollIntoView({
+              block: "nearest",
+              inline: "center",
+              behavior: "smooth",
+              alignToTop: false
+            })
+            anchors.books.focus({preventScroll: true})
+          }
+        }}
+      >
+        {UIText.books}
+      </button>
+      <button
+        className="navbar-button"
+        onClick={() => {
+          if (anchors.flashFiction) {
+            anchors.flashFiction.scrollIntoView({
+              block: "nearest",
+              inline: "center",
+              behavior: "smooth",
+              alignToTop: false
+            })
+            anchors.flashFiction.focus({preventScroll: true})
+          }
+        }}
+      >
+        {UIText.flashFiction}
+      </button>
+      <button
+        className="navbar-button"
+        onClick={() => {
+          if (anchors.misc) {
+            anchors.misc.scrollIntoView({
+              block: "nearest",
+              inline: "center",
+              behavior: "smooth",
+              alignToTop: false
+            })
+            anchors.misc.focus({preventScroll: true})
+          }
+        }}
+      >
+        {UIText.misc}
+      </button>
+      <button
+        className="navbar-button"
+        onClick={() => {
+          if (anchors.poetry) {
+            anchors.poetry.scrollIntoView({
+              block: "nearest",
+              inline: "center",
+              behavior: "smooth",
+              alignToTop: false
+            })
+            anchors.poetry.focus({preventScroll: true})
+          }
+        }}
+      >
+        {UIText.poetry}
+      </button>
+      <button
+        className="navbar-button"
+        onClick={() => {
+          if (anchors.songs) {
+            anchors.songs.scrollIntoView({
+              block: "nearest",
+              inline: "center",
+              behavior: "smooth",
+              alignToTop: false
+            })
+            anchors.songs.focus({preventScroll: true})
+          }
+        }}
+      >
+        {UIText.songs}
+      </button>
+      <button
+        className="navbar-button"
         onClick={() => {
           if (anchors.stories) {
             anchors.stories.scrollIntoView({

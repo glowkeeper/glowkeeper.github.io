@@ -1,0 +1,22 @@
+@import "variables.css";
+
+.navbar-button {
+  border: none;
+  outline: none;
+  background: none;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-button:visited {
+  color: var(--links-colour-visited);
+}
+
+.navbar-button:hover {
+  color: var(--links-colour-hover);
+}
+
+.navbar-button:active {
+  color: var(--links-colour-active);
+}

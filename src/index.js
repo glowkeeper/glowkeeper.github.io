@@ -5,6 +5,7 @@ import { App } from './components/App';
 import './styles/typeface.css';
 import './styles/layout.css';
 import './styles/site.css';
+import './styles/navbar.css';
 import './styles/home.css';
 import './styles/misc.css';
 
