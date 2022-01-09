@@ -39,6 +39,10 @@ main {
   height: 100vh;
 }
 
+main#about,
+main#cv,
+main#contact,
+main#settings,
 main#academia,
 main#apps,
 main#blog,
