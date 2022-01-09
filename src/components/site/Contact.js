@@ -1,12 +1,14 @@
 import { ContactHeader } from '../layout/headers/Contact'
 
+import { siteSections } from '../../config'
+
 export const Contact = () => {
   return (
     <>
       <ContactHeader />
-      <main>
+      <main id={siteSections.contact.id}>
         <p>
-          contact
+          {siteSections.contact.title}
         </p>
       </main>
     </>

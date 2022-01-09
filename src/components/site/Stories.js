@@ -1,12 +1,14 @@
 import { StoriesHeader } from '../layout/headers/Stories'
 
+import { siteSections } from '../../config'
+
 export const Stories = () => {
   return (
     <>
       <StoriesHeader />
-      <main>
+      <main id={siteSections.stories.id}>
         <p>
-          Stories
+          {siteSections.stories.title}
         </p>
       </main>
     </>

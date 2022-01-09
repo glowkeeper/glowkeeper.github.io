@@ -1,12 +1,14 @@
 import { AppsHeader } from '../layout/headers/Apps'
 
+import { siteSections } from '../../config'
+
 export const Apps = () => {
   return (
     <>
       <AppsHeader />
-      <main>
+      <main id={siteSections.apps.id}>
         <p>
-          apps
+          {siteSections.apps.title}
         </p>
       </main>
     </>

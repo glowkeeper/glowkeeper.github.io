@@ -1,12 +1,14 @@
 import { MiscHeader } from '../layout/headers/Misc'
 
+import { siteSections } from '../../config'
+
 export const Misc = () => {
   return (
     <>
       <MiscHeader />
-      <main>
+      <main id={siteSections.misc.id}>
         <p>
-          misc
+          {siteSections.misc.title}
         </p>
       </main>
     </>

@@ -39,6 +39,20 @@ main {
   height: 100vh;
 }
 
+main#academia,
+main#apps,
+main#blog,
+main#books,
+main#flash-fiction,
+main#misc,
+main#poetry,
+main#songs,
+main#stories {
+  display: grid;
+  place-items: center center;
+  background-color: var(--home-active-colour);
+}
+
 footer {
   display: grid;
   place-items: center center;

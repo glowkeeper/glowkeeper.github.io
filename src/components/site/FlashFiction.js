@@ -1,12 +1,14 @@
 import { FlashFictionHeader } from '../layout/headers/FlashFiction'
 
+import { siteSections } from '../../config'
+
 export const FlashFiction = () => {
   return (
     <>
       <FlashFictionHeader />
-      <main>
+      <main id={siteSections.flashFiction.id}>
         <p>
-          flash fiction
+          {siteSections.flashFiction.title}
         </p>
       </main>
     </>

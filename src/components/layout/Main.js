@@ -24,6 +24,7 @@ export const Main = () => {
             path={LocalRoutes.home}
             element={<Home />}
         />
+        
         <Route
             path={LocalRoutes.about}
             element={<About />}
@@ -36,6 +37,11 @@ export const Main = () => {
             path={LocalRoutes.settings}
             element={<Settings />}
         />
+        <Route
+            path={LocalRoutes.contact}
+            element={<Contact />}
+        />
+
         <Route
             path={LocalRoutes.academia}
             element={<Academia />}
@@ -51,10 +57,6 @@ export const Main = () => {
         <Route
             path={LocalRoutes.books}
             element={<Books />}
-        />
-        <Route
-            path={LocalRoutes.contact}
-            element={<Contact />}
         />
         <Route
             path={LocalRoutes.flashFiction}

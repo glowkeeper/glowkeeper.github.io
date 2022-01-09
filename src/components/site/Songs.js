@@ -1,12 +1,14 @@
 import { SongsHeader } from '../layout/headers/Songs'
 
+import { siteSections } from '../../config'
+
 export const Songs = () => {
   return (
     <>
       <SongsHeader />
-      <main>
+      <main id={siteSections.songs.id}>
         <p>
-          songs
+          {siteSections.songs.title}
         </p>
       </main>
     </>

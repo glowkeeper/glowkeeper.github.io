@@ -1,12 +1,14 @@
 import { BooksHeader } from '../layout/headers/Books'
 
+import { siteSections } from '../../config'
+
 export const Books = () => {
   return (
     <>
       <BooksHeader />
-      <main>
+      <main id={siteSections.books.id}>
         <p>
-          books
+          {siteSections.books.title}
         </p>
       </main>
     </>
