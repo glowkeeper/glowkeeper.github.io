@@ -1,14 +1,18 @@
+import { Link,useNavigate } from "react-router-dom"
+
 import { LocalRoutes, UIText } from '../../config'
 
 export const Home = () => {
   return (
     <>
-      <div
-        tabIndex="0"
-        id={LocalRoutes.academiaId}
-      >
-        {UIText.academia}
-      </div>
+      <Link to={LocalRoutes.academia}>
+        <div
+          tabIndex="0"
+          id={LocalRoutes.academiaId}
+        >
+          {UIText.academia}
+        </div>
+      </Link>
       <div
         tabIndex="1"
         id={LocalRoutes.appsId}

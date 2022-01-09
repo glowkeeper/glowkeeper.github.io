@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from "react";
+import { useNavigate } from "react-router-dom"
+
 import { LocalRoutes, UIText } from '../../config'
 
 const initAnchors = {
@@ -16,7 +18,10 @@ const initAnchors = {
 export const Header = () => {
   const [anchors, setAnchors] = useState(initAnchors)
 
-  useEffect(() => {
+  const navigate = useNavigate()
+
+  const getAnchors = () => {
+
     const academia = document.getElementById(LocalRoutes.academiaId);
     const apps = document.getElementById(LocalRoutes.appsId)
     const blog = document.getElementById(LocalRoutes.blogId)
@@ -38,13 +43,24 @@ export const Header = () => {
       songs: songs,
       stories: stories
     })
+
+  }
+
+  useEffect(() => {
+    getAnchors()
   }, [])
+
+  const goHome = () => {
+    navigate(LocalRoutes.home)
+    getAnchors()
+  }
 
   return (
     <header>
       <button
         className="navbar-button"
         onClick={() => {
+          goHome()
           if (anchors.academia) {
             anchors.academia.scrollIntoView({
               block: "nearest",
@@ -61,7 +77,9 @@ export const Header = () => {
       <button
         className="navbar-button"
         onClick={() => {
+          goHome()
           if (anchors.apps) {
+            navigate(LocalRoutes.home)
             anchors.apps.scrollIntoView({
               block: "nearest",
               inline: "center",
@@ -77,6 +95,7 @@ export const Header = () => {
       <button
         className="navbar-button"
         onClick={() => {
+          goHome()
           if (anchors.blog) {
             anchors.blog.scrollIntoView({
               block: "nearest",
@@ -93,6 +112,7 @@ export const Header = () => {
       <button
         className="navbar-button"
         onClick={() => {
+          goHome()
           if (anchors.books) {
             anchors.books.scrollIntoView({
               block: "nearest",
@@ -109,6 +129,7 @@ export const Header = () => {
       <button
         className="navbar-button"
         onClick={() => {
+          goHome()
           if (anchors.flashFiction) {
             anchors.flashFiction.scrollIntoView({
               block: "nearest",
@@ -125,6 +146,7 @@ export const Header = () => {
       <button
         className="navbar-button"
         onClick={() => {
+          goHome()
           if (anchors.misc) {
             anchors.misc.scrollIntoView({
               block: "nearest",
@@ -141,6 +163,7 @@ export const Header = () => {
       <button
         className="navbar-button"
         onClick={() => {
+          goHome()
           if (anchors.poetry) {
             anchors.poetry.scrollIntoView({
               block: "nearest",
@@ -157,6 +180,7 @@ export const Header = () => {
       <button
         className="navbar-button"
         onClick={() => {
+          goHome()
           if (anchors.songs) {
             anchors.songs.scrollIntoView({
               block: "nearest",
@@ -173,6 +197,7 @@ export const Header = () => {
       <button
         className="navbar-button"
         onClick={() => {
+          goHome()
           if (anchors.stories) {
             anchors.stories.scrollIntoView({
               block: "nearest",
@@ -184,7 +209,7 @@ export const Header = () => {
           }
         }}
       >
-        Stories
+        {UIText.stories}
       </button>
     </header>
   );

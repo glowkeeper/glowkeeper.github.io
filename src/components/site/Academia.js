@@ -1,10 +1,10 @@
 export const Academia = () => {
+  console.log('')
   return (
     <div id="academia">
-        <p>
-          academia
-        </p>
-      </header>
+      <p>
+        academia
+      </p>
     </div>
   );
 }
