@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { useNavigate } from "react-router-dom"
 
-import { LocalRoutes, UIText } from '../../config'
+import { LocalRoutes, UIText } from '../../../config'
 
 const initAnchors = {
   academia: null,
@@ -15,7 +14,7 @@ const initAnchors = {
   stories: null
 }
 
-export const Header = () => {
+export const HomeHeader = () => {
   const [anchors, setAnchors] = useState(initAnchors)
 
   useEffect(() => {

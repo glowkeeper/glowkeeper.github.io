@@ -19,65 +19,63 @@ import { LocalRoutes } from '../../config'
 
 export const Main = () => {
   return (
-    <main>
-      <Routes>
-          <Route
-              path={LocalRoutes.home}
-              element={<Home />}
-          />
-          <Route
-              path={LocalRoutes.about}
-              element={<About />}
-          />
-          <Route
-              path={LocalRoutes.cv}
-              element={<CV />}
-          />
-          <Route
-              path={LocalRoutes.settings}
-              element={<Settings />}
-          />
-          <Route
-              path={LocalRoutes.academia}
-              element={<Academia />}
-          />
-          <Route
-              path={LocalRoutes.apps}
-              element={<Apps />}
-          />
-          <Route
-              path={LocalRoutes.blog}
-              element={<Blog />}
-          />
-          <Route
-              path={LocalRoutes.books}
-              element={<Books />}
-          />
-          <Route
-              path={LocalRoutes.contact}
-              element={<Contact />}
-          />
-          <Route
-              path={LocalRoutes.flashFiction}
-              element={<FlashFiction />}
-          />
-          <Route
-              path={LocalRoutes.misc}
-              element={<Misc />}
-          />
-          <Route
-              path={LocalRoutes.poetry}
-              element={<Poetry />}
-          />
-          <Route
-              path={LocalRoutes.songs}
-              element={<Songs />}
-          />
-          <Route
-              path={LocalRoutes.stories}
-              element={<Stories />}
-          />
-      </Routes>
-    </main>
+    <Routes>
+        <Route
+            path={LocalRoutes.home}
+            element={<Home />}
+        />
+        <Route
+            path={LocalRoutes.about}
+            element={<About />}
+        />
+        <Route
+            path={LocalRoutes.cv}
+            element={<CV />}
+        />
+        <Route
+            path={LocalRoutes.settings}
+            element={<Settings />}
+        />
+        <Route
+            path={LocalRoutes.academia}
+            element={<Academia />}
+        />
+        <Route
+            path={LocalRoutes.apps}
+            element={<Apps />}
+        />
+        <Route
+            path={LocalRoutes.blog}
+            element={<Blog />}
+        />
+        <Route
+            path={LocalRoutes.books}
+            element={<Books />}
+        />
+        <Route
+            path={LocalRoutes.contact}
+            element={<Contact />}
+        />
+        <Route
+            path={LocalRoutes.flashFiction}
+            element={<FlashFiction />}
+        />
+        <Route
+            path={LocalRoutes.misc}
+            element={<Misc />}
+        />
+        <Route
+            path={LocalRoutes.poetry}
+            element={<Poetry />}
+        />
+        <Route
+            path={LocalRoutes.songs}
+            element={<Songs />}
+        />
+        <Route
+            path={LocalRoutes.stories}
+            element={<Stories />}
+        />
+    </Routes>
   );
 }
