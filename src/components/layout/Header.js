@@ -60,7 +60,6 @@ export const Header = () => {
       <button
         className="navbar-button"
         onClick={() => {
-          goHome()
           if (anchors.academia) {
             anchors.academia.scrollIntoView({
               block: "nearest",
@@ -69,6 +68,8 @@ export const Header = () => {
               alignToTop: false
             })
             anchors.academia.focus({preventScroll: true})
+          } else {
+            navigate(LocalRoutes.homeAcademia)
           }
         }}
       >
@@ -79,7 +80,6 @@ export const Header = () => {
         onClick={() => {
           goHome()
           if (anchors.apps) {
-            navigate(LocalRoutes.home)
             anchors.apps.scrollIntoView({
               block: "nearest",
               inline: "center",
@@ -87,6 +87,8 @@ export const Header = () => {
               alignToTop: false
             })
             anchors.apps.focus({preventScroll: true})
+          } else {
+            navigate(LocalRoutes.homeAcademia)
           }
         }}
       >
