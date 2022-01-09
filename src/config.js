@@ -12,22 +12,6 @@ import { Poetry } from './components/site/Poetry';
 import { Settings } from './components/site/Settings';
 import { Songs } from './components/site/Songs';
 import { Stories } from './components/site/Stories';
-export class UIText {
-
-  static academia = "academia"
-  static apps = "apps"
-  static blog = "blog"
-  static books = "books"
-  static flashFiction = "flash fiction"
-  static misc = "miscellany"
-  static poetry = "poetry"
-  static songs = "songs"
-  static stories = "stories"
-
-  static about = "about"
-  static cv = "cv"
-  static settings = "settings"
-}
 class LocalRoutes {
 
       static home = "/"
@@ -47,90 +31,107 @@ class LocalRoutes {
       static settings = `/settings`
 }
 
+export class UIText {
+
+  static academia = "academia"
+  static apps = "apps"
+  static blog = "blog"
+  static books = "books"
+  static flashFiction = "flash fiction"
+  static misc = "miscellany"
+  static poetry = "poetry"
+  static songs = "songs"
+  static stories = "stories"
+
+  static about = "about"
+  static cv = "cv"
+  static settings = "settings"
+}
+
 export const siteSections = {
   home: {
     id: "home",
     title: UIText.home,
     route: LocalRoutes.home,
-    component: () =>  <Home />
+    component: () => <Home />
   },
   about: {
     id: "about",
     title: UIText.about,
     route: LocalRoutes.about,
-    component: () =>  <About />
+    component: () => <About />
   },
   cv: {
     id: "cv",
     title: UIText.cv,
     route: LocalRoutes.cv,
-    component: () =>  <CV />
+    component: () => <CV />
   },
   contact: {
     id: "contact",
     title: UIText.contact,
     route: LocalRoutes.contact,
-    component: () =>  <Contact />
+    component: () => <Contact />
   },
   settings: {
     id: "settings",
     title: UIText.settings,
     route: LocalRoutes.settings,
-    component: () =>  <Settings />
+    component: () => <Settings />
   },
   academia: {
     id: "academia",
     title: UIText.academia,
     route: LocalRoutes.academia,
-    component: () =>  <Academia />
+    component: () => <Academia />
   },
   apps: {
     id: "apps",
     title: UIText.apps,
     route: LocalRoutes.apps,
-    component: () =>  <Apps />
+    component: () => <Apps />
   },
   blog: {
     id: "blog",
     title: UIText.blog,
     route: LocalRoutes.blog,
-    component: () =>  <Blog />
+    component: () => <Blog />
   },
   books: {
     id: "books",
     title: UIText.books,
     route: LocalRoutes.books,
-    component: () =>  <Books />
+    component: () => <Books />
   },
   flashFiction: {
     id: "flash-fiction",
     title: UIText.flashFiction,
     route: LocalRoutes.flashFiction,
-    component: () =>  <FlashFiction />
+    component: () => <FlashFiction />
   },
   misc: {
     id: "misc",
     title: UIText.misc,
     route: LocalRoutes.misc,
-    component: () =>  <Misc />
+    component: () => <Misc />
   },
   poetry: {
     id: "poetry",
     title: UIText.poetry,
     route: LocalRoutes.poetry,
-    component: () =>  <Poetry />
+    component: () => <Poetry />
   },
   songs:  {
     id: "songs",
     title: UIText.songs,
     route: LocalRoutes.songs,
-    component: () =>  <Songs />
+    component: () => <Songs />
   },
   stories: {
     id: "stories",
     title: UIText.stories,
     route: LocalRoutes.stories,
-    component: () =>  <Stories />
+    component: () => <Stories />
   }
 }
 
