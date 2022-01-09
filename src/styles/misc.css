@@ -28,13 +28,3 @@ code {
 .app-link {
   color: #61dafb;
 }
-
-.navbar-button,
-.navbar-button-active {
-  border: none;
-  outline: none;
-  background: none;
-  text-decoration: none;
-  margin: 0;
-  padding: 0;
-}
