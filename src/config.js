@@ -1,17 +1,3 @@
-import { Home } from './components/site/Home';
-import { About } from './components/site/About';
-import { Academia } from './components/site/Academia';
-import { Apps } from './components/site/Apps';
-import { Blog } from './components/site/Blog';
-import { Books } from './components/site/Books';
-import { Contact } from './components/site/Contact';
-import { CV } from './components/site/CV';
-import { FlashFiction } from './components/site/FlashFiction';
-import { Misc } from './components/site/Misc';
-import { Poetry } from './components/site/Poetry';
-import { Settings } from './components/site/Settings';
-import { Songs } from './components/site/Songs';
-import { Stories } from './components/site/Stories';
 class LocalRoutes {
 
       static home = "/"
@@ -29,9 +15,21 @@ class LocalRoutes {
       static about = `/about`
       static cv = `/cv`
       static settings = `/settings`
+
+      // flash fiction
+      static 
+}
+
+class LocalRoutesFlashFiction {
+
+  static eric = `${LocalRoutes.flashFiction}/eric`
+  static fortunes = `${LocalRoutes.flashFiction}/fortunes-always-hiding` 
+  static wisdom = `${LocalRoutes.flashFiction}/wisdom` 
 }
 
 export class UIText {
+
+  static home = "home"
 
   static academia = "academia"
   static apps = "apps"
@@ -46,93 +44,16 @@ export class UIText {
   static about = "about"
   static cv = "cv"
   static settings = "settings"
+
+  // flash fiction
+  static flash
 }
 
-export const siteSections = {
-  home: {
-    id: "home",
-    title: UIText.home,
-    route: LocalRoutes.home,
-    component: () => <Home />
-  },
-  about: {
-    id: "about",
-    title: UIText.about,
-    route: LocalRoutes.about,
-    component: () => <About />
-  },
-  cv: {
-    id: "cv",
-    title: UIText.cv,
-    route: LocalRoutes.cv,
-    component: () => <CV />
-  },
-  contact: {
-    id: "contact",
-    title: UIText.contact,
-    route: LocalRoutes.contact,
-    component: () => <Contact />
-  },
-  settings: {
-    id: "settings",
-    title: UIText.settings,
-    route: LocalRoutes.settings,
-    component: () => <Settings />
-  },
-  academia: {
-    id: "academia",
-    title: UIText.academia,
-    route: LocalRoutes.academia,
-    component: () => <Academia />
-  },
-  apps: {
-    id: "apps",
-    title: UIText.apps,
-    route: LocalRoutes.apps,
-    component: () => <Apps />
-  },
-  blog: {
-    id: "blog",
-    title: UIText.blog,
-    route: LocalRoutes.blog,
-    component: () => <Blog />
-  },
-  books: {
-    id: "books",
-    title: UIText.books,
-    route: LocalRoutes.books,
-    component: () => <Books />
-  },
-  flashFiction: {
-    id: "flash-fiction",
-    title: UIText.flashFiction,
-    route: LocalRoutes.flashFiction,
-    component: () => <FlashFiction />
-  },
-  misc: {
-    id: "misc",
-    title: UIText.misc,
-    route: LocalRoutes.misc,
-    component: () => <Misc />
-  },
-  poetry: {
-    id: "poetry",
-    title: UIText.poetry,
-    route: LocalRoutes.poetry,
-    component: () => <Poetry />
-  },
-  songs:  {
-    id: "songs",
-    title: UIText.songs,
-    route: LocalRoutes.songs,
-    component: () => <Songs />
-  },
-  stories: {
-    id: "stories",
-    title: UIText.stories,
-    route: LocalRoutes.stories,
-    component: () => <Stories />
-  }
+export class UITextFlashFiction {
+
+  static eric = "eric"
+  static fortunes = "fortunes always hiding"
+  static wisdom = "wisdom"
 }
 
 export const homeSections = {
@@ -180,6 +101,133 @@ export const homeSections = {
     id: "home-stories",
     title: UIText.stories,
     route: LocalRoutes.stories
+  }
+}
+
+export const aboutSections = {
+}
+
+export const cvSections = {
+}
+
+export const settingsSections = {
+}
+
+export const contactSections = {
+}
+
+export const academiaSections = {}
+export const appsSections = {}
+export const blogSections = {}
+export const booksSections = {}
+
+export const flashFictionSections = {
+  eric: {
+    id: "flash-eric",
+    title: UITextFlashFiction.eric,
+    route: LocalRoutesFlashFiction.eric
+  },
+  fortunes: {
+    id: "flash-fortunes",
+    title: UITextFlashFiction.fortunes,
+    route: LocalRoutesFlashFiction.fortunes
+  },
+  wisdom: {
+    id: "flash-wisdom",
+    title: UITextFlashFiction.wisdom,
+    route: LocalRoutesFlashFiction.wisdom
+  }
+}
+
+export const miscSections = {}
+export const poetrySections = {}
+export const songsSections = {}
+export const storiesSections = {}
+
+export const siteSections = {
+  home: {
+    id: "home",
+    title: UIText.home,
+    route: LocalRoutes.home,
+    sections: homeSections
+  },
+  about: {
+    id: "about",
+    title: UIText.about,
+    route: LocalRoutes.about,
+    sections: aboutSections
+  },
+  cv: {
+    id: "cv",
+    title: UIText.cv,
+    route: LocalRoutes.cv,
+    sections: cvSections
+  },
+  contact: {
+    id: "contact",
+    title: UIText.contact,
+    route: LocalRoutes.contact,
+    sections: contactSections
+  },
+  settings: {
+    id: "settings",
+    title: UIText.settings,
+    route: LocalRoutes.settings,
+    sections: settingsSections
+  },
+  academia: {
+    id: "academia",
+    title: UIText.academia,
+    route: LocalRoutes.academia,
+    sections: academiaSections
+  },
+  apps: {
+    id: "apps",
+    title: UIText.apps,
+    route: LocalRoutes.apps,
+    sections: appsSections
+  },
+  blog: {
+    id: "blog",
+    title: UIText.blog,
+    route: LocalRoutes.blog,
+    sections: appsSections
+  },
+  books: {
+    id: "books",
+    title: UIText.books,
+    route: LocalRoutes.books,
+    sections: booksSections
+  },
+  flashFiction: {
+    id: "flash-fiction",
+    title: UIText.flashFiction,
+    route: LocalRoutes.flashFiction,
+    sections: flashFictionSections
+  },
+  misc: {
+    id: "misc",
+    title: UIText.misc,
+    route: LocalRoutes.misc,
+    sections: miscSections
+  },
+  poetry: {
+    id: "poetry",
+    title: UIText.poetry,
+    route: LocalRoutes.poetry,
+    sections: poetrySections
+  },
+  songs:  {
+    id: "songs",
+    title: UIText.songs,
+    route: LocalRoutes.songs,
+    sections: songsSections
+  },
+  stories: {
+    id: "stories",
+    title: UIText.stories,
+    route: LocalRoutes.stories,
+    sections: storiesSections
   }
 }
 

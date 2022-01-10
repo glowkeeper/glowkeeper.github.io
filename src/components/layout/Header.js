@@ -1,25 +1,28 @@
 import React, { useEffect, useState } from "react";
 
-import { homeSections } from '../../../config'
-
-export const HomeHeader = () => {
+export const Header = (props) => {
   const [anchors, setAnchors] = useState([])
+  const { sections } = props
 
   useEffect(() => {
-    const anchors = Object.keys(homeSections).map(section => {
-      const thisSection = homeSections[`${section}`]
-      return (
-        document.getElementById(thisSection.id)
-      )
-    })
+    if (sections) {
 
-    setAnchors(anchors)
-  }, [])
+      const anchors = Object.keys(sections).map(section => {
+        const thisSection = sections[`${section}`]
+        return (
+          document.getElementById(thisSection.id)
+        )
+      })
+
+      setAnchors(anchors)
+    }
+
+  }, [sections])
 
   return (
     <header>
-      {Object.keys(homeSections).map((section, index) => {
-        const thisSection = homeSections[`${section}`]
+      {sections && Object.keys(sections).map((section, index) => {
+        const thisSection = sections[`${section}`]
         return (
           <button
             key={index}

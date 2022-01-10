@@ -1,0 +1,30 @@
+@import "variables.css";
+
+#flash-eric,
+#flash-fortunes,
+#flash-wisdom {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  opacity: 0.4;
+  background-color: var(--home-inactive-colour);
+
+}
+
+#flash-eric:focus,
+#flash-eric:hover,
+#flash-fortunes:focus,
+#flash-fortunes:hover,
+#flash-wisdom:focus,
+#flash-wisdom:hover {
+  opacity: 1;
+  background-color: var(--home-active-colour);
+  animation: flashFadeIn linear 2s;
+}
+
+@keyframes flashFadeIn {
+  0% {opacity:0;}
+  50% {opacity:0.5;}
+  100% {opacity:1;}
+}

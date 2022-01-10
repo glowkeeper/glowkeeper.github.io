@@ -1,8 +1,6 @@
 ---
-title: Short Stories
+title: About
 ---
-
-[Change](/posts/stories/Change) **&#124;** [Frederick](/posts/stories/Frederick) **&#124;** [Freedom](/posts/stories/Freedom) **&#124;** [Gratitude](/posts/stories/Gratitude) **&#124;** [The Druid](/posts/stories/TheDruid) **&#124;** [The Earth and the Moon](/posts/stories/TheEarthandtheMoon) **&#124;**  [The Hope of Gods](/posts/stories/TheHopeofGods) **&#124;** [The Knucker of Lyminster](/posts/stories/TheKnucker) **&#124;** [The Law of the Minusculus](/posts/stories/Minusculus) **&#124;** [The Millwright](/posts/stories/TheMillwright)
 
 Copyright © Steve Huckle, 2020.
 
