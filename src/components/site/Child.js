@@ -1,18 +1,30 @@
+import React, { useEffect, useState } from "react";
+
 import { Header } from '../layout/Header'
 
-export const Child = (props) => {
-    const { title, id } = props
+import ReactMarkdown from 'react-markdown'
 
-    console.log('child', title, id)
+export const Child = (props) => {
+    const [markdown, setMarkdown] = useState("");
+
+    const { path, id } = props
+
+    useEffect(() => {
+    fetch(path)
+        .then((res) => res.text())
+        .then((text) => setMarkdown(text));
+    }, [path]);
 
     return (
         <>
         <Header />
         <main>
             <div
-                id={id}
+                id={`${id}-md`}
             >
-                {title}
+                <ReactMarkdown 
+                    children={markdown}
+                />
             </div>
         </main>
         </>

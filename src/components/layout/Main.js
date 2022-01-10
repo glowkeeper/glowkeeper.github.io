@@ -20,10 +20,11 @@ export const Main = () => {
                 {section !== "home" && Object.keys(thisSection.sections).map((mySection, thisIndex) => {
                   const myRoute = thisSection.sections[`${mySection}`].route
                   const myId = thisSection.sections[`${mySection}`].id
+                  const myPath = thisSection.sections[`${mySection}`].path
                   return (
                       <Route
                           path={myRoute}
-                          element={<Child title={mySection} id={myId} /> }
+                          element={<Child id={myId} path={myPath} /> }
                       />
                   )
                 })}

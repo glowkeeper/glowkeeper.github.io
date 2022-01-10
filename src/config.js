@@ -126,19 +126,19 @@ export const flashFictionSections = {
     id: "flash-eric",
     title: UITextFlashFiction.eric,
     route: LocalRoutesFlashFiction.eric,
-    path: "assets/posts/flashFiction/eric.md"
+    path: "/assets/posts/flashFiction/eric.md"
   },
   fortunes: {
     id: "flash-fortunes",
     title: UITextFlashFiction.fortunes,
     route: LocalRoutesFlashFiction.fortunes,
-    path: "assets/posts/flashFiction/fortunesAlwaysHiding.md"
+    path: "/assets/posts/flashFiction/fortunesAlwaysHiding.md"
   },
   wisdom: {
     id: "flash-wisdom",
     title: UITextFlashFiction.wisdom,
     route: LocalRoutesFlashFiction.wisdom,
-    path: "assets/posts/flashFiction/wisdom.md"
+    path: "/assets/posts/flashFiction/wisdom.md"
   }
 }
 

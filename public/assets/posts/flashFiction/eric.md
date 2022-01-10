@@ -1,9 +1,7 @@
----
-title: Eric
-description: It's said that I might be Eric. But I don't live in a tree
-categories:
-  - Post
----
+# Eric
+
+It's said that I might be Eric. But I don't live in a tree.
+
 **1 December, 2015**
 
 Eric once lived in an old Elm tree that stood over the Green Man Roundabout, on the outskirts of East London. That was during the days of the M11 link road protests, when intrepid dissidents, such as Eric, tried to stop East End communities, which had withstood the Blitz, from being ripped apart by the Tory Government and their road building friends. The Elm that Eric lived in had stood on that spot for 230 years. In its lifetime, it had seen the invention of the lightbulb, railway, and the internal combustion engine. All of that was much to its regret.
@@ -15,5 +13,3 @@ Eric finally left his arboreal home when the bulldozers sealed the tree's fate a
 Eric moved into the hollowed out trunk of a tree in Brighton's Royal Pavilion Gardens. A tree planted in the year that the US gained independence from the plague of the British Empire and which is thought to be one of the oldest English Elms left standing in this world. Once upon a time, we all used to live in and around the trees and share our homes with the birds, the bees, and all the other animals. But we have long since forgotten that. The local council had forgotten too, so they tried to evict Eric from his tree. That was until the onslaught of media interest and left-leaning lobby groups persuaded them otherwise, so they eventually left Eric alone. ﻿
 
 To this day, you will find Eric living in that tree. Should you pass by, be sure to buy him a cup of tea and thank him for preserving humanity's link to the natural world.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Eric</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/stories/Eric/" rel="dct:source">https://glowkeeper.github.io/assets/stories/Eric/</a>.
