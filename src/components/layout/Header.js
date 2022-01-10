@@ -4,15 +4,20 @@ export const Header = (props) => {
   const [anchors, setAnchors] = useState([])
   const { sections } = props
 
+  //console.log(sections)
+
   useEffect(() => {
     if (sections) {
 
       const anchors = Object.keys(sections).map(section => {
         const thisSection = sections[`${section}`]
+        // console.log('this section', thisSection, thisSection.id)
         return (
           document.getElementById(thisSection.id)
         )
       })
+
+      //console.log('anchors', anchors)
 
       setAnchors(anchors)
     }
@@ -28,6 +33,7 @@ export const Header = (props) => {
             key={index}
             className="navbar-button"
             onClick={() => {
+              console.log('button', anchors[index])
               if (anchors[index]) {
                 anchors[index].scrollIntoView({
                   block: "nearest",

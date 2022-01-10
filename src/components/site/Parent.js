@@ -6,7 +6,6 @@ import { Link } from "react-router-dom"
 import { Header } from '../layout/Header'
 
 export const Parent = (props) => {
-    const [sectionKeys, setSectionKeys] = useState([]) 
     const { sections } = props
 
     const navigate = useNavigate()
@@ -20,8 +19,6 @@ export const Parent = (props) => {
                 const myRoute = sections[`${mySections[0]}`].route
                 console.log('got here', myRoute)
                 navigate(myRoute)
-            } else {
-                setSectionKeys(mySections)
             }
 
         }
@@ -32,7 +29,7 @@ export const Parent = (props) => {
         <>
         <Header sections={sections}/>
         <main>
-            {sectionKeys.map((section, index) => {
+            {Object.keys(sections).map((section, index) => {
             const thisSection = sections[`${section}`]
             return (  
                 <Link key={index} to={thisSection.route}>

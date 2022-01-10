@@ -124,7 +124,14 @@ export const contactSections = {
   },
 }
 
-export const academiaSections = {}
+export const academiaSections = {
+  academia: {
+    id: "academia",
+    title: UIText.contact,
+    route: LocalRoutes.academia + "/academia",
+    src: "/assets/posts/academia/academia.md"
+  },
+}
 export const appsSections = {}
 export const blogSections = {}
 export const booksSections = {}
