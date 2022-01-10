@@ -116,6 +116,12 @@ export const aboutSections = {
 }
 
 export const cvSections = {
+  cv: {
+    id: "cv",
+    title: UIText.cv,
+    route: LocalRoutes.contact + "/cv",
+    src: "/assets/posts/cv/cv.md"
+  },
 }
 
 export const settingsSections = {

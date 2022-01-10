@@ -1,0 +1,27 @@
+@import "variables.css";
+
+#cv-md {
+  position: fixed;
+  top: var(--header-height);
+  height: 100%;
+
+  padding: 0 1rem 0 1rem;
+
+  overflow: auto;
+  white-space: pre-wrap;
+}
+
+#cv-md > h1 {
+  margin: 1rem 0 0 0;
+}
+
+#cv-md > h2 {
+  margin: 0;
+}
+
+#cv-md > ul {
+  margin: 0;
+  white-space: normal;
+}
+
+

@@ -1,13 +1,8 @@
----
-title: Dr Steve Huckle
-description: CV
-categories:
-  - Post
----
+# Dr Steve Huckle
 
 I am an accomplished writer and developer, educated to doctoral level. I adore passing on my experience by teaching, and I love creating commons-based distributed technology that has a positive social impact.
 
-# Professional Profile
+## Professional Profile
 
 In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my journey into the blockchain space. I have since completed a [PhD](https://glowkeeper.github.io/PhDWorks/) that focused on blockchains, where my [thesis](https://glowkeeper.github.io/PhDWorks/assets/docs/sHuckleThesis.pdf) asked whether the technology could help overcome some of the most urgent problems facing humanity. In short, my conclusion was that they might help, but it is impossible to solve all of humanity's issues through technology; we need to change political, economic, and cultural goals, too.
 
@@ -17,7 +12,7 @@ By 2010 I was becoming increasingly concerned about the looming climate crisis; 
 
 Since completing my PhD, I have found a love of teaching - I am currently lecturing and teaching full-stack development. Both roles are part-time, which has given me time to explore my creative urges by building some fun tools - the result is that I am becoming an even better programmer!
 
-# Experience
+## Experience
 
 - I have nearly thirty years of experience in the computing industry, beginning in 1992 with a COBOL programming course.
 - I have been writing React since 2016.
@@ -26,7 +21,7 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 - Four years of programming within the games industry, where I worked on four completed titles.
 - Early in my professional career, I was a UNIX Systems Administrator.
 
-# Academic Publications
+## Academic Publications
 
 - [Cryptocurrencies and Beyond: Using Design Science Research to Demonstrate Diverse Applications of Blockchains](http://sro.sussex.ac.uk/id/eprint/90377/).
 - [Fake News - a Technological Approach to Proving Provenance Using Blockchains](https://doi.org/10.1089/big.2017.0071).
@@ -34,7 +29,7 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 - [Socialism and the Blockchain](http://www.mdpi.com/1999-5903/8/4/49).
 - [Internet of Things, Blockchain and Shared Economy Applications](http://dx.doi.org/10.1016/j.procs.2016.09.074).
 
-# Public Speaking
+## Public Speaking
 
 - [Enervator](https://github.com/glowkeeper/Enervator/blob/master/presentations/nerdNite/presentation/nerdNite.md), a talk on my cryptocurrency for incentivising energy efficiency, given for the February 2020 [Brighton Nerd Nite](https://brighton.nerdnite.com/).
 - [Enervator - Incentivising Energy Efficiency](https://github.com/glowkeeper/innovationForum/blob/master/presentation/Enervator.md), a presentation for the Innovation Forum, Energy Services Business Models, held by the UK Centre for Research into Energy Demand Solutions.
@@ -43,7 +38,7 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 - [Introduction to Blockchain Application Development](https://github.com/glowkeeper/dApp-Development), a three-hour introduction to building blockchain applications, given for Wired Sussex.
 - [Internet of Things and Blockchain Technology](https://github.com/glowkeeper/DaMIS-Presentation), a twenty-minute overview of blockchains and the Internet of Things at the 2016 Smart Summit London.
 
-# Career History
+## Career History
 
 - September 2021 - now: Full Stack Development Teacher - Boolean UK Ltd.
 - October 2020 - now: Lecturer and Module Convenor of _Programming for 3D_ - University of Sussex.
@@ -59,7 +54,7 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 - March 1995 - October 1995: Contract IT Systems Trainer - Hounslow Social Services.
 - June 1992 - September 1994: UNIX Systems Administrator - Seymour International Press.
 
-# Education
+## Education
 
 - February 2016 - March 2020: PhD in Informatics at the University of Sussex.
 - September 2010 – January 2014: MSc Architecture: Advanced Environmental and Energy Studies from the Centre for Alternative Technology.
@@ -68,14 +63,14 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 - September 1994 - June 1998: BSc (Hons) 1st class in Computer Science from the University Of North London.
 - January 1992 - January 1993: Applications Programming in COBOL - City & Guilds 424.
 
-# Contact Details
+## Contact Details
 
 e: steve dot huckle at gmail dot com
 
-# Leisure Interests
+## Leisure Interests
 
 I have many and varied interests. I maintain a sense of fun and creativity through writing code, prose, poetry and playing the guitar. I am mindful of other beings, especially my two teenage daughters, to whom I give as much love and time as possible.
 
-# References
+## References
 
 Available upon request.
