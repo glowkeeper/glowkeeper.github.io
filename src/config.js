@@ -15,6 +15,7 @@ class LocalRoutes {
       static about = `/about`
       static cv = `/cv`
       static settings = `/settings`
+      static contact = `/contact`
 
       // flash fiction
       static 
@@ -44,6 +45,7 @@ export class UIText {
   static about = "about"
   static cv = "cv"
   static settings = "settings"
+  static contact = "contact"
 
   // flash fiction
   static flash
@@ -114,6 +116,12 @@ export const settingsSections = {
 }
 
 export const contactSections = {
+  contact: {
+    id: "contact",
+    title: UIText.contact,
+    route: LocalRoutes.contact + "/contact",
+    src: "/assets/posts/contact/contact.md"
+  },
 }
 
 export const academiaSections = {}
@@ -126,19 +134,19 @@ export const flashFictionSections = {
     id: "flash-eric",
     title: UITextFlashFiction.eric,
     route: LocalRoutesFlashFiction.eric,
-    path: "/assets/posts/flashFiction/eric.md"
+    src: "/assets/posts/flashFiction/eric.md"
   },
   fortunes: {
     id: "flash-fortunes",
     title: UITextFlashFiction.fortunes,
     route: LocalRoutesFlashFiction.fortunes,
-    path: "/assets/posts/flashFiction/fortunesAlwaysHiding.md"
+    src: "/assets/posts/flashFiction/fortunesAlwaysHiding.md"
   },
   wisdom: {
     id: "flash-wisdom",
     title: UITextFlashFiction.wisdom,
     route: LocalRoutesFlashFiction.wisdom,
-    path: "/assets/posts/flashFiction/wisdom.md"
+    src: "/assets/posts/flashFiction/wisdom.md"
   }
 }
 
