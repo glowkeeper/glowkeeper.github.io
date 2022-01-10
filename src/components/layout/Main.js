@@ -7,6 +7,7 @@ import { Child } from '../site/Child'
 import { siteSections } from '../../config'
 
 export const Main = () => {
+
   return (
     <Routes>
         {Object.keys(siteSections).map((section, index) => {
@@ -20,11 +21,11 @@ export const Main = () => {
                 {section !== "home" && Object.keys(thisSection.sections).map((mySection, thisIndex) => {
                   const myRoute = thisSection.sections[`${mySection}`].route
                   const myId = thisSection.sections[`${mySection}`].id
-                  const myPath = thisSection.sections[`${mySection}`].path
+                  const myPath = thisSection.sections[`${mySection}`].src
                   return (
                       <Route
                           path={myRoute}
-                          element={<Child id={myId} path={myPath} /> }
+                          element={<Child id={myId} src={myPath} /> }
                       />
                   )
                 })}
