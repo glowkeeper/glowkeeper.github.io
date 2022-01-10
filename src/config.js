@@ -107,6 +107,12 @@ export const homeSections = {
 }
 
 export const aboutSections = {
+  contact: {
+    id: "about",
+    title: UIText.about,
+    route: LocalRoutes.contact + "/about",
+    src: "/assets/posts/about/about.md"
+  },
 }
 
 export const cvSections = {
