@@ -14,3 +14,15 @@
 #academia-md > h2 {
   margin: 0;
 }
+
+#academia-md > h3 {
+  margin: 0;
+}
+
+#academia-md > h4 {
+  margin: 0;
+}
+
+#academia-md img {
+  width: 100%;
+}
