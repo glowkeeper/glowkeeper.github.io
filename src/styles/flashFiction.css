@@ -33,7 +33,7 @@
 #flash-fortunes-md,
 #flash-wisdom-md {
   position: fixed;
-  height: calc(100% - var(--footer-height));
+  height: calc(100% - var(--footer-height) - var(--header-height));
   width: calc(100% - 2rem);
 
   padding: 0 1rem 1rem 1rem;
