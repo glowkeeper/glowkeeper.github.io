@@ -14,7 +14,6 @@ class LocalRoutes {
 
       static about = `/about`
       static cv = `/cv`
-      static settings = `/settings`
       static contact = `/contact`
 
       // flash fiction
@@ -65,6 +64,20 @@ export class LocalRoutesSongs {
   static whatsWrongWithNow = `${LocalRoutes.songs}/whats-wrong-with-now`
 }
 
+export class LocalRoutesStories {
+
+  static change = `${LocalRoutes.stories}/change`
+  static frederick = `${LocalRoutes.stories}/frederick`
+  static freedom = `${LocalRoutes.stories}/freedom`
+  static gratitude = `${LocalRoutes.stories}/gratitude`
+  static minusculus = `${LocalRoutes.stories}/minusculus`
+  static theDruid = `${LocalRoutes.stories}/the-druid`
+  static theEarthAndTheMoon = `${LocalRoutes.stories}/the-earth-and-the-moon`
+  static theHopeOfGods = `${LocalRoutes.stories}/the-hope-of-gods`
+  static theKnucker = `${LocalRoutes.stories}/the-knucker`
+  static theMillwright = `${LocalRoutes.stories}/the-millwright`
+}
+
 export class UIText {
 
   static home = "home"
@@ -81,7 +94,6 @@ export class UIText {
 
   static about = "about"
   static cv = "cv"
-  static settings = "settings"
   static contact = "contact"
 
   // flash fiction
@@ -130,6 +142,20 @@ export class UITextSongs {
   static iRememberWhen = "i remember when"
   static onTheStreet = "on the street"
   static whatsWrongWithNow = "what's wrong with now"
+}
+
+export class UITextStories {
+
+  static change = "change"
+  static frederick = "frederick"
+  static freedom = "freedom"
+  static gratitude = "gratitude"
+  static minusculus = "minusculus"
+  static theDruid = "the druid"
+  static theEarthAndTheMoon = "the earth and the moon"
+  static theHopeOfGods = "the hope of gods"
+  static theKnucker = "the knucker"
+  static theMillwright = "the millwright"
 }
 
 export const homeSections = {
@@ -196,9 +222,6 @@ export const cvSections = {
     route: LocalRoutes.contact + "/cv",
     content: "/assets/posts/cv/cv.md"
   },
-}
-
-export const settingsSections = {
 }
 
 export const contactSections = {
@@ -425,7 +448,69 @@ export const songsSections = {
     content: "/assets/posts/songs/whatsWrongWithNow.md"
   },
 }
-export const storiesSections = {}
+
+export const storiesSections = {
+  change: {
+    id: "stories-change",
+    title: UITextStories.change,
+    route: LocalRoutesStories.change,
+    content: "/assets/posts/stories/change.md"
+  },
+  frederick: {
+    id: "stories-frederick",
+    title: UITextStories.frederick,
+    route: LocalRoutesStories.frederick,
+    content: "/assets/posts/stories/frederick.md"
+  },
+  freedom: {
+    id: "stories-freedom",
+    title: UITextStories.freedom,
+    route: LocalRoutesStories.freedom,
+    content: "/assets/posts/stories/freedom.md"
+  },
+  gratitude: {
+    id: "stories-gratitude",
+    title: UITextStories.gratitude,
+    route: LocalRoutesStories.gratitude,
+    content: "/assets/posts/stories/gratitude.md"
+  },
+  minusculus: {
+    id: "stories-minusculus",
+    title: UITextStories.minusculus,
+    route: LocalRoutesStories.minusculus,
+    content: "/assets/posts/stories/minusculus.md"
+  },
+  theDruid: {
+    id: "stories-the-druid",
+    title: UITextStories.theDruid,
+    route: LocalRoutesStories.theDruid,
+    content: "/assets/posts/stories/theDruid.md"
+  },
+  theEarthAndTheMoon: {
+    id: "stories-the-earth-and-the-moon",
+    title: UITextStories.theEarthAndTheMoon,
+    route: LocalRoutesStories.theEarthAndTheMoon,
+    content: "/assets/posts/stories/theEarthAndTheMoon.md"
+  },
+  theHopeOfGods: {
+    id: "stories-the-hope-of-gods",
+    title: UITextStories.theHopeOfGods,
+    route: LocalRoutesStories.theHopeOfGods,
+    content: "/assets/posts/stories/theHopeOfGods.md"
+  },
+  theKnucker: {
+    id: "stories-the-knucker",
+    title: UITextStories.theKnucker,
+    route: LocalRoutesStories.theKnucker,
+    content: "/assets/posts/stories/theKnucker.md"
+  },
+  theMillwright: {
+    id: "stories-the-millwright",
+    title: UITextStories.theMillwright,
+    route: LocalRoutesStories.theMillwright,
+    content: "/assets/posts/stories/theMillwright.md"
+  }
+}
 
 export const siteSections = {
   home: {
@@ -451,12 +536,6 @@ export const siteSections = {
     title: UIText.contact,
     route: LocalRoutes.contact,
     sections: contactSections
-  },
-  settings: {
-    id: "settings",
-    title: UIText.settings,
-    route: LocalRoutes.settings,
-    sections: settingsSections
   },
   academia: {
     id: "academia",

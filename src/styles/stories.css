@@ -1,0 +1,84 @@
+@import "variables.css";
+
+#stories-change,
+#stories-frederick,
+#stories-freedom,
+#stories-gratitude,
+#stories-minusculus,
+#stories-the-druid,
+#stories-the-earth-and-the-moon,
+#stories-the-hope-of-gods,
+#stories-the-knucker,
+#stories-the-millwright {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  opacity: 0.4;
+  background-color: var(--home-inactive-colour);
+
+}
+
+#stories-change:focus,
+#stories-change:hover,
+#stories-frederick:focus,
+#stories-frederick:hover,
+#stories-freedom:focus,
+#stories-freedom:hover,
+#stories-gratitude:focus,
+#stories-gratitude:hover,
+#stories-minusculus:focus,
+#stories-minusculus:hover,
+#stories-the-druid:focus,
+#stories-the-druid:hover,
+#stories-the-earth-and-the-moon:focus,
+#stories-the-earth-and-the-moon:hover,
+#stories-the-hope-of-gods:focus,
+#stories-the-hope-of-gods:hover,
+#stories-the-knucker:focus,
+#stories-the-knucker:hover,
+#stories-the-millwright:focus,
+#stories-the-millwright:hover {
+  opacity: 1;
+  background-color: var(--home-active-colour);
+  animation: storiesFadeIn linear 2s;
+}
+
+@keyframes storiesFadeIn {
+  0% {opacity:0;}
+  50% {opacity:0.5;}
+  100% {opacity:1;}
+}
+
+#stories-change-md,
+#stories-frederick-md,
+#stories-freedom-md,
+#stories-gratitude-md,
+#stories-minusculus-md,
+#stories-the-druid-md,
+#stories-the-earth-and-the-moon-md,
+#stories-the-hope-of-gods-md,
+#stories-the-knucker-md,
+#stories-the-millwright-md {
+  position: fixed;
+  height: calc(100% - var(--footer-height) - var(--header-height));
+  width: calc(100% - 2rem);
+
+  padding: 0 1rem 1rem 1rem;
+  white-space: pre-wrap;
+
+  overflow-y: scroll;
+}
+
+#stories-change-md > h1,
+#stories-frederick-md > h1,
+#stories-freedom-md > h1,
+#stories-gratitude-md > h1,
+#stories-minusculus-md > h1,
+#stories-the-druid-md > h1,
+#stories-the-earth-and-the-moon-md > h1,
+#stories-the-hope-of-gods-md > h1,
+#stories-the-knucker-md > h1,
+#stories-the-millwright-md > h1 {
+  margin: 1rem 0 0 0;
+}
