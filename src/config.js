@@ -39,6 +39,22 @@ class LocalRoutesMisc {
   static worldCupSemi = `${LocalRoutes.misc}/world-cup-semi`
 }
 
+export class LocalRoutesPoetry {
+
+  static difficult = `${LocalRoutes.poetry}/difficult`
+  static dreamland = `${LocalRoutes.poetry}/dreamland`
+  static if = `${LocalRoutes.poetry}/if`
+  static iKneel = `${LocalRoutes.poetry}/i-kneel`
+  static monkey = `${LocalRoutes.poetry}/monkey`
+  static notChristmas = `${LocalRoutes.poetry}/not-christmas`
+  static orgreave = `${LocalRoutes.poetry}/orgreave`
+  static prudictive = `${LocalRoutes.poetry}/prudictive`
+  static santaClaus = `${LocalRoutes.poetry}/santa-claus`
+  static soonToBe73 = `${LocalRoutes.poetry}/soon-to-be-73`
+  static theRoad = `${LocalRoutes.poetry}/the-road`
+  static winter = `${LocalRoutes.poetry}/winter`
+}
+
 export class UIText {
 
   static home = "home"
@@ -78,6 +94,22 @@ export class UITextMisc {
   static westHamEverton = "west ham vs everton"
   static wind = "wind"
   static worldCupSemi = "world cup semi"
+}
+
+export class UITextPoetry {
+
+  static difficult = "difficult"
+  static dreamland = "dreamland"
+  static if = "if"
+  static iKneel = "i kneel"
+  static monkey = "monkey"
+  static notChristmas = "not christmas"
+  static orgreave = "orgreave"
+  static prudictive = "prudictive"
+  static santaClaus = "santa claus"
+  static soonToBe73 = "soon to be 73"
+  static theRoad = "the road"
+  static winter = "winter"
 }
 
 export const homeSections = {
@@ -243,7 +275,81 @@ export const miscSections = {
   },
 }
 
-export const poetrySections = {}
+export const poetrySections = {
+  difficult: {
+    id: "poetry-difficult",
+    title: UITextPoetry.difficult,
+    route: LocalRoutesPoetry.difficult,
+    content: "/assets/posts/poetry/difficult.md"
+  },
+  dreamland: {
+    id: "poetry-dreamland",
+    title: UITextPoetry.dreamland,
+    route: LocalRoutesPoetry.dreamland,
+    content: "/assets/posts/poetry/dreamland.md"
+  },
+  if: {
+    id: "poetry-if",
+    title: UITextPoetry.if,
+    route: LocalRoutesPoetry.if,
+    content: "/assets/posts/poetry/if.md"
+  },
+  iKneel: {
+    id: "poetry-i-kneel",
+    title: UITextPoetry.iKneel,
+    route: LocalRoutesPoetry.iKneel,
+    content: "/assets/posts/poetry/iKneel.md"
+  },
+  monkey: {
+    id: "poetry-monkey",
+    title: UITextPoetry.monkey,
+    route: LocalRoutesPoetry.monkey,
+    content: "/assets/posts/poetry/monkey.md"
+  },
+  notChristmas: {
+    id: "poetry-not-christmas",
+    title: UITextPoetry.notChristmas,
+    route: LocalRoutesPoetry.notChristmas,
+    content: "/assets/posts/poetry/notChristmas.md"
+  },
+  orgreave: {
+    id: "poetry-orgreave",
+    title: UITextPoetry.orgreave,
+    route: LocalRoutesPoetry.orgreave,
+    content: "/assets/posts/poetry/orgreave.md"
+  },
+  prudictive: {
+    id: "poetry-prudictive",
+    title: UITextPoetry.prudictive,
+    route: LocalRoutesPoetry.prudictive,
+    content: "/assets/posts/poetry/prudictive.md"
+  },
+  santaClaus: {
+    id: "poetry-santa-claus",
+    title: UITextPoetry.santaClaus,
+    route: LocalRoutesPoetry.santaClaus,
+    content: "/assets/posts/poetry/santaClaus.md"
+  },
+  soonToBe73: {
+    id: "poetry-soon-to-be-73",
+    title: UITextPoetry.soonToBe73,
+    route: LocalRoutesPoetry.soonToBe73,
+    content: "/assets/posts/poetry/soonToBe73.md"
+  },
+  theRoad: {
+    id: "poetry-the-road",
+    title: UITextPoetry.theRoad,
+    route: LocalRoutesPoetry.theRoad,
+    content: "/assets/posts/poetry/theRoad.md"
+  },
+  winter: {
+    id: "poetry-winter",
+    title: UITextPoetry.winter,
+    route: LocalRoutesPoetry.winter,
+    content: "/assets/posts/poetry/winter.md"
+  },
+}
+
 export const songsSections = {}
 export const storiesSections = {}
 

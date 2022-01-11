@@ -1,9 +1,5 @@
----
-title: Dreamland
-description: A modern take on Blake's poem
-categories:
-  - Post
----
+# Dreamland
+
 A new take on Blake's great poem, [Jerusalem](https://www.poetryfoundation.org/poems/54684/jerusalem-and-did-those-feet-in-ancient-time). What would a divine spirit make of modern England?
 
 [Listen to a recording of the poem](/assets/audio/Dreamland.wav).
@@ -31,6 +27,3 @@ I will not bow, or Cease to Fight, | I will not cease from Mental Fight,
 Nor shall my words sleep from my hand: | Nor shall my sword sleep in my hand:
 Until a Dreamland rises from the ground, | Till we have built Jerusalem,
 In England's unclean, unpleasant Land. | In Englands green & pleasant Land.
-
-&nbsp;<br />
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Dreamland</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/poetry/Dreamland/" rel="dct:source">https://glowkeeper.github.io/assets/poetry/Dreamland/</a>.

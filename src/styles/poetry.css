@@ -1,0 +1,90 @@
+@import "variables.css";
+
+#poetry-difficult,
+#poetry-dreamland,
+#poetry-if,
+#poetry-i-kneel,
+#poetry-monkey,
+#poetry-not-christmas,
+#poetry-orgreave,
+#poetry-prudictive,
+#poetry-santa-claus,
+#poetry-soon-to-be-73,
+#poetry-the-road,
+#poetry-winter {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  opacity: 0.4;
+  background-color: var(--home-inactive-colour);
+
+}
+
+#poetry-difficult:focus,
+#poetry-difficult:hover,
+#poetry-dreamland:focus,
+#poetry-dreamland:hover,
+#poetry-if:focus,
+#poetry-if:hover,
+#poetry-i-kneel:focus,
+#poetry-i-kneel:hover,
+#poetry-monkey:focus,
+#poetry-monkey:hover,
+#poetry-not-christmas:focus,
+#poetry-not-christmas:hover,
+#poetry-orgreave:focus,
+#poetry-orgreave:hover,
+#poetry-prudictive:focus,
+#poetry-prudictive:hover,
+#poetry-santa-claus:focus,
+#poetry-santa-claus:hover,
+#poetry-soon-to-be-73:focus,
+#poetry-soon-to-be-73:hover,
+#poetry-the-road:focus,
+#poetry-the-road:hover,
+#poetry-winter:focus,
+#poetry-winter:hover {
+  opacity: 1;
+  background-color: var(--home-active-colour);
+  animation: poetryFadeIn linear 2s;
+}
+
+@keyframes poetryFadeIn {
+  0% {opacity:0;}
+  50% {opacity:0.5;}
+  100% {opacity:1;}
+}
+
+#poetry-difficult-md,
+#poetry-dreamland-md,
+#poetry-if-md,
+#poetry-i-kneel-md,
+#poetry-monkey-md,
+#poetry-not-christmas-md,
+#poetry-orgreave-md,
+#poetry-prudictive-md,
+#poetry-santa-claus-md,
+#poetry-soon-to-be-73-md,
+#poetry-the-road-md,
+#poetry-winter-md {
+  padding: 0 1rem 1rem 1rem;
+
+  overflow: auto;
+  white-space: pre-wrap;
+}
+
+#poetry-difficult-md > h1,
+#poetry-dreamland-md > h1,
+#poetry-if-md > h1,
+#poetry-i-kneel-md > h1,
+#poetry-monkey-md > h1,
+#poetry-not-christmas-md > h1,
+#poetry-orgreave-md > h1,
+#poetry-prudictive-md > h1,
+#poetry-santa-claus-md > h1,
+#poetry-soon-to-be-73-md > h1,
+#poetry-the-road-md > h1,
+#poetry-winter-md > h1 {
+  margin: 1rem 0 0 0;
+}
