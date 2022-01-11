@@ -17,3 +17,5 @@ Meanwhile, a Jackdaw, sat on ﻿a telephone wire above the road, was keenly watc
 “Thwap!” came the sickening sound as the snail's shell crashed into the road and shattered into a million pieces. “What’s going on...” agonised the terrified snail, moments before having his thoughts cut short when the Jackdaw gobbled him up hungrily.  
 
 The Jackdaw flew back to his perch and considered his full stomach. "Thank God for the wise!” he chuckled, wiping the remnants of his dinner from his beak.  
+
+&nbsp;

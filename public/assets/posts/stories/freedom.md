@@ -1,9 +1,7 @@
----
-title: Freedom
-description: Written for the campfire at the Brighton Buddhist Centre's 2015 Family Retreat. The poetry is by Matt Quinn
-categories:
-  - Post
----
+# Freedom
+
+Written for the campfire at the Brighton Buddhist Centre's 2015 Family Retreat. The poetry is by Matt Quinn
+
 **10 August, 2015**
 
 [Listen to a recording of the story](/assets/audio/Freedom.wav) from a campfire reading.
@@ -117,4 +115,4 @@ The next morning, Spangle was sat next to her father on one of the hedgerows in 
 
 Owl landed right next to Spangle. "I hear you had quite an adventure young lady! I hope it was worth it. Did you discover the secret of freedom?" "Yes dear Owl," she replied. "It's about running and jumping and dancing. It's about shouting and singing. It's about vocation and finding joy in work. Then it's about being able to stretch your wings, just when you thought that's impossible." Owl smiled, "I see you learnt well young Spangle." "Oh, and Owl," Spangle continued, "there's one more very secret, important, ingredient in freedom." "What's that?" asked Owl, curious. "It's also about wearing your best underwear on your head."
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Freedom</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/stories/Freedom/" rel="dct:source">https://glowkeeper.github.io/assets/stories/Freedom/</a>.
+&nbsp;

@@ -13,3 +13,5 @@ Eric finally left his arboreal home when the bulldozers sealed the tree's fate a
 Eric moved into the hollowed out trunk of a tree in Brighton's Royal Pavilion Gardens. A tree planted in the year that the US gained independence from the plague of the British Empire and which is thought to be one of the oldest English Elms left standing in this world. Once upon a time, we all used to live in and around the trees and share our homes with the birds, the bees, and all the other animals. But we have long since forgotten that. The local council had forgotten too, so they tried to evict Eric from his tree. That was until the onslaught of media interest and left-leaning lobby groups persuaded them otherwise, so they eventually left Eric alone. ﻿
 
 To this day, you will find Eric living in that tree. Should you pass by, be sure to buy him a cup of tea and thank him for preserving humanity's link to the natural world.
+
+&nbsp;

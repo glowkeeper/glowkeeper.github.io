@@ -17,7 +17,7 @@ Strode the eight thousand five hundred. | Rode the six hundred.
 'Stand strong, stop those lorries!' | 'Forward, the Light Brigade!
 Delivering coal from the quarries: | Charge for the guns!' he said:
 Into the field at Orgreave | Into the valley of Death
-Strode the eight thousand five hundred. | Rode the six hundred.
+Strode the eight thousand five hundred. | Rode the six hundred.
 &nbsp; | &nbsp;
 'Stand strong, stop those lorries!' | 'Forward, the Light Brigade!'
 Was there a resolve weakened? | Was there a man dismay'd?
@@ -36,7 +36,7 @@ Battered and bloodied; | Volley'd and thunder'd;
 Stormed at by short shields as well, | Storm'd at with shot and shell,
 Boldly they strode and fell, | Boldly they rode and well,
 Into the cordon trapped, | Into the jaws of Death,
-State sounding the Death Knell  | Into the mouth of Hell
+State sounding the Death Knell | Into the mouth of Hell
 Strode the eight thousand five hundred. | Rode the six hundred.
 &nbsp; | &nbsp;
 Drew all their batons bare, | Flash'd all their sabres bare,
@@ -50,7 +50,7 @@ Yorkshire and Lancs men | Cossack and Russian
 Reeled from the baton stroke | Reel'd from the sabre-stroke
 Shattered and bloodied. | Shatter'd and sunder'd.
 Then they strode back, but not | Then they rode back, but not
-Not the eight thousand five hundred. | Not the six hundred.
+Not the eight thousand five hundred. | Not the six hundred.
 &nbsp; | &nbsp;
 Baton to the right of them, | Cannon to right of them,
 Baton to the left of them,  | Cannon to left of them,
@@ -70,3 +70,5 @@ The British Public wondered: | All the world wonder'd.
 Why on earth the State Stampede? | Honour the charge they made!
 Honour those at Orgreave, | Honour the Light Brigade,
 Noble eight thousand five hundred! | Noble six hundred!
+
+&nbsp;

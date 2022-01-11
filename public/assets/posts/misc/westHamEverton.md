@@ -21,3 +21,5 @@ And thankfully, Everton lived up to my expectations of being shit. Better was th
 After the game, I bought a t-shirt from the West Ham store, then walked back to Stratford station. There were none of the hour-long queues of Upton Park, and we were back in Wanstead by 5:40, and sat with my Goddaughter eating at a Thai in Leytonstone by 6:30. Afterwards, I began the drive back to Brighton by blasting out West Side Boys, by the Cockney Rejects. Then I handed over DJ responsibilities to Kyra, who entertained us with, amongst others, Coldplay, U2 and Snow Patrol. We arrived back in Brighton singing the White Stripes' Seven Nation Army.  
 
 "Don't worry, Dad, I'm a West Ham fan really," Kyra confided. Success! What a day! And now I've broken my duck at the Olympic Stadium and been suitably impressed, I'm pretty sure the girls and I will once again be regularly cheering on West Ham. That's if I can persuade the ticket office I now have a history...
+
+&nbsp;

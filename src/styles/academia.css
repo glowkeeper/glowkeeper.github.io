@@ -30,3 +30,10 @@
 #academia-md img {
   width: 100%;
 }
+
+#academia-md table,
+#academia-md tr,
+#academia-md td,
+#academia-md th {
+  border: 1px solid #555;
+}

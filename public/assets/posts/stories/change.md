@@ -1,9 +1,7 @@
----
-title: Change
-description: Written for the campfire at the Brighton Buddhist Centre's 2013 Family Retreat
-categories:
-  - Post
----
+# Change
+
+Written for the campfire at the Brighton Buddhist Centre's 2013 Family Retreat
+
 **1 August, 2013**
 
 Old Man Harry lived in mountains that were as ancient as the earth itself. He didn’t like change much, so every morning his routine was the same; he’d wake, he’d wash, he’d eat his porridge, he’d brush his teeth. Then he’d settle down into a comfy chair on his veranda, smoke his pipe, and watch the wildlife go about its day. He could set the time by when the jackdaws starting cawing, when the falcon would stoop upon its first pigeon and when the deer would begin grazing at the edge of the woods. So you see, Old Man Harry’s life was safe and dependable, and he liked it very much.
@@ -38,4 +36,4 @@ Realising he had much to learn from his cousin, Raphael soon sold up everything 
 
 So it came to pass, many many years later, that Raphael and Old Man Harry were sat on their veranda admiring the agile falcon stoop on its prey. Raphael looked kindly at his cousin, and remarked: “Actually, nothing much changed for you did it!” Harry looked down at his rather worn fine Italian shoes, fingered the slightly tatty waistcoat of his suit and doffed his somewhat misshapen bowler hat: “Well, there were some changes,” he replied, smiling. But then he looked out across to the deer feeding on the threshold of the woods, and said: “But some things just simply aren’t worth changing”. Raphael laughed in agreement. By then, he and old Man Harry had become the greatest of friends, and that was the very best change of all.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Change</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/stories/Change/" rel="dct:source">https://glowkeeper.github.io/assets/stories/Change/</a>.
+&nbsp;

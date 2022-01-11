@@ -1,9 +1,7 @@
----
-title: Gratitude
-description: Written for the campfire at the Brighton Buddhist Centre's 2014 Family Retreat
-categories:
-  - Post
----
+# Gratitude
+
+Written for the campfire at the Brighton Buddhist Centre's 2014 Family Retreat
+
 **1 August, 2014**
 
 Deep in the gentle green countryside of dear old England, there is an Old Rectory house that the local priest of those parts used to call his home. The house stands amidst beautiful grounds that are so magic, if you listen very carefully indeed, you can just about hear the whisper of the fairies and elves that live in the woods there. Those woods are ancient; some oaks have seen Guy Fawkes burnt at the stake, and some of the magnificent beech, birch, and ash watched Christopher Columbus sail the ocean’s blue. Their leaves shimmer on the summer breeze and, if you aren’t paying proper attention, the sound they make can easily be mistaken for the chatter of the small folk that live in those parts. There is also a pond with huge lilies which are as high as the old house itself. In fact, on hot summer days, the fairies often spend a good deal of time cooling themselves there, by the water, because the resplendent leaves provide a good amount of shade. Even the fennel in the grounds is magic; it grows taller than you and me, and when it is picked fresh, it never fails to serve as a gentle reminder of the aniseed you first tried when you were tiny. The scent of lavender is everywhere.
@@ -38,4 +36,4 @@ The Elven King brought silence to the meeting with another three thumps on the g
 
 The very next morning the gardener was sat at the foot of an old oak tree on his break, enjoying a biscuit and cup of tea. He felt a pang of happiness, for he sensed a magical calm in the woods. A wave of inner peace broke over him as he looked around, watching the sunlight streaming in through the trees, and a tear of gratitude escaped down his cheek at the sheer beauty of the scene. He closed his eyes and in his mind, he thanked all the creatures there for letting him share their home. Sat high above on a branch of the ancient oak, was the Fairy Queen. She smiled at the wisdom of the Elven King, for she knew that the animals and small folk that called the Old Rectory their home were safe under the care of this man. Many generations of moles were going to be free to tunnel under the lawns. Symbiosis had returned.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Gratitude</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/stories/Gratitude/" rel="dct:source">https://glowkeeper.github.io/assets/stories/Gratitude/</a>.
+&nbsp;

@@ -1,9 +1,7 @@
----
-title: The Hope of Gods
-description: Written as a thank you to the staff at the Royal Alexandra Children's Hospital, who had cared so brilliantly for my daughter
-categories:
-  - Post
----
+# The Hope of Gods
+
+Written as a thank you to the staff at the Royal Alexandra Children's Hospital, who had cared so brilliantly for my daughter
+
 **11 December, 2014**
 
 Both the Gods of Asgard and the Fire Demons of Muspelheim know that all the children of Midgard are special, for within them lie all hopes and fears. So Odin, the ruler of Asgard, and Surt the fire giant and ruler of Muspelheim, have fought many a bloody war in the theatre of childhood. For without hope, the Gods themselves would not exist. Without fear, the Demons would wither, and die. So the battles that rage amongst the young folk are, in fact, the fight for the very existence of the higher and lower realms of the Nine Kingdoms.
@@ -34,4 +32,4 @@ Tara's father was somewhat startled to see his daughter wake up and sit upright 
 
 The Gods rejoiced. They had thwarted the ulterior motives of the demonic forces that had infiltrated the present government. No matter that they were busily seeking to destroy the good forces through austerity measures that were a guise for inducing fear amongst the masses. The Gods, Light Elves, and Angels fighting on the front lines of the hospital wards, were victorious. What's more, they were confident that if the dark elves had further ordeals planned for Tara, she would fight the good battle alongside them. By doing so, the eternal hope that kept the Gods secure in Asgard, would be held safe in Tara's heart. The future looked bright.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">The Hope of Gods</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/stories/TheHopeofGods/" rel="dct:source">https://glowkeeper.github.io/assets/stories/TheHopeofGods/</a>.
+&nbsp;

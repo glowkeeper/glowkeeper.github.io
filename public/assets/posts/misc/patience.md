@@ -41,3 +41,5 @@ After a bite to eat, Kyra was struggling with sea sickness, so she retreated to 
 The Isle of White came quickly into view, then Portsmouth and its new Aircraft Carrier of Death. Then we were waiting, once again, for the crew to offload us. Then waiting to go through customs. Then waiting to join the M275 and onto Brighton, and home.
 
 Usually, I love returning to Brighton - it's a glorious part of the world. But it had been such a fabulous holiday, and I'm beginning to fall in love with the Spanish region of Cantabria, so I was slightly sad when I finally closed my front door and sat down to rest. I can't wait until I see that part of the world again. Or perhaps I can. Because if I learned anything on this trip, then it's 'patience is a virtue'; rather than 'I can't wait', the sentiment should be that I'm looking forward to renewing my vigil and waiting patiently, whale spotting, on the Bay of Biscay.
+
+&nbsp;

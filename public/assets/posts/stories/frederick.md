@@ -1,9 +1,7 @@
----
-title: Frederick
-description: This is a story created by my daughter Kyra on an underground train in the autumn of 2012. We had just been to watch West Ham beat Southampton, and we were on our way back to Brighton. I have left it in all its original glory (warts n'all), because it's a fond memory, and I don't want to taint that by 'improving' it
-categories:
-  - Post
----
+# Frederick
+
+This is a story created by my daughter Kyra on an underground train in the autumn of 2012. We had just been to watch West Ham beat Southampton, and we were on our way back to Brighton. I have left it in all its original glory (warts n'all), because it's a fond memory, and I don't want to taint that by 'improving' it
+
 **20 October, 2012**
 
 Once upon a time, there was a little boy named Frederick. 13 years later, he was sitting on a bench, with his friends, when he met a monkey. He said to his friends: “Could you please excuse me for a while?” The monkey then said: “The legend is foretold that you will slay the dragon. So off you go! Shew! Shew!” Frederick was confused, and exclaimed, “But where am I going?” “Ah, good question”, said the monkey. “You are off to slay the dragon! Here's a map.”
@@ -26,4 +24,4 @@ When he saw his friends, he told them of his adventures and voyages across the s
 
 The end.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Frederick</span> by Kyra Huckle is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/stories/Frederick/" rel="dct:source">https://glowkeeper.github.io/assets/stories/Frederick/</a>.
+&nbsp;

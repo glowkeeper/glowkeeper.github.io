@@ -51,3 +51,5 @@ I ended my festival experience by pogoing at the front to [Blood Red Shoes](http
 Before getting the bus, Rich bought a burger, and I tried on the halo and devil ears of some girls who had been out on a hen night. It soon became apparent that we had saved them from the seedy clutches of the fast food staff, who, to try and entice the girls out the back of the restaurant, had given them a free chicken burger. Even in their ever-so-tipsy state, the girls were a little freaked out by the experience, so my night ended with a superhero act. Clark Kent turns into a useless git whenever he does drugs (Kryptonite), but even after consuming copious amounts of alcohol, I remain capable. Ner.
 
 All in all, a brilliant three days of music and laughs. Bring on next year....
+
+&nbsp;

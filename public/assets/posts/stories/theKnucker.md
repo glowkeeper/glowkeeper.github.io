@@ -1,9 +1,7 @@
----
-title: The Knucker of Lyminster
-description: Told around the campfire at the Brighton Buddhist Centre's Family Retreat. It's an adaptation of Michael O'Leary's story, 'The Lyminster Knucker', which features in the book 'Sussex Folk Tales', available at all good bookstores. Reproduced here with Mike's kind permission.
-categories:
-  - Post
----
+# The Knucker of Lyminster
+
+Told around the campfire at the Brighton Buddhist Centre's Family Retreat. It's an adaptation of Michael O'Leary's story, 'The Lyminster Knucker', which features in the book 'Sussex Folk Tales', available at all good bookstores. Reproduced here with Mike's kind permission.
+
 **31 July, 2017**
 
 Below Arundel, the westward A27 does a strange thing; it diverts onto a slip road and avoids a stretch of dual carriageway that comes to a sudden stop. Those who know no better believe that the road building halted because of local opposition to the march of industrial civilisation, resulting in an unexpected triumph for nature. After all, the road was due to cross some environmentally sensitive wetlands.  However, they're wrong - nothing as mundane as the preservation of the habitat of many rare and beautiful migrant water foul ever stops the incessant encroachment of the internal combustion engine. The truth is the road stopped because of the danger of upsetting a rather fearsome local dragon. That dragon is said to live in the village of Lyminster, just a stone's throw from that rather strange junction of the A27.  
@@ -46,4 +44,4 @@ The people of Arundel were inconsolable. The hero Jim had saved them, but now he
 
 Nowadays, if you go into the Church of St Mary Magdelene at Lyminster, you will see a stained glass window with a picture of a dreadful dragon. And in the graveyard, you'll find a strange old gravestone. The endless march of time, as well as the sea air, have worn away the inscription, so most people don't know whose gravestone it is, nor what it says. But we know - it's the grave of Jim Pulk, embossed with the epitaph: "Mark thee well: wash thy hands before dinner, or answer to God, as a Saint, or a Sinner". So next time you sit down to eat, give your hands a good scrub and remember the legend of Jim Pulk and the terrible knucker of Lyminster.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">The Knucker of Lyminster</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/stories/TheKnucker/" rel="dct:source">https://glowkeeper.github.io/assets/stories/TheKnucker/</a>.
+&nbsp;

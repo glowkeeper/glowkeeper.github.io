@@ -1,9 +1,7 @@
----
-title: The Millwright
-description: I first told a version of this to my daughters, and two of their friends, over candlelight at a sleepover one night. And then I refined it in time for WWF's 2017 Earth Hour, an annual event where it has become a tradition for us to tell spooky stories
-categories:
-  - Post
----
+# The Millwright
+
+I first told a version of this to my daughters, and two of their friends, over candlelight at a sleepover one night. And then I refined it in time for WWF's 2017 Earth Hour, an annual event where it has become a tradition for us to tell spooky stories
+
 **2 February, 2017**
 
 The Guides came over a long ridge that once formed part of an ancient hilltop fort on the South Downs. In front of them was a local landmark, a windmill known as Jill. Nestled in the valley below was the sleepy Sussex village of Pyecombe. "Right girls!" barked  Mikayla, the Patrol leader: "work together to clear a spot where we can form camp." Sure enough, an hour or so later, all the tents were pitched and some of the girls had begun preparing a fire.
@@ -32,4 +30,4 @@ After the camping trip, Mikayla (still ever-so-slightly freaked out by her exper
 
 Mikayla, too, was close to tears as she left the library. She walked home utterly terrified and didn't notice the man begging on the street corner. "Any food, Miss?" asked the beggar. Mikayla looked down in horror at an old man, with a flat cap and a terrier sat by his side. She raced away from the apparition and home, more afraid than she'd ever been. And then, came the knock. Sobbing with fear, she opened the front door, only to find no one there. Instead, on her doorstep, was a bowl...
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">The Millwright</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/stories/TheMillwright/" rel="dct:source">https://glowkeeper.github.io/assets/stories/TheMillwright/</a>.
+&nbsp;

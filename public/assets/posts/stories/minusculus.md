@@ -1,9 +1,7 @@
----
-title: The Law of the Minusculus
-description: Mrs Nay's Story
-categories:
-  - Post
----
+# The Law of the Minusculus
+
+Mrs Nay's Story
+
 **24th October, 2017**
 
 It had been a hard day, a difficult night, and Mrs Nay had been working like a dog, so when Mr Nay entered her study with a cup of tea and plate of biscuits, which he put on the desk, she was pleased for the respite. "Darling, you'll make your ear sore if you keep scratching it like that," said Godfrey, standing behind his tired wife, lovingly massaging her tense shoulders. Treesa put her foot back down, took her glasses off and rubbed her aching eyes: "It's this bloody sell-off of the Cabinet Office. The other lot just aren't keen; to make it appeal to the wider public, I have to find sneaky ways to gloss over the sordid details. It's taking all my energy!"
@@ -28,4 +26,4 @@ It just so happened that Mr Bincor was touring the Maidenhead food bank when Mrs
 
 It had been a hard night, a stressful day, and Mrs Bincor had been working like a dog, so when Mr Bincor entered her study with a cup of tea and plate of biscuits, which he put on the desk, she was pleased for the respite. "Darling, you've been working too hard. Please rest," said Jeremy, standing behind his tired wife, lovingly massaging her tense shoulders. Treesa took her glasses off and rubbed her aching eyes: "It's this bloody renationalisation of the railways. That Chinese Hedge Fund is still making things difficult..."
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">The Law of the Minusculus</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/stories/Minusculus/" rel="dct:source">https://glowkeeper.github.io/assets/stories/Minusculus/</a>.
+&nbsp;

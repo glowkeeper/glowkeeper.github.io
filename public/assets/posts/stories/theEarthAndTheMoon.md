@@ -1,9 +1,7 @@
----
-title: The Earth and the Moon
-description: Told around the campfire at the Brighton Buddhist Centre's Family Retreat. The theme of the retreat was Friendship
-categories:
-  - Post
----
+# The Earth and the Moon
+
+Told around the campfire at the Brighton Buddhist Centre's Family Retreat. The theme of the retreat was Friendship
+
 **28th July, 2016**
 
 A long time ago, before you and I were little more than a distant hope in the mind of our father’s greatest of grandfathers, Earth was a vast angry mass of volcanic rock. She had a very fiery temper and, at the thought of anyone approaching within a million miles of her highest peak, she would erupt in a fit of molten rock. And so, it came about, that the Earth had no friends, whatsoever. And because she had no friends, Earth got angrier and angrier, until she was so angry, she was at the point of exploding into oblivion.
@@ -39,4 +37,4 @@ Earth had had an awful time. She missed Moon; she sobbed and wailed uncontrollab
 
 Soon after, following a glorious summer, Moon looked up at Earth: “Can I tell you a joke?” she asked. “What’s the difference between the Sun and King Arthur?” The earth wasn’t certain she actually wanted to hear the answer. Nevertheless: “I don’t know, what is the difference between the Sun and King Arthur?” Moon chuckled, before delivering the brilliant punchline: “The Sun keeps us warm for the day, but King Arthur warms his keep for the Knights.” There followed a deep, dark, silence, similar to that you may witness just before a solar eclipse. “That was rubbish!” Earth told Moon. “But I’ll still be your friend.”
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">The Earth and the Moon</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/stories/TheEarthandtheMoon/" rel="dct:source">https://glowkeeper.github.io/assets/stories/TheEarthandtheMoon/</a>.
+&nbsp;
