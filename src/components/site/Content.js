@@ -5,7 +5,7 @@ import { Header } from '../layout/Header'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 
-export const Child = (props) => {
+export const Content = (props) => {
     const [markdown, setMarkdown] = useState("");
 
     const { content, id } = props

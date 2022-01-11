@@ -1,12 +1,12 @@
 import React from "react";
 import { Route, Routes } from "react-router"
 
-import { Parent } from '../site/Parent'
-import { Child } from '../site/Child'
+import { Linker } from '../site/Linker'
+import { Content } from '../site/Content'
 
 import { siteSections } from '../../config'
 
-export const Main = () => {
+export const Router = () => {
 
   return (
     <Routes>
@@ -16,7 +16,7 @@ export const Main = () => {
               <>
                 <Route
                     path={thisSection.route}
-                    element={<Parent sections={thisSection.sections} /> }
+                    element={<Linker sections={thisSection.sections} /> }
                 />
                 {section !== "home" && Object.keys(thisSection.sections).map((mySection, thisIndex) => {
                   const myRoute = thisSection.sections[`${mySection}`].route
@@ -25,7 +25,7 @@ export const Main = () => {
                   return (
                       <Route
                           path={myRoute}
-                          element={<Child id={myId} content={myContent} /> }
+                          element={<Content id={myId} content={myContent} /> }
                       />
                   )
                 })}

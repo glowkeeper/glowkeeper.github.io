@@ -5,7 +5,7 @@ import { Link } from "react-router-dom"
 
 import { Header } from '../layout/Header'
 
-export const Parent = (props) => {
+export const Linker = (props) => {
     const { sections } = props
 
     const navigate = useNavigate()
@@ -19,7 +19,6 @@ export const Parent = (props) => {
                 const myRoute = sections[`${mySections[0]}`].route
                 navigate(myRoute, { replace: true })
             }
-
         }
 
     }, [sections, navigate])
