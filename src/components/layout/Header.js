@@ -33,7 +33,6 @@ export const Header = (props) => {
             key={index}
             className="navbar-button"
             onClick={() => {
-              console.log('button', anchors[index])
               if (anchors[index]) {
                 anchors[index].scrollIntoView({
                   block: "nearest",

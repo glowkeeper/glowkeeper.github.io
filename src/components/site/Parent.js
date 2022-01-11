@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect } from 'react';
 import { useNavigate } from 'react-router-dom'
 
 import { Link } from "react-router-dom"
@@ -17,8 +17,7 @@ export const Parent = (props) => {
             const mySections = Object.keys(sections)
             if ( mySections.length === 1 ) {
                 const myRoute = sections[`${mySections[0]}`].route
-                console.log('got here', myRoute)
-                navigate(myRoute)
+                navigate(myRoute, { replace: true })
             }
 
         }
