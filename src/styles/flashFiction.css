@@ -32,10 +32,13 @@
 #flash-eric-md,
 #flash-fortunes-md,
 #flash-wisdom-md {
-  padding: 0 1rem 1rem 1rem;
+  position: fixed;
+  height: 100%;
 
-  overflow: auto;
+  padding: 0 1rem 1rem 1rem;
   white-space: pre-wrap;
+
+  overflow-y: scroll;
 }
 
 #flash-eric-md > h1,

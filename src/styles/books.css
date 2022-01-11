@@ -1,10 +1,13 @@
 @import "variables.css";
 
 #books-md {
-  padding: 0 1rem 1rem 1rem;
+  position: fixed;
+  height: 100%;
 
-  overflow: auto;
+  padding: 0 1rem 1rem 1rem;
   white-space: pre-wrap;
+
+  overflow-y: scroll;
 }
 
 #books-md > h1 {

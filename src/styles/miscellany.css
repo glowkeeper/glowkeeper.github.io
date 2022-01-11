@@ -13,7 +13,6 @@
 
   opacity: 0.4;
   background-color: var(--home-inactive-colour);
-
 }
 
 #misc-another-great-escape:focus,
@@ -46,10 +45,13 @@
 #misc-west-ham-vs-everton-md,
 #misc-wind-md,
 #misc-world-cup-semi-md {
-  padding: 0 1rem 1rem 1rem;
+  position: fixed;
+  height: 100%;
 
-  overflow: auto;
+  padding: 0 1rem 1rem 1rem;
   white-space: pre-wrap;
+
+  overflow-y: scroll;
 }
 
 #misc-another-great-escape-md > h1,
