@@ -2,8 +2,8 @@
 
 #contact-md {
   position: fixed;
-  height: 100%;
-  width: 100%;
+  height: calc(100% - var(--footer-height));
+  width: calc(100% - 2rem);
 
   padding: 0 1rem 1rem 1rem;
   white-space: pre-wrap;
