@@ -1,18 +1,13 @@
----
-title: World Cup Semi-final
-description: Croatia vs England
-categories:
-  - Post
-regenerate: true
----
-**World Cup Semi Final<br/>
-7:00pm Saturday 11th July, 2018<br/>
+# World Cup Semi-final
+
+**Croatia vs England
+7:00pm Saturday 11th July, 2018
 Luzhniki Stadium (Attendance: 78,011)**
 
-Croatia **2**<br/>
+Croatia **2**
 Ivan Perisic (68')  Mario Mandzukic (109')
 
-England **1**<br/>
+England **1**
 Kieran Trippier (5')
 
 After enduring South Africa 2010, the most soulless sporting event I ever had the misfortune to attend, I vowed never again to go to anything organised by FIFA. Besides, over the years, I had witnessed Frank Lampard's equalising 'ghost goal' when England lost to the Germans in Bloemfontein and watched Waddle blast his penalty over the bar when also losing to Germany, on penalties, during the Semi-final at Italia '90. Furthermore, I had seen Beckham get sent off against Argentina at France '98, and Rooney do the same against Portugal at Germany '06, both games we again lost on penalties. So, despite seeing England win a few of the matches leading up to those epic failures, I was beginning to wonder whether I was a World Cup jinx. Hence, I had given Brazil '14 a wide berth. Besides, at the time, stories were rife of unrest in Rio at the corporate corruption of FIFA and the inequities of the awful impoverished conditions of the locals while the government spent billions on stadium infrastructure. Who wanted to be party to that? For similar reasons, I won't be going to Qatar.
@@ -68,5 +63,3 @@ No sign of Will there - he'd either caught his flight already or missed it entir
 Having landed, I had a moment wondering whether I had made a terrible mistake and arrived somewhere much friendlier than London because I thought I witnessed someone being kind to a group of foreign tourists (who didn't speak much English). Luckily, a tube sign confirmed I was indeed back at Heathrow, so I decided, due to my lack of sleep and caffeine overdose, I must've hallucinated that. There followed a mad dash back to Brighton, after which I jumped in my car to fetch the kids from school. I arrived just in time for my eldest daughter to emerge from the school gate: "Hello, daddy! Did you have a nice time?" I was too tired to decide whether I had, or not: "Not sure I can explain, right now, darling", I replied. "One day, I might write a story about it all". "It's rubbish we lost, though, daddy. Kinda weird to know you were there, too" she told me, as her sister joined us. "Ah well," I said, while we made our way back to the car. "Worse things happen at sea, I suppose. Now, what would you two like to do on Sunday, instead of watching the final?"
 
 I watched the final, after all. Vive la France! Perhaps, one day, I will get to witness England play that game. They might even win it! Whether I should go, though, is another matter entirely...
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Croatia vs England</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/misc/WorldCupSemi/" rel="dct:source">https://glowkeeper.github.io/assets/misc/WorldCupSemi/</a>.

@@ -3,11 +3,6 @@
 @import "typeface.css";
 
 body {
-  display: grid;
-  place-items: start start;
-
-  min-height: 100vh;
-
   margin: 0;
   padding: 0;
 
@@ -16,6 +11,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+#content {
+  display: grid;
+  grid-template-rows: var(--header-height) 1fr var(--footer-height);
+
+  min-height: 100vh;
 
   background-color: var(--background-colour);
 }
@@ -23,38 +25,25 @@ body {
 header {
   display: grid;
   grid-template-columns: repeat(9, auto);
-  position: fixed;
-  top: 0;
-  left: 0;
+
   z-index: 1;
 
   width: 100vw;
-  height: var(--header-height);
 
   background-color: var(--header-colour);
 }
 
 main {
-  width: 100vw;
-  height: 100vh;
-}
-
-main#content {
-  display: grid;
-  place-items: center center;
+  overflow-y: scroll;
   background-color: var(--home-active-colour);
 }
 
 footer {
   display: grid;
   place-items: center center;
-  position: fixed;
-  bottom: 0;
-  left: 0;
+  
   z-index: 1;
 
   width: 100vw;
-  height: var(--footer-height);
-
   background-color: var(--footer-colour);
 }

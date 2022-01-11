@@ -28,6 +28,17 @@ class LocalRoutesFlashFiction {
   static wisdom = `${LocalRoutes.flashFiction}/wisdom` 
 }
 
+class LocalRoutesMisc {
+
+  static anotherGreatEscape = `${LocalRoutes.misc}/another-great-escape`
+  static myGreatEscape = `${LocalRoutes.misc}/my-great-escape`
+  static patience = `${LocalRoutes.misc}/patience`
+  static scotlandEngland = `${LocalRoutes.misc}/scotland-vs-england`
+  static westHamEverton = `${LocalRoutes.misc}/west-ham-vs-everton`
+  static wind = `${LocalRoutes.misc}/wind`
+  static worldCupSemi = `${LocalRoutes.misc}/world-cup-semi`
+}
+
 export class UIText {
 
   static home = "home"
@@ -56,6 +67,17 @@ export class UITextFlashFiction {
   static eric = "eric"
   static fortunes = "fortunes always hiding"
   static wisdom = "wisdom"
+}
+
+export class UITextMisc {
+
+  static anotherGreatEscape = "another great escape"
+  static myGreatEscape = "my great escape"
+  static patience = "patience"
+  static scotlandEngland = "scotland vs england"
+  static westHamEverton = "west ham vs everton"
+  static wind = "wind"
+  static worldCupSemi = "world cup semi"
 }
 
 export const homeSections = {
@@ -111,7 +133,7 @@ export const aboutSections = {
     id: "about",
     title: UIText.about,
     route: LocalRoutes.contact + "/about",
-    src: "/assets/posts/about/about.md"
+    content: "/assets/posts/about/about.md"
   },
 }
 
@@ -120,7 +142,7 @@ export const cvSections = {
     id: "cv",
     title: UIText.cv,
     route: LocalRoutes.contact + "/cv",
-    src: "/assets/posts/cv/cv.md"
+    content: "/assets/posts/cv/cv.md"
   },
 }
 
@@ -132,7 +154,7 @@ export const contactSections = {
     id: "contact",
     title: UIText.contact,
     route: LocalRoutes.contact + "/contact",
-    src: "/assets/posts/contact/contact.md"
+    content: "/assets/posts/contact/contact.md"
   },
 }
 
@@ -141,35 +163,86 @@ export const academiaSections = {
     id: "academia",
     title: UIText.contact,
     route: LocalRoutes.academia + "/academia",
-    src: "/assets/posts/academia/academia.md"
+    content: "/assets/posts/academia/academia.md"
   },
 }
 export const appsSections = {}
 export const blogSections = {}
-export const booksSections = {}
+export const booksSections = {
+  books: {
+    id: "contact",
+    title: UIText.books,
+    route: LocalRoutes.books + "/books",
+    content: "/assets/posts/books/books.md"
+  },
+}
 
 export const flashFictionSections = {
   eric: {
     id: "flash-eric",
     title: UITextFlashFiction.eric,
     route: LocalRoutesFlashFiction.eric,
-    src: "/assets/posts/flashFiction/eric.md"
+    content: "/assets/posts/flashFiction/eric.md"
   },
   fortunes: {
     id: "flash-fortunes",
     title: UITextFlashFiction.fortunes,
     route: LocalRoutesFlashFiction.fortunes,
-    src: "/assets/posts/flashFiction/fortunesAlwaysHiding.md"
+    content: "/assets/posts/flashFiction/fortunesAlwaysHiding.md"
   },
   wisdom: {
     id: "flash-wisdom",
     title: UITextFlashFiction.wisdom,
     route: LocalRoutesFlashFiction.wisdom,
-    src: "/assets/posts/flashFiction/wisdom.md"
+    content: "/assets/posts/flashFiction/wisdom.md"
   }
 }
 
-export const miscSections = {}
+export const miscSections = {
+  anotherGreatEscape: {
+    id: "misc-another-great-escape",
+    title: UITextMisc.anotherGreatEscape,
+    route: LocalRoutesMisc.anotherGreatEscape,
+    content: "/assets/posts/misc/anotherGreatEscape.md"
+  },
+  myGreatEscape: {
+    id: "misc-my-great-escape",
+    title: UITextMisc.myGreatEscape,
+    route: LocalRoutesMisc.myGreatEscape,
+    content: "/assets/posts/misc/myGreatEscape.md"
+  },
+  patience: {
+    id: "misc-patience",
+    title: UITextMisc.patience,
+    route: LocalRoutesMisc.patience,
+    content: "/assets/posts/misc/patience.md"
+  },
+  scotlandEngland: {
+    id: "misc-scotland-vs-england",
+    title: UITextMisc.scotlandEngland,
+    route: LocalRoutesMisc.scotlandEngland,
+    content: "/assets/posts/misc/scotlandEngland.md"
+  },
+  westHamEverton: {
+    id: "misc-west-ham-vs-everton",
+    title: UITextMisc.westHamEverton,
+    route: LocalRoutesMisc.westHamEverton,
+    content: "/assets/posts/misc/westHamEverton.md"
+  },
+  wind: {
+    id: "misc-wind",
+    title: UITextMisc.wind,
+    route: LocalRoutesMisc.wind,
+    content: "/assets/posts/misc/wind.md"
+  },
+  worldCupSemi: {
+    id: "misc-world-cup-semi",
+    title: UITextMisc.worldCupSemi,
+    route: LocalRoutesMisc.worldCupSemi,
+    content: "/assets/posts/misc/worldCupSemi.md"
+  },
+}
+
 export const poetrySections = {}
 export const songsSections = {}
 export const storiesSections = {}

@@ -1,9 +1,7 @@
----
-title: Chickens and Eggs
-description: Our first trip to Stratford.
-categories:
-  - Post
----
+# Chickens and Eggs
+
+Our first trip to Stratford.
+
 **May, 2018**
 
 Original article posted on [Knees Up Mother Brown](http://www.kumb.com/article.php?id=4173).

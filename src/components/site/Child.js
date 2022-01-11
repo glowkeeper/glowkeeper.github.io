@@ -7,13 +7,13 @@ import ReactMarkdown from 'react-markdown'
 export const Child = (props) => {
     const [markdown, setMarkdown] = useState("");
 
-    const { src, id } = props
+    const { content, id } = props
 
     useEffect(() => {
-    fetch(src)
+    fetch(content)
         .then((res) => res.text())
         .then((text) => setMarkdown(text));
-    }, [src]);
+    }, [content]);
 
     return (
         <>

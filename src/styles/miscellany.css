@@ -1,0 +1,83 @@
+@import "variables.css";
+
+#misc-another-great-escape,
+#misc-my-great-escape,
+#misc-patience,
+#misc-scotland-vs-england,
+#misc-west-ham-vs-everton,
+#misc-wind,
+#misc-world-cup-semi {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  opacity: 0.4;
+  background-color: var(--home-inactive-colour);
+
+}
+
+#misc-another-great-escape:focus,
+#misc-another-great-escape:hover,
+#misc-my-great-escape:focus,
+#misc-my-great-escape:hover,
+#misc-patience:focus,
+#misc-patience:hover,
+#misc-scotland-vs-england:focus,
+#misc-west-ham-vs-everton:hover,
+#misc-wind:focus,
+#misc-wind:hover,
+#misc-world-cup-semi:focus,
+#misc-world-cup-semi:hover {
+  opacity: 1;
+  background-color: var(--home-active-colour);
+  animation: miscFadeIn linear 2s;
+}
+
+@keyframes miscFadeIn {
+  0% {opacity:0;}
+  50% {opacity:0.5;}
+  100% {opacity:1;}
+}
+
+#misc-another-great-escape-md,
+#misc-my-great-escape-md,
+#misc-patience-md,
+#misc-scotland-vs-england-md,
+#misc-west-ham-vs-everton-md,
+#misc-wind-md,
+#misc-world-cup-semi-md {
+  padding: 0 1rem 1rem 1rem;
+
+  overflow: auto;
+  white-space: pre-wrap;
+}
+
+#misc-another-great-escape-md > h1,
+#misc-my-great-escape-md > h1,
+#misc-patience-md > h1,
+#misc-scotland-vs-england-md > h1,
+#misc-west-ham-vs-everton-md > h1,
+#misc-wind-md > h1,
+#misc-world-cup-semi-md > h1 {
+  margin: 1rem 0 0 0;
+}
+
+#misc-another-great-escape-md > h2,
+#misc-my-great-escape-md > h2,
+#misc-patience-md > h2,
+#misc-scotland-vs-england-md > h2,
+#misc-west-ham-vs-everton-md > h2,
+#misc-wind-md > h2,
+#misc-world-cup-semi-md > h2 {
+  margin: 0;
+}
+
+#misc-another-great-escape-md img,
+#misc-my-great-escape-md img,
+#misc-patience-md img,
+#misc-scotland-vs-england-md img,
+#misc-west-ham-vs-everton-md img,
+#misc-wind-md img,
+#misc-world-cup-semi-md img {
+  width: 100%;
+}

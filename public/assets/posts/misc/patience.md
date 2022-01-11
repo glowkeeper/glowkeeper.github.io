@@ -1,9 +1,7 @@
----
-title: Patience
-description: A diary of a trip to Santander
-categories:
-  - Post
----
+# Patience
+
+A diary of a trip to Santander
+
 **9 September, 2017**
 
 The clock in the kitchen moved remorselessly on. "Come on, girls!" I shouted up to my children, who were busily shoving clothes into their suitcases; it seemed as though they had been doing that forever: "If you don't hurry, we'll miss the sailing!" We were going surfing in Northern Spain, and getting the ferry from Portsmouth (an hour West from where we lived, near Brighton) to Santander. We had plenty of time to spare, really, but I don't do 'late' very well; I much prefer arriving good and early, rather than rushing somewhere just-in-time.
@@ -43,5 +41,3 @@ After a bite to eat, Kyra was struggling with sea sickness, so she retreated to 
 The Isle of White came quickly into view, then Portsmouth and its new Aircraft Carrier of Death. Then we were waiting, once again, for the crew to offload us. Then waiting to go through customs. Then waiting to join the M275 and onto Brighton, and home.
 
 Usually, I love returning to Brighton - it's a glorious part of the world. But it had been such a fabulous holiday, and I'm beginning to fall in love with the Spanish region of Cantabria, so I was slightly sad when I finally closed my front door and sat down to rest. I can't wait until I see that part of the world again. Or perhaps I can. Because if I learned anything on this trip, then it's 'patience is a virtue'; rather than 'I can't wait', the sentiment should be that I'm looking forward to renewing my vigil and waiting patiently, whale spotting, on the Bay of Biscay.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Patience</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/misc/Patience/" rel="dct:source">https://glowkeeper.github.io/assets/misc/Patience/</a>.

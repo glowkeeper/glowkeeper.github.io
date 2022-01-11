@@ -1,9 +1,7 @@
----
-title: My Great Escape
-description: Three days of music and fun at Brighton's 2017 Great Escape festival.
-categories:
-  - Post
----
+# My Great Escape
+
+Three days of music and fun at Brighton's 2017 Great Escape festival.
+
 **May, 2017**
 
 My Great Escape began by watching [Fazerdaze](https://fazerdaze.bandcamp.com/) from behind a pillar at the [Queen's Hotel](http://queenshotelbrighton.com/); their pleasant indie guitar pop was a pleasing enough start. Afterwards, Alex sent me a message on WhatsApp: "The Black Lion's where it's at this afternoon." He runs Brighton's [Fat Cat records](https://www.fat-cat.co.uk/home), so he's very well informed and had already provided me with a playlist for the day's events. Alex told me to watch [Goat Girl](http://goatgirl.co.uk/), so when I arrived at the [Black Lion](http://www.blacklion.pub/) and discovered that they were playing at 2:30, I let him know. "I'll be there in ten minutes!" came his reply. Rich' joined us there, too.
@@ -53,5 +51,3 @@ I ended my festival experience by pogoing at the front to [Blood Red Shoes](http
 Before getting the bus, Rich bought a burger, and I tried on the halo and devil ears of some girls who had been out on a hen night. It soon became apparent that we had saved them from the seedy clutches of the fast food staff, who, to try and entice the girls out the back of the restaurant, had given them a free chicken burger. Even in their ever-so-tipsy state, the girls were a little freaked out by the experience, so my night ended with a superhero act. Clark Kent turns into a useless git whenever he does drugs (Kryptonite), but even after consuming copious amounts of alcohol, I remain capable. Ner.
 
 All in all, a brilliant three days of music and laughs. Bring on next year....
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">My Great Escape</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/misc/MyGreatEscape/" rel="dct:source">https://glowkeeper.github.io/assets/misc/MyGreatEscape/</a>.

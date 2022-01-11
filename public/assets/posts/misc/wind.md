@@ -1,10 +1,7 @@
----
-title: Wind
-description: This was a story written for the last night cabaret at the 2014 Buddhafield Family Friendly Retreat.
-categories:
-  - Post
-regenerate: true
----
+# Wind
+
+This was a story written for the last night cabaret at the 2014 Buddhafield Family Friendly Retreat.
+
 **17 August, 2014**
 
 **Me**: After a long journey west, the moors suddenly loom into view, dark and foreboding. They conjure a sense of times long forgotten, when elves and fairies lead the ceremonies that honoured the changing of the seasons. And if you listen carefully, you can still hear their ancient magic on the breeze; to this day, that magic makes the ash trees shimmer. I open the doors, and the children disappear to explore the Mill. It's as if they've come home; I hear them giggle as they gather sticks to race under the bridge over the stream that divides the land. But, after the long journey, I'm tired and hungry, so I seek out a warm, comforting cup of tea. What's for dinner, I wonder?
@@ -42,5 +39,3 @@ regenerate: true
 **Audience**: Oh no! Not lentils again!
 
 **Rick**: _farts_
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Wind</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://glowkeeper.github.io/" property="cc:attributionName" rel="cc:attributionURL">Steve Huckle</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://glowkeeper.github.io/assets/misc/Wind/" rel="dct:source">https://glowkeeper.github.io/assets/misc/Wind/</a>.

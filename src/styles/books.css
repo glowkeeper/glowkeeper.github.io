@@ -1,16 +1,16 @@
 @import "variables.css";
 
-#academia-md {
+#books-md {
   padding: 0 1rem 1rem 1rem;
 
   overflow: auto;
   white-space: pre-wrap;
 }
 
-#academia-md > h1 {
+#books-md > h1 {
   margin: 1rem 0 0 0;
 }
 
-#academia-md > h2 {
+#books-md > h2 {
   margin: 0;
 }
