@@ -228,7 +228,14 @@ export const appsSections = {
   }
 }
 
-export const blogSections = {}
+export const blogSections = {
+  blog: {
+    id: "blog",
+    title: UIText.blog,
+    route: LocalRoutes.blog + "/blog",
+    content: "/assets/posts/blog/blog.md"
+  },
+}
 
 export const booksSections = {
   books: {
@@ -467,7 +474,7 @@ export const siteSections = {
     id: "blog",
     title: UIText.blog,
     route: LocalRoutes.blog,
-    sections: appsSections
+    sections: blogSections
   },
   books: {
     id: "books",
