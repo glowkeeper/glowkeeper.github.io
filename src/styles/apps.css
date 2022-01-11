@@ -1,6 +1,6 @@
 @import "variables.css";
 
-#cv-md {
+#apps-md {
   position: fixed;
   height: 100%;
   width: 100%;
@@ -11,17 +11,15 @@
   overflow-y: scroll;
 }
 
-#cv-md > h1 {
+#apps-md > h1 {
   margin: 1rem 0 0 0;
 }
 
-#cv-md > h2 {
-  margin: 0;
+#apps-md > h2 {
+  margin: 1rem 0 0 0;
 }
 
-#cv-md > ul {
+#apps-md > ul {
   margin: 0;
   white-space: normal;
 }
-
-

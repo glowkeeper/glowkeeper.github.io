@@ -198,11 +198,21 @@ export const academiaSections = {
     content: "/assets/posts/academia/academia.md"
   },
 }
-export const appsSections = {}
+
+export const appsSections = {
+  apps: {
+    id: "apps",
+    title: UIText.apps,
+    route: LocalRoutes.apps + "/apps",
+    content: "/assets/posts/apps/apps.md"
+  }
+}
+
 export const blogSections = {}
+
 export const booksSections = {
   books: {
-    id: "contact",
+    id: "books",
     title: UIText.books,
     route: LocalRoutes.books + "/books",
     content: "/assets/posts/books/books.md"
