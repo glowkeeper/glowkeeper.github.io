@@ -55,6 +55,16 @@ export class LocalRoutesPoetry {
   static winter = `${LocalRoutes.poetry}/winter`
 }
 
+export class LocalRoutesSongs {
+
+  static collegeCampus = `${LocalRoutes.songs}/college-campus`
+  static echoChamber = `${LocalRoutes.songs}/echo-chamber`
+  static if = `${LocalRoutes.songs}/if`
+  static iRememberWhen = `${LocalRoutes.songs}/i-remember-when`
+  static onTheStreet = `${LocalRoutes.songs}/on-the-street`
+  static whatsWrongWithNow = `${LocalRoutes.songs}/whats-wrong-with-now`
+}
+
 export class UIText {
 
   static home = "home"
@@ -110,6 +120,16 @@ export class UITextPoetry {
   static soonToBe73 = "soon to be 73"
   static theRoad = "the road"
   static winter = "winter"
+}
+
+export class UITextSongs {
+
+  static collegeCampus = "college campus"
+  static echoChamber = "echo chamber"
+  static if = "if"
+  static iRememberWhen = "i remember when"
+  static onTheStreet = "on the street"
+  static whatsWrongWithNow = "what's wrong with now"
 }
 
 export const homeSections = {
@@ -360,7 +380,44 @@ export const poetrySections = {
   },
 }
 
-export const songsSections = {}
+export const songsSections = {
+  collegeCampus: {
+    id: "songs-college-campus",
+    title: UITextSongs.collegeCampus,
+    route: LocalRoutesSongs.collegeCampus,
+    content: "/assets/posts/songs/collegeCampus.md"
+  },
+  echoChamber: {
+    id: "songs-echo-chamber",
+    title: UITextSongs.echoChamber,
+    route: LocalRoutesSongs.echoChamber,
+    content: "/assets/posts/songs/echoChamber.md"
+  },
+  if: {
+    id: "songs-if",
+    title: UITextSongs.if,
+    route: LocalRoutesSongs.if,
+    content: "/assets/posts/songs/if.md"
+  },
+  iRememberWhen: {
+    id: "songs-i-remember-when",
+    title: UITextSongs.iRememberWhen,
+    route: LocalRoutesSongs.iRememberWhen,
+    content: "/assets/posts/songs/iRememberWhen.md"
+  },
+  onTheStreet: {
+    id: "songs-on-the-street",
+    title: UITextSongs.onTheStreet,
+    route: LocalRoutesSongs.onTheStreet,
+    content: "/assets/posts/songs/onTheStreet.md"
+  },
+  whatsWrongWithNow: {
+    id: "songs-whats-wrong-with-now",
+    title: UITextSongs.whatsWrongWithNow,
+    route: LocalRoutesSongs.whatsWrongWithNow,
+    content: "/assets/posts/songs/whatsWrongWithNow.md"
+  },
+}
 export const storiesSections = {}
 
 export const siteSections = {

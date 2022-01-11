@@ -1,0 +1,64 @@
+@import "variables.css";
+
+#songs-college-campus,
+#songs-echo-chamber,
+#songs-if,
+#songs-i-remember-when,
+#songs-on-the-street,
+#songs-whats-wrong-with-now {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  opacity: 0.4;
+  background-color: var(--home-inactive-colour);
+
+}
+
+#songs-college-campus:focus,
+#songs-college-campus:hover,
+#songs-echo-chamber:focus,
+#songs-echo-chamber:hover,
+#songs-if:focus,
+#songs-if:hover,
+#songs-i-remember-when:focus,
+#songs-i-remember-when:hover,
+#songs-on-the-street:focus,
+#songs-on-the-street:hover,
+#songs-whats-wrong-with-now:focus,
+#songs-whats-wrong-with-now:hover {
+  opacity: 1;
+  background-color: var(--home-active-colour);
+  animation: flashFadeIn linear 2s;
+}
+
+@keyframes flashFadeIn {
+  0% {opacity:0;}
+  50% {opacity:0.5;}
+  100% {opacity:1;}
+}
+
+#songs-college-campus-md,
+#songs-echo-chamber-md,
+#songs-if-md,
+#songs-i-remember-when-md,
+#songs-on-the-street-md,
+#songs-whats-wrong-with-now-md {
+  position: fixed;
+  height: calc(100% - var(--footer-height) - var(--header-height));
+  width: calc(100% - 2rem);
+
+  padding: 0 1rem 1rem 1rem;
+  white-space: pre-wrap;
+
+  overflow-y: scroll;
+}
+
+#songs-college-campus-md > h1,
+#songs-echo-chamber-md > h1,
+#songs-if-md > h1,
+#songs-i-remember-when-md > h1,
+#songs-on-the-street-md > h1,
+#songs-whats-wrong-with-now-md > h1 {
+  margin: 1rem 0 0 0;
+}
