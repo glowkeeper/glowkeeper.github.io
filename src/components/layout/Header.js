@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react";
 
-import {MainMenu} from './MainMenu'
-
 export const Header = (props) => {
   const [anchors, setAnchors] = useState([])
   const { sections } = props
@@ -53,7 +51,6 @@ export const Header = (props) => {
         })}
       </div>
       <>&nbsp;</>
-      <MainMenu />
     </header>
   );
 }
