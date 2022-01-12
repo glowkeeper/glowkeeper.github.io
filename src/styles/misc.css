@@ -45,6 +45,26 @@ a:active {
   color: var(--links-colour-active);
 }
 
+a.content {
+  color: var(--links-colour-link);
+}
+
+a.content:visited {
+  color: var(--links-colour-visited);
+}
+
+a.content:hover {
+  color: var(--links-colour-visited);
+}
+
+a.content:active {
+  color: var(--links-colour-active);
+}
+
+footer > p {
+  font-size: 0.8rem;
+}
+
 table,
 tr,
 td, 
@@ -52,7 +72,15 @@ th {
   border: none
 }
 
-button.theme-toggle {
+button#theme-toggle {
+  border-radius: 10px;
+  border: 1px solid black;
+
+  background-color: var(--content-active-colour);
+  color: var(--text-colour);
+}
+
+button#main-menu {
   border-radius: 10px;
   border: 1px solid black;
 

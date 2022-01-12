@@ -30,7 +30,11 @@ export const Linker = (props) => {
             {Object.keys(sections).map((section, index) => {
             const thisSection = sections[`${section}`]
             return (  
-                <Link key={index} to={thisSection.route}>
+                <Link 
+                    className="content"
+                    key={index}
+                    to={thisSection.route}
+                >
                 <div
                     tabIndex={index}
                     id={thisSection.id}

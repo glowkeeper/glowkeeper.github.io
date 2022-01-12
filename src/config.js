@@ -96,6 +96,9 @@ export class UIText {
   static cv = "cv"
   static contact = "contact"
 
+  static eProfessional = "e-professional: s dot huckle at sussex dot ac dot uk"
+  static ePersonal = "e-personal: steve dot huckle at gmail dot com"
+
   static darkModeToggle = "toggle dark mode"
 }
 

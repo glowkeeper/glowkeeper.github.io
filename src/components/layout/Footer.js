@@ -18,8 +18,15 @@ export const Footer = () => {
 
   return (
     <footer>
+      <p>
+        {UIText.eProfessional}<br/>
+        {UIText.ePersonal}
+      </p>
+      <>
+        &nbsp;
+      </>
       <button
-        className="theme-toggle"
+        id="theme-toggle"
         onClick={() => {
           const isDark = !darkTheme
           const theme = isDark ? 'dark' : 'light'        

@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from "react";
 
+import {MainMenu} from './MainMenu'
+
 export const Header = (props) => {
   const [anchors, setAnchors] = useState([])
   const { sections } = props
@@ -26,28 +28,32 @@ export const Header = (props) => {
 
   return (
     <header>
-      {sections && Object.keys(sections).map((section, index) => {
-        const thisSection = sections[`${section}`]
-        return (
-          <button
-            key={index}
-            className="navbar-button"
-            onClick={() => {
-              if (anchors[index]) {
-                anchors[index].scrollIntoView({
-                  block: "nearest",
-                  inline: "center",
-                  behavior: "smooth",
-                  alignToTop: false
-                })
-                anchors[index].focus({preventScroll: true})
-              }
-            }}
-          >
-            {thisSection.title}
-          </button>          
-        )
-      })}
+      <div id="context-menu">
+        {sections && Object.keys(sections).map((section, index) => {
+          const thisSection = sections[`${section}`]
+          return (
+            <button
+              key={index}
+              className="navbar-button"
+              onClick={() => {
+                if (anchors[index]) {
+                  anchors[index].scrollIntoView({
+                    block: "nearest",
+                    inline: "center",
+                    behavior: "smooth",
+                    alignToTop: false
+                  })
+                  anchors[index].focus({preventScroll: true})
+                }
+              }}
+            >
+              {thisSection.title}
+            </button>          
+          )
+        })}
+      </div>
+      <>&nbsp;</>
+      <MainMenu />
     </header>
   );
 }

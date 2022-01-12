@@ -23,14 +23,23 @@ body {
 
 header {
   display: grid;
-  grid-template-columns: repeat(9, auto);
+  place-items: center center;
+  grid-template-columns: auto 1fr auto;
+
+  padding: 0 1rem 0 1rem;
 
   z-index: 1;
 
-  width: 100vw;
+  width: calc(100vw - 2rem);
   height: 100%;
   
   background-color: var(--header-colour);
+}
+
+header > #context-menu {
+  display: grid;
+  place-items: start start;
+  grid-template-columns: repeat(9, auto);
 }
 
 main {
@@ -40,7 +49,8 @@ main {
 
 footer {
   display: grid;
-  place-items: center end;
+  place-items: center center;
+  grid-template-columns: auto 1fr auto;
 
   padding: 0 1rem 0 1rem;
   
@@ -50,4 +60,5 @@ footer {
   height: 100%;
 
   background-color: var(--footer-colour);
+  color: var(--text-colour);
 }
