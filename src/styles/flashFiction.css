@@ -8,7 +8,7 @@
   height: 100%;
 
   opacity: 0.4;
-  background-color: var(--home-inactive-colour);
+  background-color: var(--content-inactive-colour);
 
 }
 
@@ -19,7 +19,7 @@
 #flash-wisdom:focus,
 #flash-wisdom:hover {
   opacity: 1;
-  background-color: var(--home-active-colour);
+  background-color: var(--content-active-colour);
   animation: flashFadeIn linear 2s;
 }
 

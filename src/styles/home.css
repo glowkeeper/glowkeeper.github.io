@@ -14,7 +14,7 @@
   height: 100%;
 
   opacity: 0.4;
-  background-color: var(--home-inactive-colour);
+  background-color: var(--content-inactive-colour);
 
 }
 
@@ -37,7 +37,7 @@
 #home-stories:focus,
 #home-stories:hover {
   opacity: 1;
-  background-color: var(--home-active-colour);
+  background-color: var(--content-active-colour);
   animation: homeFadeIn linear 2s;
 }
 

@@ -12,7 +12,7 @@
   height: 100%;
 
   opacity: 0.4;
-  background-color: var(--home-inactive-colour);
+  background-color: var(--content-inactive-colour);
 }
 
 #misc-another-great-escape:focus,
@@ -28,7 +28,7 @@
 #misc-world-cup-semi:focus,
 #misc-world-cup-semi:hover {
   opacity: 1;
-  background-color: var(--home-active-colour);
+  background-color: var(--content-active-colour);
   animation: miscFadeIn linear 2s;
 }
 

@@ -17,7 +17,7 @@
   height: 100%;
 
   opacity: 0.4;
-  background-color: var(--home-inactive-colour);
+  background-color: var(--content-inactive-colour);
 
 }
 
@@ -46,7 +46,7 @@
 #poetry-winter:focus,
 #poetry-winter:hover {
   opacity: 1;
-  background-color: var(--home-active-colour);
+  background-color: var(--content-active-colour);
   animation: poetryFadeIn linear 2s;
 }
 
