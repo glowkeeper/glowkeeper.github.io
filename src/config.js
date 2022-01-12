@@ -96,8 +96,7 @@ export class UIText {
   static cv = "cv"
   static contact = "contact"
 
-  // flash fiction
-  static flash
+  static darkModeToggle = "toggle dark mode"
 }
 
 export class UITextFlashFiction {

@@ -8,29 +8,29 @@
   --content-inactive-colour: rgba(255, 228, 230, 0.5);
   --content-active-colour: rgba(255, 228, 230, 1);
 
-  --header-height: 4rem;
-  --footer-height: 4rem;
-
-  --table-spacing: 40px 5px;
-
   --links-colour-link: rgb(33, 14, 207);
   --links-colour-visited: purple;
   --links-colour-hover: rgb(211, 115, 25);
   --links-colour-active: red;
+
+  --header-height: 4rem;
+  --footer-height: 4rem;
+
+  --table-spacing: 40px 5px;
 }
 
 :root[data-theme="dark"] {
-  --background-colour: rgba(254, 205, 211, 1);
+  --background-colour: rgb(126, 62, 69);
   --header-colour: rgba(136, 19, 55, 1);
   --footer-colour: rgba(159, 18, 57, 1);
 
   --text-colour: #ffffff;
 
   --content-inactive-colour: rgba(251, 113, 133, 0.5);
-  --content-active-colour: rgba(253, 164, 175, 1);
+  --content-active-colour: rgb(190, 74, 87);
 
-  --links-colour-link: rgb(230, 229, 236);
-  --links-colour-visited: rgb(231, 228, 15);
+  --links-colour-link: rgb(87, 150, 223);
+  --links-colour-visited: rgb(24, 80, 11);
   --links-colour-hover: rgb(211, 115, 25);
   --links-colour-active: red;
   
@@ -39,7 +39,7 @@
 :root[data-theme="light"] {
 
   --background-colour: rgba(255, 241, 242, 1);
-  --header-colour: rgba(251, 113, 133, 1);
+  --header-colour: rgb(211, 112, 127);
   --footer-colour: rgba(251, 113, 133, 1);
 
   --text-colour: #000000;

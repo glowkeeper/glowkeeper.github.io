@@ -1,20 +1,35 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+
+import { UIText } from '../../config'
 
 export const Footer = () => {
-  const [lightTheme, setLightTheme] = useState(true)
+  const [darkTheme, setDarkTheme] = useState(true)
 
   const root = document.documentElement;
+  const themeKey = 'theme'
+
+  useEffect(() => {
+    const thisTheme = window.localStorage.getItem(themeKey) || 
+      window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    root.setAttribute('data-theme', thisTheme);
+    const isDark = thisTheme === 'dark' ? true : false;  
+    setDarkTheme(isDark);  
+  }, [root])
 
   return (
     <footer>
       <button
+        className="theme-toggle"
         onClick={() => {
-          const isLight = !lightTheme
-          const theme = isLight ? 'light' : 'dark'          
+          const isDark = !darkTheme
+          const theme = isDark ? 'dark' : 'light'        
           root.setAttribute('data-theme', theme);
-          setLightTheme(isLight)
+          setDarkTheme(isDark)
+          window.localStorage.setItem(themeKey, theme)
         }}
-      >Toggle Dark Mode</button>
+      >
+        {UIText.darkModeToggle}
+      </button>
     </footer>
   );
 }
