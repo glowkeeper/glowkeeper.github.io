@@ -16,7 +16,12 @@ export const Router = () => {
               <>
                 <Route
                     path={thisSection.route}
-                    element={<Linker sections={thisSection.sections} /> }
+                    element={
+                      <Linker
+                        siteSections={siteSections}
+                        sections={thisSection.sections}
+                      />
+                    }
                 />
                 {section !== "home" && Object.keys(thisSection.sections).map((mySection, thisIndex) => {
                   const myRoute = thisSection.sections[`${mySection}`].route
@@ -25,7 +30,13 @@ export const Router = () => {
                   return (
                       <Route
                           path={myRoute}
-                          element={<Content id={myId} content={myContent} /> }
+                          element={
+                            <Content 
+                              siteSections={siteSections}
+                              content={myContent}
+                              id={myId} 
+                            />
+                          }
                       />
                   )
                 })}

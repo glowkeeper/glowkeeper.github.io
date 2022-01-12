@@ -1,8 +1,10 @@
 import React, { useEffect, useState } from "react";
 
+import {Menu} from './Menu';
+
 export const Header = (props) => {
   const [anchors, setAnchors] = useState([])
-  const { sections } = props
+  const { siteSections, sections } = props
 
   //console.log(sections)
 
@@ -27,30 +29,13 @@ export const Header = (props) => {
   return (
     <header>
       <div id="context-menu">
-        {sections && Object.keys(sections).map((section, index) => {
-          const thisSection = sections[`${section}`]
-          return (
-            <button
-              key={index}
-              className="navbar-button"
-              onClick={() => {
-                if (anchors[index]) {
-                  anchors[index].scrollIntoView({
-                    block: "nearest",
-                    inline: "center",
-                    behavior: "smooth",
-                    alignToTop: false
-                  })
-                  anchors[index].focus({preventScroll: true})
-                }
-              }}
-            >
-              {thisSection.title}
-            </button>          
-          )
-        })}
+        {sections && <Menu sections={sections} id="navbar-button" />}
       </div>
       <>&nbsp;</>
+
+      <div id="site-menu">
+        {siteSections && <Menu sections={siteSections} id="site-menu" />}
+      </div>
     </header>
   );
 }

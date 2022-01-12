@@ -42,6 +42,12 @@ header > #context-menu {
   grid-template-columns: repeat(9, auto);
 }
 
+header > #site-menu {
+  display: grid;
+  place-items: start start;
+  grid-template-columns: repeat(9, auto);
+}
+
 main {
   overflow-y: scroll;
   background-color: var(--content-active-colour);

@@ -8,8 +8,10 @@ import remarkGfm from 'remark-gfm'
 export const Content = (props) => {
     const [markdown, setMarkdown] = useState("");
 
-    const { content, id } = props
+    const { siteSections, content, id} = props
 
+    console.log('site stuff', siteSections )
+    
     useEffect(() => {
     fetch(content)
         .then((res) => res.text())
@@ -18,7 +20,7 @@ export const Content = (props) => {
 
     return (
         <>
-        <Header />
+        <Header siteSections={siteSections} />
         <main>
             <div
                 id={`${id}-md`}
