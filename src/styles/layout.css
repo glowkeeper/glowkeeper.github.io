@@ -1,5 +1,4 @@
 @import "variables.css";
-@import "theme.css";
 @import "typeface.css";
 
 body {
@@ -36,7 +35,7 @@ header {
 
 main {
   overflow-y: scroll;
-  background-color: var(--home-active-colour);
+  background-color: var(--content-active-colour);
 }
 
 footer {

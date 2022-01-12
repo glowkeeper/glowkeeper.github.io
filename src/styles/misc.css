@@ -26,7 +26,23 @@ code {
 }
 
 .app-link {
-  color: #61dafb;
+  color: var(--links-colour-link);
+}
+
+a {
+  color: var(--links-colour-link);
+}
+
+a:visited {
+  color: var(--links-colour-visited);
+}
+
+a:hover {
+  color: var(--links-colour-hover);
+}
+
+a:active {
+  color: var(--links-colour-active);
 }
 
 table,
