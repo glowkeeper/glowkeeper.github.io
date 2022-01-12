@@ -96,6 +96,8 @@ export class UIText {
   static cv = "cv"
   static contact = "contact"
 
+  static copyright = "© 2022, Dr Steve Huckle, all rights reserve"
+
   static eProfessional = "e-professional: s dot huckle at sussex dot ac dot uk"
   static ePersonal = "e-personal: steve dot huckle at gmail dot com"
 

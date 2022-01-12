@@ -22,9 +22,9 @@ export const Footer = () => {
         {UIText.eProfessional}<br/>
         {UIText.ePersonal}
       </p>
-      <>
-        &nbsp;
-      </>
+      <p>
+        {UIText.copyright}
+      </p>
       <button
         id="theme-toggle"
         onClick={() => {
