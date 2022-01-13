@@ -39,13 +39,13 @@ header {
 header > #context-menu {
   display: grid;
   place-items: start start;
-  grid-template-columns: repeat(9, auto);
+  grid-template-columns: 1fr;
 }
 
 header > #site-menu {
   display: grid;
   place-items: start start;
-  grid-template-columns: repeat(9, auto);
+  grid-template-columns: 1fr;
 }
 
 main {
