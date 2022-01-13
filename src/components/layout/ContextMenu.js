@@ -22,34 +22,33 @@ export const ContextMenu = (props) => {
 
   }, [sections])
 
-
-  //console.log('my sections', sections)
-
   return (
     <nav id="context-nav">
-      <a href="#close">×</a>
-      {Object.keys(sections).map((section, index) => {
-        const thisSection = sections[`${section}`]
-        return (  
-          <button
-            key={index}
-            className="navbar-button"
-            onClick={() => {
-              if (anchors[index]) {
-                anchors[index].scrollIntoView({
-                  block: "nearest",
-                  inline: "center",
-                  behavior: "smooth",
-                  alignToTop: false
-                })
-                anchors[index].focus({preventScroll: true})
-              }
-            }}
-          >
-            {thisSection.title}
-          </button>   
-        )
-      })}
+      <a className=".context-close" href="#close">x close</a>
+      <div id="context-items">
+        {Object.keys(sections).map((section, index) => {
+          const thisSection = sections[`${section}`]
+          return (  
+            <button
+              key={index}
+              className="context-link"
+              onClick={() => {
+                if (anchors[index]) {
+                  anchors[index].scrollIntoView({
+                    block: "nearest",
+                    inline: "center",
+                    behavior: "smooth",
+                    alignToTop: false
+                  })
+                  anchors[index].focus({preventScroll: true})
+                }
+              }}
+            >
+              {thisSection.title}
+            </button>   
+          )
+        })}
+      </div>
     </nav>
   );
 }

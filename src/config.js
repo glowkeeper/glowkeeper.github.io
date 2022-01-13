@@ -94,7 +94,6 @@ export class UIText {
 
   static about = "about"
   static cv = "cv"
-  static contact = "contact"
 
   static copyright = "© 2022, Dr Steve Huckle, all rights reserve"
 
@@ -225,15 +224,6 @@ export const cvSections = {
     title: UIText.cv,
     route: LocalRoutes.contact + "/cv",
     content: "/assets/posts/cv/cv.md"
-  },
-}
-
-export const contactSections = {
-  contact: {
-    id: "contact",
-    title: UIText.contact,
-    route: LocalRoutes.contact + "/contact",
-    content: "/assets/posts/contact/contact.md"
   },
 }
 
@@ -534,12 +524,6 @@ export const siteSections = {
     title: UIText.cv,
     route: LocalRoutes.cv,
     sections: cvSections
-  },
-  contact: {
-    id: "contact",
-    title: UIText.contact,
-    route: LocalRoutes.contact,
-    sections: contactSections
   },
   academia: {
     id: "academia",

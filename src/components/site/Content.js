@@ -10,7 +10,7 @@ export const Content = (props) => {
 
     const { siteSections, content, id} = props
 
-    console.log('site stuff', siteSections )
+    //console.log('site stuff', siteSections )
     
     useEffect(() => {
     fetch(content)

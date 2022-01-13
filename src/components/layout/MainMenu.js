@@ -7,24 +7,26 @@ export const MainMenu = (props) => {
 
   return (
     <nav id="main-nav">
-      <a href="#close">×</a>
-      {Object.keys(sections).map((section, index) => {
-        const thisSection = sections[`${section}`]
-        return (  
-            <Link 
-                className="content"
-                key={index}
-                to={thisSection.route}
-            >
-                <div
-                    tabIndex={index}
-                    id={thisSection.id}
-                >
-                    {thisSection.title}
-                </div>
-            </Link>    
-        )
-      })}
+      <a className="main-close" href="#close">close ×</a>
+      <div id="main-items">
+        {Object.keys(sections).map((section, index) => {
+          const thisSection = sections[`${section}`]
+          return (  
+              <Link 
+                  className="content"
+                  key={index}
+                  to={thisSection.route}
+              >
+                  <div
+                      tabIndex={index}
+                      id={thisSection.id}
+                  >
+                      {thisSection.title}
+                  </div>
+              </Link>    
+          )
+        })}
+      </div>
     </nav>
   );
 }

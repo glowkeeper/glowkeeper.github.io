@@ -1,66 +1,5 @@
 @import "variables.css";
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
-#app-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  #app-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-.app-link {
-  color: var(--links-colour-link);
-}
-
-a {
-  color: var(--links-colour-link);
-}
-
-a:visited {
-  color: var(--links-colour-visited);
-}
-
-a:hover {
-  color: var(--links-colour-hover);
-}
-
-a:active {
-  color: var(--links-colour-active);
-}
-
-a.content {
-  color: var(--links-colour-link);
-}
-
-a.content:visited {
-  color: var(--links-colour-visited);
-}
-
-a.content:hover {
-  color: var(--links-colour-visited);
-}
-
-a.content:active {
-  color: var(--links-colour-active);
-}
-
 footer > p {
   font-size: 0.8rem;
 }
@@ -73,14 +12,6 @@ th {
 }
 
 button#theme-toggle {
-  border-radius: 10px;
-  border: 1px solid black;
-
-  background-color: var(--content-active-colour);
-  color: var(--text-colour);
-}
-
-button#main-menu {
   border-radius: 10px;
   border: 1px solid black;
 

@@ -11,7 +11,7 @@ export const Header = (props) => {
         {sections && (
           <>
             <a href="#context-nav">context open</a>
-            <ContextMenu sections={sections} />
+            <ContextMenu sections={sections}/>
           </>
         )}
       </div>

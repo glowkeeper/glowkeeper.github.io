@@ -1,6 +1,39 @@
 @import "variables.css";
 
-.navbar-button {
+a {
+  color: var(--links-colour-link);
+  text-decoration: none;
+}
+
+a:visited {
+  color: var(--links-colour-visited);
+}
+
+a:hover {
+  color: var(--links-colour-hover);
+}
+
+a:active {
+  color: var(--links-colour-active);
+}
+
+a.content {
+  color: var(--links-colour-link);
+}
+
+a.content:visited {
+  color: var(--links-colour-visited);
+}
+
+a.content:hover {
+  color: var(--links-colour-visited);
+}
+
+a.content:active {
+  color: var(--links-colour-active);
+}
+
+button.context-link {
   border: none;
   outline: none;
   background: none;
@@ -8,25 +41,28 @@
   margin: 0;
   padding: 0;
 
+  font-size: 1rem;
+
   color: var(--links-colour-link);
 }
 
-.navbar-button:visited {
+button.context-link:hover {
   color: var(--links-colour-visited);
 }
 
-.navbar-button:hover {
-  color: var(--links-colour-hover);
-}
-
-.navbar-button:active {
+button.context-link:active {
   color: var(--links-colour-active);
 }
 
 #context-nav {
-  position: fixed; /* or choose `absolute` depending on desired behavior*/
+  display: grid;
+  grid-template-rows: 1rem auto;
+
+  position: fixed;
   top: 0;
   bottom: 0;
+
+  padding: 1rem;
 
   height: 100vh;
   width: 300px;
@@ -36,14 +72,29 @@
   transition: transform .5s ease-in-out;
 }
 
+#context-items {
+  display: grid;
+  place-items: center center;
+}
+
+.context-close {
+  display: grid;
+  place-items: center start;
+}
+
 #context-nav:target {
   transform: translateX(340px);
 }
 
 #main-nav {
-  position: fixed; /* or choose `absolute` depending on desired behavior*/
+  display: grid;
+  grid-template-rows: 1rem auto;
+
+  position: fixed;
   top: 0;
   bottom: 0;
+
+  padding: 1rem;
 
   height: 100vh;
   width: 300px;
@@ -51,6 +102,16 @@
 
   background-color: var(--menu-colour);
   transition: transform .5s ease-in-out;
+}
+
+#main-items {
+  display: grid;
+  place-items: center center;
+}
+
+.main-close {
+  display: grid;
+  place-items: center end;
 }
 
 #main-nav:target {
