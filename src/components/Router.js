@@ -1,10 +1,10 @@
 import React from "react";
 import { Route, Routes } from "react-router"
 
-import { Linker } from '../site/Linker'
-import { Content } from '../site/Content'
+import { Linker } from './site/Linker'
+import { Content } from './site/Content'
 
-import { siteSections } from '../../config'
+import { siteSections } from '../config'
 
 export const Router = () => {
 

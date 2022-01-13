@@ -9,8 +9,6 @@ export const Content = (props) => {
     const [markdown, setMarkdown] = useState("");
 
     const { siteSections, content, id} = props
-
-    //console.log('site stuff', siteSections )
     
     useEffect(() => {
     fetch(content)
