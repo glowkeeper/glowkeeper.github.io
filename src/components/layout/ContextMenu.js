@@ -1,13 +1,8 @@
 import { useState, useEffect } from 'react';
 
-import { Link } from "react-router-dom"
-
-import { UIText } from '../../config'
-
 export const ContextMenu = (props) => {
   const [anchors, setAnchors] = useState([])
-  const [isOpen, setIsOpen] = useState(false)
-  const {sections, id} = props
+  const {sections} = props
 
   useEffect(() => {
     if (sections) {
@@ -31,43 +26,31 @@ export const ContextMenu = (props) => {
   //console.log('my sections', sections)
 
   return (
-    <>
-      <button 
-        id={id}
-        onClick={() => {
-          setIsOpen(!isOpen)
-        }}
-      >
-        {isOpen ? (
-          <>
-            {Object.keys(sections).map((section, index) => {
-              const thisSection = sections[`${section}`]
-              return (  
-                <button
-                  key={index}
-                  className="navbar-button"
-                  onClick={() => {
-                    if (anchors[index]) {
-                      anchors[index].scrollIntoView({
-                        block: "nearest",
-                        inline: "center",
-                        behavior: "smooth",
-                        alignToTop: false
-                      })
-                      anchors[index].focus({preventScroll: true})
-                    }
-                  }}
-                >
-                  {thisSection.title}
-                </button>   
-              )
-            })}
-          </>
-        ) : (
-          <p>more blah</p>
-        )}
-      </button>
-    </>
+    <nav id="context-nav">
+      <a href="#close">×</a>
+      {Object.keys(sections).map((section, index) => {
+        const thisSection = sections[`${section}`]
+        return (  
+          <button
+            key={index}
+            className="navbar-button"
+            onClick={() => {
+              if (anchors[index]) {
+                anchors[index].scrollIntoView({
+                  block: "nearest",
+                  inline: "center",
+                  behavior: "smooth",
+                  alignToTop: false
+                })
+                anchors[index].focus({preventScroll: true})
+              }
+            }}
+          >
+            {thisSection.title}
+          </button>   
+        )
+      })}
+    </nav>
   );
 }
 

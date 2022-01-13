@@ -2,6 +2,7 @@
   --background-colour: rgba(255, 241, 242, 1);
   --header-colour: rgba(251, 113, 133, 1);
   --footer-colour: rgba(251, 113, 133, 1);
+  --menu-colour: rgb(245, 176, 186);
 
   --text-colour: #000000;
 
@@ -23,6 +24,7 @@
   --background-colour: rgb(126, 62, 69);
   --header-colour: rgba(136, 19, 55, 1);
   --footer-colour: rgba(159, 18, 57, 1);
+  --menu-colour: rgb(145, 100, 107);
 
   --text-colour: #ffffff;
 
@@ -41,6 +43,7 @@
   --background-colour: rgba(255, 241, 242, 1);
   --header-colour: rgb(211, 112, 127);
   --footer-colour: rgba(251, 113, 133, 1);
+  --menu-colour: rgb(245, 176, 186);
 
   --text-colour: #000000;
 

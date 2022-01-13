@@ -22,3 +22,38 @@
 .navbar-button:active {
   color: var(--links-colour-active);
 }
+
+#context-nav {
+  position: fixed; /* or choose `absolute` depending on desired behavior*/
+  top: 0;
+  bottom: 0;
+
+  height: 100vh;
+  width: 300px;
+  left: -340px;
+
+  background-color: var(--menu-colour);
+  transition: transform .5s ease-in-out;
+}
+
+#context-nav:target {
+  transform: translateX(340px);
+}
+
+#main-nav {
+  position: fixed; /* or choose `absolute` depending on desired behavior*/
+  top: 0;
+  bottom: 0;
+
+  height: 100vh;
+  width: 300px;
+  right: -340px;
+
+  background-color: var(--menu-colour);
+  transition: transform .5s ease-in-out;
+}
+
+#main-nav:target {
+  transform: translateX(-340px);
+}
+

@@ -8,7 +8,7 @@ import { Header } from '../layout/Header'
 export const Linker = (props) => {
     const { siteSections, sections } = props
 
-    console.log('linker sections', siteSections, sections)
+    //console.log('linker sections', siteSections, sections)
 
     const navigate = useNavigate()
 
