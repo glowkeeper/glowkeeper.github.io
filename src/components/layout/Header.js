@@ -8,22 +8,12 @@ export const Header = (props) => {
   return (
     <header>
       <div id="context-menu">
-        {sections && (
-          <>
-            <a href="#context-nav">context open</a>
-            <ContextMenu sections={sections}/>
-          </>
-        )}
+        {sections && <ContextMenu sections={sections}/>}
       </div>
       <>&nbsp;</>
 
       <div id="site-menu">
-        {siteSections && (
-          <>
-            <a href="#main-nav">main open</a>
-            <MainMenu sections={siteSections} />
-          </>
-        )}
+        {siteSections && <MainMenu sections={siteSections}/>}
       </div>
     </header>
   );

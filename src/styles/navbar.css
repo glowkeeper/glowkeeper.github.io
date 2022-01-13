@@ -33,7 +33,39 @@ a.content:active {
   color: var(--links-colour-active);
 }
 
-button.context-link {
+#context-nav {
+  display: grid;
+  grid-template-rows: 1rem auto;
+
+  position: fixed;
+  top: 0;
+  bottom: 0;
+
+  padding: 1rem;
+
+  height: 100vh;
+  width: 200px;
+  left: -200px;
+
+  background-color: var(--menu-colour);
+  transition: transform .8s ease-in-out;
+}
+
+#context-nav.open {
+  transform: translateX(200px);
+}
+
+#context-nav.close {
+  transform: translateX(-200px);
+}
+
+#context-items {
+  display: grid;
+  place-items: center center;
+}
+
+button.context-link,
+button.context-link-close {
   border: none;
   outline: none;
   background: none;
@@ -46,44 +78,18 @@ button.context-link {
   color: var(--links-colour-link);
 }
 
-button.context-link:hover {
+button.context-link-close {
+  text-align: left;
+}
+
+button.context-link:hover,
+button.context-link-close:hover {
   color: var(--links-colour-visited);
 }
 
-button.context-link:active {
+button.context-link:active,
+button.context-link-close:active {
   color: var(--links-colour-active);
-}
-
-#context-nav {
-  display: grid;
-  grid-template-rows: 1rem auto;
-
-  position: fixed;
-  top: 0;
-  bottom: 0;
-
-  padding: 1rem;
-
-  height: 100vh;
-  width: 300px;
-  left: -340px;
-
-  background-color: var(--menu-colour);
-  transition: transform .5s ease-in-out;
-}
-
-#context-items {
-  display: grid;
-  place-items: center center;
-}
-
-.context-close {
-  display: grid;
-  place-items: center start;
-}
-
-#context-nav:target {
-  transform: translateX(340px);
 }
 
 #main-nav {
@@ -101,20 +107,47 @@ button.context-link:active {
   right: -340px;
 
   background-color: var(--menu-colour);
-  transition: transform .5s ease-in-out;
+  transition: transform .8s ease-in-out;
+}
+
+button.main-link,
+button.main-link-close {
+  border: none;
+  outline: none;
+  background: none;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+
+  font-size: 1rem;
+
+  color: var(--links-colour-link);
+}
+
+button.main-link-close {
+  text-align: right;
+}
+
+button.main-link:hover,
+button.main-link-close:hover {
+  color: var(--links-colour-visited);
+}
+
+button.main-link:active,
+button.main-link-close:active {
+  color: var(--links-colour-active);
+}
+
+#main-nav.open {
+  transform: translateX(-340px);
+}
+
+#main-nav.close {
+  transform: translateX(340px);
 }
 
 #main-items {
   display: grid;
   place-items: center center;
-}
-
-.main-close {
-  display: grid;
-  place-items: center end;
-}
-
-#main-nav:target {
-  transform: translateX(-340px);
 }
 
