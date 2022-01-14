@@ -14,8 +14,10 @@
   --links-colour-hover: red;
   --links-colour-active: rgb(216, 80, 17);
 
-  --header-height: 4rem;
-  --footer-height: 4rem;
+  --header-height: 2rem;
+  --footer-height: 2rem;
+  --header-open-height: 2rem;
+  --footer-open-height: 5rem;
 
   --table-spacing: 40px 5px;
 }

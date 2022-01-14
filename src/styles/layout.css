@@ -24,28 +24,10 @@ body {
 header {
   display: grid;
   place-items: center center;
-  grid-template-columns: auto 1fr auto;
-
-  padding: 0 1rem 0 1rem;
 
   z-index: 1;
-
-  width: calc(100vw - 2rem);
-  height: 100%;
   
   background-color: var(--header-colour);
-}
-
-header > #context-menu {
-  display: grid;
-  place-items: start start;
-  grid-template-columns: 1fr;
-}
-
-header > #site-menu {
-  display: grid;
-  place-items: start start;
-  grid-template-columns: 1fr;
 }
 
 main {
@@ -56,15 +38,10 @@ main {
 footer {
   display: grid;
   place-items: center center;
-  grid-template-columns: 1fr 1fr 1fr;
 
-  padding: 0 1rem 0 1rem;
-  
   z-index: 1;
-
-  width: calc(100vw - 2rem);
-  height: 100%;
 
   background-color: var(--footer-colour);
   color: var(--text-colour);
 }
+

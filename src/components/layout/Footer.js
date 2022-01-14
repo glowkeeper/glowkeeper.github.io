@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react';
 import { UIText } from '../../config'
 
 export const Footer = () => {
+  const [isOpen, setIsOpen] = useState(false)
   const [darkTheme, setDarkTheme] = useState(true)
 
   const root = document.documentElement;
@@ -18,25 +19,45 @@ export const Footer = () => {
 
   return (
     <footer>
-      <p>
-        {UIText.eProfessional}<br/>
-        {UIText.ePersonal}
-      </p>
-      <p>
-        {UIText.copyright}
-      </p>
+
       <button
-        id="theme-toggle"
-        onClick={() => {
-          const isDark = !darkTheme
-          const theme = isDark ? 'dark' : 'light'        
-          root.setAttribute('data-theme', theme);
-          setDarkTheme(isDark)
-          window.localStorage.setItem(themeKey, theme)
-        }}
+        id="footer-toggle"
+        onClick={() => setIsOpen(true)}
       >
-        {UIText.darkModeToggle}
+        ⌃
       </button>
+      <div
+        id="footer"
+        className={isOpen ? "open" : "close"}
+      >
+        <button 
+          id="footer-toggle"
+          onClick={() => setIsOpen(false)}
+        >
+          ⌄
+        </button>
+        <div id="footer-content">
+          <p>
+            {UIText.eProfessional}<br/>
+            {UIText.ePersonal}
+          </p>
+          <p>
+            {UIText.copyright}
+          </p>
+          <button
+            id="theme-toggle"
+            onClick={() => {
+              const isDark = !darkTheme
+              const theme = isDark ? 'dark' : 'light'        
+              root.setAttribute('data-theme', theme);
+              setDarkTheme(isDark)
+              window.localStorage.setItem(themeKey, theme)
+            }}
+          >
+            {UIText.darkModeToggle}
+          </button>
+        </div>
+      </div>
     </footer>
   );
 }

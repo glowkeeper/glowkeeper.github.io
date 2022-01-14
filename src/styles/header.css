@@ -1,0 +1,51 @@
+@import "variables.css";
+
+#header {
+  display: grid;
+  place-items: center center;
+  grid-template-columns: auto 1fr auto;
+
+  position: fixed;
+  top: calc(var(--header-open-height) * -1);
+  bottom: calc(100vh - var(--header-height));
+  left: 0;
+  right: 0;
+
+  padding: 0 1rem 0 1rem;
+
+  width: calc(100vw - 2rem);
+
+  background-color: var(--header-colour);
+  color: var(--text-colour);
+  transition: transform .8s ease-in-out;
+}
+
+#header-content {
+  display: grid;
+  place-items: center center;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+#header.open {
+  transform: translateY(var(--header-open-height));
+}
+
+#header.close {
+  transform: translateY(calc(var(--header-open-height) * -1));
+}
+
+
+header > #context-menu,
+header > #site-menu {
+  display: grid;
+  place-items: start start;
+  grid-template-columns: 1fr;
+}
+
+button#header-toggle {
+  border-radius: 10px;
+  border: 1px solid black;
+
+  background-color: var(--content-active-colour);
+  color: var(--text-colour);
+}
