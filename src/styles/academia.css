@@ -1,6 +1,37 @@
 @import "variables.css";
 
-#academia-md {
+#academia-teaching,
+#academia-phd,
+#academia-msc {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  opacity: 0.4;
+  background-color: var(--content-inactive-colour);
+
+}
+
+#academia-teaching:focus,
+#academia-teaching:hover,
+#academia-phd:focus,
+#academia-phd:hover,
+#academia-msc:focus,
+#academia-msc:hover {
+  opacity: 1;
+  background-color: var(--content-active-colour);
+  animation: flashFadeIn linear 2s;
+}
+
+@keyframes flashFadeIn {
+  0% {opacity:0;}
+  50% {opacity:0.5;}
+  100% {opacity:1;}
+}
+
+#academia-teaching-md,
+#academia-phd-md,
+#academia-msc-md {
   position: fixed;
   height: calc(100% - var(--footer-height) - var(--header-height));
   width: calc(100% - 2rem);
@@ -11,29 +42,29 @@
   overflow-y: scroll;
 }
 
-#academia-md > h1 {
+#academia-teaching-md > h1,
+#academia-phd-md > h1,
+#academia-msc-md > h1 {
   margin: 1rem 0 0 0;
 }
 
-#academia-md > h2 {
-  margin: 0;
-}
-
-#academia-md > h3 {
-  margin: 0;
-}
-
-#academia-md > h4 {
-  margin: 0;
-}
-
-#academia-md img {
+#academia-teaching-md img,
+#academia-phd-md img,
+#academia-msc-md img {
   width: 100%;
 }
 
-#academia-md table,
-#academia-md tr,
-#academia-md td,
-#academia-md th {
+#academia-teaching-md table,
+#academia-teaching-md tr,
+#academia-teaching-md td,
+#academia-teaching-md th,
+#academia-phd-md table,
+#academia-phd-md tr,
+#academia-phd-md td,
+#academia-phd-md th,
+#academia-msc-md table,
+#academia-msc-md tr,
+#academia-msc-md td,
+#academia-msc-md th {
   border: 1px solid #555;
 }

@@ -20,13 +20,13 @@ class LocalRoutes {
       static 
 }
 
-export class LocalRoutesApps {
+export class LocalRoutesAcademia {
 
-  /* static storymaker = "https://glowkeeper.github.io/storymaker/"
-  static rectangles = "https://glowkeeper.github.io/rectangle-react/" */
-  static storymaker = `${LocalRoutes.apps}/storymaker`
-  static rectangles = `${LocalRoutes.apps}/rectangles` 
+  static teaching = `${LocalRoutes.academia}/teaching`
+  static phd = `${LocalRoutes.academia}/phd` 
+  static msc = `${LocalRoutes.academia}/msc` 
 }
+
 class LocalRoutesFlashFiction {
 
   static eric = `${LocalRoutes.flashFiction}/eric`
@@ -109,6 +109,14 @@ export class UIText {
 
   static darkModeToggle = "toggle dark mode"
 }
+
+export class UITextAcademia {
+
+  static teaching = "teaching"
+  static phd = "phd"
+  static msc = "msc"
+}
+
 export class UITextApps {
 
   static storymaker = "storymaker"
@@ -246,11 +254,23 @@ export const cvSections = {
 }
 
 export const academiaSections = {
-  academia: {
-    id: "academia",
-    title: UIText.contact,
-    route: LocalRoutes.academia + "/academia",
-    content: "/assets/posts/academia/academia.md"
+  teaching: {
+    id: "academia-teaching",
+    title: UITextAcademia.teaching,
+    route: LocalRoutesAcademia.teaching,
+    content: "/assets/posts/academia/teaching.md"
+  },
+  phd: {
+    id: "academia-phd",
+    title: UITextAcademia.phd,
+    route: LocalRoutesAcademia.phd,
+    content: "/assets/posts/academia/phd.md"
+  },
+  msc: {
+    id: "academia-msc",
+    title: UITextAcademia.msc,
+    route: LocalRoutesAcademia.msc,
+    content: "/assets/posts/academia/msc.md"
   },
 }
 

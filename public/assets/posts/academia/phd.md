@@ -1,26 +1,22 @@
-# Academia
-
-All things academia.
-
-## PhD
+# PhD
 
 A list of works produced during my PhD at the [University of Sussex](http://www.sussex.ac.uk/).
 
-### Thesis
+## Thesis
 
 [Cryptocurrencies and Beyond: Using Design Science Research to Demonstrate Diverse Applications of Blockchains](/assets/docs/pHDThesis.pdf)
 
-### Software
+## Software
 
 ![](/assets/images/allFiveArtefacts.png)
 
-#### Cryptocurrency Token
+### Cryptocurrency Token
 
 | Token | Description | Rinkeby Test Network Address |
 |:-----|:-------------|:-----------------------------|
 | [Enervator](https://github.com/glowkeeper/Enervator) (EOR) | A cryptocurrency that incentivises energy efficiency | [0x5483b2996bba07330e188fe10bb101d4c1ac8530](https://rinkeby.etherscan.io/token/0x5483b2996bba07330e188fe10bb101d4c1ac8530) |
 
-#### Applications
+### Applications
 
 To load the app's below, you will need to be running [Firefox](https://www.mozilla.org/) with the [Dat P2P Protocol](https://addons.mozilla.org/en-GB/firefox/addon/dat-p2p-protocol/) and [MetaMask](https://metamask.io/) extensions installed. [MetaMask](https://metamask.io/) should be pointing at the Rinkeby Test Network, and you will need a few test Ether in your [MetaMask](https://metamask.io/) wallet - you can get those from the [Rinkeby Faucet](https://faucet.rinkeby.io/).
 
@@ -31,7 +27,7 @@ To load the app's below, you will need to be running [Firefox](https://www.mozil
 | [ReportAid](https://github.com/glowkeeper/ReportAid) | A blockchain-based distributed application (dApp) for humanitarian aid reporting | [http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/](http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/) |
 | [Provenator](https://github.com/glowkeeper/Provenator) | A dApp for proving the origins of captured digital media | [http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9](http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9/) |
 
-### Published Journal Papers
+## Published Journal Papers
 
 | Title | Date Published | Publisher | Where | DOI |
 |:------|:---------------|:----------|:------|:----|
@@ -39,19 +35,19 @@ To load the app's below, you will need to be running [Firefox](https://www.mozil
 | [Towards a post-cash society: An application to convert fiat money into a cryptocurrency](http://firstmonday.org/ojs/index.php/fm/article/view/7410/6003 "Towards a post-cash society") |  6th March, 2017 | First Monday | Volume 22, Number 3, March 6 2017 | [10.5210/fm.v22i3.7410]( http://dx.doi.org/10.5210/fm.v22i3.7410 "10.5210/fm.v22i3.7410") |
 | [Socialism and the Blockchain]( http://www.mdpi.com/1999-5903/8/4/49 "Socialism and the Blockchain") | 18th October, 2016 | MDPI | Future Internet 2016, 8(4), 49 | [10.3390/fi8040049](http://dx.doi.org/10.3390/fi8040049 "10.3390/fi8040049") |
 
-### Published Conference Papers
+## Published Conference Papers
 
 | Title | Date Published | Publisher | Where | DOI |
 |:------|:---------------|:----------|:------|:----|
 | [Internet of Things, Blockchain and Shared Economy Applications](http://dx.doi.org/10.1016/j.procs.2016.09.074 "Internet of Things, Blockchain and Shared Economy Applications") | 22nd September, 2016 | Elsevier | Procedia Computer Science, Volume 98, 2016, Pages 461–466 | [10.1016/j.procs.2016.09.074]( http://dx.doi.org/10.1016/j.procs.2016.09.074 "10.1016/j.procs.2016.09.074") |
 
-### Published Independent Media Articles
+## Published Independent Media Articles
 
 | Title | Date Published | Publisher |
 |:------|:---------------|:----------|
 | [Bitcoin’s high energy consumption is a concern – but it may be a price worth paying](https://theconversation.com/bitcoins-high-energy-consumption-is-a-concern-but-it-may-be-a-price-worth-paying-106282) | 7th November, 2018 | [The Conversation](https://theconversation.com/uk) |
 
-### Public Speaking
+## Public Speaking
 
 | Title | Info' | Date | Where | Presentation |
 |:------|:------|:-----|:------|:-------------|
@@ -79,31 +75,23 @@ _Introduction to Blockchain Application Development at [Wired Sussex](https://ww
 
 ![](/assets/images/dCBrighton190318.png)
 
-### Poster Presentations
+## Poster Presentations
 
 | Poster | Date | Where |
 |:-------|:-----|:------|
 | [Are Blockchains the Means By Which We Can Collaborate?](/assets/docs/poster120717.pdf) | Wednesday 12th July, 2017  | Chichester 1, [University of Sussex](http://www.sussex.ac.uk/) |
 
-### Training
+## Training
 
 | Title | Date | Where |
 |:------|:-----|:------|
 | Blockchain Development for Shared Economy Applications | 5th December, 2016 | American Express, Burgess Hill |
 
-### Lectures
+## Lectures
 
 | Title | Date | Where |
 |:------|:-----|:------|
 | [An Introduction to GitHub](https://github.com/glowkeeper/gitHubPresentation/blob/master/presentation/github.md) | A one hour lecture to Second Year Computer Science Undergraduates, for a Software Engineering module | [University of Sussex](http://www.sussex.ac.uk/) |
 | Topics in Computer Science (Blockchain Development for Shared Economy Applications) | 4 x 1 hour lectures on 28/11/16, 1/12/16, 5/12/16 and 8/12/16 | [University of Sussex](http://www.sussex.ac.uk/) |
-
-## MSc Thesis
-
-[Are the Government’s Plans Sufficient In Order to Meet the Legislative Targets for CO2e Emissions Set Out Within the Climate Change Act 2008?](/assets/docs/SteveHuckleThesis.pdf)
-
-## MSc Essays
-
-[How Best to Finance a Health System?](/assets/docs/FundingHealth.pdf) **&#124;** [How Best to Increase the Sustainability of Modern Binders?](/assets/docs/Cement.pdf) **&#124;** [Is Noise Changing Our Climate?](/assets/docs/NoiseAndClimate.pdf) **&#124;** [Meat Thy Maker](/assets/docs/MeatThyMaker.pdf) **&#124;** [Phallic Symbols of the 21st Century](/assets/docs/Skyscraper.pdf)
 
 &nbsp;
