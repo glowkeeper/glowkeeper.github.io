@@ -27,7 +27,6 @@ export class LocalRoutesApps {
   static storymaker = `${LocalRoutes.apps}/storymaker`
   static rectangles = `${LocalRoutes.apps}/rectangles` 
 }
-
 class LocalRoutesFlashFiction {
 
   static eric = `${LocalRoutes.flashFiction}/eric`
@@ -114,6 +113,12 @@ export class UITextApps {
 
   static storymaker = "storymaker"
   static rectangles = "rectangles"
+}
+
+export class UITextBooks {
+
+  static myAbi = "my abi"
+  static storiesFromTheCampfire = "stories from the campfire"
 }
 
 export class UITextFlashFiction {
@@ -253,13 +258,13 @@ export const appsSections = {
   storymaker: {
     id: "apps-storymaker",
     title: UITextApps.storymaker,
-    route: LocalRoutesApps.storymaker,
+    route: "",
     content: "https://glowkeeper.github.io/storymaker/"
   },
   rectangles: {
     id: "apps-rectangles",
     title: UITextApps.rectangles,
-    route: LocalRoutesApps.rectangles,
+    route: "",
     content: "https://glowkeeper.github.io/rectangle-react/"
   },
 }
@@ -274,11 +279,17 @@ export const blogSections = {
 }
 
 export const booksSections = {
-  books: {
-    id: "books",
-    title: UIText.books,
-    route: LocalRoutes.books + "/books",
-    content: "/assets/posts/books/books.md"
+  myAbi: {
+    id: "books-my-abi",
+    title: UITextBooks.myAbi,
+    route: "",
+    content: "https://app.gitbook.com/@stevehuckle/s/my-abi/"
+  },
+  storiesFromTheCampfire: {
+    id: "books-stories-from-the-campfire",
+    title: UITextBooks.storiesFromTheCampfire,
+    route: "",
+    content: "https://app.gitbook.com/@stevehuckle/s/stories-from-the-campfire/"
   },
 }
 

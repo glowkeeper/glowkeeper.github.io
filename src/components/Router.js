@@ -25,20 +25,26 @@ export const Router = () => {
                 />
                 {section !== "home" && Object.keys(thisSection.sections).map((mySection, thisIndex) => {
                   const myRoute = thisSection.sections[`${mySection}`].route
-                  const myId = thisSection.sections[`${mySection}`].id
-                  const myContent = thisSection.sections[`${mySection}`].content
-                  return (
-                      <Route
-                          path={myRoute}
-                          element={
-                            <Content 
-                              siteSections={siteSections}
-                              content={myContent}
-                              id={myId} 
-                            />
-                          }
-                      />
-                  )
+                  if ( myRoute ) {
+
+                    const myId = thisSection.sections[`${mySection}`].id
+                    const myContent = thisSection.sections[`${mySection}`].content
+                    return (
+                        <Route
+                            path={myRoute}
+                            element={
+                              <Content 
+                                siteSections={siteSections}
+                                content={myContent}
+                                id={myId} 
+                              />
+                            }
+                        />
+                    )
+
+                  } else {
+                    return null
+                  }
                 })}
               </>
             )

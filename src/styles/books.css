@@ -1,6 +1,33 @@
 @import "variables.css";
 
-#books-md {
+#books-my-abi,
+#books-stories-from-the-campfire {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  opacity: 0.4;
+  background-color: var(--content-inactive-colour);
+
+}
+
+#books-my-abi:focus,
+#books-my-abi:hover,
+#books-stories-from-the-campfire:focus,
+#books-stories-from-the-campfire:hover {
+  opacity: 1;
+  background-color: var(--content-active-colour);
+  animation: appsFadeIn linear 2s;
+}
+
+@keyframes appsFadeIn {
+  0% {opacity:0;}
+  50% {opacity:0.5;}
+  100% {opacity:1;}
+}
+
+#books-my-abi-md,
+#books-stories-from-the-campfire-md {
   position: fixed;
   height: calc(100% - var(--footer-height) - var(--header-height));
   width: calc(100% - 2rem);
@@ -11,10 +38,18 @@
   overflow-y: scroll;
 }
 
-#books-md > h1 {
+#books-my-abi-md > h1,
+#books-stories-from-the-campfire-md > h1 {
   margin: 1rem 0 0 0;
 }
 
-#books-md > h2 {
+#books-my-abi-md > h2,
+#books-stories-from-the-campfire-md > h2 {
+  margin: 1rem 0 0 0;
+}
+
+#books-my-abi-md > ul,
+#books-stories-from-the-campfire-md > ul {
   margin: 0;
+  white-space: normal;
 }

@@ -48,6 +48,7 @@ export const Linker = (props) => {
                 } else if (/^http/.test(thisLink) || /^https/.test(thisLink)) {
                     return ( 
                         <a 
+                            key={index}
                             href={thisLink}
                             target="_blank"
                             rel="noopener noreferrer"
