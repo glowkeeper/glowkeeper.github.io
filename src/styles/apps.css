@@ -1,6 +1,33 @@
 @import "variables.css";
 
-#apps-md {
+#apps-storymaker,
+#apps-rectangles {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  opacity: 0.4;
+  background-color: var(--content-inactive-colour);
+
+}
+
+#apps-storymaker:focus,
+#apps-storymaker:hover,
+#apps-rectangles:focus,
+#apps-rectangles:hover {
+  opacity: 1;
+  background-color: var(--content-active-colour);
+  animation: appsFadeIn linear 2s;
+}
+
+@keyframes appsFadeIn {
+  0% {opacity:0;}
+  50% {opacity:0.5;}
+  100% {opacity:1;}
+}
+
+#apps-storymaker-md,
+#apps-rectangles-md {
   position: fixed;
   height: calc(100% - var(--footer-height) - var(--header-height));
   width: calc(100% - 2rem);
@@ -11,15 +38,18 @@
   overflow-y: scroll;
 }
 
-#apps-md > h1 {
+#apps-storymaker-md > h1,
+#apps-rectangles-md > h1 {
   margin: 1rem 0 0 0;
 }
 
-#apps-md > h2 {
+#apps-storymaker-md > h2,
+#apps-rectangles-md > h2 {
   margin: 1rem 0 0 0;
 }
 
-#apps-md > ul {
+#apps-storymaker-md > ul,
+#apps-rectangles-md > ul {
   margin: 0;
   white-space: normal;
 }

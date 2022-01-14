@@ -11,9 +11,9 @@ export const Content = (props) => {
     const { siteSections, content, id} = props
     
     useEffect(() => {
-    fetch(content)
-        .then((res) => res.text())
-        .then((text) => setMarkdown(text));
+        fetch(content)
+            .then((res) => res.text())
+            .then((text) => setMarkdown(text));
     }, [content]);
 
     return (

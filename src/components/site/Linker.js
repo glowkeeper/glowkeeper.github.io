@@ -29,20 +29,42 @@ export const Linker = (props) => {
         <main>
             {Object.keys(sections).map((section, index) => {
                 const thisSection = sections[`${section}`]
-                return (  
-                    <Link 
-                        className="content"
-                        key={index}
-                        to={thisSection.route}
-                    >
-                        <div
-                            tabIndex={index}
-                            id={thisSection.id}
+                const thisLink = thisSection.content
+                if ( /\.md$/.test(thisLink) ) {
+                    return (  
+                        <Link 
+                            className="content"
+                            key={index}
+                            to={thisSection.route}
                         >
-                            {thisSection.title}
-                        </div>
-                    </Link>    
-                )
+                            <div
+                                tabIndex={index}
+                                id={thisSection.id}
+                            >
+                                {thisSection.title}
+                            </div>
+                        </Link>    
+                    )
+                } else if (/^http/.test(thisLink) || /^https/.test(thisLink)) {
+                    return ( 
+                        <a 
+                            href={thisLink}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            <div
+                                tabIndex={index}
+                                id={thisSection.id}
+                            >
+                                {thisSection.title}
+                            </div>        
+                        </a> 
+                    )
+                } else {
+                    return null
+                }
+ 
+                
             })}
         </main>
         </>

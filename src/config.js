@@ -20,6 +20,14 @@ class LocalRoutes {
       static 
 }
 
+export class LocalRoutesApps {
+
+  /* static storymaker = "https://glowkeeper.github.io/storymaker/"
+  static rectangles = "https://glowkeeper.github.io/rectangle-react/" */
+  static storymaker = `${LocalRoutes.apps}/storymaker`
+  static rectangles = `${LocalRoutes.apps}/rectangles` 
+}
+
 class LocalRoutesFlashFiction {
 
   static eric = `${LocalRoutes.flashFiction}/eric`
@@ -101,6 +109,11 @@ export class UIText {
   static ePersonal = "e-personal: steve dot huckle at gmail dot com"
 
   static darkModeToggle = "toggle dark mode"
+}
+export class UITextApps {
+
+  static storymaker = "storymaker"
+  static rectangles = "rectangles"
 }
 
 export class UITextFlashFiction {
@@ -237,12 +250,18 @@ export const academiaSections = {
 }
 
 export const appsSections = {
-  apps: {
-    id: "apps",
-    title: UIText.apps,
-    route: LocalRoutes.apps + "/apps",
-    content: "/assets/posts/apps/apps.md"
-  }
+  storymaker: {
+    id: "apps-storymaker",
+    title: UITextApps.storymaker,
+    route: LocalRoutesApps.storymaker,
+    content: "https://glowkeeper.github.io/storymaker/"
+  },
+  rectangles: {
+    id: "apps-rectangles",
+    title: UITextApps.rectangles,
+    route: LocalRoutesApps.rectangles,
+    content: "https://glowkeeper.github.io/rectangle-react/"
+  },
 }
 
 export const blogSections = {
