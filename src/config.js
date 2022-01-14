@@ -2,6 +2,7 @@ class LocalRoutes {
 
       static home = "/"
 
+      static about = `/about`
       static academia = `/academia`
       static apps = `/apps`
       static blog = `/blog`
@@ -12,17 +13,11 @@ class LocalRoutes {
       static songs = `/songs`
       static stories = `/stories`
 
-      static about = `/about`
-      static cv = `/cv`
-      static contact = `/contact`
-
-      // flash fiction
-      static 
 }
 
 export class LocalRoutesAbout {
 
-  static cv = `${LocalRoutes.academia}/cv` 
+  static cv = `${LocalRoutes.about}/cv` 
   static license = `${LocalRoutes.about}/license`
 }
 
@@ -95,6 +90,7 @@ export class UIText {
 
   static home = "home"
 
+  static about = "about"
   static academia = "academia"
   static apps = "apps"
   static blog = "blog"
@@ -105,9 +101,6 @@ export class UIText {
   static songs = "songs"
   static stories = "stories"
 
-  static about = "about"
-  static cv = "cv"
-
   static copyright = "© 2022, Dr Steve Huckle, all rights reserve"
 
   static eProfessional = "e-professional: s dot huckle at sussex dot ac dot uk"
@@ -116,7 +109,7 @@ export class UIText {
   static darkModeToggle = "toggle dark mode"
 }
 
-export class UITextAbout{
+export class UITextAbout {
 
   static cv = "cv"
   static license = "license"
@@ -200,6 +193,11 @@ export class UITextStories {
 }
 
 export const homeSections = {
+  about: {
+    id: "home-about",
+    title: UIText.about,
+    route: LocalRoutes.about
+  },
   academia: {
     id: "home-academia",
     title: UIText.academia,

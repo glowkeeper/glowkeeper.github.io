@@ -30,7 +30,9 @@ export const Linker = (props) => {
             {Object.keys(sections).map((section, index) => {
                 const thisSection = sections[`${section}`]
                 const thisLink = thisSection.content
-                if ( /\.md$/.test(thisLink) ) {
+                if ( !thisLink || /\.md$/.test(thisLink) ) {
+
+                    // internal - section links or markdown
                     return (  
                         <Link 
                             className="content"
@@ -46,6 +48,8 @@ export const Linker = (props) => {
                         </Link>    
                     )
                 } else if (/^http/.test(thisLink) || /^https/.test(thisLink)) {
+
+                    // external url
                     return ( 
                         <a 
                             key={index}
@@ -62,6 +66,8 @@ export const Linker = (props) => {
                         </a> 
                     )
                 } else {
+
+                    // shouldn't ever get here - unknown link type?
                     return null
                 }
  

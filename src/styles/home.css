@@ -1,5 +1,6 @@
 @import "variables.css";
 
+#home-about,
 #home-academia,
 #home-apps,
 #home-blog,
@@ -18,6 +19,8 @@
 
 }
 
+#home-about:focus,
+#home-about:focus,
 #home-academia:focus,
 #home-academia:hover,
 #home-apps:focus,
