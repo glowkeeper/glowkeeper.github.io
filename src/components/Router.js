@@ -13,7 +13,7 @@ export const Router = () => {
         {Object.keys(siteSections).map((section, index) => {
             const thisSection = siteSections[`${section}`]
             return (
-              <>
+              <React.Fragment key={index}>
                 <Route
                     path={thisSection.route}
                     element={
@@ -31,6 +31,7 @@ export const Router = () => {
                     const myContent = thisSection.sections[`${mySection}`].content
                     return (
                         <Route
+                            key={index + "-" + thisIndex}
                             path={myRoute}
                             element={
                               <Content 
@@ -46,7 +47,7 @@ export const Router = () => {
                     return null
                   }
                 })}
-              </>
+              </React.Fragment>
             )
         })}
     </Routes>
