@@ -1,6 +1,33 @@
 @import "variables.css";
 
-#about-md {
+#about-cv,
+#about-license {
+  display: grid;
+  place-items: center center;
+  height: 100%;
+
+  opacity: 0.4;
+  background-color: var(--content-inactive-colour);
+
+}
+
+#about-cv:focus,
+#about-cv:hover,
+#about-license:focus,
+#about-license:hover {
+  opacity: 1;
+  background-color: var(--content-active-colour);
+  animation: appsFadeIn linear 2s;
+}
+
+@keyframes appsFadeIn {
+  0% {opacity:0;}
+  50% {opacity:0.5;}
+  100% {opacity:1;}
+}
+
+#about-cv-md,
+#about-license-md {
   position: fixed;
   height: calc(100% - var(--footer-height) - var(--header-height));
   width: calc(100% - 2rem);
@@ -11,10 +38,18 @@
   overflow-y: scroll;
 }
 
-#about-md > h1 {
+#about-cv-md > h1,
+#about-license-md > h1 {
   margin: 1rem 0 0 0;
 }
 
-#about-md > h2 {
+#about-cv-md > h2,
+#about-license-md > h2 {
+  margin: 1rem 0 0 0;
+}
+
+#about-cv-md > ul,
+#about-license-md > ul {
   margin: 0;
+  white-space: normal;
 }

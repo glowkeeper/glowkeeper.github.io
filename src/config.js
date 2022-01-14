@@ -20,6 +20,12 @@ class LocalRoutes {
       static 
 }
 
+export class LocalRoutesAbout {
+
+  static cv = `${LocalRoutes.academia}/cv` 
+  static license = `${LocalRoutes.about}/license`
+}
+
 export class LocalRoutesAcademia {
 
   static teaching = `${LocalRoutes.academia}/teaching`
@@ -108,6 +114,12 @@ export class UIText {
   static ePersonal = "e-personal: steve dot huckle at gmail dot com"
 
   static darkModeToggle = "toggle dark mode"
+}
+
+export class UITextAbout{
+
+  static cv = "cv"
+  static license = "license"
 }
 
 export class UITextAcademia {
@@ -236,21 +248,18 @@ export const homeSections = {
 }
 
 export const aboutSections = {
-  contact: {
-    id: "about",
-    title: UIText.about,
-    route: LocalRoutes.contact + "/about",
-    content: "/assets/posts/about/about.md"
-  },
-}
-
-export const cvSections = {
   cv: {
-    id: "cv",
-    title: UIText.cv,
-    route: LocalRoutes.contact + "/cv",
-    content: "/assets/posts/cv/cv.md"
+    id: "about-cv",
+    title: UITextAbout.cv,
+    route: LocalRoutesAbout.cv,
+    content: "/assets/posts/about/cv.md"
   },
+  license: {
+    id: "about-license",
+    title: UITextAbout.license,
+    route: LocalRoutesAbout.license,
+    content: "/assets/posts/about/license.md"
+  }
 }
 
 export const academiaSections = {
@@ -568,12 +577,6 @@ export const siteSections = {
     title: UIText.about,
     route: LocalRoutes.about,
     sections: aboutSections
-  },
-  cv: {
-    id: "cv",
-    title: UIText.cv,
-    route: LocalRoutes.cv,
-    sections: cvSections
   },
   academia: {
     id: "academia",

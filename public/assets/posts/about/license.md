@@ -1,4 +1,4 @@
-# About
+# Site License
 
 Copyright © Steve Huckle, 2020.
 
