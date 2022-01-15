@@ -1,4 +1,4 @@
-class LocalRoutes {
+export class LocalRoutes {
 
       static home = "/"
 

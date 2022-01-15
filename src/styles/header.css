@@ -3,7 +3,6 @@
 #header {
   display: grid;
   place-items: center center;
-  grid-template-rows: 1fr 1fr;
   
   position: fixed;
   top: calc(var(--header-open-height) * -1);
@@ -15,22 +14,6 @@
   background-color: var(--header-colour);
   color: var(--text-colour);
   transition: transform .8s ease-in-out;
-}
-
-#header-content {
-  display: grid;
-  place-items: center center;
-  grid-template-columns: 1fr 1fr;
-}
-
-#content-menu {
-  display: grid;
-  place-items: center end;
-}
-
-#site-menu {
-  display: grid;
-  place-items: center end;
 }
 
 #header.open {

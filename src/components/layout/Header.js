@@ -5,6 +5,8 @@ import { Link } from "react-router-dom"
 import {ContextMenu} from './ContextMenu';
 import {MainMenu} from './MainMenu';
 
+import {LocalRoutes, UIText} from '../../config'
+
 export const Header = (props) => {
   const [isContextOpen, setIsContextOpen] = useState(false)
   const [isMainOpen, setIsMainOpen] = useState(false)
@@ -23,50 +25,68 @@ export const Header = (props) => {
       <div
         id="header"
         className={isOpen ? "open" : "close"}
-      >        
-        <div className="header-content">            
+      >
+        { sections ? (                    
           <button
             className="context-link"
-            onClick={() => setIsContextOpen(!isContextOpen)}
+            onClick={() => {
+              const contextOpen = !isContextOpen
+              setIsContextOpen(contextOpen)
+              if ( contextOpen ) {
+                setIsMainOpen(false)
+              }
+            }}
           >
             context menu
           </button>
-          <button
-            className="main-link"
-            onClick={() => setIsMainOpen(!isMainOpen)}
+
+        ): (
+
+          <Link 
+            className="context-link"
+            to={LocalRoutes.home}
           >
-            main menu
-          </button> 
-        </div>              
+            {UIText.home}
+          </Link> 
+
+        )}
+        <button
+          className="main-link"
+          onClick={() => {
+            const mainOpen = !isMainOpen
+            setIsMainOpen(mainOpen)
+            if ( mainOpen ) {
+              setIsContextOpen(false)
+            }
+          }}
+        >
+          main menu
+        </button>
         <button 
           id="header-toggle"
           onClick={() => setIsOpen(false)}
         >
           ⌃
         </button>
-        {
-          <>       
-            <div className="context-menu">
-              {sections && 
-                <ContextMenu 
-                  sections={sections}
-                  setIsOpen={setIsContextOpen}
-                  isOpen={isContextOpen}
-                />
-              }
-            </div> 
-            <div className="site-menu">
-              {siteSections && 
-                <MainMenu 
-                  sections={siteSections} 
-                  setIsOpen={setIsMainOpen}
-                  isOpen={isMainOpen}
-                />
-              }
-            </div>  
-          </> 
-        }
-      </div>       
+      </div>
+      {
+        <>
+          {sections && 
+            <ContextMenu 
+              sections={sections}
+              setIsOpen={setIsContextOpen}
+              isOpen={isContextOpen}
+            />
+          }
+          {siteSections && 
+            <MainMenu 
+              sections={siteSections} 
+              setIsOpen={setIsMainOpen}
+              isOpen={isMainOpen}
+            />
+          }
+        </> 
+      }      
     </header>
   );
 }

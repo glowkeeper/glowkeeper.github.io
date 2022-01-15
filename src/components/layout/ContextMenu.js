@@ -5,6 +5,7 @@ export const ContextMenu = (props) => {
   const {sections, isOpen, setIsOpen} = props
 
   useEffect(() => {
+    //console.log('mysections', sections)
     if (sections) {
 
       const anchors = Object.keys(sections).map(section => {

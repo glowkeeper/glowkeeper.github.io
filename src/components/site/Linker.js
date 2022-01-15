@@ -1,7 +1,5 @@
 import { useEffect } from 'react';
-import { useNavigate } from 'react-router-dom'
-
-import { Link } from "react-router-dom"
+import { useNavigate, Link } from 'react-router-dom'
 
 import { Header } from '../layout/Header'
 
@@ -67,7 +65,7 @@ export const Linker = (props) => {
                     )
                 } else {
 
-                    // shouldn't ever get here - unknown link type?
+                    // shouldn't ever get here - unknown link type? Still...
                     return null
                 }
  

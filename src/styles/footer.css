@@ -3,7 +3,7 @@
 #footer {
   display: grid;
   place-items: center center;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: auto auto;
 
   position: fixed;
   top: calc(100vh - var(--footer-height));
