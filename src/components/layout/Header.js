@@ -26,42 +26,45 @@ export const Header = (props) => {
         id="header"
         className={isOpen ? "open" : "close"}
       >
-        { sections ? (                    
+        <div>
+          { sections ? (                    
+            <button
+              className="context-link"
+              onClick={() => {
+                const contextOpen = !isContextOpen
+                setIsContextOpen(contextOpen)
+                if ( contextOpen ) {
+                  setIsMainOpen(false)
+                }
+              }}
+            >
+              context menu
+            </button>
+
+          ): (
+
+            <Link 
+              className="context-link"
+              to={LocalRoutes.home}
+            >
+              {UIText.home}
+            </Link> 
+
+          )}
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <button
-            className="context-link"
+            className="main-link"
             onClick={() => {
-              const contextOpen = !isContextOpen
-              setIsContextOpen(contextOpen)
-              if ( contextOpen ) {
-                setIsMainOpen(false)
+              const mainOpen = !isMainOpen
+              setIsMainOpen(mainOpen)
+              if ( mainOpen ) {
+                setIsContextOpen(false)
               }
             }}
           >
-            context menu
+            main menu
           </button>
-
-        ): (
-
-          <Link 
-            className="context-link"
-            to={LocalRoutes.home}
-          >
-            {UIText.home}
-          </Link> 
-
-        )}
-        <button
-          className="main-link"
-          onClick={() => {
-            const mainOpen = !isMainOpen
-            setIsMainOpen(mainOpen)
-            if ( mainOpen ) {
-              setIsContextOpen(false)
-            }
-          }}
-        >
-          main menu
-        </button>
+        </div>
         <button 
           id="header-toggle"
           onClick={() => setIsOpen(false)}

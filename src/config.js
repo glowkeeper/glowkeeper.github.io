@@ -18,7 +18,7 @@ export class LocalRoutes {
 export class LocalRoutesAbout {
 
   static cv = `${LocalRoutes.about}/cv` 
-  static license = `${LocalRoutes.about}/license`
+  static license = `${LocalRoutes.about}/site-license`
 }
 
 export class LocalRoutesAcademia {
@@ -112,7 +112,7 @@ export class UIText {
 export class UITextAbout {
 
   static cv = "cv"
-  static license = "license"
+  static license = "site license"
 }
 
 export class UITextAcademia {
