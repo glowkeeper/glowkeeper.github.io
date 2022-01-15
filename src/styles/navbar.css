@@ -3,6 +3,7 @@
 a {
   color: var(--links-colour-link);
   text-decoration: none;
+  text-align: center;
 }
 
 a:visited {

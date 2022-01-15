@@ -1,9 +1,8 @@
 import { useState, useEffect } from 'react';
 
 export const ContextMenu = (props) => {
-  const [isOpen, setIsOpen] = useState(false)
-  const [anchors, setAnchors] = useState([])
-  const {sections} = props
+  const [anchors, setAnchors] = useState([])  
+  const {sections, isOpen, setIsOpen} = props
 
   useEffect(() => {
     if (sections) {
@@ -24,13 +23,7 @@ export const ContextMenu = (props) => {
   }, [sections])
 
   return (
-    <>      
-      <button
-        className="context-link"
-        onClick={() => setIsOpen(true)}
-      >
-        context menu
-      </button>
+    <>
       <nav 
         id="context-nav"
         className={isOpen ? "open" : "close"}

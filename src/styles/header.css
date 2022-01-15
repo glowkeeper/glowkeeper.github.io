@@ -3,8 +3,8 @@
 #header {
   display: grid;
   place-items: center center;
-  grid-template-columns: auto 1fr auto;
-
+  grid-template-rows: 1fr 1fr;
+  
   position: fixed;
   top: calc(var(--header-open-height) * -1);
   bottom: calc(100vh - var(--header-height));
@@ -17,20 +17,28 @@
   transition: transform .8s ease-in-out;
 }
 
+#header-content {
+  display: grid;
+  place-items: center center;
+  grid-template-columns: 1fr 1fr;
+}
+
+#content-menu {
+  display: grid;
+  place-items: center end;
+}
+
+#site-menu {
+  display: grid;
+  place-items: center end;
+}
+
 #header.open {
   transform: translateY(var(--header-open-height));
 }
 
 #header.close {
   transform: translateY(calc(var(--header-open-height) * -1));
-}
-
-
-header > #context-menu,
-header > #site-menu {
-  display: grid;
-  place-items: start start;
-  grid-template-columns: 1fr;
 }
 
 button#header-toggle {

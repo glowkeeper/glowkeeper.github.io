@@ -1,18 +1,10 @@
-import { useState } from 'react'
 import { Link } from "react-router-dom"
 
 export const MainMenu = (props) => {
-  const [isOpen, setIsOpen] = useState(false)
-  const {sections} = props
+  const {sections, isOpen, setIsOpen} = props
 
   return (
     <>
-      <button
-        className="main-link"
-        onClick={() => setIsOpen(true)}
-      >
-        main menu
-      </button>
       <nav 
         id="main-nav"
         className={isOpen ? "open" : "close"}
@@ -42,8 +34,7 @@ export const MainMenu = (props) => {
             )
           })}
         </div>
-      </nav>
-      
+      </nav>      
     </>
   );
 }

@@ -11,6 +11,11 @@ th {
   border: none
 }
 
+button {
+  margin: 0;
+  padding: 0;
+}
+
 button#theme-toggle {
   border-radius: 10px;
   border: 1px solid black;
