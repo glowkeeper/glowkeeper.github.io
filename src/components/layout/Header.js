@@ -10,36 +10,32 @@ import {LocalRoutes, UIText} from '../../config'
 export const Header = (props) => {
   const [isContextOpen, setIsContextOpen] = useState(false)
   const [isMainOpen, setIsMainOpen] = useState(false)
-  const [isOpen, setIsOpen] = useState(false)
-  const { siteSections, sections } = props
+  const { title, siteSections, sections } = props
 
-  //console.log(sections)
+  console.log('site', siteSections)
+  console.log('sect', sections)
   return (
     <header>
-      <button
-        id="header-toggle"
-        onClick={() => setIsOpen(true)}
-      >
-        ⌄
-      </button>
       <div
         id="header"
-        className={isOpen ? "open" : "close"}
       >
-        <div>
-          { sections ? (                    
-            <button
-              className="context-link"
-              onClick={() => {
-                const contextOpen = !isContextOpen
-                setIsContextOpen(contextOpen)
-                if ( contextOpen ) {
-                  setIsMainOpen(false)
-                }
-              }}
-            >
-              context menu
-            </button>
+        <div id="header-context">  
+          { sections ? (   
+
+                      
+              <button
+                className="context-link"
+                onClick={() => {
+                  const contextOpen = !isContextOpen
+                  setIsContextOpen(contextOpen)
+                  if ( contextOpen ) {
+                    setIsMainOpen(false)
+                  }
+                }}
+              >
+                <div><p id="menu-burger">≡</p></div>
+                <div>{title} menu</div>
+              </button>
 
           ): (
 
@@ -51,7 +47,9 @@ export const Header = (props) => {
             </Link> 
 
           )}
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+        </div>  
+        <div id="header-main"> 
           <button
             className="main-link"
             onClick={() => {
@@ -62,15 +60,10 @@ export const Header = (props) => {
               }
             }}
           >
-            main menu
+            <div><p id="menu-burger">≡</p></div>
+            <div>main menu</div>
           </button>
         </div>
-        <button 
-          id="header-toggle"
-          onClick={() => setIsOpen(false)}
-        >
-          ⌃
-        </button>
       </div>
       {
         <>

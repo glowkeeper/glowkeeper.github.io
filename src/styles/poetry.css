@@ -78,23 +78,6 @@
   overflow-y: scroll;
 }
 
-#poetry-difficult-md > h1,
-#poetry-dreamland-md > h1,
-#poetry-if-md > h1,
-#poetry-i-kneel-md > h1,
-#poetry-monkey-md > h1,
-#poetry-not-christmas-md > h1,
-#poetry-orgreave-md > h1,
-#poetry-prudictive-md > h1,
-#poetry-santa-claus-md > h1,
-#poetry-soon-to-be-73-md > h1,
-#poetry-the-road-md > h1,
-#poetry-winter-md > h1 {
-  margin: 1rem 0 0 0;
-}
-
-
-
 #poetry-difficult-md table,
 #poetry-dreamland-md table,
 #poetry-if-md table,

@@ -4,7 +4,7 @@ import { useNavigate, Link } from 'react-router-dom'
 import { Header } from '../layout/Header'
 
 export const Linker = (props) => {
-    const { siteSections, sections } = props
+    const { title, siteSections, sections } = props
 
     const navigate = useNavigate()
 
@@ -23,7 +23,7 @@ export const Linker = (props) => {
 
     return (
         <>
-        <Header siteSections={siteSections} sections={sections}/>
+        <Header title={title} siteSections={siteSections} sections={sections}/>
         <main>
             {Object.keys(sections).map((section, index) => {
                 const thisSection = sections[`${section}`]

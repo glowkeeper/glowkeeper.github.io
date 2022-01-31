@@ -2,10 +2,10 @@
 
 #header {
   display: grid;
-  place-items: center center;
+  grid-template-columns: 1fr 1fr;
   
   position: fixed;
-  top: calc(var(--header-open-height) * -1);
+  top: 0;
   bottom: calc(100vh - var(--header-height));
 
   padding: 0 1rem 0 1rem;
@@ -13,16 +13,28 @@
 
   background-color: var(--header-colour);
   color: var(--text-colour);
-  transition: transform .8s ease-in-out;
 }
 
-#header.open {
-  transform: translateY(var(--header-open-height));
+#header-context {
+  display: grid;
+  place-items: center start;
 }
 
-#header.close {
-  transform: translateY(calc(var(--header-open-height) * -1));
+#header-context > div {
+  display: grid;
+  place-items: center center;
 }
+
+#header-main {
+  display: grid;
+  place-items: center end;
+}
+
+#header-main > div {
+  display: grid;
+  place-items: center center;
+}
+
 
 button#header-toggle {
   border-radius: 10px;

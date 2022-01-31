@@ -34,6 +34,23 @@ a.content:active {
   color: var(--links-colour-active);
 }
 
+p#menu-burger {
+  font-size: 2rem;
+  margin: 0;
+  padding: 0;
+
+  line-height: 1;
+}
+
+p#menu-burger:hover {
+  color: var(--links-colour-visited);
+}
+
+p#menu-burger:active {
+  color: var(--links-colour-active);
+}
+
+
 #context-nav {
   display: grid;
   grid-template-rows: 1rem auto;
