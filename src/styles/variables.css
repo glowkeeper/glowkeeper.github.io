@@ -1,18 +1,18 @@
 :root {
-  --background-colour: rgba(255, 241, 242, 1);
-  --header-colour: rgba(251, 113, 133, 1);
-  --footer-colour: rgba(251, 113, 133, 1);
-  --menu-colour: rgb(245, 176, 186);
+  --background-colour: #7395ae;
+  --header-colour: #557a95;
+  --footer-colour: #557a95;
+  --menu-colour: #c5c6c7;
 
   --text-colour: #000000;
 
-  --content-inactive-colour: rgba(255, 228, 230, 0.5);
-  --content-active-colour: rgba(255, 228, 230, 1);
+  --content-inactive-colour: #cabfb6;
+  --content-active-colour: #b1a296;
 
-  --links-colour-link: rgb(33, 14, 207);
-  --links-colour-visited: purple;
-  --links-colour-hover: red;
-  --links-colour-active: rgb(216, 80, 17);
+  --links-colour-link: rgb(87, 150, 223);
+  --links-colour-visited: rgb(15, 32, 109);
+  --links-colour-hover: rgb(211, 115, 25);
+  --links-colour-active: red;
 
   --header-height: 4rem;
   --footer-height: 2rem;
@@ -22,37 +22,36 @@
 }
 
 :root[data-theme="dark"] {
-  --background-colour: rgb(126, 62, 69);
-  --header-colour: rgba(136, 19, 55, 1);
-  --footer-colour: rgba(159, 18, 57, 1);
-  --menu-colour: rgb(145, 100, 107);
+  --background-colour: #1f2833;
+  --header-colour: #0b0c10;
+  --footer-colour: #0b0c10;
+  --menu-colour: #5d5c61;
 
-  --text-colour: #ffffff;
+  --text-colour: #66fcf1;
 
-  --content-inactive-colour: rgba(251, 113, 133, 0.5);
-  --content-active-colour: rgb(190, 74, 87);
+  --content-inactive-colour: #45a29e;
+  --content-active-colour: #116466;
 
   --links-colour-link: rgb(87, 150, 223);
-  --links-colour-visited: rgb(15, 32, 109);
+  --links-colour-visited: rgb(61, 126, 201);
   --links-colour-hover: rgb(211, 115, 25);
   --links-colour-active: red;
   
 }
 
 :root[data-theme="light"] {
+  --background-colour: #7395ae;
+  --header-colour: #557a95;
+  --footer-colour: #557a95;
+  --menu-colour: #c5c6c7;
 
-  --background-colour: rgba(255, 241, 242, 1);
-  --header-colour: rgb(211, 112, 127);
-  --footer-colour: rgba(251, 113, 133, 1);
-  --menu-colour: rgb(245, 176, 186);
+  --text-colour: #ffffff;
 
-  --text-colour: #000000;
+  --content-inactive-colour: #cabfb6;
+  --content-active-colour: #b1a296;
 
-  --content-inactive-colour: rgba(255, 228, 230, 0.5);
-  --content-active-colour: rgba(255, 228, 230, 1);
-
-  --links-colour-link: rgb(33, 14, 207);
-  --links-colour-visited: purple;
-  --links-colour-hover: red;
-  --links-colour-active: rgb(216, 80, 17);
+  --links-colour-link: #254e58;
+  --links-colour-visited: #183b44;
+  --links-colour-hover: rgb(211, 115, 25);
+  --links-colour-active: red;
 }

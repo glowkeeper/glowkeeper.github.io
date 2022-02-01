@@ -4,7 +4,7 @@ I am an accomplished writer and developer, educated to doctoral level. I adore p
 
 ## Professional Profile
 
-In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my journey into the blockchain space. I have since completed a [PhD](https://glowkeeper.github.io/PhDWorks/) that focused on blockchains, where my [thesis](https://glowkeeper.github.io/PhDWorks/assets/docs/sHuckleThesis.pdf) asked whether the technology could help overcome some of the most urgent problems facing humanity. In short, my conclusion was that they might help, but it is impossible to solve all of humanity's issues through technology; we need to change political, economic, and cultural goals, too.
+In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my journey into the blockchain space. I have since completed a [PhD](/academia/phd) that focused on blockchains, where my [thesis](/assets/docs/pHDThesis.pdf) asked whether the technology could help overcome some of the most urgent problems facing humanity. In short, my conclusion was that they might help, but it is impossible to solve all of humanity's issues through technology; we need to change political, economic, and cultural goals, too.
 
 My career in computing began in the early 1990s. After achieving a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business streaming DJ mixes over the Internet. That sparked an interest in digital music, so in 2003, I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
 
@@ -16,7 +16,7 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 
 - I have nearly thirty years of experience in the computing industry, beginning in 1992 with a COBOL programming course.
 - I have been writing React since 2016.
-- Heading towards a decade involved with blockchains, including four years researching the technology as part of a [PhD](https://glowkeeper.github.io/PhDWorks/).
+- Heading towards a decade involved with blockchains, including four years researching the technology as part of a [PhD](/academia/phd).
 - Many years of freelance computing experience, including creating and managing websites.
 - Four years of programming within the games industry, where I worked on four completed titles.
 - Early in my professional career, I was a UNIX Systems Administrator.

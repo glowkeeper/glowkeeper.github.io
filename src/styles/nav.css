@@ -27,10 +27,26 @@ a.content:visited {
 }
 
 a.content:hover {
-  color: var(--links-colour-visited);
+  color: var(--links-colour-hover);
 }
 
 a.content:active {
+  color: var(--links-colour-active);
+}
+
+a.context-link {
+  color: var(--links-colour-link);
+}
+
+a.context-link:visited {
+  color: var(--links-colour-visited);
+}
+
+a.context-link:hover {
+  color: var(--links-colour-hover);
+}
+
+a.context-link:active {
   color: var(--links-colour-active);
 }
 
@@ -43,7 +59,7 @@ p#menu-burger {
 }
 
 p#menu-burger:hover {
-  color: var(--links-colour-visited);
+  color: var(--links-colour-hover);
 }
 
 p#menu-burger:active {
@@ -104,7 +120,7 @@ button.context-link-close {
 
 button.context-link:hover,
 button.context-link-close:hover {
-  color: var(--links-colour-visited);
+  color: var(--links-colour-hover);
 }
 
 button.context-link:active,
@@ -152,7 +168,7 @@ button.main-link-close {
 
 button.main-link:hover,
 button.main-link-close:hover {
-  color: var(--links-colour-visited);
+  color: var(--links-colour-hover);
 }
 
 button.main-link:active,

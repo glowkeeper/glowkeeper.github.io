@@ -19,3 +19,7 @@ p {
   
   font-size: 1rem;
 }
+
+li {
+  color: var(--text-colour);
+}
