@@ -53,12 +53,3 @@
 
   overflow-y: scroll;
 }
-
-#songs-college-campus-md > h1,
-#songs-echo-chamber-md > h1,
-#songs-if-md > h1,
-#songs-i-remember-when-md > h1,
-#songs-on-the-street-md > h1,
-#songs-whats-wrong-with-now-md > h1 {
-  margin: 1rem 0 0 0;
-}

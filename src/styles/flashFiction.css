@@ -41,9 +41,3 @@
 
   overflow-y: scroll;
 }
-
-#flash-eric-md > h1,
-#flash-fortunes-md > h1,
-#flash-wisdom-md > h1 {
-  margin: 1rem 0 0 0;
-}

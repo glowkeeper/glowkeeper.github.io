@@ -37,19 +37,3 @@
 
   overflow-y: scroll;
 }
-
-#books-my-abi-md > h1,
-#books-stories-from-the-campfire-md > h1 {
-  margin: 1rem 0 0 0;
-}
-
-#books-my-abi-md > h2,
-#books-stories-from-the-campfire-md > h2 {
-  margin: 1rem 0 0 0;
-}
-
-#books-my-abi-md > ul,
-#books-stories-from-the-campfire-md > ul {
-  margin: 0;
-  white-space: normal;
-}

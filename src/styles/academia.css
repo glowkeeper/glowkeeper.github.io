@@ -42,12 +42,6 @@
   overflow-y: scroll;
 }
 
-#academia-teaching-md > h1,
-#academia-phd-md > h1,
-#academia-msc-md > h1 {
-  margin: 1rem 0 0 0;
-}
-
 #academia-teaching-md img,
 #academia-phd-md img,
 #academia-msc-md img {

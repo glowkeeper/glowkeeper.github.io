@@ -37,19 +37,3 @@
 
   overflow-y: scroll;
 }
-
-#apps-storymaker-md > h1,
-#apps-rectangles-md > h1 {
-  margin: 1rem 0 0 0;
-}
-
-#apps-storymaker-md > h2,
-#apps-rectangles-md > h2 {
-  margin: 1rem 0 0 0;
-}
-
-#apps-storymaker-md > ul,
-#apps-rectangles-md > ul {
-  margin: 0;
-  white-space: normal;
-}

@@ -11,17 +11,4 @@
   overflow-y: scroll;
 }
 
-#cv-md > h1 {
-  margin: 1rem 0 0 0;
-}
-
-#cv-md > h2 {
-  margin: 0;
-}
-
-#cv-md > ul {
-  margin: 0;
-  white-space: normal;
-}
-
 
