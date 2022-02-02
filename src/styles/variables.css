@@ -6,13 +6,13 @@
 
   --text-colour: #000000;
 
-  --content-inactive-colour: #cabfb6;
-  --content-active-colour: #b1a296;
+  --content-link-colour: linear-gradient(90deg, #CABFB6 0%, #B1A296 100%);
+  --content-colour: #CABFB6;
 
   --links-colour-link: rgb(87, 150, 223);
   --links-colour-visited: rgb(15, 32, 109);
-  --links-colour-hover: rgb(211, 115, 25);
-  --links-colour-active: red;
+  --links-colour-hover: red;
+  --links-colour-active: rgb(211, 115, 25);
 
   --header-height: 4rem;
   --footer-height: 2rem;
@@ -29,13 +29,13 @@
 
   --text-colour: #66fcf1;
 
-  --content-inactive-colour: #45a29e;
-  --content-active-colour: #116466;
+  --content-link-colour: linear-gradient(90deg, #45A29E 0%, #116466 100%);
+  background: #116466;
 
   --links-colour-link: rgb(87, 150, 223);
   --links-colour-visited: rgb(61, 126, 201);
-  --links-colour-hover: rgb(211, 115, 25);
-  --links-colour-active: red;
+  --links-colour-hover: red;
+  --links-colour-active: rgb(211, 115, 25);
   
 }
 
@@ -47,11 +47,11 @@
 
   --text-colour: #ffffff;
 
-  --content-inactive-colour: #cabfb6;
-  --content-active-colour: #b1a296;
+  --content-link-colour: linear-gradient(90deg, #CABFB6 0%, #B1A296 100%);
+  --content-colour: #CABFB6;
 
   --links-colour-link: #254e58;
   --links-colour-visited: #183b44;
-  --links-colour-hover: rgb(211, 115, 25);
-  --links-colour-active: red;
+  --links-colour-hover: red;
+  --links-colour-active: rgb(211, 115, 25);
 }
