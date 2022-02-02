@@ -5,24 +5,19 @@
   display: grid;
   place-items: center center;
   height: 100%;
-
-  opacity: 0.4;
-  background-color: var(--content-inactive-colour);
-
+  background: var(--content-link-colour);
 }
 
 #about-cv:focus,
 #about-cv:hover,
 #about-license:focus,
 #about-license:hover {
-  opacity: 1;
-  background-color: var(--content-active-colour);
   animation: appsFadeIn linear 2s;
 }
 
 @keyframes appsFadeIn {
-  0% {opacity:0;}
-  50% {opacity:0.5;}
+  0% {opacity:0.4;}
+  50% {opacity:0.75;}
   100% {opacity:1;}
 }
 
@@ -36,4 +31,6 @@
   white-space: pre-wrap;
 
   overflow-y: scroll;
+
+  background: var(--content-colour);
 }

@@ -9,6 +9,8 @@
   white-space: pre-wrap;
 
   overflow-y: scroll;
+
+  background: var(--content-colour);
 }
 
 

@@ -12,7 +12,7 @@
   height: 100%;
 
   opacity: 0.4;
-  background-color: var(--content-inactive-colour);
+  background: var(--content-link-colour);
 }
 
 #misc-another-great-escape:focus,
@@ -27,8 +27,6 @@
 #misc-wind:hover,
 #misc-world-cup-semi:focus,
 #misc-world-cup-semi:hover {
-  opacity: 1;
-  background-color: var(--content-active-colour);
   animation: miscFadeIn linear 2s;
 }
 
@@ -53,26 +51,8 @@
   white-space: pre-wrap;
 
   overflow-y: scroll;
-}
 
-#misc-another-great-escape-md > h1,
-#misc-my-great-escape-md > h1,
-#misc-patience-md > h1,
-#misc-scotland-vs-england-md > h1,
-#misc-west-ham-vs-everton-md > h1,
-#misc-wind-md > h1,
-#misc-world-cup-semi-md > h1 {
-  margin: 1rem 0 0 0;
-}
-
-#misc-another-great-escape-md > h2,
-#misc-my-great-escape-md > h2,
-#misc-patience-md > h2,
-#misc-scotland-vs-england-md > h2,
-#misc-west-ham-vs-everton-md > h2,
-#misc-wind-md > h2,
-#misc-world-cup-semi-md > h2 {
-  margin: 0;
+  background: var(--content-colour);
 }
 
 #misc-another-great-escape-md img,

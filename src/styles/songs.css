@@ -11,7 +11,7 @@
   height: 100%;
 
   opacity: 0.4;
-  background-color: var(--content-inactive-colour);
+  background: var(--content-link-colour);
 
 }
 
@@ -27,8 +27,6 @@
 #songs-on-the-street:hover,
 #songs-whats-wrong-with-now:focus,
 #songs-whats-wrong-with-now:hover {
-  opacity: 1;
-  background-color: var(--content-active-colour);
   animation: flashFadeIn linear 2s;
 }
 
@@ -52,4 +50,6 @@
   white-space: pre-wrap;
 
   overflow-y: scroll;
+
+  background: var(--content-colour);
 }

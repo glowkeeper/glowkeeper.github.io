@@ -15,7 +15,7 @@
   height: 100%;
 
   opacity: 0.4;
-  background-color: var(--content-inactive-colour);
+  background: var(--content-link-colour);
 
 }
 
@@ -39,8 +39,6 @@
 #stories-the-knucker:hover,
 #stories-the-millwright:focus,
 #stories-the-millwright:hover {
-  opacity: 1;
-  background-color: var(--content-active-colour);
   animation: storiesFadeIn linear 2s;
 }
 
@@ -68,17 +66,6 @@
   white-space: pre-wrap;
 
   overflow-y: scroll;
-}
 
-#stories-change-md > h1,
-#stories-frederick-md > h1,
-#stories-freedom-md > h1,
-#stories-gratitude-md > h1,
-#stories-minusculus-md > h1,
-#stories-the-druid-md > h1,
-#stories-the-earth-and-the-moon-md > h1,
-#stories-the-hope-of-gods-md > h1,
-#stories-the-knucker-md > h1,
-#stories-the-millwright-md > h1 {
-  margin: 1rem 0 0 0;
+  background: var(--content-colour);
 }

@@ -8,7 +8,7 @@
   height: 100%;
 
   opacity: 0.4;
-  background-color: var(--content-inactive-colour);
+  background: var(--content-link-colour);
 
 }
 
@@ -18,8 +18,6 @@
 #academia-phd:hover,
 #academia-msc:focus,
 #academia-msc:hover {
-  opacity: 1;
-  background-color: var(--content-active-colour);
   animation: flashFadeIn linear 2s;
 }
 
@@ -40,6 +38,8 @@
   white-space: pre-wrap;
 
   overflow-y: scroll;
+
+  background: var(--content-colour);
 }
 
 #academia-teaching-md img,

@@ -7,7 +7,7 @@
   height: 100%;
 
   opacity: 0.4;
-  background-color: var(--content-inactive-colour);
+  background: var(--content-link-colour);
 
 }
 
@@ -15,8 +15,6 @@
 #books-my-abi:hover,
 #books-stories-from-the-campfire:focus,
 #books-stories-from-the-campfire:hover {
-  opacity: 1;
-  background-color: var(--content-active-colour);
   animation: appsFadeIn linear 2s;
 }
 
@@ -36,4 +34,6 @@
   white-space: pre-wrap;
 
   overflow-y: scroll;
+
+  background: var(--content-colour);
 }

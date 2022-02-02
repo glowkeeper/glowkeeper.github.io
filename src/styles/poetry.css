@@ -17,7 +17,7 @@
   height: 100%;
 
   opacity: 0.4;
-  background-color: var(--content-inactive-colour);
+  background: var(--content-link-colour);
 
 }
 
@@ -45,8 +45,6 @@
 #poetry-the-road:hover,
 #poetry-winter:focus,
 #poetry-winter:hover {
-  opacity: 1;
-  background-color: var(--content-active-colour);
   animation: poetryFadeIn linear 2s;
 }
 
@@ -76,6 +74,8 @@
   white-space: pre-wrap;
 
   overflow-y: scroll;
+
+  background: var(--content-colour);
 }
 
 #poetry-difficult-md table,

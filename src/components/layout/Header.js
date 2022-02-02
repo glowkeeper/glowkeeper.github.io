@@ -33,8 +33,10 @@ export const Header = (props) => {
                   }
                 }}
               >
-                <div><p id="menu-burger">≡</p></div>
-                <div>{title} menu</div>
+                <div>
+                  <p id="menu-burger">≡</p>
+                  {title} menu
+                </div>
               </button>
 
           ): (
@@ -60,8 +62,10 @@ export const Header = (props) => {
               }
             }}
           >
-            <div><p id="menu-burger">≡</p></div>
-            <div>main menu</div>
+            <div>
+              <p id="menu-burger">≡</p>
+              main menu
+            </div>
           </button>
         </div>
       </div>
