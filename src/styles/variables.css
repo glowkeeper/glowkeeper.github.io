@@ -6,7 +6,7 @@
 
   --text-colour: #000000;
 
-  --content-link-colour: linear-gradient(90deg, #CABFB6 0%, #B1A296 100%);
+  --content-link-colour: linear-gradient(90deg, #CABFB6 0%, #B79980 100%);;
   --content-colour: #CABFB6;
 
   --links-colour-link: rgb(87, 150, 223);
@@ -47,7 +47,7 @@
 
   --text-colour: #ffffff;
 
-  --content-link-colour: linear-gradient(90deg, #CABFB6 0%, #B1A296 100%);
+  --content-link-colour: linear-gradient(90deg, #CABFB6 0%, #B79980 100%);;
   --content-colour: #CABFB6;
 
   --links-colour-link: #254e58;
