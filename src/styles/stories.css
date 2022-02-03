@@ -14,9 +14,8 @@
   place-items: center center;
   height: 100%;
 
-  opacity: 0.4;
+  opacity: 0.5;
   background: var(--content-link-colour);
-
 }
 
 #stories-change:focus,
@@ -43,9 +42,9 @@
 }
 
 @keyframes storiesFadeIn {
-  0% {opacity:0;}
-  50% {opacity:0.5;}
-  100% {opacity:1;}
+  0% {opacity:0.5;}
+  50% {opacity:0.4;}
+  100% {opacity:0.5;}
 }
 
 #stories-change-md,

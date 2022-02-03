@@ -20,7 +20,7 @@ export const MainMenu = (props) => {
             const thisSection = sections[`${section}`]
             return (  
                 <Link 
-                    className="content"
+                    className="main"
                     key={index}
                     to={thisSection.route}
                 >

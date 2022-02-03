@@ -5,6 +5,8 @@
   display: grid;
   place-items: center center;
   height: 100%;
+
+  opacity: 0.5;
   background: var(--content-link-colour);
 }
 
@@ -12,13 +14,13 @@
 #about-cv:hover,
 #about-license:focus,
 #about-license:hover {
-  animation: appsFadeIn linear 2s;
+  animation: appsFadeIn linear 1s;
 }
 
 @keyframes appsFadeIn {
-  0% {opacity:0.4;}
-  50% {opacity:0.75;}
-  100% {opacity:1;}
+  0% {opacity:0.5;}
+  50% {opacity:0.4;}
+  100% {opacity:0.5;}
 }
 
 #about-cv-md,

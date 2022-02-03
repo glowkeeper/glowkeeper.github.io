@@ -18,7 +18,7 @@ button {
 
 button#theme-toggle {
   border-radius: 10px;
-  border: 1px solid black;
+  border: 1px solid var(--button-border-colour);
 
   background-color: var(--content-active-colour);
   color: var(--text-colour);

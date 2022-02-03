@@ -7,7 +7,7 @@
   place-items: center center;
   height: 100%;
 
-  opacity: 0.4;
+  opacity: 0.5;
   background: var(--content-link-colour);
 
 }
@@ -18,13 +18,13 @@
 #academia-phd:hover,
 #academia-msc:focus,
 #academia-msc:hover {
-  animation: flashFadeIn linear 2s;
+  animation: flashFadeIn linear 1s;
 }
 
 @keyframes flashFadeIn {
-  0% {opacity:0;}
-  50% {opacity:0.5;}
-  100% {opacity:1;}
+  0% {opacity:0.5;}
+  50% {opacity:0.4;}
+  100% {opacity:0.5;}
 }
 
 #academia-teaching-md,

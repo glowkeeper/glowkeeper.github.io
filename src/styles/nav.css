@@ -1,53 +1,45 @@
 @import "variables.css";
 
-a {
+a, 
+a.context-link, 
+a.main-link {
   color: var(--links-colour-link);
   text-decoration: none;
   text-align: center;
 }
 
-a:visited {
+a:visited,
+a.context-link:visited,
+a.main-link:visited {
   color: var(--links-colour-visited);
 }
 
-a:hover {
+a:hover,
+a.context-link:hover,
+a.main-link:hover {
   color: var(--links-colour-hover);
 }
 
-a:active {
+a:active,
+a.context-link:active,
+a.main-link:active {
   color: var(--links-colour-active);
 }
 
 a.content {
-  color: var(--links-colour-link);
+  color: var(--links-content-link);
 }
 
 a.content:visited {
-  color: var(--links-colour-visited);
+  color: var(--links-content-visited);
 }
 
 a.content:hover {
-  color: var(--links-colour-hover);
+  color: var(--links-content-hover);
 }
 
 a.content:active {
-  color: var(--links-colour-active);
-}
-
-a.context-link {
-  color: var(--links-colour-link);
-}
-
-a.context-link:visited {
-  color: var(--links-colour-visited);
-}
-
-a.context-link:hover {
-  color: var(--links-colour-hover);
-}
-
-a.context-link:active {
-  color: var(--links-colour-active);
+  color: var(--links-content-active);
 }
 
 p#menu-burger {

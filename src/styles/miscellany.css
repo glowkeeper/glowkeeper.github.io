@@ -11,7 +11,7 @@
   place-items: center center;
   height: 100%;
 
-  opacity: 0.4;
+  opacity: 0.5;
   background: var(--content-link-colour);
 }
 
@@ -27,13 +27,13 @@
 #misc-wind:hover,
 #misc-world-cup-semi:focus,
 #misc-world-cup-semi:hover {
-  animation: miscFadeIn linear 2s;
+  animation: miscFadeIn linear 1s;
 }
 
 @keyframes miscFadeIn {
-  0% {opacity:0;}
-  50% {opacity:0.5;}
-  100% {opacity:1;}
+  0% {opacity:0.5;}
+  50% {opacity:0.4;}
+  100% {opacity:0.5;}
 }
 
 #misc-another-great-escape-md,
