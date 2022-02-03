@@ -39,6 +39,11 @@
   --content-link-colour: linear-gradient(90deg, #45A29E 0%, #116466 100%);
   --content-colour: #116466;
 
+  --links-content-link: red;
+  --links-content-visited: red;
+  --links-content-hover: red;
+  --links-content-active: rgb(211, 115, 25);
+
   --links-colour-link: rgb(87, 150, 223);
   --links-colour-visited: rgb(61, 126, 201);
   --links-colour-hover: red;
@@ -57,6 +62,11 @@
 
   --content-link-colour: linear-gradient(90deg, #CABFB6 0%, #B79980 100%);;
   --content-colour: #CABFB6;
+
+  --links-content-link: #183b44;
+  --links-content-visited: #183b44;
+  --links-content-hover: #183b44;
+  --links-content-active: red;
 
   --links-colour-link: #254e58;
   --links-colour-visited: #183b44;

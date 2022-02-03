@@ -50,6 +50,7 @@ export const Linker = (props) => {
                     // external url
                     return ( 
                         <a 
+                            className="content"
                             key={index}
                             href={thisLink}
                             target="_blank"
