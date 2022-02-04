@@ -2,7 +2,7 @@
 
 #header {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   
   position: fixed;
   top: 0;
@@ -21,6 +21,12 @@
 }
 
 #header-context > div {
+  display: grid;
+  place-items: center center;
+}
+
+#header-title {
+  color: var(--title-text-colour);
   display: grid;
   place-items: center center;
 }

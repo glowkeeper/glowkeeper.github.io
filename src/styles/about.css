@@ -2,8 +2,7 @@
 @import "animations.css"; 
 
 #about-info,
-#about-cv,
-#about-license {
+#about-cv {
   display: grid;
   place-items: center center;
   height: 100%;
@@ -13,8 +12,7 @@
 }
 
 #about-info-md,
-#about-cv-md,
-#about-license-md {
+#about-cv-md {
   position: fixed;
   height: calc(100% - var(--footer-height) - var(--header-height));
   width: calc(100% - 2rem);

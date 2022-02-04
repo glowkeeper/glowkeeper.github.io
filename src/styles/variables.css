@@ -4,6 +4,7 @@
   --footer-colour: #557a95;
   --menu-colour: #c5c6c7;
 
+  --title-text-colour: white;
   --text-colour: #000000;
   --footer-text-colour: white;
 
@@ -35,6 +36,7 @@
   --footer-colour: #0b0c10;
   --menu-colour: #5d5c61;
 
+  --title-text-colour: #66fcf1;
   --text-colour: #66fcf1;
   --footer-text-colour: #66fcf1;
 
@@ -59,7 +61,8 @@
   --header-colour: #557a95;
   --footer-colour: #557a95;
   --menu-colour: #c5c6c7;
-
+  
+  --title-text-colour: white;
   --text-colour: #557a95;
   --footer-text-colour: white;
 

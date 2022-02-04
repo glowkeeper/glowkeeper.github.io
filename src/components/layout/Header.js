@@ -34,8 +34,10 @@ export const Header = (props) => {
                 }}
               >
                 <div>
-                  <p id="menu-burger">≡</p>
-                  {title} menu
+                  <p id="menu-burger">
+                    ≡ <br/>
+                    <span id="menu-text">{title} menu</span>
+                  </p>
                 </div>
               </button>
 
@@ -50,7 +52,8 @@ export const Header = (props) => {
 
           )}
 
-        </div>  
+        </div> 
+        <div id="header-title">{UIText.title}</div> 
         <div id="header-main"> 
           <button
             className="main-link"
@@ -63,8 +66,10 @@ export const Header = (props) => {
             }}
           >
             <div>
-              <p id="menu-burger">≡</p>
-              main menu
+              <p id="menu-burger">
+                ≡ <br/>
+                <span id="menu-text">main menu</span>
+              </p>
             </div>
           </button>
         </div>

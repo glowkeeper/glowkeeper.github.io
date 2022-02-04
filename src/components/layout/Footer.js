@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom'
 
-import { UIText } from '../../config'
+import { UIText, UITextAbout } from '../../config'
 
 export const Footer = () => {
   const [isOpen, setIsOpen] = useState(false)
@@ -37,6 +38,20 @@ export const Footer = () => {
           ⌄
         </button>
         <div id="footer-content">
+          <div>
+            <Link 
+                className="footer"
+                to="/about/info"
+            >
+              {UITextAbout.info}
+            </Link> <br/>  
+            <Link 
+                className="footer"
+                to="/about/cv"
+            >
+              {UITextAbout.cv}
+            </Link>    
+          </div>
           <p>
             {UIText.eProfessional}<br/>
             {UIText.ePersonal}

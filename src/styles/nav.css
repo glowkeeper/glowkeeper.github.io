@@ -2,7 +2,8 @@
 
 a, 
 a.context-link, 
-a.main-link {
+a.main-link,
+a.footer {
   color: var(--links-colour-link);
   text-decoration: none;
   text-align: center;
@@ -10,19 +11,22 @@ a.main-link {
 
 a:visited,
 a.context-link:visited,
-a.main-link:visited {
+a.main-link:visited,
+a.footer:visited {
   color: var(--links-colour-visited);
 }
 
 a:hover,
 a.context-link:hover,
-a.main-link:hover {
+a.main-link:hover,
+a.footer:hover {
   color: var(--links-colour-hover);
 }
 
 a:active,
 a.context-link:active,
-a.main-link:active {
+a.main-link:active,
+a.footer:active {
   color: var(--links-colour-active);
 }
 
@@ -48,7 +52,7 @@ p#menu-burger {
   margin: 0;
   padding: 0;
 
-  line-height: 1;
+  line-height: 0.5;
 }
 
 p#menu-burger:hover {
@@ -180,5 +184,11 @@ button.main-link-close:active {
 #main-items {
   display: grid;
   place-items: center center;
+}
+
+#menu-text {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
 }
 

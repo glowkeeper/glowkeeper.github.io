@@ -89,6 +89,8 @@ export class LocalRoutesStories {
 
 export class UIText {
 
+  static title = "Dr Steve Huckle"
+
   static home = "home"
 
   static about = "about"
@@ -114,7 +116,6 @@ export class UITextAbout {
 
   static info = "site info"
   static cv = "cv"
-  static license = "site license"
 }
 
 export class UITextAcademia {
@@ -259,12 +260,6 @@ export const aboutSections = {
     title: UITextAbout.cv,
     route: LocalRoutesAbout.cv,
     content: "/assets/posts/about/cv.md"
-  },
-  license: {
-    id: "about-license",
-    title: UITextAbout.license,
-    route: LocalRoutesAbout.license,
-    content: "/assets/posts/about/license.md"
   }
 }
 
