@@ -7,6 +7,8 @@
   place-items: center center;
   height: 100%;
 
+  font-size: 1.5rem;
+
   background: var(--content-link-colour);
   animation: backgroundAnimation 10s ease infinite;
 }

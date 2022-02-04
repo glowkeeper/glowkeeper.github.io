@@ -4,6 +4,7 @@ table,
 tr,
 td, 
 th {
+  color: var(--text-colour);
   border: none
 }
 

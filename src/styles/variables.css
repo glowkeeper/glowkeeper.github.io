@@ -11,10 +11,10 @@
   --content-link-colour: linear-gradient(45deg, #d1dbdf, #a9cedd, #8dc5db, #73c2e0);
   --content-colour: #73c2e0;
 
-  --links-content-link: red;
-  --links-content-visited: red;
-  --links-content-hover: red;
-  --links-content-active: rgb(211, 115, 25);
+  --links-content-link: rgba(24, 59, 68, 0.6);
+  --links-content-visited: rgba(24, 59, 68, 0.6);
+  --links-content-hover: rgba(24, 59, 68, 0.6);
+  --links-content-active: rgba(255, 0, 0, 0.6);
 
   --links-colour-link: rgb(87, 150, 223);
   --links-colour-visited: rgb(15, 32, 109);
@@ -43,10 +43,10 @@
   --content-link-colour: linear-gradient(45deg, #45A29E, #30837f, #1b797a, #116466);
   --content-colour: #116466;
 
-  --links-content-link: red;
-  --links-content-visited: red;
-  --links-content-hover: red;
-  --links-content-active: rgb(211, 115, 25);
+  --links-content-link: rgba(255, 0, 0, 0.6);
+  --links-content-visited: rgba(255, 0, 0, 0.6);
+  --links-content-hover: rgba(255, 0, 0, 0.6);
+  --links-content-active: rgba(211, 115, 25, 0.6);
 
   --links-colour-link: rgb(87, 150, 223);
   --links-colour-visited: rgb(61, 126, 201);
@@ -69,10 +69,10 @@
   --content-link-colour: linear-gradient(45deg, #d1dbdf, #a9cedd, #8dc5db, #73c2e0);
   --content-colour: #d1dbdf;
 
-  --links-content-link: #183b44;
-  --links-content-visited: #183b44;
-  --links-content-hover: #183b44;
-  --links-content-active: red;
+  --links-content-link: rgba(24, 59, 68, 0.6);
+  --links-content-visited: rgba(24, 59, 68, 0.6);
+  --links-content-hover: rgba(24, 59, 68, 0.6);
+  --links-content-active: rgba(255, 0, 0, 0.6);
 
   --links-colour-link: #254e58;
   --links-colour-visited: #183b44;
