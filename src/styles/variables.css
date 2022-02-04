@@ -5,9 +5,10 @@
   --menu-colour: #c5c6c7;
 
   --text-colour: #000000;
+  --footer-text-colour: white;
 
-  --content-link-colour: linear-gradient(90deg, #CABFB6 0%, #B79980 100%);;
-  --content-colour: #CABFB6;
+  --content-link-colour: linear-gradient(45deg, #d1dbdf, #a9cedd, #8dc5db, #73c2e0);
+  --content-colour: #73c2e0;
 
   --links-content-link: red;
   --links-content-visited: red;
@@ -35,8 +36,9 @@
   --menu-colour: #5d5c61;
 
   --text-colour: #66fcf1;
+  --footer-text-colour: #66fcf1;
 
-  --content-link-colour: linear-gradient(90deg, #45A29E 0%, #116466 100%);
+  --content-link-colour: linear-gradient(45deg, #45A29E, #30837f, #1b797a, #116466);
   --content-colour: #116466;
 
   --links-content-link: red;
@@ -58,10 +60,11 @@
   --footer-colour: #557a95;
   --menu-colour: #c5c6c7;
 
-  --text-colour: #ffffff;
+  --text-colour: #557a95;
+  --footer-text-colour: white;
 
-  --content-link-colour: linear-gradient(90deg, #CABFB6 0%, #B79980 100%);;
-  --content-colour: #CABFB6;
+  --content-link-colour: linear-gradient(45deg, #d1dbdf, #a9cedd, #8dc5db, #73c2e0);
+  --content-colour: #d1dbdf;
 
   --links-content-link: #183b44;
   --links-content-visited: #183b44;
@@ -74,4 +77,6 @@
   --links-colour-active: rgb(211, 115, 25);
 
   --button-border-colour: black;
+
+
 }

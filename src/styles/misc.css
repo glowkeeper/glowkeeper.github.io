@@ -15,11 +15,3 @@ button {
   margin: 0;
   padding: 2px 5px 2px 5px;
 }
-
-button#theme-toggle {
-  border-radius: 10px;
-  border: 1px solid var(--button-border-colour);
-
-  background-color: var(--content-active-colour);
-  color: var(--text-colour);
-}

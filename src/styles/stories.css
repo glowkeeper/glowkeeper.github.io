@@ -1,4 +1,5 @@
 @import "variables.css";
+@import "animations.css";
 
 #stories-change,
 #stories-frederick,
@@ -14,37 +15,8 @@
   place-items: center center;
   height: 100%;
 
-  opacity: 0.5;
   background: var(--content-link-colour);
-}
-
-#stories-change:focus,
-#stories-change:hover,
-#stories-frederick:focus,
-#stories-frederick:hover,
-#stories-freedom:focus,
-#stories-freedom:hover,
-#stories-gratitude:focus,
-#stories-gratitude:hover,
-#stories-minusculus:focus,
-#stories-minusculus:hover,
-#stories-the-druid:focus,
-#stories-the-druid:hover,
-#stories-the-earth-and-the-moon:focus,
-#stories-the-earth-and-the-moon:hover,
-#stories-the-hope-of-gods:focus,
-#stories-the-hope-of-gods:hover,
-#stories-the-knucker:focus,
-#stories-the-knucker:hover,
-#stories-the-millwright:focus,
-#stories-the-millwright:hover {
-  animation: storiesFadeIn linear 2s;
-}
-
-@keyframes storiesFadeIn {
-  0% {opacity:0.5;}
-  50% {opacity:0.4;}
-  100% {opacity:0.5;}
+  animation: backgroundAnimation 10s ease infinite;
 }
 
 #stories-change-md,

@@ -1,4 +1,5 @@
 @import "variables.css";
+@import "animations.css";
 
 #songs-college-campus,
 #songs-echo-chamber,
@@ -10,30 +11,8 @@
   place-items: center center;
   height: 100%;
 
-  opacity: 0.5;
   background: var(--content-link-colour);
-
-}
-
-#songs-college-campus:focus,
-#songs-college-campus:hover,
-#songs-echo-chamber:focus,
-#songs-echo-chamber:hover,
-#songs-if:focus,
-#songs-if:hover,
-#songs-i-remember-when:focus,
-#songs-i-remember-when:hover,
-#songs-on-the-street:focus,
-#songs-on-the-street:hover,
-#songs-whats-wrong-with-now:focus,
-#songs-whats-wrong-with-now:hover {
-  animation: flashFadeIn linear 2s;
-}
-
-@keyframes flashFadeIn {
-  0% {opacity:0.5;}
-  50% {opacity:0.4;}
-  100% {opacity:0.5;}
+  animation: backgroundAnimation 10s ease infinite;
 }
 
 #songs-college-campus-md,

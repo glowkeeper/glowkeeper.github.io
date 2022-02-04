@@ -32,9 +32,21 @@
 }
 
 button#footer-toggle {
+  color: var(--footer-text-colour);
   border-radius: 10px;
-  border: 1px solid black;
+  border: none;
 
   background-color: var(--content-active-colour);
-  color: var(--text-colour);
+}
+
+button#theme-toggle {
+  color: var(--footer-text-colour);
+  border-radius: 10px;
+  border: 1px solid var(--button-border-colour);
+
+  background-color: var(--content-active-colour);
+}
+
+#footer p {
+  color: var(--footer-text-colour);
 }

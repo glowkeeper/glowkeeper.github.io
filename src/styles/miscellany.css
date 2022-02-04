@@ -1,4 +1,5 @@
 @import "variables.css";
+@import "animations.css";
 
 #misc-another-great-escape,
 #misc-my-great-escape,
@@ -11,29 +12,8 @@
   place-items: center center;
   height: 100%;
 
-  opacity: 0.5;
   background: var(--content-link-colour);
-}
-
-#misc-another-great-escape:focus,
-#misc-another-great-escape:hover,
-#misc-my-great-escape:focus,
-#misc-my-great-escape:hover,
-#misc-patience:focus,
-#misc-patience:hover,
-#misc-scotland-vs-england:focus,
-#misc-west-ham-vs-everton:hover,
-#misc-wind:focus,
-#misc-wind:hover,
-#misc-world-cup-semi:focus,
-#misc-world-cup-semi:hover {
-  animation: miscFadeIn linear 1s;
-}
-
-@keyframes miscFadeIn {
-  0% {opacity:0.5;}
-  50% {opacity:0.4;}
-  100% {opacity:0.5;}
+  animation: backgroundAnimation 10s ease infinite;
 }
 
 #misc-another-great-escape-md,

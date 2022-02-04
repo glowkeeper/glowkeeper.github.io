@@ -1,28 +1,18 @@
 @import "variables.css";
+@import "animations.css"; 
 
+#about-info,
 #about-cv,
 #about-license {
   display: grid;
   place-items: center center;
   height: 100%;
 
-  opacity: 0.5;
   background: var(--content-link-colour);
+  animation: backgroundAnimation 10s ease infinite;
 }
 
-#about-cv:focus,
-#about-cv:hover,
-#about-license:focus,
-#about-license:hover {
-  animation: appsFadeIn linear 1s;
-}
-
-@keyframes appsFadeIn {
-  0% {opacity:0.5;}
-  50% {opacity:0.4;}
-  100% {opacity:0.5;}
-}
-
+#about-info-md,
 #about-cv-md,
 #about-license-md {
   position: fixed;

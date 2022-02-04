@@ -1,4 +1,5 @@
 @import "variables.css";
+@import "animations.css";
 
 #poetry-difficult,
 #poetry-dreamland,
@@ -16,42 +17,8 @@
   place-items: center center;
   height: 100%;
 
-  opacity: 0.5;
   background: var(--content-link-colour);
-
-}
-
-#poetry-difficult:focus,
-#poetry-difficult:hover,
-#poetry-dreamland:focus,
-#poetry-dreamland:hover,
-#poetry-if:focus,
-#poetry-if:hover,
-#poetry-i-kneel:focus,
-#poetry-i-kneel:hover,
-#poetry-monkey:focus,
-#poetry-monkey:hover,
-#poetry-not-christmas:focus,
-#poetry-not-christmas:hover,
-#poetry-orgreave:focus,
-#poetry-orgreave:hover,
-#poetry-prudictive:focus,
-#poetry-prudictive:hover,
-#poetry-santa-claus:focus,
-#poetry-santa-claus:hover,
-#poetry-soon-to-be-73:focus,
-#poetry-soon-to-be-73:hover,
-#poetry-the-road:focus,
-#poetry-the-road:hover,
-#poetry-winter:focus,
-#poetry-winter:hover {
-  animation: poetryFadeIn linear 1s;
-}
-
-@keyframes poetryFadeIn {
-  0% {opacity:0.5;}
-  50% {opacity:0.4;}
-  100% {opacity:0.5;}
+  animation: backgroundAnimation 10s ease infinite;
 }
 
 #poetry-difficult-md,

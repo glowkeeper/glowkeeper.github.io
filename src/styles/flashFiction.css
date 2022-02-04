@@ -1,4 +1,5 @@
 @import "variables.css";
+@import "animations.css";
 
 #flash-eric,
 #flash-fortunes,
@@ -7,23 +8,8 @@
   place-items: center center;
   height: 100%;
 
-  opacity: 0.5;
   background: var(--content-link-colour);
-}
-
-#flash-eric:focus,
-#flash-eric:hover,
-#flash-fortunes:focus,
-#flash-fortunes:hover,
-#flash-wisdom:focus,
-#flash-wisdom:hover {
-  animation: flashFadeIn linear 1s;
-}
-
-@keyframes flashFadeIn {
-  0% {opacity:0.5;}
-  50% {opacity:0.4;}
-  100% {opacity:0.5;}
+  animation: backgroundAnimation 10s ease infinite;
 }
 
 #flash-eric-md,

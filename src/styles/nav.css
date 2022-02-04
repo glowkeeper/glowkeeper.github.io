@@ -43,6 +43,7 @@ a.content:active {
 }
 
 p#menu-burger {
+  color: var(--links-colour-link);
   font-size: 2rem;
   margin: 0;
   padding: 0;

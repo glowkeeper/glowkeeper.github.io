@@ -17,6 +17,7 @@ export class LocalRoutes {
 
 export class LocalRoutesAbout {
 
+  static info = `${LocalRoutes.about}/info` 
   static cv = `${LocalRoutes.about}/cv` 
   static license = `${LocalRoutes.about}/site-license`
 }
@@ -111,6 +112,7 @@ export class UIText {
 
 export class UITextAbout {
 
+  static info = "site info"
   static cv = "cv"
   static license = "site license"
 }
@@ -246,6 +248,12 @@ export const homeSections = {
 }
 
 export const aboutSections = {
+  info: {
+    id: "about-info",
+    title: UITextAbout.info,
+    route: LocalRoutesAbout.info,
+    content: "/assets/posts/about/info.md"
+  },
   cv: {
     id: "about-cv",
     title: UITextAbout.cv,
