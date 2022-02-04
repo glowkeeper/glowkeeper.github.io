@@ -2,6 +2,9 @@
 
 Academia, apps, books, musings, poetry, songs and stories by Dr Steve Huckle.
 
+e-professional: s.huckle@sussex.ac.uk
+e-personal: steve.huckle@gmail.com
+
 Copyright © Steve Huckle, 2020.
 
 [![CC-BY-NC-SA 4.0 International](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)

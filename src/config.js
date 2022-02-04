@@ -106,8 +106,8 @@ export class UIText {
 
   static copyright = "© 2022, Dr Steve Huckle, all rights reserve"
 
-  static eProfessional = "e-professional: s dot huckle at sussex dot ac dot uk"
-  static ePersonal = "e-personal: steve dot huckle at gmail dot com"
+  static eProfessional = "e-professional: s.huckle@sussex.ac.uk"
+  static ePersonal = "e-personal: steve.huckle@gmail.com"
 
   static darkModeToggle = "toggle dark mode"
 }
@@ -199,59 +199,61 @@ export const homeSections = {
   about: {
     id: "home-about",
     title: UIText.about,
-    subText: "asfasdfadsf",
+    subText: "Dr Huckle's cv and site information",
     route: LocalRoutes.about
   },
   academia: {
     id: "home-academia",
     title: UIText.academia,
-    subText: "",
+    subText: "all things academia",
     route: LocalRoutes.academia
   },
   apps: {
     id: "home-apps",
     title: UIText.apps,
-    subText: "",
+    subText: "a few apps",
     route: LocalRoutes.apps
   },
   blog: {
     id: "home-blog",
     title: UIText.blog,
-    subText: "",
+    subText: "coming soon...",
     route: LocalRoutes.blog
   },
   books: {
     id: "home-books",
     title: UIText.books,
-    subText: "",
+    subText: "not yet published books",
     route: LocalRoutes.books
   },
   flashFiction: {
     id: "home-flash-fiction",
+    subText: "short, sharp and fun",
     title: UIText.flashFiction,
     route: LocalRoutes.flashFiction
   },
   misc: {
     id: "home-misc",
     title: UIText.misc,
-    subText: "",
+    subText: "stuff that had nowhere else to go",
     route: LocalRoutes.misc
   },
   poetry: {
     id: "home-poetry",
     title: UIText.poetry,
-    subText: "",
+    subText: "mostly re-imagining of some classics",
     route: LocalRoutes.poetry
   },
   songs:  {
     id: "home-songs",
     title: UIText.songs,
+    subText: "punk acoustic",
     route: LocalRoutes.songs
   },
   stories: {
     id: "home-stories",
     title: UIText.stories,
-    subText: "",
+    subText: "longer than flash, shorter than a book",
     route: LocalRoutes.stories
   }
 }
