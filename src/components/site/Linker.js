@@ -41,7 +41,10 @@ export const Linker = (props) => {
                                 tabIndex={index}
                                 id={thisSection.id}
                             >
-                                {thisSection.title}
+                                <p>
+                                    <span className="content-link-title">{thisSection.title}</span><br/>
+                                    <span className="subText">{thisSection.subText}</span>
+                                </p>
                             </div>
                         </Link>    
                     )
@@ -60,7 +63,10 @@ export const Linker = (props) => {
                                 tabIndex={index}
                                 id={thisSection.id}
                             >
-                                {thisSection.title}
+                                <p>
+                                    <span className="content-link-title">{thisSection.title}</span><br/>
+                                    <span className="subText">{thisSection.subText}</span>
+                                </p>
                             </div>        
                         </a> 
                     )

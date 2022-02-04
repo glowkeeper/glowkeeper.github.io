@@ -12,8 +12,8 @@ export const Header = (props) => {
   const [isMainOpen, setIsMainOpen] = useState(false)
   const { title, siteSections, sections } = props
 
-  console.log('site', siteSections)
-  console.log('sect', sections)
+  //console.log('site', siteSections)
+  //console.log('sect', sections)
   return (
     <header>
       <div
@@ -21,7 +21,6 @@ export const Header = (props) => {
       >
         <div id="header-context">  
           { sections ? (   
-
                       
               <button
                 className="context-link"

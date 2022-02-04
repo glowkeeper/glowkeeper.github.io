@@ -20,6 +20,16 @@ p {
   font-size: 1rem;
 }
 
+span.content-link-title {
+  color: var(--text-colour);
+  font-size: var(--content-link-size);
+}
+
+span.subText {
+  color: var(--text-colour);
+  font-size: 1rem;
+}
+
 ul {
   margin: 0;
   white-space: normal;
@@ -28,3 +38,8 @@ ul {
 li {
   color: var(--text-colour);
 }
+
+.subText {
+  font-size: 1rem;
+}
+

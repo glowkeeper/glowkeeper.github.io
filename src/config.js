@@ -199,26 +199,31 @@ export const homeSections = {
   about: {
     id: "home-about",
     title: UIText.about,
+    subText: "asfasdfadsf",
     route: LocalRoutes.about
   },
   academia: {
     id: "home-academia",
     title: UIText.academia,
+    subText: "",
     route: LocalRoutes.academia
   },
   apps: {
     id: "home-apps",
     title: UIText.apps,
+    subText: "",
     route: LocalRoutes.apps
   },
   blog: {
     id: "home-blog",
     title: UIText.blog,
+    subText: "",
     route: LocalRoutes.blog
   },
   books: {
     id: "home-books",
     title: UIText.books,
+    subText: "",
     route: LocalRoutes.books
   },
   flashFiction: {
@@ -229,11 +234,13 @@ export const homeSections = {
   misc: {
     id: "home-misc",
     title: UIText.misc,
+    subText: "",
     route: LocalRoutes.misc
   },
   poetry: {
     id: "home-poetry",
     title: UIText.poetry,
+    subText: "",
     route: LocalRoutes.poetry
   },
   songs:  {
@@ -244,6 +251,7 @@ export const homeSections = {
   stories: {
     id: "home-stories",
     title: UIText.stories,
+    subText: "",
     route: LocalRoutes.stories
   }
 }
@@ -252,12 +260,14 @@ export const aboutSections = {
   info: {
     id: "about-info",
     title: UITextAbout.info,
+    subText: "",
     route: LocalRoutesAbout.info,
     content: "/assets/posts/about/info.md"
   },
   cv: {
     id: "about-cv",
     title: UITextAbout.cv,
+    subText: "",
     route: LocalRoutesAbout.cv,
     content: "/assets/posts/about/cv.md"
   }
@@ -267,18 +277,21 @@ export const academiaSections = {
   teaching: {
     id: "academia-teaching",
     title: UITextAcademia.teaching,
+    subText: "",
     route: LocalRoutesAcademia.teaching,
     content: "/assets/posts/academia/teaching.md"
   },
   phd: {
     id: "academia-phd",
     title: UITextAcademia.phd,
+    subText: "",
     route: LocalRoutesAcademia.phd,
     content: "/assets/posts/academia/phd.md"
   },
   msc: {
     id: "academia-msc",
     title: UITextAcademia.msc,
+    subText: "",
     route: LocalRoutesAcademia.msc,
     content: "/assets/posts/academia/msc.md"
   },
@@ -288,12 +301,14 @@ export const appsSections = {
   storymaker: {
     id: "apps-storymaker",
     title: UITextApps.storymaker,
+    subText: "",
     route: "",
     content: "https://glowkeeper.github.io/storymaker/"
   },
   rectangles: {
     id: "apps-rectangles",
     title: UITextApps.rectangles,
+    subText: "",
     route: "",
     content: "https://glowkeeper.github.io/rectangle-react/"
   },
@@ -303,6 +318,7 @@ export const blogSections = {
   blog: {
     id: "blog",
     title: UIText.blog,
+    subText: "",
     route: LocalRoutes.blog + "/blog",
     content: "/assets/posts/blog/blog.md"
   },
@@ -312,12 +328,14 @@ export const booksSections = {
   myAbi: {
     id: "books-my-abi",
     title: UITextBooks.myAbi,
+    subText: "",
     route: "",
     content: "https://app.gitbook.com/@stevehuckle/s/my-abi/"
   },
   storiesFromTheCampfire: {
     id: "books-stories-from-the-campfire",
     title: UITextBooks.storiesFromTheCampfire,
+    subText: "",
     route: "",
     content: "https://app.gitbook.com/@stevehuckle/s/stories-from-the-campfire/"
   },
@@ -327,18 +345,21 @@ export const flashFictionSections = {
   eric: {
     id: "flash-eric",
     title: UITextFlashFiction.eric,
+    subText: "",
     route: LocalRoutesFlashFiction.eric,
     content: "/assets/posts/flashFiction/eric.md"
   },
   fortunes: {
     id: "flash-fortunes",
     title: UITextFlashFiction.fortunes,
+    subText: "",
     route: LocalRoutesFlashFiction.fortunes,
     content: "/assets/posts/flashFiction/fortunesAlwaysHiding.md"
   },
   wisdom: {
     id: "flash-wisdom",
     title: UITextFlashFiction.wisdom,
+    subText: "",
     route: LocalRoutesFlashFiction.wisdom,
     content: "/assets/posts/flashFiction/wisdom.md"
   }
@@ -348,42 +369,49 @@ export const miscSections = {
   anotherGreatEscape: {
     id: "misc-another-great-escape",
     title: UITextMisc.anotherGreatEscape,
+    subText: "",
     route: LocalRoutesMisc.anotherGreatEscape,
     content: "/assets/posts/misc/anotherGreatEscape.md"
   },
   myGreatEscape: {
     id: "misc-my-great-escape",
     title: UITextMisc.myGreatEscape,
+    subText: "",
     route: LocalRoutesMisc.myGreatEscape,
     content: "/assets/posts/misc/myGreatEscape.md"
   },
   patience: {
     id: "misc-patience",
     title: UITextMisc.patience,
+    subText: "",
     route: LocalRoutesMisc.patience,
     content: "/assets/posts/misc/patience.md"
   },
   scotlandEngland: {
     id: "misc-scotland-vs-england",
     title: UITextMisc.scotlandEngland,
+    subText: "",
     route: LocalRoutesMisc.scotlandEngland,
     content: "/assets/posts/misc/scotlandEngland.md"
   },
   westHamEverton: {
     id: "misc-west-ham-vs-everton",
     title: UITextMisc.westHamEverton,
+    subText: "",
     route: LocalRoutesMisc.westHamEverton,
     content: "/assets/posts/misc/westHamEverton.md"
   },
   wind: {
     id: "misc-wind",
     title: UITextMisc.wind,
+    subText: "",
     route: LocalRoutesMisc.wind,
     content: "/assets/posts/misc/wind.md"
   },
   worldCupSemi: {
     id: "misc-world-cup-semi",
     title: UITextMisc.worldCupSemi,
+    subText: "",
     route: LocalRoutesMisc.worldCupSemi,
     content: "/assets/posts/misc/worldCupSemi.md"
   },
@@ -393,72 +421,84 @@ export const poetrySections = {
   difficult: {
     id: "poetry-difficult",
     title: UITextPoetry.difficult,
+    subText: "",
     route: LocalRoutesPoetry.difficult,
     content: "/assets/posts/poetry/difficult.md"
   },
   dreamland: {
     id: "poetry-dreamland",
     title: UITextPoetry.dreamland,
+    subText: "",
     route: LocalRoutesPoetry.dreamland,
     content: "/assets/posts/poetry/dreamland.md"
   },
   if: {
     id: "poetry-if",
     title: UITextPoetry.if,
+    subText: "",
     route: LocalRoutesPoetry.if,
     content: "/assets/posts/poetry/if.md"
   },
   iKneel: {
     id: "poetry-i-kneel",
     title: UITextPoetry.iKneel,
+    subText: "",
     route: LocalRoutesPoetry.iKneel,
     content: "/assets/posts/poetry/iKneel.md"
   },
   monkey: {
     id: "poetry-monkey",
     title: UITextPoetry.monkey,
+    subText: "",
     route: LocalRoutesPoetry.monkey,
     content: "/assets/posts/poetry/monkey.md"
   },
   notChristmas: {
     id: "poetry-not-christmas",
     title: UITextPoetry.notChristmas,
+    subText: "",
     route: LocalRoutesPoetry.notChristmas,
     content: "/assets/posts/poetry/notChristmas.md"
   },
   orgreave: {
     id: "poetry-orgreave",
     title: UITextPoetry.orgreave,
+    subText: "",
     route: LocalRoutesPoetry.orgreave,
     content: "/assets/posts/poetry/orgreave.md"
   },
   prudictive: {
     id: "poetry-prudictive",
     title: UITextPoetry.prudictive,
+    subText: "",
     route: LocalRoutesPoetry.prudictive,
     content: "/assets/posts/poetry/prudictive.md"
   },
   santaClaus: {
     id: "poetry-santa-claus",
     title: UITextPoetry.santaClaus,
+    subText: "",
     route: LocalRoutesPoetry.santaClaus,
     content: "/assets/posts/poetry/santaClaus.md"
   },
   soonToBe73: {
     id: "poetry-soon-to-be-73",
     title: UITextPoetry.soonToBe73,
+    subText: "",
     route: LocalRoutesPoetry.soonToBe73,
     content: "/assets/posts/poetry/soonToBe73.md"
   },
   theRoad: {
     id: "poetry-the-road",
     title: UITextPoetry.theRoad,
+    subText: "",
     route: LocalRoutesPoetry.theRoad,
     content: "/assets/posts/poetry/theRoad.md"
   },
   winter: {
     id: "poetry-winter",
     title: UITextPoetry.winter,
+    subText: "",
     route: LocalRoutesPoetry.winter,
     content: "/assets/posts/poetry/winter.md"
   },
@@ -468,36 +508,42 @@ export const songsSections = {
   collegeCampus: {
     id: "songs-college-campus",
     title: UITextSongs.collegeCampus,
+    subText: "",
     route: LocalRoutesSongs.collegeCampus,
     content: "/assets/posts/songs/collegeCampus.md"
   },
   echoChamber: {
     id: "songs-echo-chamber",
     title: UITextSongs.echoChamber,
+    subText: "",
     route: LocalRoutesSongs.echoChamber,
     content: "/assets/posts/songs/echoChamber.md"
   },
   if: {
     id: "songs-if",
     title: UITextSongs.if,
+    subText: "",
     route: LocalRoutesSongs.if,
     content: "/assets/posts/songs/if.md"
   },
   iRememberWhen: {
     id: "songs-i-remember-when",
     title: UITextSongs.iRememberWhen,
+    subText: "",
     route: LocalRoutesSongs.iRememberWhen,
     content: "/assets/posts/songs/iRememberWhen.md"
   },
   onTheStreet: {
     id: "songs-on-the-street",
     title: UITextSongs.onTheStreet,
+    subText: "",
     route: LocalRoutesSongs.onTheStreet,
     content: "/assets/posts/songs/onTheStreet.md"
   },
   whatsWrongWithNow: {
     id: "songs-whats-wrong-with-now",
     title: UITextSongs.whatsWrongWithNow,
+    subText: "",
     route: LocalRoutesSongs.whatsWrongWithNow,
     content: "/assets/posts/songs/whatsWrongWithNow.md"
   },
@@ -507,12 +553,14 @@ export const storiesSections = {
   change: {
     id: "stories-change",
     title: UITextStories.change,
+    subText: "",
     route: LocalRoutesStories.change,
     content: "/assets/posts/stories/change.md"
   },
   frederick: {
     id: "stories-frederick",
     title: UITextStories.frederick,
+    subText: "",
     route: LocalRoutesStories.frederick,
     content: "/assets/posts/stories/frederick.md"
   },
@@ -525,42 +573,49 @@ export const storiesSections = {
   gratitude: {
     id: "stories-gratitude",
     title: UITextStories.gratitude,
+    subText: "",
     route: LocalRoutesStories.gratitude,
     content: "/assets/posts/stories/gratitude.md"
   },
   minusculus: {
     id: "stories-minusculus",
     title: UITextStories.minusculus,
+    subText: "",
     route: LocalRoutesStories.minusculus,
     content: "/assets/posts/stories/minusculus.md"
   },
   theDruid: {
     id: "stories-the-druid",
     title: UITextStories.theDruid,
+    subText: "",
     route: LocalRoutesStories.theDruid,
     content: "/assets/posts/stories/theDruid.md"
   },
   theEarthAndTheMoon: {
     id: "stories-the-earth-and-the-moon",
     title: UITextStories.theEarthAndTheMoon,
+    subText: "",
     route: LocalRoutesStories.theEarthAndTheMoon,
     content: "/assets/posts/stories/theEarthAndTheMoon.md"
   },
   theHopeOfGods: {
     id: "stories-the-hope-of-gods",
     title: UITextStories.theHopeOfGods,
+    subText: "",
     route: LocalRoutesStories.theHopeOfGods,
     content: "/assets/posts/stories/theHopeOfGods.md"
   },
   theKnucker: {
     id: "stories-the-knucker",
     title: UITextStories.theKnucker,
+    subText: "",
     route: LocalRoutesStories.theKnucker,
     content: "/assets/posts/stories/theKnucker.md"
   },
   theMillwright: {
     id: "stories-the-millwright",
     title: UITextStories.theMillwright,
+    subText: "",
     route: LocalRoutesStories.theMillwright,
     content: "/assets/posts/stories/theMillwright.md"
   }
