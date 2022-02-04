@@ -11,6 +11,8 @@
   --content-link-colour: linear-gradient(45deg, #d1dbdf, #a9cedd, #8dc5db, #73c2e0);
   --content-colour: #73c2e0;
 
+  --content-link-size: 1.4rem;
+
   --links-content-link: rgba(24, 59, 68, 0.6);
   --links-content-visited: rgba(24, 59, 68, 0.6);
   --links-content-hover: rgba(24, 59, 68, 0.6);
