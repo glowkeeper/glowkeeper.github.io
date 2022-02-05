@@ -1,9 +1,5 @@
 # The Earth and the Moon
 
-Told around the campfire at the Brighton Buddhist Centre's Family Retreat. The theme of the retreat was Friendship
-
-**28th July, 2016**
-
 A long time ago, before you and I were little more than a distant hope in the mind of our father’s greatest of grandfathers, Earth was a vast angry mass of volcanic rock. She had a very fiery temper and, at the thought of anyone approaching within a million miles of her highest peak, she would erupt in a fit of molten rock. And so, it came about, that the Earth had no friends, whatsoever. And because she had no friends, Earth got angrier and angrier, until she was so angry, she was at the point of exploding into oblivion.
 
 Fortunately (for if Earth had exploded, you and I would not be here now), just when Earth was on the edge of oblivion, Theaia passed by on her way to Venus. Theaia was a tiny, teenage asteroid, only a few billion years old. But although she was still just a childlike molten mass, she had visited the furthest edges of the Solar System. Theaia had become one of the most sociable of objects in the known universe because, due to her abundance of youthful verve, she had managed to befriend all of the distant stars she had met on her travels. So Theaia had love deep within her soul. And because she radiated love, she was the most beautiful of teenage asteroids.
@@ -36,5 +32,7 @@ Earth had had an awful time. She missed Moon; she sobbed and wailed uncontrollab
 “Moon!” she cried, “Where the Galaxies have you been? I’ve been so worried!” Moon told her friend everything she’d been up to, and why. “I’m so sorry,” she said, finally. “Oh, Moon. Dear friend! There’s nothing to apologise for!” Earth was such a wise, kind companion, so she understood perfectly well: “We aren’t always at our best, and sometimes we make mistakes. I forgive you completely!” Earth smiled at Moon: “And you know what? Don’t worry about the mess those humans are making on me.” Moon shot a confused look at her friend: “How so?” she asked. “Well, look at those children down there,” said Earth pointing out a group of kids sat around a campfire listening intently to a rather silly story: “I’ve been watching them jump streams and playing Dancing Detective all week.” she continued. “They’ve been ever-so-kind and caring,” she said, “So I have high hopes that the next generation will be much more enlightened, and won’t exploit my bounty quite so greedily.” Moon smiled doubtfully at Earth. “Oh come, Moon. Have faith!”
 
 Soon after, following a glorious summer, Moon looked up at Earth: “Can I tell you a joke?” she asked. “What’s the difference between the Sun and King Arthur?” The earth wasn’t certain she actually wanted to hear the answer. Nevertheless: “I don’t know, what is the difference between the Sun and King Arthur?” Moon chuckled, before delivering the brilliant punchline: “The Sun keeps us warm for the day, but King Arthur warms his keep for the Knights.” There followed a deep, dark, silence, similar to that you may witness just before a solar eclipse. “That was rubbish!” Earth told Moon. “But I’ll still be your friend.”
+
+**28th July, 2016**
 
 &nbsp;

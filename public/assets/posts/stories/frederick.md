@@ -1,6 +1,6 @@
 # Frederick
 
-This is a story created by my daughter Kyra on an underground train in the autumn of 2012. We had just been to watch West Ham beat Southampton, and we were on our way back to Brighton. I have left it in all its original glory (warts n'all), because it's a fond memory, and I don't want to taint that by 'improving' it
+Created by my eldest daughter on a London Underground train in the autumn of 2012. We had just been to watch West Ham beat Southampton, and we were on our way back to Brighton This story has been left in all its original glory (warts n'all), because it's a fond memory, and I don't want to taint that by 'improving' it
 
 **20 October, 2012**
 

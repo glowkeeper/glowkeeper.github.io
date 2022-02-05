@@ -330,7 +330,7 @@ export const booksSections = {
   myAbi: {
     id: "books-my-abi",
     title: UITextBooks.myAbi,
-    subText: "a father telling of his daughter's brain tumour",
+    subText: "the story of a father and his daughter's battle against a brain tumour",
     route: "",
     content: "https://app.gitbook.com/@stevehuckle/s/my-abi/"
   },
@@ -510,42 +510,42 @@ export const songsSections = {
   collegeCampus: {
     id: "songs-college-campus",
     title: UITextSongs.collegeCampus,
-    subText: "",
+    subText: "about a girl that I didn't really meet on the college campus",
     route: LocalRoutesSongs.collegeCampus,
     content: "/assets/posts/songs/collegeCampus.md"
   },
   echoChamber: {
     id: "songs-echo-chamber",
     title: UITextSongs.echoChamber,
-    subText: "",
+    subText: "social media",
     route: LocalRoutesSongs.echoChamber,
     content: "/assets/posts/songs/echoChamber.md"
   },
   if: {
     id: "songs-if",
     title: UITextSongs.if,
-    subText: "",
+    subText: "the qualities that appear necessary for leadership",
     route: LocalRoutesSongs.if,
     content: "/assets/posts/songs/if.md"
   },
   iRememberWhen: {
     id: "songs-i-remember-when",
     title: UITextSongs.iRememberWhen,
-    subText: "",
+    subText: "watching my daughters grow up",
     route: LocalRoutesSongs.iRememberWhen,
     content: "/assets/posts/songs/iRememberWhen.md"
   },
   onTheStreet: {
     id: "songs-on-the-street",
     title: UITextSongs.onTheStreet,
-    subText: "",
+    subText: "about the many homeless in England",
     route: LocalRoutesSongs.onTheStreet,
     content: "/assets/posts/songs/onTheStreet.md"
   },
   whatsWrongWithNow: {
     id: "songs-whats-wrong-with-now",
     title: UITextSongs.whatsWrongWithNow,
-    subText: "",
+    subText: "there's probably quite a lot wrong with now",
     route: LocalRoutesSongs.whatsWrongWithNow,
     content: "/assets/posts/songs/whatsWrongWithNow.md"
   },
@@ -555,69 +555,70 @@ export const storiesSections = {
   change: {
     id: "stories-change",
     title: UITextStories.change,
-    subText: "",
+    subText: "a campfire story for the Brighton Buddhist Centre's 2013 family retreat",
     route: LocalRoutesStories.change,
     content: "/assets/posts/stories/change.md"
   },
   frederick: {
     id: "stories-frederick",
     title: UITextStories.frederick,
-    subText: "",
+    subText: "created by my eldest daughter on a London Underground train in the autumn of 2012. We had just been to watch West Ham beat Southampton, and we were on our way back to Brighton",
     route: LocalRoutesStories.frederick,
     content: "/assets/posts/stories/frederick.md"
   },
   freedom: {
     id: "stories-freedom",
     title: UITextStories.freedom,
+    subText: "a campfire story for the Brighton Buddhist Centre's 2015 family retreat",
     route: LocalRoutesStories.freedom,
     content: "/assets/posts/stories/freedom.md"
   },
   gratitude: {
     id: "stories-gratitude",
     title: UITextStories.gratitude,
-    subText: "",
+    subText: "a campfire story for the Brighton Buddhist Centre's 2014 family retreat",
     route: LocalRoutesStories.gratitude,
     content: "/assets/posts/stories/gratitude.md"
   },
   minusculus: {
     id: "stories-minusculus",
     title: UITextStories.minusculus,
-    subText: "",
+    subText: "Mrs Nay's Story",
     route: LocalRoutesStories.minusculus,
     content: "/assets/posts/stories/minusculus.md"
   },
   theDruid: {
     id: "stories-the-druid",
     title: UITextStories.theDruid,
-    subText: "",
+    subText: "a candlelight story told at a sleepover",
     route: LocalRoutesStories.theDruid,
     content: "/assets/posts/stories/theDruid.md"
   },
   theEarthAndTheMoon: {
     id: "stories-the-earth-and-the-moon",
     title: UITextStories.theEarthAndTheMoon,
-    subText: "",
+    subText: "a campfire story for the Brighton Buddhist Centre's 2016 family retreat",
     route: LocalRoutesStories.theEarthAndTheMoon,
     content: "/assets/posts/stories/theEarthAndTheMoon.md"
   },
   theHopeOfGods: {
     id: "stories-the-hope-of-gods",
     title: UITextStories.theHopeOfGods,
-    subText: "",
+    subText: "the wars that rage over a child's health",
     route: LocalRoutesStories.theHopeOfGods,
     content: "/assets/posts/stories/theHopeOfGods.md"
   },
   theKnucker: {
     id: "stories-the-knucker",
     title: UITextStories.theKnucker,
-    subText: "",
+    subText: "a campfire story for the Brighton Buddhist Centre's 2017 family retreat",
     route: LocalRoutesStories.theKnucker,
     content: "/assets/posts/stories/theKnucker.md"
   },
   theMillwright: {
     id: "stories-the-millwright",
     title: UITextStories.theMillwright,
-    subText: "",
+    subText: "a candlelight story told once the lights had gone out for WWF's 2017 Earth Hour",
     route: LocalRoutesStories.theMillwright,
     content: "/assets/posts/stories/theMillwright.md"
   }

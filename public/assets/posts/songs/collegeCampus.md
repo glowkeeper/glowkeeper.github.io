@@ -1,8 +1,6 @@
 # College Campus
 
-About a girl that I didn't really meet on the college campus
-
-[Recording and visuals of the song](https://glowkeeper.uk/posts/songs/collegeCampus/)
+[Listen to a recording of the song](/assets/audio/CollegeCampus.wav).
 
 Intro: Em, C, Em, D, Em, C, Em, D, C, B
 Verse: Em, C, Em, C, Em, C, Em, D, C, B

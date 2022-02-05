@@ -1,7 +1,5 @@
 # On the Street
 
-A song about homelessness, which is on the increase in England
-
 [Listen to a recording of the song](/assets/audio/OnTheStreet.wav).
 
 (Picked)

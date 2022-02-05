@@ -1,7 +1,5 @@
 # Echo Chamber
 
-A song about social media
-
 [Listen to a recording of the song](/assets/audio/EchoChamber.wav).
 
 Intro: D, C, A#, A, D, C, A#, A, D, C, A#, A, D, C, A#, A, D, C, A#, A, A, A#, C, D, D, C, A#, A, A, A#, C, D

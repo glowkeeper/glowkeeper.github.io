@@ -1,8 +1,6 @@
 # Freedom
 
-Written for the campfire at the Brighton Buddhist Centre's 2015 Family Retreat. The poetry is by Matt Quinn
-
-**10 August, 2015**
+The poetry is by Matt Quinn
 
 [Listen to a recording of the story](/assets/audio/Freedom.wav) from a campfire reading.
 
@@ -114,5 +112,7 @@ Spangle screamed, "Daaaaad!" Now, if Spangle had been cornered by a fox, she wou
 The next morning, Spangle was sat next to her father on one of the hedgerows in front of the house. Her sisters and brothers were busily buzzing around them, chattering away and trying to decide who was going to be the hunter in their next game of Birdhunt. Suddenly, one of the fathers dashed out of the old rectory house, wearing a pair of knickers on his head. He did two forward rolls and then prostrated himself in front of his daughter, as if in worship. The girl giggled appreciatively, then promptly sat on her father's head. "Dad," Spangle; said. "Yes, daughter?" asked her father. "Are all dad's weird?" Hedgerowdasher smiled, "only the best kind."
 
 Owl landed right next to Spangle. "I hear you had quite an adventure young lady! I hope it was worth it. Did you discover the secret of freedom?" "Yes dear Owl," she replied. "It's about running and jumping and dancing. It's about shouting and singing. It's about vocation and finding joy in work. Then it's about being able to stretch your wings, just when you thought that's impossible." Owl smiled, "I see you learnt well young Spangle." "Oh, and Owl," Spangle continued, "there's one more very secret, important, ingredient in freedom." "What's that?" asked Owl, curious. "It's also about wearing your best underwear on your head."
+
+**10 August, 2015**
 
 &nbsp;

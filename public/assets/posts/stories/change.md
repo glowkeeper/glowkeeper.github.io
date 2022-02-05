@@ -1,9 +1,5 @@
 # Change
 
-Written for the campfire at the Brighton Buddhist Centre's 2013 Family Retreat
-
-**1 August, 2013**
-
 Old Man Harry lived in mountains that were as ancient as the earth itself. He didn’t like change much, so every morning his routine was the same; he’d wake, he’d wash, he’d eat his porridge, he’d brush his teeth. Then he’d settle down into a comfy chair on his veranda, smoke his pipe, and watch the wildlife go about its day. He could set the time by when the jackdaws starting cawing, when the falcon would stoop upon its first pigeon and when the deer would begin grazing at the edge of the woods. So you see, Old Man Harry’s life was safe and dependable, and he liked it very much.
 
 Then, one bright, crisp, winter morning, just as he was about to settle down to his porridge, Old Man Harry was startled out of his reverie by a knock on the door. This, most probably, wouldn’t have been anything particularly unusual to you and me, but Old Man Harry wasn’t used to visits, and in his confusion, it didn’t actually occur to him to go and open the door. However, a second knock jolted Old Man Harry into action, so he went to see who had disturbed his breakfast.
@@ -35,5 +31,7 @@ Raphael was astounded; he had thought of himself as a cosmopolitan, sophisticate
 Realising he had much to learn from his cousin, Raphael soon sold up everything and returned with Old Man Harry to live a simple life on the mountain. This time, he embraced the change with all his heart and saw the beauty of all of his magnificent natural surroundings and delighted in the rhythm of nature, just as his cousin did.
 
 So it came to pass, many many years later, that Raphael and Old Man Harry were sat on their veranda admiring the agile falcon stoop on its prey. Raphael looked kindly at his cousin, and remarked: “Actually, nothing much changed for you did it!” Harry looked down at his rather worn fine Italian shoes, fingered the slightly tatty waistcoat of his suit and doffed his somewhat misshapen bowler hat: “Well, there were some changes,” he replied, smiling. But then he looked out across to the deer feeding on the threshold of the woods, and said: “But some things just simply aren’t worth changing”. Raphael laughed in agreement. By then, he and old Man Harry had become the greatest of friends, and that was the very best change of all.
+
+**1 August, 2013**
 
 &nbsp;

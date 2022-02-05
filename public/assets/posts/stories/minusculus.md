@@ -1,9 +1,5 @@
 # The Law of the Minusculus
 
-Mrs Nay's Story
-
-**24th October, 2017**
-
 It had been a hard day, a difficult night, and Mrs Nay had been working like a dog, so when Mr Nay entered her study with a cup of tea and plate of biscuits, which he put on the desk, she was pleased for the respite. "Darling, you'll make your ear sore if you keep scratching it like that," said Godfrey, standing behind his tired wife, lovingly massaging her tense shoulders. Treesa put her foot back down, took her glasses off and rubbed her aching eyes: "It's this bloody sell-off of the Cabinet Office. The other lot just aren't keen; to make it appeal to the wider public, I have to find sneaky ways to gloss over the sordid details. It's taking all my energy!"
 
 The Cabinet was the last UK Government Office on Whitehall to be privatised. The least controversial sale was that of the Horse Guards to American defence contractors Heed LockMartin. After all, the general public liked their incredibly realistic AI Horsebots, not least because they were less prone to crapping on the pavement, which meant far fewer dry cleaning bills for unsuspecting passersby. That's not to say that there were no dissenting voices. However, when one of the former Guard's horses romped home as 8/1 favourite in the nations favourite death chase, most of the public forgot the scandal of the rest of her stablemates having been sold off to France, where they appeared in the best Parisian restaurants, a la (horse) carte.
@@ -25,5 +21,7 @@ Fortunately for Mrs Nay, the fundamental laws are eternally balanced, so opposed
 It just so happened that Mr Bincor was touring the Maidenhead food bank when Mrs Nay first entered, dirty and desperate. "Mrs Nay?" asked Bincor, not sure if the defeated old woman he saw in front of him was the person who he used to find so terrifying in the dispatch box. She was too tired to answer, so Bincor asked one of the volunteers if they could personally see to it that Mrs Nay was cleaned up, fed and offered somewhere safe to sleep. Afterwards, when he was sure that it was indeed Mrs Nay, he sat with her and held her hand while she cried. In fact, he cried, too - the Law of Gargantuan treasured empathy and held that you should love your enemy, especially when your enemy was utterly defeated. And though they didn't know it, those that had been championing the Law of Minisculus were about to be met head-on by natural forces beyond their reckoning. The days of Done4U and their ilk would soon pass.
 
 It had been a hard night, a stressful day, and Mrs Bincor had been working like a dog, so when Mr Bincor entered her study with a cup of tea and plate of biscuits, which he put on the desk, she was pleased for the respite. "Darling, you've been working too hard. Please rest," said Jeremy, standing behind his tired wife, lovingly massaging her tense shoulders. Treesa took her glasses off and rubbed her aching eyes: "It's this bloody renationalisation of the railways. That Chinese Hedge Fund is still making things difficult..."
+
+**24th October, 2017**
 
 &nbsp;

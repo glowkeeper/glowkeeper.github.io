@@ -1,7 +1,5 @@
 # If
 
-What it takes to reach the highest office
-
 Based on my poem, [If](/poetry/if).
 
 [Listen to a recording of the song](/assets/audio/If.ogg).

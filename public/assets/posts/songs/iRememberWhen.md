@@ -1,7 +1,5 @@
 # I Remember When
 
-A Song for Kyra
-
 [Listen to a recording of the song](/assets/audio/iRememberWhen.wav).
 
 Intro: E

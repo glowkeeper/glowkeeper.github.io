@@ -1,8 +1,6 @@
 # The Knucker of Lyminster
 
-Told around the campfire at the Brighton Buddhist Centre's Family Retreat. It's an adaptation of Michael O'Leary's story, 'The Lyminster Knucker', which features in the book 'Sussex Folk Tales', available at all good bookstores. Reproduced here with Mike's kind permission.
-
-**31 July, 2017**
+This is an adaptation of Michael O'Leary's story, 'The Lyminster Knucker', which features in the book 'Sussex Folk Tales', available at all good bookstores. Reproduced here with Mike's kind permission.
 
 Below Arundel, the westward A27 does a strange thing; it diverts onto a slip road and avoids a stretch of dual carriageway that comes to a sudden stop. Those who know no better believe that the road building halted because of local opposition to the march of industrial civilisation, resulting in an unexpected triumph for nature. After all, the road was due to cross some environmentally sensitive wetlands.  However, they're wrong - nothing as mundane as the preservation of the habitat of many rare and beautiful migrant water foul ever stops the incessant encroachment of the internal combustion engine. The truth is the road stopped because of the danger of upsetting a rather fearsome local dragon. That dragon is said to live in the village of Lyminster, just a stone's throw from that rather strange junction of the A27.  
 
@@ -43,5 +41,7 @@ But our story doesn't end there - once the people of Arundel had recovered from 
 The people of Arundel were inconsolable. The hero Jim had saved them, but now he was dead. They had been shouting and cheering, but now they were bawling and crying instead. Then a realisation dawned - they could combine a win with a wake! As you may well imagine, never since have the people of Arundel witnessed such a hangover, as that witnessed following the demise of the knucker and poor old Jim Pulk.
 
 Nowadays, if you go into the Church of St Mary Magdelene at Lyminster, you will see a stained glass window with a picture of a dreadful dragon. And in the graveyard, you'll find a strange old gravestone. The endless march of time, as well as the sea air, have worn away the inscription, so most people don't know whose gravestone it is, nor what it says. But we know - it's the grave of Jim Pulk, embossed with the epitaph: "Mark thee well: wash thy hands before dinner, or answer to God, as a Saint, or a Sinner". So next time you sit down to eat, give your hands a good scrub and remember the legend of Jim Pulk and the terrible knucker of Lyminster.
+
+**31 July, 2017**
 
 &nbsp;

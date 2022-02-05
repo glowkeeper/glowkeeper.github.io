@@ -1,7 +1,5 @@
 # What's Wrong With Now?
 
-My friend Chris and I were at a music festival (Rockaway Beach 2018), when we came up with a phrase that we thought would make a really good title for a song.
-
 [Listen to a live recording of the song](/assets/audio/WhatsWrongWithNow.wav).
 
 Intro: Am, Em, Am, Em, C
