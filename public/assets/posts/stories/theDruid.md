@@ -1,7 +1,5 @@
 # The Druid
 
-I told this, over candlelight, to my daughters and their friends at a sleepover
-
 **22 September, 2015**
 
 Sam and Rachael were hiking through the Downs. They had been walking all day. "It's getting late, Rae," Sam told his exhausted girlfriend, "we should find somewhere to pitch our tent." Rachael opened her map and scanned it for likely places to camp. "There's a clearing in those woods about a mile up the road," she said, pointing at the map. "Ah yes," said Sam, agreeing that it looked like a good place to stay the night.

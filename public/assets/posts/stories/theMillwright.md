@@ -1,7 +1,5 @@
 # The Millwright
 
-I first told a version of this to my daughters, and two of their friends, over candlelight at a sleepover one night. And then I refined it in time for WWF's 2017 Earth Hour, an annual event where it has become a tradition for us to tell spooky stories
-
 **2 February, 2017**
 
 The Guides came over a long ridge that once formed part of an ancient hilltop fort on the South Downs. In front of them was a local landmark, a windmill known as Jill. Nestled in the valley below was the sleepy Sussex village of Pyecombe. "Right girls!" barked  Mikayla, the Patrol leader: "work together to clear a spot where we can form camp." Sure enough, an hour or so later, all the tents were pitched and some of the girls had begun preparing a fire.
