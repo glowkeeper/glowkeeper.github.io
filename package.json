@@ -1,7 +1,7 @@
 {
   "name": "new-website",
   "version": "1.0.0",
-  "homepage": "http://glowkeeper.github.io/",
+  "homepage": "https://glowkeeper.github.io/",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
