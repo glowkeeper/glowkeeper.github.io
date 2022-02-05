@@ -1,8 +1,4 @@
-# My Great Escape
-
-Three days of music and fun at Brighton's 2017 Great Escape festival.
-
-**May, 2017**
+# My Great Escape - May, 2017
 
 My Great Escape began by watching [Fazerdaze](https://fazerdaze.bandcamp.com/) from behind a pillar at the [Queen's Hotel](http://queenshotelbrighton.com/); their pleasant indie guitar pop was a pleasing enough start. Afterwards, Alex sent me a message on WhatsApp: "The Black Lion's where it's at this afternoon." He runs Brighton's [Fat Cat records](https://www.fat-cat.co.uk/home), so he's very well informed and had already provided me with a playlist for the day's events. Alex told me to watch [Goat Girl](http://goatgirl.co.uk/), so when I arrived at the [Black Lion](http://www.blacklion.pub/) and discovered that they were playing at 2:30, I let him know. "I'll be there in ten minutes!" came his reply. Rich' joined us there, too.
 

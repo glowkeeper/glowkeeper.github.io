@@ -1,12 +1,6 @@
 # The Battle of Orgreave
 
-The Miners Strike
-
 A modern setting and retelling of Tennyson's, [Charge of the Light Brigade](https://www.poets.org/poetsorg/poem/charge-light-brigade).
-
-[Listen to a recording of the poem](/assets/audio/Orgreave.wav).
-
-**27 January, 2018**
 
 **Mine**|**Original**
 :-------|:-----------
@@ -70,5 +64,9 @@ The British Public wondered: | All the world wonder'd.
 Why on earth the State Stampede? | Honour the charge they made!
 Honour those at Orgreave, | Honour the Light Brigade,
 Noble eight thousand five hundred! | Noble six hundred!
+
+[Listen to a recording of the poem](/assets/audio/Orgreave.wav).
+
+**27 January, 2018**
 
 &nbsp;

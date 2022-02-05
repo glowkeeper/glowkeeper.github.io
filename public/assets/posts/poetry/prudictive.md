@@ -1,9 +1,5 @@
 # Prudictive Text
 
-Keyboard nanny
-
-**20 May, 2018**
-
 My virtual keyboard's a clock sucking prude,
 When I'm angry, and want to shout "Ships!"
 It substitutes words more tucking refined,
@@ -33,5 +29,7 @@ Oops! So I have some very prudent advice.
 Disable keyboard nanny when you're home.
 Don't bank on your shitty motherfucking device.
 Instead, learn to spell on your own.
+
+**20 May, 2018**
 
 &nbsp;

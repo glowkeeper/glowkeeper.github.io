@@ -1,9 +1,5 @@
 # Wisdom
 
-Sometimes even the wise must acknowledge a higher wisdom.
-
-**9 September, 2013**
-
 While walking to the bus, on a damp, cold, December morning, a kind man noticed a snail in the middle of the path. He was worried that it might get trodden on, so he picked up the snail and put it on the grass verge.  
 
 “For crying out loud!” grumbled the angry snail, who lived down the drain across the other side of the path. “It took me four hours to get that far, and now I'm going to be super late home for dinner", continued the snail, “The wife's going to be livid! Bloody do-gooders!” he cried.  
@@ -17,5 +13,7 @@ Meanwhile, a Jackdaw, sat on ﻿a telephone wire above the road, was keenly watc
 “Thwap!” came the sickening sound as the snail's shell crashed into the road and shattered into a million pieces. “What’s going on...” agonised the terrified snail, moments before having his thoughts cut short when the Jackdaw gobbled him up hungrily.  
 
 The Jackdaw flew back to his perch and considered his full stomach. "Thank God for the wise!” he chuckled, wiping the remnants of his dinner from his beak.  
+
+**9 September, 2013**
 
 &nbsp;

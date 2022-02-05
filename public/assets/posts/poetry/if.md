@@ -1,10 +1,6 @@
 # If
 
-A modern take on what appear to be the virtues needed for the highest office. It is based on [If](https://www.poetryfoundation.org/poems/46473/if---), by Rudyard Kipling.
-
-I've written a [song](/posts/songs/If), based on this poem.
-
-**27 August, 2018**
+A modern take on what appear to be the virtues needed for leadership. It is based on [If](https://www.poetryfoundation.org/poems/46473/if---), by Rudyard Kipling.
 
 **Mine**|**Original**
 :-------|:-----------
@@ -43,5 +39,9 @@ If you can fill the unforgiving minute | If you can fill the unforgiving minute
 With one-hundred-and-forty keys shotgun, | With sixty seconds’ worth of distance run,
 Yours is the Earth plundered for everything in it, | Yours is the Earth and everything that’s in it,
 And, what's more, you'll lead the 'free world', my son! | And—which is more—you’ll be a Man, my son!
+
+I've written a [song](/posts/songs/If), based on this poem.
+
+**27 August, 2018**
 
 &nbsp;

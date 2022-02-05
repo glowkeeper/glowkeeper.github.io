@@ -1,10 +1,6 @@
 # Dreamland
 
-A new take on Blake's great poem, [Jerusalem](https://www.poetryfoundation.org/poems/54684/jerusalem-and-did-those-feet-in-ancient-time). What would a divine spirit make of modern England?
-
-[Listen to a recording of the poem](/assets/audio/Dreamland.wav).
-
-**20 January, 2018**
+A new take on Blake's great poem, [Jerusalem](https://www.poetryfoundation.org/poems/54684/jerusalem-and-did-those-feet-in-ancient-time).
 
 **Mine**|**Original**
 :-------|:-----------
@@ -27,5 +23,9 @@ I will not bow, or Cease to Fight, | I will not cease from Mental Fight,
 Nor shall my words sleep from my hand: | Nor shall my sword sleep in my hand:
 Until a Dreamland rises from the ground, | Till we have built Jerusalem,
 In England's unclean, unpleasant Land. | In Englands green & pleasant Land.
+
+[Listen to a recording of the poem](/assets/audio/Dreamland.wav).
+
+**20 January, 2018**
 
 &nbsp;

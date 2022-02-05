@@ -1,12 +1,6 @@
-# Twas the Night Before Not-Christmas
-
-Missing my children
+# 'Twas the Night Before Not-Christmas
 
 A reworking of the classic poem, [Twas the Night before Christmas](https://www.gutenberg.org/files/17135/17135-h/17135-h.htm), by Dr. Clement C. Moore.
-
-[Listen to a recording of the poem](/assets/audio/TheNightBeforeNotChristmas.wav).
-
-**24 December, 2017**
 
 **Mine**|**Original**
 :-------|:-----------
@@ -79,5 +73,9 @@ To spring to my phone, and answer its whistle, | He sprang to his sleigh, to his
 And at the other end, my daughters' excitement bristled. | And away they all flew like the down of a thistle.
 And I heard them exclaim, with all their might, | But I heard him exclaim, ere he drove out of sight,
 HAPPY CHRISTMAS DADDY! DID YOU HAVE A GOOD NIGHT? | HAPPY CHRISTMAS TO ALL, AND TO ALL A GOOD-NIGHT!
+
+[Listen to a recording of the poem](/assets/audio/TheNightBeforeNotChristmas.wav).
+
+**24 December, 2017**
 
 &nbsp;

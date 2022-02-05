@@ -1,9 +1,5 @@
 # Wind
 
-This was a story written for the last night cabaret at the 2014 Buddhafield Family Friendly Retreat.
-
-**17 August, 2014**
-
 **Me**: After a long journey west, the moors suddenly loom into view, dark and foreboding. They conjure a sense of times long forgotten, when elves and fairies lead the ceremonies that honoured the changing of the seasons. And if you listen carefully, you can still hear their ancient magic on the breeze; to this day, that magic makes the ash trees shimmer. I open the doors, and the children disappear to explore the Mill. It's as if they've come home; I hear them giggle as they gather sticks to race under the bridge over the stream that divides the land. But, after the long journey, I'm tired and hungry, so I seek out a warm, comforting cup of tea. What's for dinner, I wonder?
 
 **Audience**: Oh no! Not lentils again!
@@ -39,5 +35,7 @@ This was a story written for the last night cabaret at the 2014 Buddhafield Fami
 **Audience**: Oh no! Not lentils again!
 
 **Rick**: _farts_
+
+**17 August, 2014**
 
 &nbsp;

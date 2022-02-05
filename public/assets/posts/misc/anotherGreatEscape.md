@@ -1,8 +1,4 @@
-# Another Great Escape
-
-Three days of music and fun at Brighton's 2018 Great Escape festival.
-
-**May, 2018**
+# Another Great Escape - May, 2018
 
 ## Thursday
 

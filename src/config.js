@@ -199,7 +199,7 @@ export const homeSections = {
   about: {
     id: "home-about",
     title: UIText.about,
-    subText: "Dr Huckle's cv and site information",
+    subText: "info about Dr Huckle and the content on this site",
     route: LocalRoutes.about
   },
   academia: {
@@ -211,7 +211,7 @@ export const homeSections = {
   apps: {
     id: "home-apps",
     title: UIText.apps,
-    subText: "a few apps",
+    subText: "some of Dr Huckle's creations",
     route: LocalRoutes.apps
   },
   blog: {
@@ -253,7 +253,7 @@ export const homeSections = {
   stories: {
     id: "home-stories",
     title: UIText.stories,
-    subText: "longer than flash, shorter than a book",
+    subText: "longer than flash fiction, shorter than a book",
     route: LocalRoutes.stories
   }
 }
@@ -262,14 +262,14 @@ export const aboutSections = {
   info: {
     id: "about-info",
     title: UITextAbout.info,
-    subText: "",
+    subText: "info about the content on this site",
     route: LocalRoutesAbout.info,
     content: "/assets/posts/about/info.md"
   },
   cv: {
     id: "about-cv",
     title: UITextAbout.cv,
-    subText: "",
+    subText: "the curriculum vitae of Dr Huckle",
     route: LocalRoutesAbout.cv,
     content: "/assets/posts/about/cv.md"
   }
@@ -279,21 +279,21 @@ export const academiaSections = {
   teaching: {
     id: "academia-teaching",
     title: UITextAcademia.teaching,
-    subText: "",
+    subText: "info about the stuff Dr Huckle teaches",
     route: LocalRoutesAcademia.teaching,
     content: "/assets/posts/academia/teaching.md"
   },
   phd: {
     id: "academia-phd",
     title: UITextAcademia.phd,
-    subText: "",
+    subText: "how Dr Huckle got his salutation",
     route: LocalRoutesAcademia.phd,
     content: "/assets/posts/academia/phd.md"
   },
   msc: {
     id: "academia-msc",
     title: UITextAcademia.msc,
-    subText: "",
+    subText: "eco-conscious postgraduate studies",
     route: LocalRoutesAcademia.msc,
     content: "/assets/posts/academia/msc.md"
   },
@@ -303,14 +303,14 @@ export const appsSections = {
   storymaker: {
     id: "apps-storymaker",
     title: UITextApps.storymaker,
-    subText: "",
+    subText: "ai-based text generation",
     route: "",
     content: "https://glowkeeper.github.io/storymaker/"
   },
   rectangles: {
     id: "apps-rectangles",
     title: UITextApps.rectangles,
-    subText: "",
+    subText: "how many rectangles are there?",
     route: "",
     content: "https://glowkeeper.github.io/rectangle-react/"
   },
@@ -320,7 +320,7 @@ export const blogSections = {
   blog: {
     id: "blog",
     title: UIText.blog,
-    subText: "",
+    subText: "coming soon...",
     route: LocalRoutes.blog + "/blog",
     content: "/assets/posts/blog/blog.md"
   },
@@ -330,14 +330,14 @@ export const booksSections = {
   myAbi: {
     id: "books-my-abi",
     title: UITextBooks.myAbi,
-    subText: "",
+    subText: "a father telling of his daughter's brain tumour",
     route: "",
     content: "https://app.gitbook.com/@stevehuckle/s/my-abi/"
   },
   storiesFromTheCampfire: {
     id: "books-stories-from-the-campfire",
     title: UITextBooks.storiesFromTheCampfire,
-    subText: "",
+    subText: "campfire stories from Brighton Buddhist Centre's family retreat",
     route: "",
     content: "https://app.gitbook.com/@stevehuckle/s/stories-from-the-campfire/"
   },
@@ -347,21 +347,21 @@ export const flashFictionSections = {
   eric: {
     id: "flash-eric",
     title: UITextFlashFiction.eric,
-    subText: "",
+    subText: "it's said that I might be Eric, but I don't live in a tree",
     route: LocalRoutesFlashFiction.eric,
     content: "/assets/posts/flashFiction/eric.md"
   },
   fortunes: {
     id: "flash-fortunes",
     title: UITextFlashFiction.fortunes,
-    subText: "",
+    subText: "I entered a version of this story for a Songs of Praise FA Cup Fans Choir Competition. Songs of Praise were looking for three-hundred-word stories that reflected the passion of the FA Cup. The winners would get to sing Abide with Me, backed by a brass band, in front of 90,000 people at the FA Cup Final at Wembley Stadium. The story got shortlisted. Alas, it didn't win",
     route: LocalRoutesFlashFiction.fortunes,
     content: "/assets/posts/flashFiction/fortunesAlwaysHiding.md"
   },
   wisdom: {
     id: "flash-wisdom",
     title: UITextFlashFiction.wisdom,
-    subText: "",
+    subText: "sometimes even the wise must acknowledge a higher wisdom",
     route: LocalRoutesFlashFiction.wisdom,
     content: "/assets/posts/flashFiction/wisdom.md"
   }
@@ -371,49 +371,49 @@ export const miscSections = {
   anotherGreatEscape: {
     id: "misc-another-great-escape",
     title: UITextMisc.anotherGreatEscape,
-    subText: "",
+    subText: "three days of music and fun at Brighton's 2018 Great Escape festival",
     route: LocalRoutesMisc.anotherGreatEscape,
     content: "/assets/posts/misc/anotherGreatEscape.md"
   },
   myGreatEscape: {
     id: "misc-my-great-escape",
     title: UITextMisc.myGreatEscape,
-    subText: "",
+    subText: "three days of music and fun at Brighton's 2017 Great Escape festival",
     route: LocalRoutesMisc.myGreatEscape,
     content: "/assets/posts/misc/myGreatEscape.md"
   },
   patience: {
     id: "misc-patience",
     title: UITextMisc.patience,
-    subText: "",
+    subText: "a diary of a trip to Santander, Spain",
     route: LocalRoutesMisc.patience,
     content: "/assets/posts/misc/patience.md"
   },
   scotlandEngland: {
     id: "misc-scotland-vs-england",
     title: UITextMisc.scotlandEngland,
-    subText: "",
+    subText: "ye auld enemies",
     route: LocalRoutesMisc.scotlandEngland,
     content: "/assets/posts/misc/scotlandEngland.md"
   },
   westHamEverton: {
     id: "misc-west-ham-vs-everton",
     title: UITextMisc.westHamEverton,
-    subText: "",
+    subText: "our first trip to the new stadium in Stratford",
     route: LocalRoutesMisc.westHamEverton,
     content: "/assets/posts/misc/westHamEverton.md"
   },
   wind: {
     id: "misc-wind",
     title: UITextMisc.wind,
-    subText: "",
+    subText: "this was written for the last night cabaret at the 2014 Buddhafield family friendly retreat",
     route: LocalRoutesMisc.wind,
     content: "/assets/posts/misc/wind.md"
   },
   worldCupSemi: {
     id: "misc-world-cup-semi",
     title: UITextMisc.worldCupSemi,
-    subText: "",
+    subText: "a trip to a big game in Russia",
     route: LocalRoutesMisc.worldCupSemi,
     content: "/assets/posts/misc/worldCupSemi.md"
   },
@@ -423,84 +423,84 @@ export const poetrySections = {
   difficult: {
     id: "poetry-difficult",
     title: UITextPoetry.difficult,
-    subText: "",
+    subText: "inspired by David Shrigley",
     route: LocalRoutesPoetry.difficult,
     content: "/assets/posts/poetry/difficult.md"
   },
   dreamland: {
     id: "poetry-dreamland",
     title: UITextPoetry.dreamland,
-    subText: "",
+    subText: "what would a divine spirit make of modern England?",
     route: LocalRoutesPoetry.dreamland,
     content: "/assets/posts/poetry/dreamland.md"
   },
   if: {
     id: "poetry-if",
     title: UITextPoetry.if,
-    subText: "",
+    subText: "if you can rant and rave when all about you...",
     route: LocalRoutesPoetry.if,
     content: "/assets/posts/poetry/if.md"
   },
   iKneel: {
     id: "poetry-i-kneel",
     title: UITextPoetry.iKneel,
-    subText: "",
+    subText: "black lives matter",
     route: LocalRoutesPoetry.iKneel,
     content: "/assets/posts/poetry/iKneel.md"
   },
   monkey: {
     id: "poetry-monkey",
     title: UITextPoetry.monkey,
-    subText: "",
+    subText: "I wish you were home",
     route: LocalRoutesPoetry.monkey,
     content: "/assets/posts/poetry/monkey.md"
   },
   notChristmas: {
     id: "poetry-not-christmas",
     title: UITextPoetry.notChristmas,
-    subText: "",
+    subText: "missing my children",
     route: LocalRoutesPoetry.notChristmas,
     content: "/assets/posts/poetry/notChristmas.md"
   },
   orgreave: {
     id: "poetry-orgreave",
     title: UITextPoetry.orgreave,
-    subText: "",
+    subText: "an awful day of the miners strike",
     route: LocalRoutesPoetry.orgreave,
     content: "/assets/posts/poetry/orgreave.md"
   },
   prudictive: {
     id: "poetry-prudictive",
     title: UITextPoetry.prudictive,
-    subText: "",
+    subText: "keyboard nanny",
     route: LocalRoutesPoetry.prudictive,
     content: "/assets/posts/poetry/prudictive.md"
   },
   santaClaus: {
     id: "poetry-santa-claus",
     title: UITextPoetry.santaClaus,
-    subText: "",
+    subText: "male?",
     route: LocalRoutesPoetry.santaClaus,
     content: "/assets/posts/poetry/santaClaus.md"
   },
   soonToBe73: {
     id: "poetry-soon-to-be-73",
     title: UITextPoetry.soonToBe73,
-    subText: "",
+    subText: "the dismantling of the NHS",
     route: LocalRoutesPoetry.soonToBe73,
     content: "/assets/posts/poetry/soonToBe73.md"
   },
   theRoad: {
     id: "poetry-the-road",
     title: UITextPoetry.theRoad,
-    subText: "",
+    subText: "they felled the wood to build the road...",
     route: LocalRoutesPoetry.theRoad,
     content: "/assets/posts/poetry/theRoad.md"
   },
   winter: {
     id: "poetry-winter",
     title: UITextPoetry.winter,
-    subText: "",
+    subText: "when the rain never stops to fall",
     route: LocalRoutesPoetry.winter,
     content: "/assets/posts/poetry/winter.md"
   },

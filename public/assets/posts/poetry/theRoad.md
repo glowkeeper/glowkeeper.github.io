@@ -2,10 +2,6 @@
 
 An inversion of Rudyard Kipling's poem, [The Way Through the Woods](https://www.familyfriendpoems.com/poem/the-way-through-the-woods-by-rudyard-kipling).
 
-[Listen to a recording of the poem](/assets/audio/TheRoad.wav).
-
-**10 January, 2018**
-
 **Mine**|**Original**
 :-------|:-----------
 THEY felled the wood to build the road | THEY shut the road through the woods
@@ -34,5 +30,9 @@ The smoggy multitidues, | The misty solitudes,
 Where once the locals knew | As though they perfectly knew
 The old lost trees ripped down by the road ... | The old lost road through the woods ...
 Where once stood a wood goes the road. | But there is no road through the woods.
+
+[Listen to a recording of the poem](/assets/audio/TheRoad.wav).
+
+**10 January, 2018**
 
 &nbsp;

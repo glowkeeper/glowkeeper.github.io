@@ -1,9 +1,5 @@
 # Chickens and Eggs
 
-Our first trip to Stratford.
-
-**May, 2018**
-
 Original article posted on [Knees Up Mother Brown](http://www.kumb.com/article.php?id=4173).
 
 I will admit, I had been avoiding going to the new stadium; I haven't quite let go of Upton Park, a stadium I had been visiting for 35 years, so a trip to the Olympic Stadium would've felt a bit like cheating on the wife. Not that I'm troubled by that strife, but still. However, a confluence of events on Sunday 13th May 2018 was conspiring to my breaking my duck at the Everton game that afternoon. First, a young friend of my 13 and 11-year old daughters plays for Brighton Under 11s, and on that morning, they were playing West Ham in Hainault. Secondly, my eldest daughter, who, following a few visits to Upton Park a while back, had become an ardent Hammer, was threatening to support her now hometown club, Brighton. Eek! I needed to exterminate that threat! Thirdly, I hadn't seen my Goddaughter, who lives in Wanstead, for a while and it was about time I put that right. Fourthly, it was only Everton, so there was a chance West Ham might even win. Finally, West Ham was safe from the spectre of relegation, so there was the potential for a carnival atmosphere. The only problem was that I didn't have a ticket.
@@ -21,5 +17,7 @@ And thankfully, Everton lived up to my expectations of being shit. Better was th
 After the game, I bought a t-shirt from the West Ham store, then walked back to Stratford station. There were none of the hour-long queues of Upton Park, and we were back in Wanstead by 5:40, and sat with my Goddaughter eating at a Thai in Leytonstone by 6:30. Afterwards, I began the drive back to Brighton by blasting out West Side Boys, by the Cockney Rejects. Then I handed over DJ responsibilities to Kyra, who entertained us with, amongst others, Coldplay, U2 and Snow Patrol. We arrived back in Brighton singing the White Stripes' Seven Nation Army.  
 
 "Don't worry, Dad, I'm a West Ham fan really," Kyra confided. Success! What a day! And now I've broken my duck at the Olympic Stadium and been suitably impressed, I'm pretty sure the girls and I will once again be regularly cheering on West Ham. That's if I can persuade the ticket office I now have a history...
+
+**May, 2018**
 
 &nbsp;

@@ -2,10 +2,6 @@
 
 A sombre reworking of Shakespeare's poem, [Winter](https://www.shmoop.com/winter-shakespeare/poem-text.html).
 
-[Listen to a recording of the poem](/assets/audio/Winter.wav).
-
-**7 January, 2018**
-
 **Mine**|**Original**
 :-------|:-----------
 When the rain never stops to fall, | When icicles hang by the wall,
@@ -27,5 +23,9 @@ Then nightly do the homeless prowl, | Then nightly sings the staring owl,
 "What if it were you?"— | "Tu-whit, to-who!"—
 A sombre note, | A merry note,
 While weary Joan does chance her lot. | While greasy Joan doth keel the pot.
+
+[Listen to a recording of the poem](/assets/audio/Winter.wav).
+
+**7 January, 2018**
 
 &nbsp;

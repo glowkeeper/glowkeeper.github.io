@@ -1,9 +1,5 @@
 # I Wish You Were A Monkey
 
-I wish you were home...
-
-**10 November, 2019**
-
 I wish you were a monkey,
 That I could scratch behind the ears,
 I would feed you lots of 'nanas,
@@ -38,5 +34,7 @@ Then I'd cling to you tightly,
 You climb in beside me, please!
 I'd fall asleep amidst your calm,
 Delight, your mighty squeeze.
+
+**10 November, 2019**
 
 &nbsp;

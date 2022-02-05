@@ -1,9 +1,5 @@
 # Patience
 
-A diary of a trip to Santander
-
-**9 September, 2017**
-
 The clock in the kitchen moved remorselessly on. "Come on, girls!" I shouted up to my children, who were busily shoving clothes into their suitcases; it seemed as though they had been doing that forever: "If you don't hurry, we'll miss the sailing!" We were going surfing in Northern Spain, and getting the ferry from Portsmouth (an hour West from where we lived, near Brighton) to Santander. We had plenty of time to spare, really, but I don't do 'late' very well; I much prefer arriving good and early, rather than rushing somewhere just-in-time.
 
 I needn't have worried. Despite a bit of traffic around Chichester, we got to Portsmouth a couple of hours before the ship was due to make the crossing. We checked in and began waiting in our allotted queue. Before leaving home, I had found myself worrying about the six boxes of eggs I had stored in the fridge, so I hard boiled the lot with the intention of having a good few on the ferry. Realising that was somewhat ambitious, I joked with the girls that we should sell some to our fellow sufferers waiting in their cars: "Hard boiled eggs for sale!" I cried, just loud enough for my children to hear, but not with enough volume to totally embarrass them, unfortunately. Nonetheless: "Be quiet, daddy!" pleaded Kyra, giggling.
@@ -41,5 +37,8 @@ After a bite to eat, Kyra was struggling with sea sickness, so she retreated to 
 The Isle of White came quickly into view, then Portsmouth and its new Aircraft Carrier of Death. Then we were waiting, once again, for the crew to offload us. Then waiting to go through customs. Then waiting to join the M275 and onto Brighton, and home.
 
 Usually, I love returning to Brighton - it's a glorious part of the world. But it had been such a fabulous holiday, and I'm beginning to fall in love with the Spanish region of Cantabria, so I was slightly sad when I finally closed my front door and sat down to rest. I can't wait until I see that part of the world again. Or perhaps I can. Because if I learned anything on this trip, then it's 'patience is a virtue'; rather than 'I can't wait', the sentiment should be that I'm looking forward to renewing my vigil and waiting patiently, whale spotting, on the Bay of Biscay.
+
+
+**9 September, 2017**
 
 &nbsp;

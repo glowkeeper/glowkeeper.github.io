@@ -1,7 +1,5 @@
 # Scotland vs England
 
-Ye Auld Enemy
-
 **World Cup Euro Qualifier - Group F
 5:00pm Saturday 10th June, 2017
 Hampden Park (Attendance: 48,520)**
