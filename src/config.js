@@ -17,8 +17,9 @@ export class LocalRoutes {
 
 export class LocalRoutesAbout {
 
-  static info = `${LocalRoutes.about}/info` 
+  static contact = `${LocalRoutes.about}/contact` 
   static cv = `${LocalRoutes.about}/cv` 
+  static info = `${LocalRoutes.about}/info` 
   static license = `${LocalRoutes.about}/site-license`
 }
 
@@ -104,7 +105,7 @@ export class UIText {
   static songs = "songs"
   static stories = "stories"
 
-  static copyright = "© 2022, Dr Steve Huckle, all rights reserve"
+  static copyright = "© 2022, Dr Steve Huckle"
 
   static eProfessional = "e-professional: s.huckle@sussex.ac.uk"
   static ePersonal = "e-personal: steve.huckle@gmail.com"
@@ -114,8 +115,9 @@ export class UIText {
 
 export class UITextAbout {
 
-  static info = "site info"
+  static contact = "contact"
   static cv = "cv"
+  static info = "site info"
 }
 
 export class UITextAcademia {
@@ -259,12 +261,12 @@ export const homeSections = {
 }
 
 export const aboutSections = {
-  info: {
-    id: "about-info",
-    title: UITextAbout.info,
-    subText: "info about the content on this site",
-    route: LocalRoutesAbout.info,
-    content: "/assets/posts/about/info.md"
+  contact: {
+    id: "about-contact",
+    title: UITextAbout.contact,
+    subText: "send an email",
+    route: LocalRoutesAbout.contact,
+    content: "/assets/posts/about/contact.md"
   },
   cv: {
     id: "about-cv",
@@ -272,6 +274,13 @@ export const aboutSections = {
     subText: "the curriculum vitae of Dr Huckle",
     route: LocalRoutesAbout.cv,
     content: "/assets/posts/about/cv.md"
+  },
+  info: {
+    id: "about-info",
+    title: UITextAbout.info,
+    subText: "info about the content on this site",
+    route: LocalRoutesAbout.info,
+    content: "/assets/posts/about/info.md"
   }
 }
 

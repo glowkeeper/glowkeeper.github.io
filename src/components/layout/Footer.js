@@ -41,21 +41,23 @@ export const Footer = () => {
           <div>
             <Link 
                 className="footer"
-                to="/about/info"
+                to="/about/contact"
             >
-              {UITextAbout.info}
+              {UITextAbout.contact}
             </Link> <br/>  
             <Link 
                 className="footer"
                 to="/about/cv"
             >
               {UITextAbout.cv}
-            </Link>    
+            </Link>   <br/>              
+            <Link 
+                className="footer"
+                to="/about/info"
+            >
+              {UITextAbout.info}
+            </Link>   
           </div>
-          <p>
-            {UIText.eProfessional}<br/>
-            {UIText.ePersonal}
-          </p>
           <p>
             {UIText.copyright}
           </p>
