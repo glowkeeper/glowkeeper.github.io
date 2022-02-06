@@ -110,7 +110,8 @@ export class UIText {
   static eProfessional = "e-professional: s.huckle@sussex.ac.uk"
   static ePersonal = "e-personal: steve.huckle@gmail.com"
 
-  static darkModeToggle = "toggle dark mode"
+  static darkMode = "dark mode"
+  static lightMode = "light mode"
 }
 
 export class UITextAbout {

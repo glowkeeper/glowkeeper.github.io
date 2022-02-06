@@ -65,13 +65,13 @@ export const Footer = () => {
             id="theme-toggle"
             onClick={() => {
               const isDark = !darkTheme
-              const theme = isDark ? 'dark' : 'light'        
+              const theme = isDark ? 'dark' : 'light'       
               root.setAttribute('data-theme', theme);
               setDarkTheme(isDark)
               window.localStorage.setItem(themeKey, theme)
             }}
           >
-            {UIText.darkModeToggle}
+            {darkTheme ? UIText.lightMode : UIText.darkMode }
           </button>
         </div>
       </div>
