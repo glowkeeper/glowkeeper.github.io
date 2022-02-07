@@ -5,7 +5,7 @@
 #apps-rectangles {
   display: grid;
   place-items: center center;
-  height: 100%;
+  height: 100vh;
 
   font-size: var(--content-link-size);
 
@@ -15,14 +15,10 @@
 
 #apps-storymaker-md,
 #apps-rectangles-md {
-  position: fixed;
-  height: calc(100% - var(--footer-height) - var(--header-height));
-  width: calc(100% - 2rem);
-
-  padding: 0 3rem 1rem 1rem;
+  padding: var(--header-height) 2rem 0 2rem;
   white-space: pre-wrap;
 
-  overflow-y: scroll;
+  min-height: calc(100vh - var(--header-height) - var(--footer-height));
 
   background: var(--content-colour);
 }

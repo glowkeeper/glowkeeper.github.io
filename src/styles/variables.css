@@ -25,9 +25,8 @@
 
   --button-border-colour: black;
 
-  --header-height: 4rem;
-  --footer-height: 2rem;
-  --footer-open-height: 4rem;
+  --header-height: 3rem;
+  --footer-height: 4rem;
 
   --table-spacing: 40px 5px;
 }

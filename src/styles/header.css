@@ -3,13 +3,17 @@
 #header {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  
+
+  box-sizing: border-box;
+
   position: fixed;
   top: 0;
-  bottom: calc(100vh - var(--header-height));
 
-  padding: 0 1rem 0 1rem;
-  width: calc(100vw - 2rem);
+  padding: 0 1rem 0.5rem 1rem;
+  margin: 0;
+
+  height: var(--header-height);
+  width: 100%;
 
   background-color: var(--header-colour);
   color: var(--text-colour);
@@ -17,7 +21,7 @@
 
 #header-context {
   display: grid;
-  place-items: center start;
+  place-items: end start;
 }
 
 #header-context > div {
@@ -28,24 +32,15 @@
 #header-title {
   color: var(--title-text-colour);
   display: grid;
-  place-items: center center;
+  place-items: end center;
 }
 
 #header-main {
   display: grid;
-  place-items: center end;
+  place-items: end end;
 }
 
 #header-main > div {
   display: grid;
   place-items: center center;
-}
-
-
-button#header-toggle {
-  border-radius: 10px;
-  border: 1px solid black;
-
-  background-color: var(--content-active-colour);
-  color: var(--text-colour);
 }

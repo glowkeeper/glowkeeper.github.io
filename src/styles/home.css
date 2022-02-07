@@ -13,7 +13,7 @@
 #home-stories {
   display: grid;
   place-items: center center;
-  height: 100%;
+  height: 100vh;
 
   font-size: var(--content-link-size);
 

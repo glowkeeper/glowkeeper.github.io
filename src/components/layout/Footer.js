@@ -4,7 +4,6 @@ import { Link } from 'react-router-dom'
 import { UIText, UITextAbout } from '../../config'
 
 export const Footer = () => {
-  const [isOpen, setIsOpen] = useState(false)
   const [darkTheme, setDarkTheme] = useState(true)
 
   const root = document.documentElement;
@@ -20,23 +19,9 @@ export const Footer = () => {
 
   return (
     <footer>
-
-      <button
-        id="footer-toggle"
-        onClick={() => setIsOpen(true)}
-      >
-        ⌃
-      </button>
       <div
         id="footer"
-        className={isOpen ? "open" : "close"}
       >
-        <button 
-          id="footer-toggle"
-          onClick={() => setIsOpen(false)}
-        >
-          ⌄
-        </button>
         <div id="footer-content">
           <div>
             <Link 
