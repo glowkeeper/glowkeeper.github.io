@@ -1,3 +1,9 @@
+export class System {
+  static themeKey = 'theme'
+  static darkTheme = 'dark'
+  static lightTheme = 'light'
+}
+
 export class LocalRoutes {
 
       static home = "/"

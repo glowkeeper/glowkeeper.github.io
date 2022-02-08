@@ -17,8 +17,6 @@ export const Content = (props) => {
             .then((text) => setMarkdown(text));
     }, [content]);
 
-    // console.log('blah', siteSections, content, id)
-
     return (
         <>
             <Header title={title} siteSections={siteSections} />

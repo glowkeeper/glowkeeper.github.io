@@ -37,6 +37,14 @@ button#theme-toggle {
   background-color: var(--content-active-colour);
 }
 
+button#theme-toggle:hover {
+  color: var(--links-colour-hover);
+}
+
+button#theme-toggle:active {
+  color: var(--links-colour-active);
+}
+
 #footer p {
   color: var(--footer-text-colour);
 }

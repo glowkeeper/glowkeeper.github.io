@@ -35,7 +35,7 @@ export const Header = (props) => {
                 <div>
                   <p id="menu-burger">
                     ≡ <br/>
-                    <span id="menu-text">{title} menu</span>
+                    <span id="menu-text">{title}</span>
                   </p>
                 </div>
               </button>
@@ -67,7 +67,7 @@ export const Header = (props) => {
             <div>
               <p id="menu-burger">
                 ≡ <br/>
-                <span id="menu-text">main menu</span>
+                <span id="menu-text">main</span>
               </p>
             </div>
           </button>
