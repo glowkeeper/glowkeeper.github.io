@@ -138,6 +138,7 @@ export class UITextApps {
 
   static storymaker = "storymaker"
   static rectangles = "rectangles"
+  static calculator = "calculator"
 }
 
 export class UITextBooks {
@@ -329,6 +330,13 @@ export const appsSections = {
     subText: "how many rectangles are there?",
     route: "",
     content: "https://glowkeeper.github.io/rectangle-react/"
+  },
+  calculator: {
+    id: "apps-calculator",
+    title: UITextApps.calculator,
+    subText: "simple calculator",
+    route: "",
+    content: "https://glowkeeper.github.io/simple-calculator/"
   },
 }
 

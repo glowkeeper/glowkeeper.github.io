@@ -2,7 +2,8 @@
 @import "animations.css";
 
 #apps-storymaker,
-#apps-rectangles {
+#apps-rectangles,
+#apps-calculator {
   display: grid;
   place-items: center center;
   height: 100vh;
@@ -14,7 +15,8 @@
 }
 
 #apps-storymaker-md,
-#apps-rectangles-md {
+#apps-rectangles-md,
+#apps-calculator-md {
   padding: var(--header-height) 2rem 0 2rem;
   white-space: pre-wrap;
 
