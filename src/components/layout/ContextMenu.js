@@ -5,7 +5,7 @@ export const ContextMenu = (props) => {
   const {title, sections} = props
 
   const [thisTitle, setThisTitle] = useState("")
-  const [isOpen, setIsOpen] = useState(true) 
+  const [isOpen, setIsOpen] = useState(false) 
   const [anchors, setAnchors] = useState([])
 
   useEffect(() => {
