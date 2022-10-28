@@ -1,18 +1,15 @@
 import { useState } from 'react';
 
-import { Link } from "react-router-dom"
-
 import {ContextMenu} from './ContextMenu';
 import {MainMenu} from './MainMenu';
 
-import {LocalRoutes, UIText} from '../../config'
+import {UIText} from '../../config'
 
 export const Header = (props) => {
-  const [isContextOpen, setIsContextOpen] = useState(false)
-  const [isMainOpen, setIsMainOpen] = useState(false)
   const { title, siteSections, sections } = props
 
-  //console.log('site', siteSections)
+  const [isMainOpen, setIsMainOpen] = useState(false)
+
   //console.log('sect', sections)
   return (
     <header>
@@ -20,37 +17,7 @@ export const Header = (props) => {
         id="header"
       >
         <div id="header-context">  
-          { sections ? (   
-                      
-              <button
-                className="context-link"
-                onClick={() => {
-                  const contextOpen = !isContextOpen
-                  setIsContextOpen(contextOpen)
-                  if ( contextOpen ) {
-                    setIsMainOpen(false)
-                  }
-                }}
-              >
-                <div>
-                  <p id="menu-burger">
-                    ≡ <br/>
-                    <span id="menu-text">{title}</span>
-                  </p>
-                </div>
-              </button>
-
-          ): (
-
-            <Link 
-              className="context-link"
-              to={LocalRoutes.home}
-            >
-              {UIText.home}
-            </Link> 
-
-          )}
-
+          <h4>{title}</h4>
         </div> 
         <div id="header-title">{UIText.title}</div> 
         <div id="header-main"> 
@@ -59,17 +26,9 @@ export const Header = (props) => {
             onClick={() => {
               const mainOpen = !isMainOpen
               setIsMainOpen(mainOpen)
-              if ( mainOpen ) {
-                setIsContextOpen(false)
-              }
             }}
           >
-            <div>
-              <p id="menu-burger">
-                ≡ <br/>
-                <span id="menu-text">main</span>
-              </p>
-            </div>
+            <p id="menu-burger">≡</p>
           </button>
         </div>
       </div>
@@ -77,9 +36,8 @@ export const Header = (props) => {
         <>
           {sections && 
             <ContextMenu 
+              title={title}
               sections={sections}
-              setIsOpen={setIsContextOpen}
-              isOpen={isContextOpen}
             />
           }
           {siteSections && 

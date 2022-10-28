@@ -99,6 +99,7 @@ export class UIText {
   static title = "Dr Steve Huckle"
 
   static home = "home"
+  static main = "main"
 
   static about = "about"
   static academia = "academia"
