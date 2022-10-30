@@ -8,6 +8,8 @@ export const ContextMenu = (props) => {
   const [isOpen, setIsOpen] = useState(false) 
   const [anchors, setAnchors] = useState([])
 
+  //console.log('am I here?')
+
   useEffect(() => {
 
     const anchors = Object.keys(sections).map(section => {

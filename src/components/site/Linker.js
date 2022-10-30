@@ -1,11 +1,10 @@
-import { useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { useNavigate, Link } from 'react-router-dom'
 
-import { Header } from '../layout/Header'
-import { Footer } from '../layout/Footer'
-
 export const Linker = (props) => {
-    const { title, siteSections, sections } = props
+    const { sections } = props
+
+    const [siteSections, setSiteSections] = useState([])
 
     const navigate = useNavigate()
 
@@ -15,18 +14,12 @@ export const Linker = (props) => {
 
             const mySections = Object.keys(sections)
             if ( mySections.length === 1 ) {
+                console.log('when am I here?')
                 const myRoute = sections[`${mySections[0]}`].route
                 navigate(myRoute, { replace: true })
-            }
-        }
-
-    }, [sections, navigate])
-
-    return (
-        <>
-            <Header title={title} siteSections={siteSections} sections={sections}/>
-            <main>
-                {Object.keys(sections).map((section, index) => {
+            } else {
+            
+                const siteSections = Object.keys(sections).map((section, index) => {
                     const thisSection = sections[`${section}`]
                     const thisLink = thisSection.content
                     if ( !thisLink || /\.md$/.test(thisLink) ) {
@@ -78,9 +71,20 @@ export const Linker = (props) => {
                     }
     
                     
-                })}
+                })
+
+                setSiteSections(siteSections)
+            }
+        }
+
+    }, [sections, navigate])
+
+    return (
+        <>
+            {/* <Header title={title} siteSections={siteSections} sections={sections}/> */}
+            <main>
+                {siteSections}
             </main>
-            <Footer />
         </>
     );
 }

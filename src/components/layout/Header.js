@@ -10,7 +10,11 @@ export const Header = (props) => {
 
   const [isMainOpen, setIsMainOpen] = useState(false)
 
-  //console.log('sect', sections)
+  // console.log('is this reloaded?', title)
+  // console.log('is this site?', siteSections)
+  // console.log('is this sections?', sections)
+  // console.log('is this open?', isMainOpen)
+
   return (
     <header>
       <div

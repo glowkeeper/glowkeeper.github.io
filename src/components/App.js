@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 
+import { HeaderNew } from './layout/HeaderNew'
 import { Router } from './Router'
+import { Footer } from './layout/Footer'
 
 import { System } from '../config'
 
@@ -38,7 +40,9 @@ export const App = () => {
   return (
     <ThemeContext.Provider value={themeContext}>
       <div id="content">
+        <HeaderNew />
         <Router />
+        <Footer />
       </div>
     </ThemeContext.Provider>
   );
