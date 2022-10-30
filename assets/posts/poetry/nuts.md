@@ -21,7 +21,7 @@ A lotus pose becomes devout.
 But when all is said and done.
 The facts of a flax are but mere fun.
 
-The kernel of truth at the very apex.
+The kernel of truth at the very apex,
 Is through an open mind in the nut on your neck.
 
 **30 October, 2022**
