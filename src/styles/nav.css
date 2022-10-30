@@ -63,46 +63,13 @@ p#menu-burger:active {
   color: var(--links-colour-active);
 }
 
-
-#context-nav {
-  display: grid;
-  grid-template-rows: 1rem auto;
-
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  right: -200px;
-
-  z-index: 2000;
-
-  padding: 1rem;
-
-  height: 100vh;
-  width: 200px;
-
-  background-color: var(--menu-colour);
-  transition: transform .8s ease-in-out;
-}
-
-#context-nav.open {
-  transform: translateX(-200px);
-}
-
-#context-nav.close {
-  transform: translateX(200px);
-}
-
-#context-items {
-  display: grid;
-  place-items: center center;
-}
-
-button.context-link,
-button.context-link-close {
+button.context-link {
   border: none;
   outline: none;
   background: none;
   text-decoration: none;
+  width: 100%;
+  text-align: right;
   margin: 0;
   padding: 0;
 
@@ -111,17 +78,11 @@ button.context-link-close {
   color: var(--links-colour-link);
 }
 
-button.context-link-close {
-  text-align: left;
-}
-
-button.context-link:hover,
-button.context-link-close:hover {
+button.context-link:hover {
   color: var(--links-colour-hover);
 }
 
-button.context-link:active,
-button.context-link-close:active {
+button.context-link:active {
   color: var(--links-colour-active);
 }
 
@@ -138,7 +99,7 @@ button.context-link-close:active {
 
   padding: 1rem;
 
-  height: 100vh;
+
   width: 200px;
 
   background-color: var(--menu-colour);
@@ -160,7 +121,7 @@ button.main-link-close {
 }
 
 button.main-link-close {
-  text-align: left;
+  text-align: right;
 }
 
 button.main-link:hover,
@@ -183,12 +144,11 @@ button.main-link-close:active {
 
 #main-items {
   display: grid;
-  place-items: center center;
+  place-items: start start;
 }
 
-#menu-text {
-  margin: 0;
-  padding: 0;
-  font-size: 1rem;
+.expander {
+  display: grid;
+  grid-template-columns: auto auto auto;
 }
 

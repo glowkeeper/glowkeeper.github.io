@@ -1,43 +1,127 @@
+import React, { useState, useEffect } from 'react';
+
 import { Link } from "react-router-dom"
 
-import {UIText} from '../../config'
+import { siteSections as site } from '../../config'
 
 export const MainMenu = (props) => {
-  const {sections, isOpen, setIsOpen} = props
+  const [isOpen, setIsOpen] = useState(false)
+  const [siteSections, setSiteSections] = useState([])
+  const [expandIndex, setExpandIndex] = useState(0)
+
+  //console.log('rendering main memnu')
+
+  document.body.scrollIntoView({behavior: "smooth"});
+
+  useEffect(() => {  
+    
+    const siteSections = Object.keys(site).map((section, index) => {
+      const thisSection = site[section]  
+      return ( 
+        <Link 
+            className="main"
+            key={index}
+            to={thisSection.route}
+            onClick={() => setExpandIndex(index)}
+        >
+            <div
+                tabIndex={index}
+                id={thisSection.id}
+            >
+                {thisSection.title}
+            </div>
+        </Link> 
+      )
+    })
+    setSiteSections(siteSections)
+  }, [])
 
   return (
     <>
+      {/* Menu burger - just leave this open - the actual menu (below) just slides out over it */}
+
+      <button
+        className="main-link"
+        onClick={() => {
+          const mainOpen = !isOpen
+          setIsOpen(mainOpen)
+        }}
+      >
+        <p id="menu-burger">≡</p>
+      </button>
+
+      {/* the menu */}
+
       <nav 
         id="main-nav"
         className={isOpen ? "open" : "close"}
       >
         <button 
           className="main-link-close"
-          onClick={() => setIsOpen(false)}
+          onClick={() => {
+            setExpandIndex(0)
+            setIsOpen(false)
+          }}
         >
           × close
         </button>
         <div id="main-items">
-          <h4>{UIText.main} menu</h4>
-          {Object.keys(sections).map((section, index) => {
-            const thisSection = sections[`${section}`]                     
-            return (  
-              <Link 
-                  className="main"
-                  key={index}
-                  to={thisSection.route}
-              >
-                  <div
-                      tabIndex={index}
-                      id={thisSection.id}
-                  >
-                      {thisSection.title}
+          {expandIndex === 0 ? (
+            <>
+              {siteSections.map((section, index) => {
+                return (
+                  <div className="expander">
+                    {section} &nbsp; {'⇨'}
                   </div>
-              </Link>    
-            )
-          })}
+                )
+              })}
+            </>
+          ) : (
+            <>
+              {Object.keys(site).map((section, index) => {
+                  const thisSection = site[section]
+                  if ( index === expandIndex ) {
+                    return (
+                      <>
+                        <div className="expander">
+                          {siteSections[index]} &nbsp; {'⇩'}
+                        </div>         
+                        {Object.keys(thisSection.sections).map((mySection, thisIndex) => {
+                          return (  
+                            <button
+                              key={index + " " + thisIndex}
+                              className="context-link"
+                              onClick={() => {
+                                const myAnchor = document.getElementById(thisSection.sections[mySection].id)
+                                if (myAnchor) {
+                                  myAnchor.scrollIntoView({
+                                    block: "nearest",
+                                    inline: "center",
+                                    behavior: "smooth",
+                                    alignToTop: false
+                                  })
+                                  myAnchor.focus({preventScroll: true})
+                                }
+                              }}
+                            >
+                              {mySection}
+                            </button>   
+                          )
+                        })}
+                      </>
+                    )
+                  } else {
+                    return (
+                      <div className="expander">
+                        {siteSections[index]} &nbsp; {'⇨'}
+                      </div>
+                    )
+                  }
+              })}
+            </>
+          )}
         </div>
-      </nav>      
+      </nav>            
     </>
   );
 }

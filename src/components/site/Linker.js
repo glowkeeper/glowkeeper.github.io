@@ -14,7 +14,6 @@ export const Linker = (props) => {
 
             const mySections = Object.keys(sections)
             if ( mySections.length === 1 ) {
-                console.log('when am I here?')
                 const myRoute = sections[`${mySections[0]}`].route
                 navigate(myRoute, { replace: true })
             } else {
@@ -81,10 +80,7 @@ export const Linker = (props) => {
 
     return (
         <>
-            {/* <Header title={title} siteSections={siteSections} sections={sections}/> */}
-            <main>
-                {siteSections}
-            </main>
+            {siteSections}
         </>
-    );
+    )
 }

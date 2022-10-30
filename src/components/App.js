@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-import { HeaderNew } from './layout/HeaderNew'
+import { Header } from './layout/Header'
 import { Router } from './Router'
 import { Footer } from './layout/Footer'
 
@@ -40,8 +40,10 @@ export const App = () => {
   return (
     <ThemeContext.Provider value={themeContext}>
       <div id="content">
-        <HeaderNew />
-        <Router />
+        <Header />
+        <main>
+          <Router />
+        </main>
         <Footer />
       </div>
     </ThemeContext.Provider>
