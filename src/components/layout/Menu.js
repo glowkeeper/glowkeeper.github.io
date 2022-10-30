@@ -4,16 +4,23 @@ import { Link } from "react-router-dom"
 
 import { siteSections as site } from '../../config'
 
-export const MainMenu = (props) => {
-  const { setTitle } = props
+export const Menu = (props) => {
+  const { setTitle, isMenuOpen, setIsMenuOpen } = props
 
-  const [isOpen, setIsOpen] = useState(false)
   const [siteSections, setSiteSections] = useState([])
   const [expandIndex, setExpandIndex] = useState(0)
 
   //console.log('rendering main memnu')
 
   document.body.scrollIntoView({behavior: "smooth"});
+
+  useEffect(() => {
+
+    if(!isMenuOpen) {
+      setExpandIndex(0)
+    }
+
+  }, [isMenuOpen])
 
   useEffect(() => {  
     
@@ -48,8 +55,8 @@ export const MainMenu = (props) => {
       <button
         className="main-link"
         onClick={() => {
-          const mainOpen = !isOpen
-          setIsOpen(mainOpen)
+          const mainOpen = !isMenuOpen
+          setIsMenuOpen(mainOpen)
         }}
       >
         <p id="menu-burger">≡</p>
@@ -59,13 +66,13 @@ export const MainMenu = (props) => {
 
       <nav 
         id="main-nav"
-        className={isOpen ? "open" : "close"}
+        className={isMenuOpen ? "open" : "close"}
       >
         <button 
           className="main-link-close"
           onClick={() => {
             setExpandIndex(0)
-            setIsOpen(false)
+            setIsMenuOpen(false)
           }}
         >
           × close

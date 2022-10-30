@@ -6,7 +6,9 @@ import { Content } from './site/Content'
 
 import { siteSections as site } from '../config'
 
-export const Router = () => {
+export const Router = (props) => {
+
+  const { setIsMenuOpen } = props
 
   const [siteSections, setSiteSections] = useState([])
 
@@ -30,14 +32,15 @@ export const Router = () => {
               const myContent = thisSection.sections[`${mySection}`].content
               return (
                   <Route
-                      key={index + "-" + thisIndex}
-                      path={myRoute}
-                      element={
-                        <Content 
-                          content={myContent}
-                          id={myId} 
-                        />
-                      }
+                    key={index + "-" + thisIndex}
+                    path={myRoute}
+                    element={
+                      <Content 
+                        setIsMenuOpen={setIsMenuOpen}
+                        content={myContent}
+                        id={myId} 
+                      />
+                    }
                   />
               )
 
@@ -51,7 +54,7 @@ export const Router = () => {
 
     setSiteSections(siteSections)
 
-  }, [])
+  }, [setIsMenuOpen])
 
   return (
     <Routes>

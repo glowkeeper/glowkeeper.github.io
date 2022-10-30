@@ -1,10 +1,10 @@
-import { MainMenu } from './MainMenu';
+import { Menu } from './Menu';
 
 import { UIText } from '../../config'
 
 export const Header = (props) => {
 
-  const { title, setTitle } = props
+  const { title, setTitle, isMenuOpen, setIsMenuOpen } = props
 
   return (
     <header>
@@ -16,8 +16,10 @@ export const Header = (props) => {
         </div> 
         <div id="header-title">{UIText.title}</div> 
         <div id="header-main"> 
-          <MainMenu 
+          <Menu 
             setTitle={setTitle}
+            isMenuOpen={isMenuOpen} 
+            setIsMenuOpen={setIsMenuOpen}
           />
         </div>
       </div>
