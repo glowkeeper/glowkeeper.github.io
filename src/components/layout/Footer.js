@@ -4,7 +4,9 @@ import {ThemeContext} from '../App';
 
 import { System, UIText, UITextAbout } from '../../config'
 
-export const Footer = () => {
+export const Footer = (props) => {
+
+  const { setTitle } = props
 
   return (
     <ThemeContext.Consumer>
@@ -18,18 +20,27 @@ export const Footer = () => {
                 <Link 
                     className="footer"
                     to="/about/contact"
+                    onClick={() => {
+                      setTitle(UITextAbout.contact)
+                    }}
                 >
                   {UITextAbout.contact}
                 </Link> <br/>  
                 <Link 
                     className="footer"
                     to="/about/cv"
+                    onClick={() => {
+                      setTitle(UITextAbout.cv)
+                    }}
                 >
                   {UITextAbout.cv}
                 </Link>   <br/>              
                 <Link 
                     className="footer"
                     to="/about/info"
+                    onClick={() => {
+                      setTitle(UITextAbout.info)
+                    }}
                 >
                   {UITextAbout.info}
                 </Link>   

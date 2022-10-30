@@ -14,6 +14,7 @@ let themeContext = {
 export const ThemeContext = React.createContext(themeContext);
 
 export const App = () => {
+  const [title, setTitle] = useState("")
   const [thisTheme, setThisTheme] = useState(System.lightTheme)
 
   const setTheme = (theme) => {
@@ -40,11 +41,11 @@ export const App = () => {
   return (
     <ThemeContext.Provider value={themeContext}>
       <div id="content">
-        <Header />
+        <Header title={title} setTitle={setTitle}/>
         <main>
           <Router />
         </main>
-        <Footer />
+        <Footer setTitle={setTitle}/>
       </div>
     </ThemeContext.Provider>
   );

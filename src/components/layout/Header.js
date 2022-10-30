@@ -4,9 +4,9 @@ import {MainMenu} from './MainMenu';
 
 import { UIText } from '../../config'
 
-export const Header = () => {
+export const Header = (props) => {
 
-  const [title, setTitle] = useState("")
+  const { title, setTitle } = props
 
   return (
     <header>

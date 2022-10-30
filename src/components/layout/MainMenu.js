@@ -5,6 +5,8 @@ import { Link } from "react-router-dom"
 import { siteSections as site } from '../../config'
 
 export const MainMenu = (props) => {
+  const { setTitle } = props
+
   const [isOpen, setIsOpen] = useState(false)
   const [siteSections, setSiteSections] = useState([])
   const [expandIndex, setExpandIndex] = useState(0)
@@ -19,17 +21,20 @@ export const MainMenu = (props) => {
       const thisSection = site[section]  
       return ( 
         <Link 
-            className="main"
-            key={index}
-            to={thisSection.route}
-            onClick={() => setExpandIndex(index)}
+          className="main"
+          key={index}
+          to={thisSection.route}
+          onClick={() => {
+            setTitle(thisSection.title)
+            setExpandIndex(index)
+          }}
         >
-            <div
-                tabIndex={index}
-                id={thisSection.id}
-            >
-                {thisSection.title}
-            </div>
+          <div
+              tabIndex={index}
+              id={thisSection.id}
+          >
+              {thisSection.title}
+          </div>
         </Link> 
       )
     })
@@ -112,7 +117,7 @@ export const MainMenu = (props) => {
                                 }
                               }}
                             >
-                              {mySection}
+                              {thisSection.sections[mySection].title}
                             </button>   
                           )
                         })}
