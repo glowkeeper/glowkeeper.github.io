@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 
-import {ThemeContext} from '../App';
+import { ThemeContext } from '../App';
 
 import { System, UIText, UITextAbout } from '../../config'
 

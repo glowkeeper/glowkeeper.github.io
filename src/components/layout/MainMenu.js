@@ -39,7 +39,7 @@ export const MainMenu = (props) => {
       )
     })
     setSiteSections(siteSections)
-  }, [])
+  }, [setTitle])
 
   return (
     <>

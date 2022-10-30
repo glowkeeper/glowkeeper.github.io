@@ -1,6 +1,4 @@
-import React, { useState } from 'react';
-
-import {MainMenu} from './MainMenu';
+import { MainMenu } from './MainMenu';
 
 import { UIText } from '../../config'
 
