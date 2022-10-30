@@ -2,13 +2,15 @@ import { useState, useEffect } from 'react';
 import { useNavigate, Link } from 'react-router-dom'
 
 export const Linker = (props) => {
-    const { sections } = props
+    const { setTitle, sections } = props
 
     const [siteSections, setSiteSections] = useState([])
 
     const navigate = useNavigate()
 
     useEffect(() => {
+
+        console.log('linking stuff')
 
         if ( sections ) {
 
@@ -29,6 +31,9 @@ export const Linker = (props) => {
                                 className="content"
                                 key={index}
                                 to={thisSection.route}
+                                onClick={() => {
+                                  setTitle(thisSection.title)
+                                }}
                             >
                                 <div
                                     tabIndex={index}
@@ -76,7 +81,7 @@ export const Linker = (props) => {
             }
         }
 
-    }, [sections, navigate])
+    }, [setTitle, sections, navigate])
 
     return (
         <>

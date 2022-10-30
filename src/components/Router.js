@@ -8,7 +8,7 @@ import { siteSections as site } from '../config'
 
 export const Router = (props) => {
 
-  const { setIsMenuOpen } = props
+  const { setTitle, setIsMenuOpen } = props
 
   const [siteSections, setSiteSections] = useState([])
 
@@ -21,7 +21,10 @@ export const Router = (props) => {
           <Route
               path={thisSection.route}
               element={
-                <Linker sections={thisSection.sections} />
+                <Linker
+                  setTitle={setTitle}
+                  sections={thisSection.sections} 
+                />
               }
           />
           {section !== "home" && Object.keys(thisSection.sections).map((mySection, thisIndex) => {
@@ -54,7 +57,7 @@ export const Router = (props) => {
 
     setSiteSections(siteSections)
 
-  }, [setIsMenuOpen])
+  }, [setTitle, setIsMenuOpen])
 
   return (
     <Routes>

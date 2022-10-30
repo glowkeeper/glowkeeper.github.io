@@ -49,7 +49,10 @@ export const App = () => {
           setIsMenuOpen={setIsMenuOpen}
         />
         <main>
-          <Router setIsMenuOpen={setIsMenuOpen}/>
+          <Router            
+            setTitle={setTitle} 
+            setIsMenuOpen={setIsMenuOpen}
+          />
         </main>
         <Footer setTitle={setTitle}/>
       </div>
