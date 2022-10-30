@@ -102,7 +102,7 @@ export const MainMenu = (props) => {
                         {Object.keys(thisSection.sections).map((mySection, thisIndex) => {
                           return (  
                             <button
-                              key={index + " " + thisIndex}
+                              key={index + "-" + thisIndex}
                               className="context-link"
                               onClick={() => {
                                 const myAnchor = document.getElementById(thisSection.sections[mySection].id)

@@ -62,6 +62,7 @@ export class LocalRoutesPoetry {
   static iKneel = `${LocalRoutes.poetry}/i-kneel`
   static monkey = `${LocalRoutes.poetry}/monkey`
   static notChristmas = `${LocalRoutes.poetry}/not-christmas`
+  static nuts = `${LocalRoutes.poetry}/nuts`
   static orgreave = `${LocalRoutes.poetry}/orgreave`
   static prudictive = `${LocalRoutes.poetry}/prudictive`
   static santaClaus = `${LocalRoutes.poetry}/santa-claus`
@@ -174,6 +175,7 @@ export class UITextPoetry {
   static iKneel = "i kneel"
   static monkey = "monkey"
   static notChristmas = "not christmas"
+  static nuts = "nuts"
   static orgreave = "orgreave"
   static prudictive = "prudictive"
   static santaClaus = "santa claus"
@@ -486,6 +488,13 @@ export const poetrySections = {
     subText: "missing my children",
     route: LocalRoutesPoetry.notChristmas,
     content: "/assets/posts/poetry/notChristmas.md"
+  },
+  nuts: {
+    id: "poetry-nuts",
+    title: UITextPoetry.nuts,
+    subText: "a lot to learn",
+    route: LocalRoutesPoetry.nuts,
+    content: "/assets/posts/poetry/nuts.md"
   },
   orgreave: {
     id: "poetry-orgreave",
