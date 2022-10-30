@@ -69,11 +69,19 @@ export const MainMenu = (props) => {
           {expandIndex === 0 ? (
             <>
               {siteSections.map((section, index) => {
-                return (
-                  <div className="expander">
-                    {section} &nbsp; {'⇨'}
-                  </div>
-                )
+                if ( index === 0 ) {
+                  return (
+                    <>
+                      {section} 
+                    </>
+                  )
+                } else {
+                  return (
+                    <div className="expander">
+                      {section} &nbsp; {'⇨'}
+                    </div>
+                  )
+                }
               })}
             </>
           ) : (
@@ -111,11 +119,19 @@ export const MainMenu = (props) => {
                       </>
                     )
                   } else {
-                    return (
-                      <div className="expander">
-                        {siteSections[index]} &nbsp; {'⇨'}
-                      </div>
-                    )
+                    if ( index ) {
+                      return (
+                        <div className="expander">
+                          {siteSections[index]} &nbsp; {'⇨'}
+                        </div>
+                      )
+                    } else {
+                      return (
+                        <div className="expander">
+                          {siteSections[index]} &nbsp; &nbsp;
+                        </div>
+                      )
+                    }
                   }
               })}
             </>
