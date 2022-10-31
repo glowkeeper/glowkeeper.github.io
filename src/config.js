@@ -492,7 +492,7 @@ export const poetrySections = {
   nuts: {
     id: "poetry-nuts",
     title: UITextPoetry.nuts,
-    subText: "a lot to learn",
+    subText: "learn from a kern",
     route: LocalRoutesPoetry.nuts,
     content: "/assets/posts/poetry/nuts.md"
   },
