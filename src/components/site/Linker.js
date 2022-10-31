@@ -9,9 +9,7 @@ export const Linker = (props) => {
     const navigate = useNavigate()
 
     useEffect(() => {
-
-        console.log('linking stuff')
-
+    
         if ( sections ) {
 
             const mySections = Object.keys(sections)

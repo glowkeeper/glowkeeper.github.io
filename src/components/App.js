@@ -14,7 +14,7 @@ let themeContext = {
 export const ThemeContext = React.createContext(themeContext);
 
 export const App = () => {
-  const [title, setTitle] = useState("")
+  const [title, setTitle] = useState("home")
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [thisTheme, setThisTheme] = useState(System.lightTheme)
 

@@ -52,7 +52,7 @@ p#menu-burger {
   margin: 0;
   padding: 0;
 
-  line-height: 0.5;
+  line-height: 0.57;
 }
 
 p#menu-burger:hover {
@@ -93,14 +93,13 @@ button.context-link:active {
   position: fixed;
   top: 0;
   bottom: 0;
-  right: -200px;
+  right: -150px;
 
   z-index: 2;
 
   padding: 1rem;
 
-
-  width: 200px;
+  width: 150px;
 
   background-color: var(--menu-colour);
   transition: transform .8s ease-in-out;
@@ -135,11 +134,11 @@ button.main-link-close:active {
 }
 
 #main-nav.open {
-  transform: translateX(-200px);
+  transform: translateX(-150px);
 }
 
 #main-nav.close {
-  transform: translateX(200px);
+  transform: translateX(150px);
 }
 
 #main-items {
