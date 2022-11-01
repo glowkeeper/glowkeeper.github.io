@@ -9,14 +9,16 @@
   position: fixed;
   top: 0;
 
-  padding: 0 1rem 0.5rem 1rem;
+  padding: 0 2rem 0.5rem 2rem;
   margin: 0;
 
   height: var(--header-height);
-  width: 100%;
 
   background-color: var(--header-colour);
   color: var(--text-colour);
+
+  width: 100vw;
+  margin-right: calc(100vw - 100%);
 }
 
 #header-context {
