@@ -13,12 +13,11 @@
   margin: 0;
 
   height: var(--header-height);
+  width: 100vw;
+  margin-right: calc(100vw - 100%);
 
   background-color: var(--header-colour);
   color: var(--text-colour);
-
-  width: 100vw;
-  margin-right: calc(100vw - 100%);
 }
 
 #header-context {

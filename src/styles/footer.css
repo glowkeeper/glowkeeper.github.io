@@ -6,6 +6,8 @@
   grid-template-rows: auto auto;
   
   height: var(--footer-height);
+  width: 100vw;
+  margin-right: calc(100vw - 100%);
 
   box-sizing: border-box;
 

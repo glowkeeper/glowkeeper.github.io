@@ -14,5 +14,6 @@ body {
 #content {  
   min-height: 100vh;
   background-color: var(--content-colour);
+  overflow-x: hidden;
 }
 

@@ -10,11 +10,9 @@ export const Menu = (props) => {
   const [siteSections, setSiteSections] = useState([])
   const [expandIndex, setExpandIndex] = useState(0)
 
-  if(isMenuOpen) {
+  if (isMenuOpen ) {    
     document.body.scrollIntoView({behavior: "smooth"})
   }
-
-  //document.body.scrollIntoView({behavior: "smooth"});
 
   useEffect(() => {  
     
@@ -51,6 +49,9 @@ export const Menu = (props) => {
         onClick={() => {
           const mainOpen = !isMenuOpen
           setIsMenuOpen(mainOpen)
+          if (mainOpen ) {
+            setExpandIndex(0)
+          }
         }}
       >
         <p id="menu-burger">≡</p>
