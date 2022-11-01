@@ -3,7 +3,8 @@
 There's a lot that's clear-cut,
 With your seeds, fruit and nuts.
 
-Such as, these little known facts.
+Such as, these,
+Little known facts.
 
 The egusi sees when the sesame seeds.
 And the breadnut's cut when the quinoa needs.
