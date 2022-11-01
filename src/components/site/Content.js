@@ -9,7 +9,7 @@ export const Content = (props) => {
 
     const [markdown, setMarkdown] = useState("");
 
-    
+    document.body.scrollIntoView({behavior: "smooth"})
     
     useEffect(() => {
         fetch(content)
