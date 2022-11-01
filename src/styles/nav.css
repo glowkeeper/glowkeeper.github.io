@@ -93,13 +93,13 @@ button.context-link:active {
   position: fixed;
   top: 0;
   bottom: 0;
-  right: -150px;
+  right: var(--width-negative);
 
   z-index: 2;
 
   padding: 1rem;
 
-  width: 150px;
+  width: var(--width);
 
   background-color: var(--menu-colour);
   transition: transform .8s ease-in-out;
@@ -134,11 +134,11 @@ button.main-link-close:active {
 }
 
 #main-nav.open {
-  transform: translateX(-150px);
+  transform: translateX(var(--width-negative));
 }
 
 #main-nav.close {
-  transform: translateX(150px);
+  transform: translateX(var(--width));
 }
 
 #main-items {
@@ -149,5 +149,20 @@ button.main-link-close:active {
 .expander {
   display: grid;
   grid-template-columns: auto auto auto;
+}
+
+@media screen and (max-width: 768px) {
+  #main-nav {
+    right: var(--width-negative-small);
+    width: var(--width-small);
+  }
+
+  #main-nav.open {
+    transform: translateX(var(--width-negative-small));
+  }
+  
+  #main-nav.close {
+    transform: translateX(var(--width-small));
+  }
 }
 

@@ -10,17 +10,11 @@ export const Menu = (props) => {
   const [siteSections, setSiteSections] = useState([])
   const [expandIndex, setExpandIndex] = useState(0)
 
-  //console.log('rendering main memnu')
+  if(isMenuOpen) {
+    document.body.scrollIntoView({behavior: "smooth"})
+  }
 
-  document.body.scrollIntoView({behavior: "smooth"});
-
-  useEffect(() => {
-
-    if(!isMenuOpen) {
-      setExpandIndex(0)
-    }
-
-  }, [isMenuOpen])
+  //document.body.scrollIntoView({behavior: "smooth"});
 
   useEffect(() => {  
     
@@ -71,7 +65,6 @@ export const Menu = (props) => {
         <button 
           className="main-link-close"
           onClick={() => {
-            setExpandIndex(0)
             setIsMenuOpen(false)
           }}
         >

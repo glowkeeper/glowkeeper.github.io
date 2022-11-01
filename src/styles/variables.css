@@ -82,5 +82,11 @@
 
   --button-border-colour: black;
 
+}
 
+#main-nav {
+  --width-small: 100px;
+  --width-negative-small: -100px;
+  --width: 200px;
+  --width-negative: -200px;
 }
