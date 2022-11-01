@@ -7,7 +7,7 @@ import { Footer } from './layout/Footer'
 import { System } from '../config'
 
 let themeContext = {
-  theme: System.lightTheme,
+  theme: System.darkTheme,
   setTheme: () => {},
 }
 
@@ -16,7 +16,7 @@ export const ThemeContext = React.createContext(themeContext);
 export const App = () => {
   const [title, setTitle] = useState("home")
   const [isMenuOpen, setIsMenuOpen] = useState(false)
-  const [thisTheme, setThisTheme] = useState(System.lightTheme)
+  const [thisTheme, setThisTheme] = useState(System.darkTheme)
 
   const setTheme = (theme) => {
     document.documentElement.setAttribute('data-theme', theme);
