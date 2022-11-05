@@ -33,7 +33,7 @@ Of new systems.
 The time has come,
 For New Britain,
 Uplifting songs,
-Danced by equal sons.
+Dance all persons.
 
 The time has come,
 For New Britain,
@@ -42,8 +42,8 @@ Earned champions.
 
 The time has come,
 Forge New Britain,
-Empathic sons,
-Unite women.
+Empathy tons,
+United throngs.
 
 Modern Britain,
 I wish to see,
