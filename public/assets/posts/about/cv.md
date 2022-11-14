@@ -1,16 +1,18 @@
 # Dr Steve Huckle
 
-I am an accomplished writer and developer, educated to doctoral level. I adore passing on my experience by teaching, and I love creating commons-based distributed technology that has a positive social impact.
+I am an accomplished writer and developer, educated to doctoral level, who enjoys passing on my extensive experience by teaching.
 
 ## Professional Profile
 
-In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my journey into the blockchain space. I have since completed a [PhD](/academia/phd) that focused on blockchains, where my [thesis](/assets/docs/pHDThesis.pdf) asked whether the technology could help overcome some of the most urgent problems facing humanity. In short, my conclusion was that they might help, but it is impossible to solve all of humanity's issues through technology; we need to change political, economic, and cultural goals, too.
+I am an accomplished writer and developer, educated to doctoral level, who enjoys passing on my extensive experience by teaching.
 
-My career in computing began in the early 1990s. After achieving a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business streaming DJ mixes over the Internet. That sparked an interest in digital music, so in 2003, I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
+In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my journey into the blockchain space. I have since completed a [PhD](/academia/phd) that focused on blockchains, where my [thesis](/assets/docs/pHDThesis.pdf) asked whether the technology could help overcome some of the most urgent problems facing humanity. In short, I concluded that they might help, but it is impossible to solve all of humanity's issues through technology; we must also change political, economic, and cultural goals.
 
-By 2010 I was becoming increasingly concerned about the looming climate crisis; to understand it better, I began a second master's degree, this time in Advanced Environment and Energy. I funded that course by working as a Freelance Programmer with a focus on website development.
+My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business streaming DJ mixes over the Internet. That sparked an interest in digital music, so in 2003, I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
 
-Since completing my PhD, I have found a love of teaching - I am currently lecturing and teaching full-stack development. Both roles are part-time, which has given me time to explore my creative urges by building some fun tools - the result is that I am becoming an even better programmer!
+By 2010 I was becoming increasingly concerned about the looming climate crisis; to understand it better, I began a second master's degree, this time in Advanced Environment and Energy. I funded that course by working as a Freelance Programmer focusing on website development.
+
+Since completing my PhD, I have found a love of teaching - I am currently lecturing part-time, which gives me time to explore my creative urges and become a better programmer by building some fun tools.
 
 ## Experience
 
@@ -18,7 +20,7 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 - I have been writing React since 2016
 - Heading towards a decade involved with blockchains, including four years researching the technology as part of a [PhD](/academia/phd)
 - Many years of freelance computing experience, including creating and managing websites
-- Four years of programming within the games industry, where I worked on four completed titles
+- Five years of programming within the games industry, where I worked on four completed titles
 - Early in my professional career, I was a UNIX Systems Administrator
 
 ## Academic Publications
@@ -40,8 +42,8 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 
 ## Career History
 
-- September 2021 - now: Full Stack Development Teacher - Boolean UK Ltd
 - October 2020 - now: Lecturer and Module Convenor of _Programming for 3D_ - University of Sussex
+- September 2021 - October: Full Stack Development Teacher - Boolean UK Ltd
 - September 2020 - November 2021: Senior Developer, Minima Global
 - November 2008 – January 2016: Freelance Programmer
 - May 2007 – November 2008: Senior Audio Programmer - Zoe Mode
@@ -65,7 +67,8 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 
 ## Contact Details
 
-e: steve dot huckle at gmail dot com
+e-personal: steve dot huckle at gmail dot com
+e-professional: s dot huckle at sussex dot ac dot uk
 
 ## Leisure Interests
 
