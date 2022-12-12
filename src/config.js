@@ -59,6 +59,7 @@ export class LocalRoutesPoetry {
   static difficult = `${LocalRoutes.poetry}/difficult`
   static dreamland = `${LocalRoutes.poetry}/dreamland`
   static eton = `${LocalRoutes.poetry}/eton`
+  static goldenBrown = `${LocalRoutes.poetry}/golden-brown`
   static if = `${LocalRoutes.poetry}/if`
   static iKneel = `${LocalRoutes.poetry}/i-kneel`
   static monkey = `${LocalRoutes.poetry}/monkey`
@@ -173,6 +174,7 @@ export class UITextPoetry {
   static difficult = "difficult"
   static dreamland = "dreamland"
   static eton = "old eton"
+  static goldenBrown = "golden brown"
   static if = "if"
   static iKneel = "i kneel"
   static monkey = "monkey"
@@ -469,6 +471,13 @@ export const poetrySections = {
     subText: "Old Eton, your time is done",
     route: LocalRoutesPoetry.eton,
     content: "/assets/posts/poetry/oldEton.md"
+  },
+  goldenBrown: {
+    id: "poetry-golden-brown",
+    title: UITextPoetry.goldenBrown,
+    subText: "I was suffering from a cold and felt a bit sorry for myself",
+    route: LocalRoutesPoetry.goldenBrown,
+    content: "/assets/posts/poetry/goldenBrown.md"
   },
   if: {
     id: "poetry-if",
