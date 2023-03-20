@@ -60,8 +60,10 @@ export class LocalRoutesPoetry {
   static dreamland = `${LocalRoutes.poetry}/dreamland`
   static eton = `${LocalRoutes.poetry}/eton`
   static goldenBrown = `${LocalRoutes.poetry}/golden-brown`
+  static gregorian = `${LocalRoutes.poetry}/gregorian`
   static if = `${LocalRoutes.poetry}/if`
   static iKneel = `${LocalRoutes.poetry}/i-kneel`
+  static kane = `${LocalRoutes.poetry}/kane`
   static monkey = `${LocalRoutes.poetry}/monkey`
   static notChristmas = `${LocalRoutes.poetry}/not-christmas`
   static nuts = `${LocalRoutes.poetry}/nuts`
@@ -175,8 +177,10 @@ export class UITextPoetry {
   static dreamland = "dreamland"
   static eton = "old eton"
   static goldenBrown = "golden brown"
+  static gregorian = "gregorian song"
   static if = "if"
   static iKneel = "i kneel"
+  static kane = "kane"
   static monkey = "monkey"
   static notChristmas = "not christmas"
   static nuts = "nuts"
@@ -479,6 +483,13 @@ export const poetrySections = {
     route: LocalRoutesPoetry.goldenBrown,
     content: "/assets/posts/poetry/goldenBrown.md"
   },
+  gregorian: {
+    id: "poetry-gregorian",
+    title: UITextPoetry.gregorian,
+    subText: "As January dragged on and on...",
+    route: LocalRoutesPoetry.gregorian,
+    content: "/assets/posts/poetry/gregorian.md"
+  },
   if: {
     id: "poetry-if",
     title: UITextPoetry.if,
@@ -492,6 +503,13 @@ export const poetrySections = {
     subText: "black lives matter",
     route: LocalRoutesPoetry.iKneel,
     content: "/assets/posts/poetry/iKneel.md"
+  },
+  kane: {
+    id: "poetry-kane",
+    title: UITextPoetry.kane,
+    subText: "....that penalty",
+    route: LocalRoutesPoetry.kane,
+    content: "/assets/posts/poetry/kane.md"
   },
   monkey: {
     id: "poetry-monkey",
