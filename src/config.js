@@ -472,7 +472,7 @@ export const poetrySections = {
   eton: {
     id: "poetry-eton",
     title: UITextPoetry.eton,
-    subText: "Old Eton, your time is done",
+    subText: "old Eton, your time is done",
     route: LocalRoutesPoetry.eton,
     content: "/assets/posts/poetry/oldEton.md"
   },
@@ -486,7 +486,7 @@ export const poetrySections = {
   gregorian: {
     id: "poetry-gregorian",
     title: UITextPoetry.gregorian,
-    subText: "As January dragged on and on...",
+    subText: "as January dragged on and on...",
     route: LocalRoutesPoetry.gregorian,
     content: "/assets/posts/poetry/gregorian.md"
   },
@@ -507,7 +507,7 @@ export const poetrySections = {
   kane: {
     id: "poetry-kane",
     title: UITextPoetry.kane,
-    subText: "....that penalty",
+    subText: "that ****ing penalty",
     route: LocalRoutesPoetry.kane,
     content: "/assets/posts/poetry/kane.md"
   },
