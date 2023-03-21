@@ -51,6 +51,16 @@ export const Router = (props) => {
               return null
             }
           })}
+          <Route
+            path="*"
+            element={
+              <Content 
+                setIsMenuOpen={setIsMenuOpen}
+                content="/assets/posts/notFound.md"
+                id="not-found" 
+              />
+            }
+          />
         </React.Fragment>
       )
     })
