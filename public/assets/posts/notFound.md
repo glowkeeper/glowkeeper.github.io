@@ -1,5 +1,5 @@
 # 404 - Terra Nullius
 
-Unfortunately, you've landed somewhere that has no master on this site.
+Unfortunately, you've landed somewhere with no master. Go [home](https://glowkeeper.github.io/), instead.
 
 &nbsp;
