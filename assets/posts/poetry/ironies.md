@@ -8,21 +8,21 @@ A new PM again, again and again.
 But this isn't about all that big stuff,
 Many have commented there enough.
 I'm talking on a scale much more easily grasped,
-About the stuff that has affected my arse.
+About the stuff that has affected _my_ arse.
 All the people that have come,
 And those that have gone.
 All the losses, the gains,
 And the things that changed.
-About the shifts that have affected me.
+About the shifts that have affected _me_.
 And all the different ironies.
 
 First, the thing that changed the most.
 The thing that haunts me - like a ghost.
 My kids decided to ditch me,
 To their mother, they did flee.
-An absent father's usually the game.
+An absent father's often the game.
 That's always sad and such a shame.
-But my kids have absented me.
+But my kids have absented _me_.
 Oh, the bitter irony.
 
 I no longer hear my youngests' tales,
@@ -32,7 +32,7 @@ For a decade (or more), I'd worried;
 She's much better now, Thankfully
 Growing into a young lady,
 That I wasn't sure I'd ever see.
-But instead of losing her - she's ditched me.
+But instead of losing her - _she's ditched me_.
 Oh, the bitter irony.
 
 My eldest - an accusation put,
@@ -116,7 +116,7 @@ Is history repeating itself?
 When they consigned me to a dusty shelf?
 I wasn't very close to mum,
 I wasn't her favourite son.
-Now my daughters aren't close to me.
+Now my daughters aren't close to _me_.
 On different grounds, as far as I can see?
 But, oh! The bitter irony.
 
@@ -143,7 +143,7 @@ And that realisation hurt me more.
 The love I'd given, not given back to me.
 Oh, the bitter irony.)
 
-Enough! My year wasn't all rough.
+Enough! My year wasn't _all_ rough.
 There were lots of good stuff!
 
 First, I changed a job I disliked,
