@@ -63,6 +63,7 @@ export class LocalRoutesPoetry {
   static gregorian = `${LocalRoutes.poetry}/gregorian`
   static if = `${LocalRoutes.poetry}/if`
   static iKneel = `${LocalRoutes.poetry}/i-kneel`
+  static ironies = `${LocalRoutes.poetry}/ironies`
   static kane = `${LocalRoutes.poetry}/kane`
   static monkey = `${LocalRoutes.poetry}/monkey`
   static notChristmas = `${LocalRoutes.poetry}/not-christmas`
@@ -180,6 +181,7 @@ export class UITextPoetry {
   static gregorian = "gregorian song"
   static if = "if"
   static iKneel = "i kneel"
+  static ironies = "ironies"
   static kane = "kane"
   static monkey = "monkey"
   static notChristmas = "not christmas"
@@ -503,6 +505,13 @@ export const poetrySections = {
     subText: "black lives matter",
     route: LocalRoutesPoetry.iKneel,
     content: "/assets/posts/poetry/iKneel.md"
+  },
+  ironies: {
+    id: "poetry-ironies",
+    title: UITextPoetry.ironies,
+    subText: "all the different ironies of '22",
+    route: LocalRoutesPoetry.ironies,
+    content: "/assets/posts/poetry/ironies.md"
   },
   kane: {
     id: "poetry-kane",
