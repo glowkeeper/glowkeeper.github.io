@@ -65,6 +65,7 @@ export class LocalRoutesPoetry {
   static iKneel = `${LocalRoutes.poetry}/i-kneel`
   static ironies = `${LocalRoutes.poetry}/ironies`
   static kane = `${LocalRoutes.poetry}/kane`
+  static meaning = `${LocalRoutes.poetry}/meaning`
   static monkey = `${LocalRoutes.poetry}/monkey`
   static notChristmas = `${LocalRoutes.poetry}/not-christmas`
   static nuts = `${LocalRoutes.poetry}/nuts`
@@ -183,6 +184,7 @@ export class UITextPoetry {
   static iKneel = "i kneel"
   static ironies = "ironies"
   static kane = "kane"
+  static meaning = "meaning"
   static monkey = "monkey"
   static notChristmas = "not christmas"
   static nuts = "nuts"
@@ -519,6 +521,13 @@ export const poetrySections = {
     subText: "that ****ing penalty",
     route: LocalRoutesPoetry.kane,
     content: "/assets/posts/poetry/kane.md"
+  },
+  meaning: {
+    id: "poetry-meaning",
+    title: UITextPoetry.meaning,
+    subText: "don't never do nothing",
+    route: LocalRoutesPoetry.meaning,
+    content: "/assets/posts/poetry/meaning.md"
   },
   monkey: {
     id: "poetry-monkey",
