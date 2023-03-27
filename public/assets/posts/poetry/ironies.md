@@ -18,7 +18,7 @@ And all the different ironies.
 
 First, the thing that changed the most.
 The thing that haunts me - like a ghost.
-My kids decided to ditch me,
+My kids decided to ditch _me_,
 To their mother, they did flee.
 An absent father's often the game.
 That's always sad and such a shame.
@@ -63,7 +63,7 @@ But her approach was clumsy, short-sighted.
 The actual consequence? For us?
 It's not back, but forever thus.
 Because our unbreakable bond?
-Not steadfast; that's been carpet-bombed.  
+Not steadfast; that's been carpet-bombed.
 Our connection? No longer free.
 Oh, the bitter irony.
 
@@ -104,7 +104,7 @@ My eldest forgot that card,
 When she returned just as fast,
 As she could, to her mum,
 After calling for Christmas fun.
-Yet, she still had her Granddad.
+Yet, she still had her Granddad,
 To inform of the fun she'd had.
 I can't help but think about that hard.
 And the neglect makes me sad.
@@ -113,7 +113,7 @@ With the people that love her the best?
 Is it my fault, somehow?
 Is it too late to change that now?
 Is history repeating itself?
-When they consigned me to a dusty shelf?
+'cause they've consigned me to a dusty shelf?
 I wasn't very close to mum,
 I wasn't her favourite son.
 Now my daughters aren't close to _me_.
@@ -127,7 +127,7 @@ My kids didn't send one to me.
 They must've thought their duty done.
 When they were cajoled to come,
 The weekend before the happy day,
-To give me presents and celebrate.
+To give me presents and to celebrate.
 But I'd always encouraged them,
 To draw a thoughtful, considered gem.
 So the person who got the card,
