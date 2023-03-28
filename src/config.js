@@ -242,7 +242,7 @@ export const homeSections = {
   blog: {
     id: "home-blog",
     title: UIText.blog,
-    subText: "coming soon...",
+    subText: "technology blog via Dr Huckle's storymaker app'",
     route: LocalRoutes.blog
   },
   books: {
@@ -356,13 +356,20 @@ export const appsSections = {
 }
 
 export const blogSections = {
-  blog: {
-    id: "blog",
-    title: UIText.blog,
-    subText: "coming soon...",
-    route: LocalRoutes.blog + "/blog",
-    content: "/assets/posts/blog/blog.md"
+  "25032023": {
+    id: "blog-25032023",
+    title: "25th March 2023",
+    subText: "Gordon E. Moore, Intel Co-Founder Behind Moore’s Law, Dies at 94",
+    route: `${LocalRoutes.blog}/25March2023`,
+    content: "/assets/posts/blog/25March2023.md"
   },
+  "26032023": {
+    id: "blog-26032023",
+    title: "26th March 2023",
+    subText: "How to Become an Expert on A.I",
+    route: `${LocalRoutes.blog}/26March2023`,
+    content: "/assets/posts/blog/26March2023.md"
+  }
 }
 
 export const booksSections = {

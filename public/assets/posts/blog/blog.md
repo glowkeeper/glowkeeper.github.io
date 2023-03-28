@@ -1,5 +1,0 @@
-# Blog
-
-Coming soon...
-
-&nbsp;

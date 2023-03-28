@@ -1,6 +1,19 @@
 @import "variables.css";
 
-#blog-md {
+#blog-25032023,
+#blog-26032023 {
+  display: grid;
+  place-items: center center;
+  height: 100vh;
+
+  font-size: var(--content-link-size);
+
+  background: var(--content-link-colour);
+  animation: backgroundAnimation 10s ease infinite;
+}
+
+#blog-25032023-md,
+#blog-26032023-md {
   padding: var(--header-height) 2rem 0 2rem;
   white-space: pre-wrap;
 
