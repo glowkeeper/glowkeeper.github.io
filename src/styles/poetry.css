@@ -18,6 +18,7 @@
 #poetry-prudictive,
 #poetry-santa-claus,
 #poetry-soon-to-be-73,
+#poetry-soup,
 #poetry-the-road,
 #poetry-winter {
   display: grid;
@@ -47,6 +48,7 @@
 #poetry-prudictive-md,
 #poetry-santa-claus-md,
 #poetry-soon-to-be-73-md,
+#poetry-soup-md,
 #poetry-the-road-md,
 #poetry-winter-md {
   padding: var(--header-height) 2rem 0 2rem;
@@ -73,6 +75,7 @@
 #poetry-prudictive-md table,
 #poetry-santa-claus-md table,
 #poetry-soon-to-be-73-md table,
+#poetry-soup-md table,
 #poetry-the-road-md table,
 #poetry-winter-md table {
 
@@ -96,6 +99,7 @@
 #poetry-prudictive-md th,
 #poetry-santa-claus-md th,
 #poetry-soon-to-be-73-md th,
+#poetry-soup-md th,
 #poetry-the-road-md th,
 #poetry-winter-md th {
   border-bottom: 1px solid grey;

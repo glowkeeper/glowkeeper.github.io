@@ -73,6 +73,7 @@ export class LocalRoutesPoetry {
   static prudictive = `${LocalRoutes.poetry}/prudictive`
   static santaClaus = `${LocalRoutes.poetry}/santa-claus`
   static soonToBe73 = `${LocalRoutes.poetry}/soon-to-be-73`
+  static soup = `${LocalRoutes.poetry}/soup`
   static theRoad = `${LocalRoutes.poetry}/the-road`
   static winter = `${LocalRoutes.poetry}/winter`
 }
@@ -192,6 +193,7 @@ export class UITextPoetry {
   static prudictive = "prudictive"
   static santaClaus = "santa claus"
   static soonToBe73 = "soon to be 73"
+  static soup = "soup"
   static theRoad = "the road"
   static winter = "winter"
 }
@@ -591,6 +593,13 @@ export const poetrySections = {
     subText: "the dismantling of the NHS",
     route: LocalRoutesPoetry.soonToBe73,
     content: "/assets/posts/poetry/soonToBe73.md"
+  },
+  soup: {
+    id: "poetry-soup",
+    title: UITextPoetry.soup,
+    subText: "the machinations of carrot soup",
+    route: LocalRoutesPoetry.soup,
+    content: "/assets/posts/poetry/soup.md"
   },
   theRoad: {
     id: "poetry-the-road",
