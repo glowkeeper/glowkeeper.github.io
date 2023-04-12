@@ -357,27 +357,35 @@ export const appsSections = {
   },
 }
 
+/*Use keys that enable ordering so that latest entry can be first*/
 export const blogSections = {
-  "25032023": {
+  "999996": {
+    id: "blog-12042023",
+    title: "12th April 2023",
+    subText: "AI and the Legal Profession",
+    route: `${LocalRoutes.blog}/12April2023`,
+    content: "/assets/posts/blog/12April2023.md"
+  },
+  "999997": {
+    id: "blog-31032023",
+    title: "31st March 2023",
+    subText: "Elon Musk and Others Call for Pause on AI, Citing ‘Profound Risks to Society’",
+    route: `${LocalRoutes.blog}/31March2023`,
+    content: "/assets/posts/blog/31March2023.md"
+  },
+  "999998": {
+    id: "blog-26032023",
+    title: "26th March 2023",
+    subText: "How to Become an Expert on AI",
+    route: `${LocalRoutes.blog}/26March2023`,
+    content: "/assets/posts/blog/26March2023.md"
+  },
+  "999999": {
     id: "blog-25032023",
     title: "25th March 2023",
     subText: "Gordon E. Moore, Intel Co-Founder Behind Moore’s Law, Dies at 94",
     route: `${LocalRoutes.blog}/25March2023`,
     content: "/assets/posts/blog/25March2023.md"
-  },
-  "26032023": {
-    id: "blog-26032023",
-    title: "26th March 2023",
-    subText: "How to Become an Expert on A.I",
-    route: `${LocalRoutes.blog}/26March2023`,
-    content: "/assets/posts/blog/26March2023.md"
-  },
-  "31032023": {
-    id: "blog-31032023",
-    title: "31st March 2023",
-    subText: "Elon Musk and Others Call for Pause on A.I., Citing ‘Profound Risks to Society’",
-    route: `${LocalRoutes.blog}/31March2023`,
-    content: "/assets/posts/blog/31March2023.md"
   }
 }
 

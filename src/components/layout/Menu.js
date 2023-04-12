@@ -17,7 +17,7 @@ export const Menu = (props) => {
   useEffect(() => {  
     
     const siteSections = Object.keys(site).map((section, index) => {
-      const thisSection = site[section]  
+      const thisSection = site[section]    
       return ( 
         <Link 
           className="main"
@@ -93,7 +93,9 @@ export const Menu = (props) => {
           ) : (
             <>
               {Object.keys(site).map((section, index) => {
-                  const thisSection = site[section]
+                  console.log('sitesections', section)
+                  const thisSection = site[section]  
+                  console.log('this section', thisSection)  
                   if ( index === expandIndex ) {
                     return (
                       <>
@@ -101,6 +103,7 @@ export const Menu = (props) => {
                           {siteSections[index]} &nbsp; {'⇩'}
                         </div>         
                         {Object.keys(thisSection.sections).map((mySection, thisIndex) => {
+                          console.log('mysection section', mySection)
                           return (  
                             <button
                               key={index + "-" + thisIndex}
