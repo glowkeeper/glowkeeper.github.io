@@ -46,6 +46,7 @@ class LocalRoutesFlashFiction {
 class LocalRoutesMisc {
 
   static anotherGreatEscape = `${LocalRoutes.misc}/another-great-escape`
+  static championsOfEurope = `${LocalRoutes.misc}/champions-of-europe`
   static myGreatEscape = `${LocalRoutes.misc}/my-great-escape`
   static patience = `${LocalRoutes.misc}/patience`
   static scotlandEngland = `${LocalRoutes.misc}/scotland-vs-england`
@@ -167,6 +168,7 @@ export class UITextFlashFiction {
 export class UITextMisc {
 
   static anotherGreatEscape = "another great escape"
+  static championsOfEurope = "champions of europe"
   static myGreatEscape = "my great escape"
   static patience = "patience"
   static scotlandEngland = "scotland vs england"
@@ -439,6 +441,13 @@ export const miscSections = {
     subText: "three days of music and fun at Brighton's 2018 Great Escape festival",
     route: LocalRoutesMisc.anotherGreatEscape,
     content: "/assets/posts/misc/anotherGreatEscape.md"
+  },
+  championsOfEurope: {
+    id: "misc-champions-of-europe",
+    title: UITextMisc.championsOfEurope,
+    subText: "West Ham win the Europa Conference League",
+    route: LocalRoutesMisc.championsOfEurope,
+    content: "/assets/posts/misc/championsOfEurope.md"
   },
   myGreatEscape: {
     id: "misc-my-great-escape",
