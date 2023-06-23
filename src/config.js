@@ -47,6 +47,7 @@ class LocalRoutesMisc {
 
   static anotherGreatEscape = `${LocalRoutes.misc}/another-great-escape`
   static championsOfEurope = `${LocalRoutes.misc}/champions-of-europe`
+  static jokes = `${LocalRoutes.misc}/jokes`
   static myGreatEscape = `${LocalRoutes.misc}/my-great-escape`
   static patience = `${LocalRoutes.misc}/patience`
   static scotlandEngland = `${LocalRoutes.misc}/scotland-vs-england`
@@ -169,6 +170,7 @@ export class UITextMisc {
 
   static anotherGreatEscape = "another great escape"
   static championsOfEurope = "champions of europe"
+  static jokes = "jokes"
   static myGreatEscape = "my great escape"
   static patience = "patience"
   static scotlandEngland = "scotland vs england"
@@ -448,6 +450,13 @@ export const miscSections = {
     subText: "West Ham win the Europa Conference League",
     route: LocalRoutesMisc.championsOfEurope,
     content: "/assets/posts/misc/championsOfEurope.md"
+  },
+  jokes: {
+    id: "misc-jokes",
+    title: UITextMisc.jokes,
+    subText: "my occasional side-splitters",
+    route: LocalRoutesMisc.jokes,
+    content: "/assets/posts/misc/jokes.md"
   },
   myGreatEscape: {
     id: "misc-my-great-escape",
