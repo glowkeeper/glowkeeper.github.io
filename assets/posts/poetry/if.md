@@ -44,4 +44,11 @@ I've written a [song](/posts/songs/If), based on this poem.
 
 **27 August, 2018**
 
+## If the Ashes
+
+If you can keep your head when all about you are losing theirs.
+If you can stop making stupid declarations.
+If you can pick a keeper who is good behind the wicket.
+Then yours is the Ashes urn and all that goes with it.
+
 &nbsp;
