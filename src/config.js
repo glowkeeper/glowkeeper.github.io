@@ -58,6 +58,7 @@ class LocalRoutesMisc {
 
 export class LocalRoutesPoetry {
 
+  static balls = `${LocalRoutes.poetry}/ballsShmalls`
   static difficult = `${LocalRoutes.poetry}/difficult`
   static dreamland = `${LocalRoutes.poetry}/dreamland`
   static eton = `${LocalRoutes.poetry}/eton`
@@ -181,6 +182,7 @@ export class UITextMisc {
 
 export class UITextPoetry {
 
+  static balls = "balls shmalls"
   static difficult = "difficult"
   static dreamland = "dreamland"
   static eton = "old eton"
@@ -503,6 +505,13 @@ export const miscSections = {
 }
 
 export const poetrySections = {
+  balls: {
+    id: "poetry-balls",
+    title: UITextPoetry.balls,
+    subText: "golfing expectations",
+    route: LocalRoutesPoetry.balls,
+    content: "/assets/posts/poetry/ballsShmalls.md"
+  },
   difficult: {
     id: "poetry-difficult",
     title: UITextPoetry.difficult,

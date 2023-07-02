@@ -1,6 +1,7 @@
 @import "variables.css";
 @import "animations.css";
 
+#poetry-balls,
 #poetry-difficult,
 #poetry-dreamland,
 #poetry-eton,
@@ -32,6 +33,7 @@
   animation: backgroundAnimation 10s ease infinite;
 }
 
+#poetry-balls-md,
 #poetry-difficult-md,
 #poetry-dreamland-md,
 #poetry-eton-md,
@@ -61,6 +63,7 @@
   background: var(--content-colour);
 }
 
+#poetry-balls-md table,
 #poetry-difficult-md table,
 #poetry-dreamland-md table,
 #poetry-eton-md table,
@@ -85,7 +88,7 @@
   border-spacing: var(--table-spacing);
 }
 
-
+#poetry-balls-md th,
 #poetry-difficult-md th,
 #poetry-dreamland-md th,
 #poetry-eton-md th,
