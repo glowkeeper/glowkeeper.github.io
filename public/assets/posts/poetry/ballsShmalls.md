@@ -19,8 +19,8 @@ Expecting the hole with my ball stuffed!
 So don't stress over contrary spin,
 Ignore all the bullshit marketing,
 And all the shite that means 'kall,
-Just hit the 'king incompliant ball,
-To the utmost best of your ability,
+Just hit the incompliant ball,
+To the utmost of your ability,
 And wherever it flies! It shall be!
 And wow! If it drops into the 'king hole,
 Well, you're a 'king lucky soul!
