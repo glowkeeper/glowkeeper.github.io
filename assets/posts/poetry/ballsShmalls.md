@@ -29,7 +29,7 @@ Good shots are as rare as a StageCoach bus,
 Well, you're unlikely to sink a hole-in-one.
 But don't worry! Don't get highly strung!
 'cause, no matter what, when all's said and done,
- It's just a game! And it's supposed to be fun!
+ It's just a 'king game! And it's supposed to be fun!
 
 **2 July, 2023**
 
