@@ -8,7 +8,7 @@ Towards a lie that's unplayable.
 Usually, some bullshit marketing.
 'cause the balls inscribed "distance" don't.
 And those that reckon "soft feel" aren't.
-And the ones that remark "velocity"?
+And the ones that are marked "velocity"?
 Don't seem to go very fast to me!
 The only thing that seems certain,
 (as far as I can determine),
