@@ -16,7 +16,7 @@ But beer, for some;
 Holiday's begun!
 Then hurrying!
 Board the flight!
-To Celtic delight!
+To Celtic delight.
 
 Arrive midday,
 Two on the bus,
@@ -29,7 +29,7 @@ First of many.
 
 Arrive at last,
 Eleven fed,
-And watered,
+And watered.
 Then we venture,
 'cross the stream,
 And the bog,
@@ -93,9 +93,9 @@ And handstands.
 New yew pendants.
 
 Evening walk,
-Down cowpat lane,
+Down Cowpat Lane,
 But the cows came,
-Townies tamed.
+Townies tamed,
 Then Mischa herds,
 Courage inspired,
 Down we race,
@@ -103,7 +103,7 @@ To the fairy place.
 
 In the morning,
 Up the (mountain),
-Blueberry pickings,
+Blueberry picking,
 I stop counting,
 The ravens soar,
 Over those ahead,
@@ -123,7 +123,7 @@ In the evening,
 Pretty Duncannon,
 Windswept and wild,
 Eyes full of sand,
-Kitesurfers jumping,
+Kitesurfers jumping.
 Then Dunbrody Abbey,
 Shots of Kris and me,
 Looking happy.
@@ -139,7 +139,7 @@ On a rainy day.
 
 On the way home,
 Stop off in town,
-At the bloody Lidl.
+At the bloody Lidl,
 For milk after Ivor,
 Shows us 'round,
 His building site,
@@ -148,7 +148,7 @@ Become his home.
 
 Two new faces,
 To new places;
-St Mullin's Mill.
+St Mullin's Mill,
 Artists arting,
 Dozens around,
 Retreat my ground,
@@ -178,7 +178,7 @@ UK beckoning,
 Lots of crying,
 At people leaving,
 But it's not the end,
-it's just goodbye,
+It's just goodbye,
 Until we meet again,
 In Corrageen.
 
