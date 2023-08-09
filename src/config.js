@@ -70,6 +70,7 @@ export class LocalRoutesPoetry {
   static kane = `${LocalRoutes.poetry}/kane`
   static love = `${LocalRoutes.poetry}/love`
   static meaning = `${LocalRoutes.poetry}/meaning`
+  static milkAfterIvor = `${LocalRoutes.poetry}/milk-after-ivor`
   static monkey = `${LocalRoutes.poetry}/monkey`
   static notChristmas = `${LocalRoutes.poetry}/not-christmas`
   static nuts = `${LocalRoutes.poetry}/nuts`
@@ -194,6 +195,7 @@ export class UITextPoetry {
   static kane = "kane"
   static love = "love"
   static meaning = "meaning"
+  static milkAfterIvor = "milk after ivor"
   static monkey = "monkey"
   static notChristmas = "not christmas"
   static nuts = "nuts"
@@ -588,6 +590,13 @@ export const poetrySections = {
     subText: "don't never do nothing",
     route: LocalRoutesPoetry.meaning,
     content: "/assets/posts/poetry/meaning.md"
+  },
+  milkAfterIvor: {
+    id: "poetry-milk-after-ivor",
+    title: UITextPoetry.milkAfterIvor,
+    subText: "family holiday in Corrageen, Ireland",
+    route: LocalRoutesPoetry.milkAfterIvor,
+    content: "/assets/posts/poetry/milkAfterIvor.md"
   },
   monkey: {
     id: "poetry-monkey",
