@@ -86,6 +86,7 @@ export class LocalRoutesPoetry {
 export class LocalRoutesSongs {
 
   static collegeCampus = `${LocalRoutes.songs}/college-campus`
+  static doWhatIWant = `${LocalRoutes.songs}/do-what-i-want`
   static echoChamber = `${LocalRoutes.songs}/echo-chamber`
   static if = `${LocalRoutes.songs}/if`
   static iRememberWhen = `${LocalRoutes.songs}/i-remember-when`
@@ -211,6 +212,7 @@ export class UITextPoetry {
 export class UITextSongs {
 
   static collegeCampus = "college campus"
+  static doWhatIWant = "do what i want"
   static echoChamber = "echo chamber"
   static if = "if"
   static iRememberWhen = "i remember when"
@@ -677,6 +679,13 @@ export const songsSections = {
     subText: "about a girl that I didn't really meet on the college campus",
     route: LocalRoutesSongs.collegeCampus,
     content: "/assets/posts/songs/collegeCampus.md"
+  },
+  doWhatIWant: {
+    id: "songs-do-what-i-want",
+    title: UITextSongs.doWhatIWant,
+    subText: "written on a trip to Ireland",
+    route: LocalRoutesSongs.doWhatIWant,
+    content: "/assets/posts/songs/doWhatIWant.md"
   },
   echoChamber: {
     id: "songs-echo-chamber",
