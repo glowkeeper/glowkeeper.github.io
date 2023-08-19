@@ -1,6 +1,6 @@
 # Do What I Want
 
-By _Fat Pad Contusion_ (a band formed at [Corrageen](/poetry/milkAfterIvor)).
+By _Fat Pad Contusion_ (a band formed on a trip to [Corrageen](/poetry/milk-after-ivor)).
 
 [Listen to a recording of the song](/assets/audio/doWhatIWant.mp3) - _recorded 19th August 2023_.
 
