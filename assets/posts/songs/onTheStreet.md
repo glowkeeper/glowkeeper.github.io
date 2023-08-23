@@ -1,6 +1,8 @@
 # On the Street
 
-[Listen to a recording of the song](/assets/audio/OnTheStreet.wav).
+Listen to a recording of the song:
+
+<audio controls src="/assets/audio/OnTheStreet.wav"></audio>
 
 (Picked)
 

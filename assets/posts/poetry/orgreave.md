@@ -1,6 +1,10 @@
 # The Battle of Orgreave
 
+<br />
+
 A modern setting and retelling of Tennyson's, [Charge of the Light Brigade](https://www.poets.org/poetsorg/poem/charge-light-brigade).
+
+<br />
 
 **Mine**|**Original**
 :-------|:-----------
@@ -65,7 +69,15 @@ Why on earth the State Stampede? | Honour the charge they made!
 Honour those at Orgreave, | Honour the Light Brigade,
 Noble eight thousand five hundred! | Noble six hundred!
 
-[Listen to a recording of the poem](/assets/audio/Orgreave.wav).
+<br />
+
+Listen to a recording of the poem:
+
+<br />
+
+<audio controls src="/assets/audio/Orgreave.wav"></audio>
+
+<br />
 
 **27 January, 2018**
 

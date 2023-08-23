@@ -1,6 +1,10 @@
 # Winter
 
+<br />
+
 A sombre reworking of Shakespeare's poem, [Winter](https://www.shmoop.com/winter-shakespeare/poem-text.html).
+
+<br />
 
 **Mine**|**Original**
 :-------|:-----------
@@ -24,7 +28,15 @@ Then nightly do the homeless prowl, | Then nightly sings the staring owl,
 A sombre note, | A merry note,
 While weary Joan does chance her lot. | While greasy Joan doth keel the pot.
 
-[Listen to a recording of the poem](/assets/audio/Winter.wav).
+<br />
+
+Listen to a recording of the poem:
+
+<br />
+
+<audio controls src="/assets/audio/Winter.wav"></audio>
+
+<br />
 
 **7 January, 2018**
 
