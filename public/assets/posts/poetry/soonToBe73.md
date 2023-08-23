@@ -1,6 +1,10 @@
 # Soon To Be 73
 
+<br />
+
 An NHS spin on Shakespeare's poem about ageing: [Sonnet 73](http://www.sparknotes.com/shakespeare/shakesonnets/section4/).
+
+<br />
 
 **Mine**|**Original**
 :-------|:-----------
@@ -19,6 +23,10 @@ Consumed by greed which used her to profit by. | Consumed with that which it was
 I witness that, which makes my love grow strong, | This thou perceivest, which makes thy love more strong,
 To love that well which got cashed-out for a song. | To love that well which thou must leave ere long.
 
+<br />
+
 **4 July, 2018**
+
+<br />
 
 &nbsp;

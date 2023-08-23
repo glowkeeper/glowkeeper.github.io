@@ -1,6 +1,8 @@
 # Echo Chamber
 
-[Listen to a recording of the song](/assets/audio/EchoChamber.wav).
+Listen to a recording of the song:
+
+<audio controls src="/assets/audio/EchoChamber.wav"></audio>
 
 Intro: D, C, A#, A, D, C, A#, A, D, C, A#, A, D, C, A#, A, D, C, A#, A, A, A#, C, D, D, C, A#, A, A, A#, C, D
 Verse: D, C, A#, A, D, C, A#, A, D, C, A#, A, D, C, A#, A

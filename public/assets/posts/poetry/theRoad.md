@@ -1,6 +1,10 @@
 # The Road Through the Woods
 
+<br />
+
 An inversion of Rudyard Kipling's poem, [The Way Through the Woods](https://www.familyfriendpoems.com/poem/the-way-through-the-woods-by-rudyard-kipling).
+
+<br />
 
 **Mine**|**Original**
 :-------|:-----------
@@ -31,7 +35,15 @@ Where once the locals knew | As though they perfectly knew
 The old lost trees ripped down by the road ... | The old lost road through the woods ...
 Where once stood a wood goes the road. | But there is no road through the woods.
 
-[Listen to a recording of the poem](/assets/audio/TheRoad.wav).
+<br />
+
+Listen to a recording of the poem:
+
+<br />
+
+<audio controls src="/assets/audio/TheRoad.wav"></audio>
+
+<br />
 
 **10 January, 2018**
 

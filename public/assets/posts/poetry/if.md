@@ -1,6 +1,10 @@
 # If
 
+<br />
+
 A modern take on what appear to be the virtues needed for leadership. It is based on [If](https://www.poetryfoundation.org/poems/46473/if---), by Rudyard Kipling.
+
+<br />
 
 **Mine**|**Original**
 :-------|:-----------
@@ -40,16 +44,26 @@ With one-hundred-and-forty keys shotgun, | With sixty seconds’ worth of distan
 Yours is the Earth plundered for everything in it, | Yours is the Earth and everything that’s in it,
 And, what's more, you'll lead the 'free world', my son! | And—which is more—you’ll be a Man, my son!
 
+<br />
+
 I've written a [song](/posts/songs/If), based on this poem.
+
+<br />
 
 **27 August, 2018**
 
+<br />
+
 ## If the Ashes
 
-If you can keep your head when all about you are losing theirs.
-If you can stop making stupid declarations.
-If you can pick a keeper who is good behind the wicket.
-Then yours is the Ashes urn and all that goes with it.
+<br />
+
+If you can keep your head when all about you are losing theirs.<br />
+If you can stop making stupid declarations.<br />
+If you can pick a keeper who is good behind the wicket.<br />
+Then yours is the Ashes urn and all that goes with it.<br />
+
+<br />
 
 **20 June, 2023**
 

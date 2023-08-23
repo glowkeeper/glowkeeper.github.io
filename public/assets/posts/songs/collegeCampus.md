@@ -1,6 +1,8 @@
 # College Campus
 
-[Listen to a recording of the song](/assets/audio/CollegeCampus.wav).
+Listen to a recording of the song:
+
+<audio controls src="/assets/audio/CollegeCampus.wav"></audio>
 
 Intro: Em, C, Em, D, Em, C, Em, D, C, B
 Verse: Em, C, Em, C, Em, C, Em, D, C, B

@@ -2,7 +2,9 @@
 
 Based on my poem, [If](/poetry/if).
 
-[Listen to a recording of the song](/assets/audio/If.ogg).
+Listen to a recording of the song:
+
+<audio controls src="/assets/audio/If.ogg"></audio>
 
 (All played as power chords)
 

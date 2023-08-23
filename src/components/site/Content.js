@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
+import rehypeRaw from "rehype-raw";
 
 export const Content = (props) => {
 
@@ -27,6 +28,7 @@ export const Content = (props) => {
             <ReactMarkdown 
                 children={markdown}
                 remarkPlugins={[remarkGfm]}
+                rehypePlugins={[rehypeRaw]} 
             />
         </div>
     );

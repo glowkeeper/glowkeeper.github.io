@@ -1,6 +1,8 @@
 # What's Wrong With Now?
 
-[Listen to a live recording of the song](/assets/audio/WhatsWrongWithNow.wav).
+Listen to a recording of the song:
+
+<audio controls src="/assets/audio/WhatsWrongWithNow.wav"></audio>
 
 Intro: Am, Em, Am, Em, C
 Verse: Am, Em, Am, Em

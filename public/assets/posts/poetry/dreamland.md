@@ -1,6 +1,10 @@
 # Dreamland
 
+<br />
+
 A new take on Blake's great poem, [Jerusalem](https://www.poetryfoundation.org/poems/54684/jerusalem-and-did-those-feet-in-ancient-time).
+
+<br />
 
 **Mine**|**Original**
 :-------|:-----------
@@ -24,7 +28,15 @@ Nor shall my words sleep from my hand: | Nor shall my sword sleep in my hand:
 Until a Dreamland rises from the ground, | Till we have built Jerusalem,
 In England's unclean, unpleasant Land. | In Englands green & pleasant Land.
 
-[Listen to a recording of the poem](/assets/audio/Dreamland.wav).
+<br />
+
+Listen to a recording of the poem:
+
+<br />
+
+<audio controls src="/assets/audio/Dreamland.wav"></audio>
+
+<br />
 
 **20 January, 2018**
 

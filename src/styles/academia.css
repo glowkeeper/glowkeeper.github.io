@@ -25,6 +25,10 @@
   background: var(--content-colour);
 }
 
+#academia-phd-md {
+  white-space: normal;
+}
+
 #academia-teaching-md img,
 #academia-phd-md img,
 #academia-msc-md img {

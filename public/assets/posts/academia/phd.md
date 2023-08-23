@@ -1,33 +1,30 @@
 # PhD
 
+<br />
+
 A list of works produced during my PhD at the [University of Sussex](http://www.sussex.ac.uk/).
+
+<br />
 
 ## Thesis
 
+<br />
+
 [Cryptocurrencies and Beyond: Using Design Science Research to Demonstrate Diverse Applications of Blockchains](/assets/docs/pHDThesis.pdf)
+
+<br />
 
 ## Software
 
+<br />
+
 ![](/assets/images/allFiveArtefacts.png)
 
-### Cryptocurrency Token
-
-| Token | Description | Rinkeby Test Network Address |
-|:-----|:-------------|:-----------------------------|
-| [Enervator](https://github.com/glowkeeper/Enervator) (EOR) | A cryptocurrency that incentivises energy efficiency | [0x5483b2996bba07330e188fe10bb101d4c1ac8530](https://rinkeby.etherscan.io/token/0x5483b2996bba07330e188fe10bb101d4c1ac8530) |
-
-### Applications
-
-To load the app's below, you will need to be running [Firefox](https://www.mozilla.org/) with the [Dat P2P Protocol](https://addons.mozilla.org/en-GB/firefox/addon/dat-p2p-protocol/) and [MetaMask](https://metamask.io/) extensions installed. [MetaMask](https://metamask.io/) should be pointing at the Rinkeby Test Network, and you will need a few test Ether in your [MetaMask](https://metamask.io/) wallet - you can get those from the [Rinkeby Faucet](https://faucet.rinkeby.io/).
-
-| App' | Description | URL |
-|:-----|:------------|:-----------------------------|
-| Eneradmin | Manages the supply of [EOR](https://rinkeby.etherscan.io/token/0x5483b2996bba07330e188fe10bb101d4c1ac8530/) and allows the setting and reading of the token's value parameters | [http://bcd1e0c422401c3591fb3a347aaa0d73b7faff797a21b15edabf0ca214157ccb](http://bcd1e0c422401c3591fb3a347aaa0d73b7faff797a21b15edabf0ca214157ccb/) |
-| Enerchanger | Simulates depositing cash and buying [EOR](https://rinkeby.etherscan.io/token/0x5483b2996bba07330e188fe10bb101d4c1ac8530/) | [http://795f83fa1356cd7d00e5cfe8f1a93f32c55127684c6fc4cb8ff89a32e000016b](http://795f83fa1356cd7d00e5cfe8f1a93f32c55127684c6fc4cb8ff89a32e000016b/) |
-| [ReportAid](https://github.com/glowkeeper/ReportAid) | A blockchain-based distributed application (dApp) for humanitarian aid reporting | [http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/](http://4b1bdf7b0f6beeadab5dadaf019cddbc94f618792ea30b8a2f5d957267d5bd92/) |
-| [Provenator](https://github.com/glowkeeper/Provenator) | A dApp for proving the origins of captured digital media | [http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9](http://31ce36ba92b26fa274537c5a63a6b895bdaddb6621a675ec616dbc17c01e5ee9/) |
+<br />
 
 ## Published Journal Papers
+
+<br />
 
 | Title | Date Published | Publisher | Where | DOI |
 |:------|:---------------|:----------|:------|:----|
@@ -35,19 +32,31 @@ To load the app's below, you will need to be running [Firefox](https://www.mozil
 | [Towards a post-cash society: An application to convert fiat money into a cryptocurrency](http://firstmonday.org/ojs/index.php/fm/article/view/7410/6003 "Towards a post-cash society") |  6th March, 2017 | First Monday | Volume 22, Number 3, March 6 2017 | [10.5210/fm.v22i3.7410]( http://dx.doi.org/10.5210/fm.v22i3.7410 "10.5210/fm.v22i3.7410") |
 | [Socialism and the Blockchain]( http://www.mdpi.com/1999-5903/8/4/49 "Socialism and the Blockchain") | 18th October, 2016 | MDPI | Future Internet 2016, 8(4), 49 | [10.3390/fi8040049](http://dx.doi.org/10.3390/fi8040049 "10.3390/fi8040049") |
 
+<br />
+
 ## Published Conference Papers
+
+<br />
 
 | Title | Date Published | Publisher | Where | DOI |
 |:------|:---------------|:----------|:------|:----|
 | [Internet of Things, Blockchain and Shared Economy Applications](http://dx.doi.org/10.1016/j.procs.2016.09.074 "Internet of Things, Blockchain and Shared Economy Applications") | 22nd September, 2016 | Elsevier | Procedia Computer Science, Volume 98, 2016, Pages 461–466 | [10.1016/j.procs.2016.09.074]( http://dx.doi.org/10.1016/j.procs.2016.09.074 "10.1016/j.procs.2016.09.074") |
 
+<br />
+
 ## Published Independent Media Articles
+
+<br />
 
 | Title | Date Published | Publisher |
 |:------|:---------------|:----------|
 | [Bitcoin’s high energy consumption is a concern – but it may be a price worth paying](https://theconversation.com/bitcoins-high-energy-consumption-is-a-concern-but-it-may-be-a-price-worth-paying-106282) | 7th November, 2018 | [The Conversation](https://theconversation.com/uk) |
 
+<br />
+
 ## Public Speaking
+
+<br />
 
 | Title | Info' | Date | Where | Presentation |
 |:------|:------|:-----|:------|:-------------|
@@ -63,31 +72,55 @@ To load the app's below, you will need to be running [Firefox](https://www.mozil
 | _Blockchain Technology_ | Overview of blockchains, given at the launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) | 9th May, 2016 | Launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) | [Blockchain Technology and the Internet of Things](https://github.com/glowkeeper/Creative-Technology-Group-Blockchain-Presentation) |
 | _Evaluating Bitcoin as an Open Source Project_ | A presentation given to the students on the University of Sussex's Science Policy Research Unit's MSc Module, _ICT Policy and Strategy_ | 6th May, 2016 | [University of Sussex](http://www.sussex.ac.uk/) seminar on [Information and Communication Technology Policy and Strategy](http://www.sussex.ac.uk/bmec/internal/departments/spru/pgcourses/2016/L1520T/62854) | [Evaluating Bitcoin as an Open Source Project](https://github.com/glowkeeper/Bitcoin-Presentation) |
 
+<br />
+
 _Enervator - Incentivising Energy Efficiency Innovation forum, Energy Services Business Models, held by the [UK Centre for Research into Energy Demand Solutions](http://www.sussex.ac.uk/spru/research/projects/creds) at [The Fusebox, Brighton](https://thefuseboxbrighton.com/)_
+
+<br />
 
 ![](/assets/images/enervatorPresentation.jpeg)
 
+<br />
+
 _Fake News and Blockchains at the University of Sussex's Digital Discovery Week_
+
+<br />
 
 ![](/assets/images/digitalDiscoveryFakeNews.jpg)
 
+<br />
+
 _Introduction to Blockchain Application Development at [Wired Sussex](https://www.wiredsussex.com/)_
+
+<br />
 
 ![](/assets/images/dCBrighton190318.png)
 
+<br />
+
 ## Poster Presentations
+
+<br />
 
 | Poster | Date | Where |
 |:-------|:-----|:------|
 | [Are Blockchains the Means By Which We Can Collaborate?](/assets/docs/poster120717.pdf) | Wednesday 12th July, 2017  | Chichester 1, [University of Sussex](http://www.sussex.ac.uk/) |
 
+<br />
+
 ## Training
+
+<br />
 
 | Title | Date | Where |
 |:------|:-----|:------|
 | Blockchain Development for Shared Economy Applications | 5th December, 2016 | American Express, Burgess Hill |
 
+<br />
+
 ## Lectures
+
+<br />
 
 | Title | Date | Where |
 |:------|:-----|:------|

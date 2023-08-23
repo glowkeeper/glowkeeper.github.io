@@ -35,12 +35,8 @@
 }
 
 #poetry-balls-md,
-#poetry-difficult-md,
-#poetry-dreamland-md,
 #poetry-eton-md,
-#poetry-golden-brown-md,
 #poetry-gregorian-md,
-#poetry-if-md,
 #poetry-i-kneel-md,
 #poetry-ironies-md,
 #poetry-kane-md,
@@ -48,13 +44,17 @@
 #poetry-meaning-md,
 #poetry-milk-after-ivor-md,
 #poetry-monkey-md,
-#poetry-not-christmas-md,
 #poetry-nuts-md,
-#poetry-orgreave-md,
 #poetry-prudictive-md,
 #poetry-santa-claus-md,
-#poetry-soon-to-be-73-md,
 #poetry-soup-md,
+#poetry-difficult-md,
+#poetry-dreamland-md,
+#poetry-golden-brown-md,
+#poetry-if-md,
+#poetry-not-christmas-md,
+#poetry-orgreave-md,
+#poetry-soon-to-be-73-md,
 #poetry-the-road-md,
 #poetry-winter-md {
   padding: var(--header-height) 2rem 0 2rem;
@@ -63,6 +63,18 @@
   min-height: calc(100vh - var(--header-height) - var(--footer-height));
 
   background: var(--content-colour);
+}
+
+#poetry-difficult-md,
+#poetry-dreamland-md,
+#poetry-golden-brown-md,
+#poetry-if-md,
+#poetry-not-christmas-md,
+#poetry-orgreave-md,
+#poetry-soon-to-be-73-md,
+#poetry-the-road-md,
+#poetry-winter-md {
+  white-space: normal;
 }
 
 #poetry-balls-md table,
