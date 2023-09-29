@@ -7,7 +7,6 @@ export class System {
 export class LocalRoutes {
 
       static home = "/"
-
       static about = `/about`
       static academia = `/academia`
       static apps = `/apps`
@@ -18,7 +17,6 @@ export class LocalRoutes {
       static poetry = `/poetry`
       static songs = `/songs`
       static stories = `/stories`
-
 }
 
 export class LocalRoutesAbout {
@@ -79,6 +77,7 @@ export class LocalRoutesPoetry {
   static santaClaus = `${LocalRoutes.poetry}/santa-claus`
   static soonToBe73 = `${LocalRoutes.poetry}/soon-to-be-73`
   static soup = `${LocalRoutes.poetry}/soup`
+  static thankless = `${LocalRoutes.poetry}/thankless`
   static theRoad = `${LocalRoutes.poetry}/the-road`
   static winter = `${LocalRoutes.poetry}/winter`
 }
@@ -205,6 +204,7 @@ export class UITextPoetry {
   static santaClaus = "santa claus"
   static soonToBe73 = "soon to be 73"
   static soup = "soup"
+  static thankless = "thankless"
   static theRoad = "the road"
   static winter = "winter"
 }
@@ -655,6 +655,13 @@ export const poetrySections = {
     subText: "the machinations of carrot soup",
     route: LocalRoutesPoetry.soup,
     content: "/assets/posts/poetry/soup.md"
+  },
+  thankless: {
+    id: "poetry-thankless",
+    title: UITextPoetry.thankless,
+    subText: "value in thankless (any) tasks...",
+    route: LocalRoutesPoetry.thankless,
+    content: "/assets/posts/poetry/thankless.md"
   },
   theRoad: {
     id: "poetry-the-road",

@@ -22,6 +22,7 @@
 #poetry-santa-claus,
 #poetry-soon-to-be-73,
 #poetry-soup,
+#poetry-thankless,
 #poetry-the-road,
 #poetry-winter {
   display: grid;
@@ -55,6 +56,7 @@
 #poetry-not-christmas-md,
 #poetry-orgreave-md,
 #poetry-soon-to-be-73-md,
+#poetry-thankless-md,
 #poetry-the-road-md,
 #poetry-winter-md {
   padding: var(--header-height) 2rem 0 2rem;
@@ -77,24 +79,12 @@
   white-space: normal;
 }
 
-#poetry-balls-md table,
 #poetry-difficult-md table,
 #poetry-dreamland-md table,
-#poetry-eton-md table,
 #poetry-golden-brown-md table,
 #poetry-if-md table,
-#poetry-i-kneel-md table,
-#poetry-ironies-md table,
-#poetry-kane-md table,
-#poetry-love-md table,
-#poetry-meaning-md table,
-#poetry-milk-after-ivor-md table,
-#poetry-monkey-md table,
 #poetry-not-christmas-md table,
-#poetry-nuts-md table,
 #poetry-orgreave-md table,
-#poetry-prudictive-md table,
-#poetry-santa-claus-md table,
 #poetry-soon-to-be-73-md table,
 #poetry-soup-md table,
 #poetry-the-road-md table,
@@ -103,24 +93,12 @@
   border-spacing: var(--table-spacing);
 }
 
-#poetry-balls-md th,
 #poetry-difficult-md th,
 #poetry-dreamland-md th,
-#poetry-eton-md th,
 #poetry-golden-brown-md th,
 #poetry-if-md th,
-#poetry-i-kneel-md th,
-#poetry-ironies-md th,
-#poetry-kane-md th,
-#poetry-love-md th,
-#poetry-meaning-md th,
-#poetry-milk-after-ivor-md th,
-#poetry-monkey-md th,
 #poetry-not-christmas-md th,
-#poetry-nuts-md th,
 #poetry-orgreave-md th,
-#poetry-prudictive-md th,
-#poetry-santa-claus-md th,
 #poetry-soon-to-be-73-md th,
 #poetry-soup-md th,
 #poetry-the-road-md th,
