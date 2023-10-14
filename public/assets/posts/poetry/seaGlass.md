@@ -1,14 +1,15 @@
 # Sea Glass
 
 She swims and then finds,
-Sea glass from Southwick.
+Sea glass from Southwick,
+On the shore strandline,
 And occasionally,
 She also happens,
-To see - A migrant,
-Declined, by storms,
-And wild easterlies,
-Hungrily reaping,
-Rich rewards, by picking,
+To see a migrant,
+Declined, by stormy,
+Wild, easterlies,
+Hunger appeased,
+By rewards found picking,
 At the shore strandline,
 Just like my girlfriend.
 
