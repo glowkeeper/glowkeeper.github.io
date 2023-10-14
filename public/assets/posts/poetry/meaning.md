@@ -5,14 +5,11 @@ Where fascinating language is often the rule.
 The students who don't never do no latin,
 Or any logic class have they sat in,
 Will moan about their peers rather loudly:
-"She don't never do nothing for nobody".
+"She don't never do nothing for nobody",
 Which don't never not parse in plain English,
 And my logical mind glitch/glitch/glitches.
-
-But if I pause my thinking head for a while.
+But if I pause my thinking head for a while,
 Tell my English-parsing brain, "don't compile!",
-I suss its meaning objectively,
-And it's palpable negativity.
 It's obvious they meant to convey,
 That the girl wouldn't help them today!
 So who cares if it don't do no screening?
