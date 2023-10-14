@@ -4,9 +4,9 @@ She swims and then finds,
 Sea glass from Southwick.
 And occasionally,
 She also happens,
-To see - storm blow-ins
+To see - storm blow-ins,
+On wild, stormy winds!
 A migrant declined,
-By wild, stormy winds!
 Who's hungrily reaping,
 Rich rewards, by picking,
 At the shore strandline,
