@@ -20,6 +20,7 @@
 #poetry-orgreave,
 #poetry-prudictive,
 #poetry-santa-claus,
+#poetry-sea-glass,
 #poetry-soon-to-be-73,
 #poetry-soup,
 #poetry-thankless,
@@ -48,17 +49,10 @@
 #poetry-nuts-md,
 #poetry-prudictive-md,
 #poetry-santa-claus-md,
+#poetry-sea-glass-md,
 #poetry-soup-md,
-#poetry-difficult-md,
-#poetry-dreamland-md,
-#poetry-golden-brown-md,
-#poetry-if-md,
-#poetry-not-christmas-md,
-#poetry-orgreave-md,
-#poetry-soon-to-be-73-md,
 #poetry-thankless-md,
-#poetry-the-road-md,
-#poetry-winter-md {
+#poetry-the-road-md {
   padding: var(--header-height) 2rem 0 2rem;
   white-space: pre-wrap;
 

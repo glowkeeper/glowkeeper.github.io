@@ -75,6 +75,7 @@ export class LocalRoutesPoetry {
   static orgreave = `${LocalRoutes.poetry}/orgreave`
   static prudictive = `${LocalRoutes.poetry}/prudictive`
   static santaClaus = `${LocalRoutes.poetry}/santa-claus`
+  static seaGlass = `${LocalRoutes.poetry}/sea-glass`
   static soonToBe73 = `${LocalRoutes.poetry}/soon-to-be-73`
   static soup = `${LocalRoutes.poetry}/soup`
   static thankless = `${LocalRoutes.poetry}/thankless`
@@ -202,6 +203,7 @@ export class UITextPoetry {
   static orgreave = "orgreave"
   static prudictive = "prudictive"
   static santaClaus = "santa claus"
+  static seaGlass = "sea glass"
   static soonToBe73 = "soon to be 73"
   static soup = "soup"
   static thankless = "thankless"
@@ -641,6 +643,13 @@ export const poetrySections = {
     subText: "male?",
     route: LocalRoutesPoetry.santaClaus,
     content: "/assets/posts/poetry/santaClaus.md"
+  },
+  seaGlass: {
+    id: "poetry-sea-glass",
+    title: UITextPoetry.seaGlass,
+    subText: "Sea Glass from Southwick",
+    route: LocalRoutesPoetry.seaGlass,
+    content: "/assets/posts/poetry/seaGlass.md"
   },
   soonToBe73: {
     id: "poetry-soon-to-be-73",
