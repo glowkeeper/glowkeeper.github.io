@@ -1,8 +1,8 @@
 # Sea Glass
 
 She swims and then finds,
-Sea glass from Southwick,
 On the shore strandline,
+Sea glass from Southwick,
 And occasionally,
 She also happens,
 To see - a migrant,
