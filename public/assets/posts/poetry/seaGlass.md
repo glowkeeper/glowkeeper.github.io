@@ -9,8 +9,8 @@ To see - a migrant,
 Declined, by stormy,
 Wild, easterlies.
 Their hunger appeased,
-By rewards they find,
 At the shore strandline,
+By rewards they find.
 Just like my girlfriend.
 
 **14 October, 2023**

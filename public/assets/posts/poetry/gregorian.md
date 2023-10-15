@@ -1,27 +1,27 @@
 # Gregorian Song
 
 Joyless January,
-Doesn't do much for me.
+The bluest of Mondays.
 Feckless February,
-Still no sanctuary.
+Flipping pancake day.
 The madness of March,
-Day and night match.
-And grateful April,
+The vernal equinox.
+Grateful April,
 Brings showers, until,
 Miraculous May,
 And fecund fire play.
 Warm, joyous June,
-Hot midsummer swoon.
+The solstice moon.
 Optimistic July,
 Mood bright as the skies.
 August August,
 Face up, we must,
 To jealous September,
-The hot days surrendered.
+And hot days surrendered.
 Restless October,
-Summer's finally over.
+When gales blow over.
 Enraged November,
-Bends all of the timber,
+Guy Fawkes' embers,
 Enchanted December,
 Yuletides to remember,
 And warm, grateful shelter,
