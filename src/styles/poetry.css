@@ -70,7 +70,12 @@
 #poetry-soon-to-be-73-md,
 #poetry-the-road-md,
 #poetry-winter-md {
+  padding: var(--header-height) 2rem 0 2rem;
   white-space: normal;
+
+  min-height: calc(100vh - var(--header-height) - var(--footer-height));
+
+  background: var(--content-colour);
 }
 
 #poetry-difficult-md table,
