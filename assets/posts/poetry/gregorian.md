@@ -2,12 +2,12 @@
 
 Joyless January,
 The bluest of Mondays.
-Feckless February,
+Fresh February,
 Flipping pancake day.
 The madness of March,
 The vernal equinox.
-Grateful April,
-Brings showers, until,
+Awakening April,
+Showers plentiful,
 Miraculous May,
 And fecund fire play.
 Warm, joyous June,
@@ -24,8 +24,8 @@ Enraged November,
 Guy Fawkes' embers,
 Enchanted December,
 Yuletides to remember,
-And warm, grateful shelter,
-From Mother Earth's temper.
+Warm, grateful sanctuary,
+From joyless January...
 
 **20 January, 2023**
 
