@@ -24,7 +24,7 @@ Enraged November,
 Guy Fawkes' embers,
 Enchanted December,
 Yuletides to remember,
-Warm, grateful sanctuary,
+And grateful sanctuary,
 From joyless January...
 
 **20 January, 2023**
