@@ -48,7 +48,7 @@ All together.
 To Blackwater,
 Curious seal,
 Head above waves,
-Stealing a peek,
+Peeking a steal,
 At the humans,
 Beachcombing,
 For sea shells,
