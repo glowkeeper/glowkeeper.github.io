@@ -2,7 +2,16 @@
 
 By _Fat Pad Concussion_ (a Huckle-Smith-Pitrova-Hamsik-Hamsikova family-band formed on a trip to [Corrageen](/poetry/milk-after-ivor)).
 
-Listen to a recording of the song (_recorded 19th August 2023_):
+Listen to the band rocking out (_recorded 24th November 2023_):
+
+<audio controls src="/assets/audio/doWhatIWantBand.mp3"></audio>
+
+Intro: G, A#, A
+Verse: G, A#, A
+Bridge: C, D#, D
+Chorus: C, F, G
+
+Listen to a demo recording of the song (_recorded 19th August 2023_):
 
 <audio controls src="/assets/audio/doWhatIWant.mp3"></audio>
 
