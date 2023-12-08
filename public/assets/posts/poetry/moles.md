@@ -11,7 +11,7 @@ Mats are useful on floors.
 But eyes aren't useful for moles.
 
 Moles and my missus - seldom linked.
-But they are in this beautiful poem.
+Except in the occasional poem;
 Typically, their worlds are distinct,
 One above - the other below them.
 
@@ -19,6 +19,16 @@ But Moles also like small, hard things,
 Which they often put in their gob,
 But unlike my lovely missus,
 They're not allowed a go on my...
+
+Knobs are also useful on amps,
+So the volume can slowly build up,
+To eleven; so next door shouts,
+"For **** sake! Shut the **** up!"
+
+My missus, moles, and small hard things,
+Worth celebrating, just for a while!
+Forget the large difficult things,
+'cause small hard things make my missus smile.
 
 **2 December, 2023**
 
