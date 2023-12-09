@@ -15,7 +15,7 @@ Except in the occasional poem;
 Typically, their worlds are distinct,
 One above - the other below them.
 
-But Moles also like small, hard things,
+Moles also like small, hard things,
 Which they often put in their gob,
 But unlike my lovely missus,
 They're not allowed a go on my...
