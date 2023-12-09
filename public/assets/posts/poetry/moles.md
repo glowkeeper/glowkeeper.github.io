@@ -26,9 +26,9 @@ To eleven; so next door shouts,
 "For **** sake! Shut the **** up!"
 
 My missus, moles, and small hard things,
-Worth celebrating, just for a while!
-Forget the large difficult things,
-'cause small hard things make my missus smile.
+Worth celebrating once in a while,
+Easy to forget difficulties,
+When small hard things make my missus smile.
 
 **2 December, 2023**
 
