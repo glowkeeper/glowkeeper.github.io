@@ -27,8 +27,8 @@ To eleven; so next door shouts,
 
 My missus, moles, and small hard things,
 Worth celebrating once in a while,
-Easy to forget difficulties,
-When small hard things make my missus smile.
+Easy to pull on my heartstrings,
+'cause small hard things make my missus smile.
 
 **2 December, 2023**
 
