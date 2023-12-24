@@ -74,6 +74,7 @@ export class LocalRoutesPoetry {
   static notChristmas = `${LocalRoutes.poetry}/not-christmas`
   static nuts = `${LocalRoutes.poetry}/nuts`
   static orgreave = `${LocalRoutes.poetry}/orgreave`
+  static pointless = `${LocalRoutes.poetry}/pointless`
   static prudictive = `${LocalRoutes.poetry}/prudictive`
   static santaClaus = `${LocalRoutes.poetry}/santa-claus`
   static seaGlass = `${LocalRoutes.poetry}/sea-glass`
@@ -203,6 +204,7 @@ export class UITextPoetry {
   static notChristmas = "not christmas"
   static nuts = "nuts"
   static orgreave = "orgreave"
+  static pointless = "pointless"
   static prudictive = "prudictive"
   static santaClaus = "santa claus"
   static seaGlass = "sea glass"
@@ -638,6 +640,13 @@ export const poetrySections = {
     subText: "an awful day of the miners strike",
     route: LocalRoutesPoetry.orgreave,
     content: "/assets/posts/poetry/orgreave.md"
+  },
+  pointless: {
+    id: "poetry-pointless",
+    title: UITextPoetry.pointless,
+    subText: "hopefully so",
+    route: LocalRoutesPoetry.pointless,
+    content: "/assets/posts/poetry/pointless.md"
   },
   prudictive: {
     id: "poetry-prudictive",
