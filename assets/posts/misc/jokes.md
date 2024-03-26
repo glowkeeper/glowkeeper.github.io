@@ -6,6 +6,6 @@ The person in the queue behind me accused me of misappropriating youth culture. 
 
 There's quite a difference between the sewage systems of Tudor Britain and their modern equivalent. Back then, you'd shit in a bucket, then feed it to the pigs; whereas nowadays, you shit in a toilet, then go and swim in it. In other words - the Tudor system was "animal fodder"; now, it's "front crawl through faecal matter".
 
-The class has been studying the water cycle and **precipitation**, and the teacher wanted to reinforce their learning, "Who can think of a really really long word beginning with 'p' for raining?". After a few seconds of silence, she picked out Seth, at the back, hoping he had been paying attention, "Any idea, Seth?", to which he answered, "Pissing down?".
+The class had been studying the water cycle and **precipitation**, and the teacher wanted to reinforce their learning. "Who can think of a really really long word beginning with 'P', for raining?". After a few seconds of silence, she picked out Seth, at the back, hoping he had been paying attention, "Any idea, Seth?", to which he answered, "Pissing down?".
 
 &nbsp;
