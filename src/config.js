@@ -55,8 +55,9 @@ class LocalRoutesMisc {
 }
 
 export class LocalRoutesPoetry {
-
+  
   static balls = `${LocalRoutes.poetry}/ballsShmalls`
+  static brighton = `${LocalRoutes.poetry}/brighton`
   static difficult = `${LocalRoutes.poetry}/difficult`
   static dreamland = `${LocalRoutes.poetry}/dreamland`
   static eton = `${LocalRoutes.poetry}/eton`
@@ -66,6 +67,7 @@ export class LocalRoutesPoetry {
   static iKneel = `${LocalRoutes.poetry}/i-kneel`
   static ironies = `${LocalRoutes.poetry}/ironies`
   static kane = `${LocalRoutes.poetry}/kane`
+  static lamb = `${LocalRoutes.poetry}/lamb`
   static love = `${LocalRoutes.poetry}/love`
   static meaning = `${LocalRoutes.poetry}/meaning`
   static milkAfterIvor = `${LocalRoutes.poetry}/milk-after-ivor`
@@ -187,6 +189,7 @@ export class UITextMisc {
 export class UITextPoetry {
 
   static balls = "balls shmalls"
+  static brighton = "brighton"
   static difficult = "difficult"
   static dreamland = "dreamland"
   static eton = "old eton"
@@ -196,6 +199,7 @@ export class UITextPoetry {
   static iKneel = "i kneel"
   static ironies = "ironies"
   static kane = "kane"
+  static lamb = "lamb"
   static love = "love"
   static meaning = "meaning"
   static milkAfterIvor = "milk after ivor"
@@ -522,6 +526,13 @@ export const poetrySections = {
     route: LocalRoutesPoetry.balls,
     content: "/assets/posts/poetry/ballsShmalls.md"
   },
+  brighton: {
+    id: "poetry-brighton",
+    title: UITextPoetry.brighton,
+    subText: "right on",
+    route: LocalRoutesPoetry.brighton,
+    content: "/assets/posts/poetry/brighton.md"
+  },
   difficult: {
     id: "poetry-difficult",
     title: UITextPoetry.difficult,
@@ -584,6 +595,13 @@ export const poetrySections = {
     subText: "that ****ing penalty",
     route: LocalRoutesPoetry.kane,
     content: "/assets/posts/poetry/kane.md"
+  },
+  lamb: {
+    id: "poetry-lamb",
+    title: UITextPoetry.lamb,
+    subText: "Mary's Lamb",
+    route: LocalRoutesPoetry.lamb,
+    content: "/assets/posts/poetry/lamb.md"
   },
   love: {
     id: "poetry-love",

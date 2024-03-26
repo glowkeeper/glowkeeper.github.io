@@ -2,6 +2,7 @@
 @import "animations.css";
 
 #poetry-balls,
+#poetry-brighton,
 #poetry-difficult,
 #poetry-dreamland,
 #poetry-eton,
@@ -11,6 +12,7 @@
 #poetry-i-kneel,
 #poetry-ironies,
 #poetry-kane,
+#poetry-lamb,
 #poetry-love,
 #poetry-meaning,
 #poetry-milk-after-ivor,
@@ -39,11 +41,13 @@
 }
 
 #poetry-balls-md,
+#poetry-brighton-md,
 #poetry-eton-md,
 #poetry-gregorian-md,
 #poetry-i-kneel-md,
 #poetry-ironies-md,
 #poetry-kane-md,
+#poetry-lamb-md,
 #poetry-love-md,
 #poetry-meaning-md,
 #poetry-milk-after-ivor-md,
