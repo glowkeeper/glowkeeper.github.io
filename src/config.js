@@ -155,6 +155,7 @@ export class UITextAcademia {
 
 export class UITextApps {
 
+  static mark = "mark"
   static storymaker = "storymaker"
   static rectangles = "rectangles"
   static calculator = "calculator"
@@ -356,6 +357,13 @@ export const academiaSections = {
 }
 
 export const appsSections = {
+  mark: {
+    id: "apps-mark",
+    title: UITextApps.mark,
+    subText: "ai-assisted assessment",
+    route: "",
+    content: "https://mark.education/"
+  },
   storymaker: {
     id: "apps-storymaker",
     title: UITextApps.storymaker,

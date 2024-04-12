@@ -1,6 +1,7 @@
 @import "variables.css";
 @import "animations.css";
 
+#apps-mark,
 #apps-storymaker,
 #apps-rectangles,
 #apps-calculator {
@@ -14,6 +15,7 @@
   animation: backgroundAnimation 10s ease infinite;
 }
 
+#apps-mark-md,
 #apps-storymaker-md,
 #apps-rectangles-md,
 #apps-calculator-md {
