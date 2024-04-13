@@ -261,7 +261,7 @@ export const homeSections = {
   apps: {
     id: "home-apps",
     title: UIText.apps,
-    subText: "some of Dr Huckle's creations",
+    subText: "Dr Huckle's software",
     route: LocalRoutes.apps
   },
   blog: {
@@ -369,21 +369,21 @@ export const appsSections = {
     title: UITextApps.storymaker,
     subText: "ai-based text generation",
     route: "",
-    content: "https://glowkeeper.github.io/storymaker/"
+    content: "https://huckle.studio/storymaker/"
   },
   rectangles: {
     id: "apps-rectangles",
     title: UITextApps.rectangles,
     subText: "how many rectangles are there?",
     route: "",
-    content: "https://glowkeeper.github.io/rectangle-react/"
+    content: "https://huckle.studio/rectangle-react/"
   },
   calculator: {
     id: "apps-calculator",
     title: UITextApps.calculator,
     subText: "simple calculator",
     route: "",
-    content: "https://glowkeeper.github.io/simple-calculator/"
+    content: "https://huckle.studio/simple-calculator/"
   },
 }
 
