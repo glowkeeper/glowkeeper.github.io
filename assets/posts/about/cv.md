@@ -6,13 +6,13 @@ I am an accomplished writer and developer, educated to doctoral level, who enjoy
 
 I am an accomplished writer and developer, educated to doctoral level, who enjoys passing on my extensive experience by teaching.
 
-In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my journey into the blockchain space. I have since completed a [PhD](/academia/phd) that focused on blockchains, where my [thesis](/assets/docs/pHDThesis.pdf) asked whether the technology could help overcome some of the most urgent problems facing humanity. In short, I concluded that they might help, but it is impossible to solve all of humanity's issues through technology; we must also change political, economic, and cultural goals.
+In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my journey into the blockchain space. I have since completed a [PhD](/academia/phd) that focused on blockchains, where my [thesis](/assets/docs/pHDThesis.pdf) asked whether the technology could help overcome some of the most urgent problems facing humanity. In short, they might help, but it is impossible to solve all of humanity's issues through technology; we must also change political, economic, and cultural goals.
 
-My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business streaming DJ mixes over the Internet. That sparked an interest in digital music, so in 2003, I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
+My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business, streaming DJ mixes online. That sparked an interest in digital music, so in 2003, I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
 
-By 2010 I was becoming increasingly concerned about the looming climate crisis; to understand it better, I began a second master's degree, this time in Advanced Environment and Energy. I funded that course by working as a Freelance Programmer focusing on website development.
+By 2010, I was becoming increasingly concerned about the looming climate crisis. To better understand it, I began a second master's degree, this time in Advanced Environment and Energy. I funded that course by working as a Freelance Programmer focusing on website development.
 
-Since completing my PhD, I have found a love of teaching - I am currently lecturing part-time, which gives me time to explore my creative urges and become a better programmer by building some fun tools.
+Since completing my PhD, I have found a love of teaching - I am currently lecturing in Computer Graphics and Computer Science at the University of Sussex.
 
 ## Experience
 
@@ -72,7 +72,7 @@ e-professional: s dot huckle at sussex dot ac dot uk
 
 ## Leisure Interests
 
-I have many and varied interests and I maintain a sense of fun and creativity through writing code, prose, re-imagining classic poetry and playing the guitar.
+I have many and varied interests, and I maintain a sense of fun and creativity through writing code and prose, reimagining classic poetry, and playing the guitar.
 
 ## References
 
