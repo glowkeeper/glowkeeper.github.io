@@ -1,10 +1,8 @@
 # Dr Steve Huckle
 
-I am an accomplished writer and developer, educated to doctoral level, who enjoys passing on my extensive experience by teaching.
+I am an accomplished full-stack web developer, educated to doctoral level, who enjoys teaching.
 
 ## Professional Profile
-
-I am an accomplished writer and developer, educated to doctoral level, who enjoys passing on my extensive experience by teaching.
 
 In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my journey into the blockchain space. I have since completed a [PhD](/academia/phd) that focused on blockchains, where my [thesis](/assets/docs/pHDThesis.pdf) asked whether the technology could help overcome some of the most urgent problems facing humanity. In short, they might help, but it is impossible to solve all of humanity's issues through technology; we must also change political, economic, and cultural goals.
 
@@ -17,9 +15,9 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 ## Experience
 
 - I have nearly thirty years of experience in the computing industry, beginning in 1992 with a COBOL programming course
-- I have been writing React since 2016
-- Heading towards a decade involved with blockchains, including four years researching the technology as part of a [PhD](/academia/phd)
-- Many years of freelance computing experience, including creating and managing websites
+- I have been writing frontend React since 2016
+- I had a decade of experience with blockchains, including four years researching the technology as part of a [PhD](/academia/phd)
+- Many years of freelance computing experience, during which, I have created and maintained many websites
 - Five years of programming within the games industry, where I worked on four completed titles
 - Early in my professional career, I was a UNIX Systems Administrator
 
@@ -42,9 +40,9 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 
 ## Career History
 
-- October 2020 - now: Lecturer and Module Convenor of _Programming for 3D_ - University of Sussex
-- September 2021 - October: Full Stack Development Teacher - Boolean UK Ltd
-- September 2020 - November 2021: Senior Developer, Minima Global
+- October 2020 - now: Lecturer and Module Convenor of [Programming for 3D](https://www.sussex.ac.uk/study/modules/postgraduate/2023/85872-programming-for-3d) - [University of Sussex](https://www.sussex.ac.uk/)
+- September 2021 - October: Full Stack Development Teacher - [Boolean UK Ltd](https://boolean.co.uk/)
+- September 2020 - November 2021: Senior Developer, [Minima Global](https://www.minima.global/)
 - November 2008 – January 2016: Freelance Programmer
 - May 2007 – November 2008: Senior Audio Programmer - Zoe Mode
 - October 2004 – May 2007: Senior Audio Programmer - Sony Computer Entertainment
