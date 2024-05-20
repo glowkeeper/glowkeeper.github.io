@@ -191,7 +191,7 @@ export class UITextMisc {
 export class UITextPoetry {
 
   static balls = "balls shmalls"
-  static bandsBoycottBarclays = "Bands Boycott Barclays"
+  static bandsBoycottBarclays = "bands boycott barclays"
   static brighton = "brighton"
   static difficult = "difficult"
   static dreamland = "dreamland"
