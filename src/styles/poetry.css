@@ -2,6 +2,7 @@
 @import "animations.css";
 
 #poetry-balls,
+#poetry-bands,
 #poetry-brighton,
 #poetry-difficult,
 #poetry-dreamland,
@@ -41,6 +42,7 @@
 }
 
 #poetry-balls-md,
+#poetry-bands-md,
 #poetry-brighton-md,
 #poetry-eton-md,
 #poetry-gregorian-md,

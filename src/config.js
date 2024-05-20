@@ -57,6 +57,7 @@ class LocalRoutesMisc {
 export class LocalRoutesPoetry {
   
   static balls = `${LocalRoutes.poetry}/ballsShmalls`
+  static bandsBoycottBarclays = `${LocalRoutes.poetry}/bandsBoycottBarclays`
   static brighton = `${LocalRoutes.poetry}/brighton`
   static difficult = `${LocalRoutes.poetry}/difficult`
   static dreamland = `${LocalRoutes.poetry}/dreamland`
@@ -190,6 +191,7 @@ export class UITextMisc {
 export class UITextPoetry {
 
   static balls = "balls shmalls"
+  static bandsBoycottBarclays = "Bands Boycott Barclays"
   static brighton = "brighton"
   static difficult = "difficult"
   static dreamland = "dreamland"
@@ -533,6 +535,13 @@ export const poetrySections = {
     subText: "golfing expectations",
     route: LocalRoutesPoetry.balls,
     content: "/assets/posts/poetry/ballsShmalls.md"
+  },
+  bandsBoycottBarclays: {
+    id: "poetry-bands",
+    title: UITextPoetry.bandsBoycottBarclays,
+    subText: "the Great Escape 2024",
+    route: LocalRoutesPoetry.bandsBoycottBarclays,
+    content: "/assets/posts/poetry/bandsBoycottBarclays.md"
   },
   brighton: {
     id: "poetry-brighton",
