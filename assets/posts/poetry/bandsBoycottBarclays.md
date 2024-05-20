@@ -18,7 +18,7 @@ How bad must it get?
 Before something's said.
 So I sort of get the "Boycott" play,
 When it's hard to say,
-"Enough! Not in my name!"?
+"Enough! Not in my name!".
 But its only impact? Really?
 Was to folk like me,
 Those with tickets erased;
