@@ -1,6 +1,6 @@
 # Bands Boycott Barclays
 
-"Bands Boycott Barclays",
+Bands Boycott Barclays,
 At The Great Escape,
 Can't help thinking, "A mistake!".
 Yet, I'm conflicted!
@@ -17,7 +17,7 @@ What will it take?
 How bad must it get?
 Before something's said.
 So I sort of get the "Boycott" play,
-When how else can you say,
+When it's hard to say,
 "Enough! Not in my name!"?
 But its only impact? Really?
 Was to folk like me,
