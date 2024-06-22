@@ -70,6 +70,7 @@ export class LocalRoutesPoetry {
   static kane = `${LocalRoutes.poetry}/kane`
   static lamb = `${LocalRoutes.poetry}/lamb`
   static love = `${LocalRoutes.poetry}/love`
+  static magic = `${LocalRoutes.poetry}/magic`
   static meaning = `${LocalRoutes.poetry}/meaning`
   static milkAfterIvor = `${LocalRoutes.poetry}/milk-after-ivor`
   static moles = `${LocalRoutes.poetry}/moles`
@@ -204,6 +205,7 @@ export class UITextPoetry {
   static kane = "kane"
   static lamb = "lamb"
   static love = "love"
+  static magic = "magic"
   static meaning = "meaning"
   static milkAfterIvor = "milk after ivor"
   static moles = "moles"
@@ -626,6 +628,13 @@ export const poetrySections = {
     subText: "a romantic rhyme",
     route: LocalRoutesPoetry.love,
     content: "/assets/posts/poetry/love.md"
+  },
+  magic: {
+    id: "poetry-magic",
+    title: UITextPoetry.magic,
+    subText: "socks, pants, food",
+    route: LocalRoutesPoetry.magic,
+    content: "/assets/posts/poetry/magic.md"
   },
   meaning: {
     id: "poetry-meaning",
