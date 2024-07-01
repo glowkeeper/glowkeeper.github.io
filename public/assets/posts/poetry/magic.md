@@ -1,7 +1,7 @@
 # Magic
 
-I've got a magic sock draw,
-A magic pants draw, too,
+I've got a magic sock drawer,
+A magic pants drawer, too,
 My fridge is also magic -
 Endless supplies of food.
 
