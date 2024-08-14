@@ -41,7 +41,7 @@ Since completing my PhD, I have found a love of teaching - I am currently lectur
 ## Career History
 
 - October 2020 - now: Lecturer and Module Convenor of [Programming for 3D](https://www.sussex.ac.uk/study/modules/postgraduate/2023/85872-programming-for-3d) - [University of Sussex](https://www.sussex.ac.uk/)
-- September 2021 - October: Full Stack Development Teacher - [Boolean UK Ltd](https://boolean.co.uk/)
+- September 2021 - October 2022: Full Stack Development Teacher - [Boolean UK Ltd](https://boolean.co.uk/)
 - September 2020 - November 2021: Senior Developer, [Minima Global](https://www.minima.global/)
 - November 2008 – January 2016: Freelance Programmer
 - May 2007 – November 2008: Senior Audio Programmer - Zoe Mode
