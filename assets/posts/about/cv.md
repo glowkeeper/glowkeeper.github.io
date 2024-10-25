@@ -16,7 +16,7 @@ In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my jo
 - I have nearly thirty years of experience in the computing industry, beginning in 1992 with a City & Guilds COBOL programming course
 - I have been writing full-stack Javascript since 2016 – React frontends. Node.js, Express backends
 - I have a decade of experience with blockchains, including four years researching the technology as part of a [PhD](/academia/phd)
-- Many years of freelance computing experience, during which, I have created and maintained many websites
+- Many years of freelance computing experience, during which I created and maintained many websites
 - Five years of programming within the games industry, where I worked on four completed titles
 - Early in my professional career, I was a UNIX Systems Administrator. I maintain strong Linux and Mac command-line skills
 
@@ -39,7 +39,7 @@ In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my jo
 
 ## Career History
 
-- October 2020 - now: Lecturer and Module Convenor of [Programming for 3D](https://github.com/glowkeeper/P3D) - University of Sussex
+- October 2020 - now: Lecturer and Module Convenor of Programming for 3D - University of Sussex
 - September 2021 - October 2022: Full Stack Development Teacher - Boolean UK Ltd
 - September 2020 - November 2021: Senior Developer, Minima Global
 - November 2008 – January 2016: Freelance Programmer
