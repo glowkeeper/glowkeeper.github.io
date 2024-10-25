@@ -69,7 +69,7 @@ e-professional: <s.huckle@sussex.ac.uk>
 
 ## Leisure Interests
 
-I have many and varied interests, and I maintain a sense of fun and creativity through writing code and prose, reimagining classic poetry, and playing the guitar.
+I have many and varied interests, and I maintain a sense of fun and creativity through writing code and prose, re-imagining classic poetry, and playing the guitar.
 
 ## References
 
