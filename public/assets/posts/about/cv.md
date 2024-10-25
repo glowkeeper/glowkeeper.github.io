@@ -1,10 +1,10 @@
 # Dr Steve Huckle
 
-I am an accomplished developer, educated to doctoral level, who is currently enjoying teaching.
+I am an accomplished developer, educated to doctoral level, who enjoys teaching.
 
 ## Professional Profile
 
-I am currently lecturing in Computer Graphics and Computer Science at the University of Sussex, where I teach students on the university's games degree [Programming for 3D](https://github.com/glowkeeper/P3D), a module that uses [Unity](https://unity.com/) to train the students on the fundamentals of a 3D space and games programming.
+I am currently lecturing in Computer Graphics and Computer Science at the University of Sussex, where I teach students on the university's games degree [Programming for 3D](https://github.com/glowkeeper/P3D), a module that uses Unity to train the students on the fundamentals of a 3D space and games programming.
 
 My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business, streaming DJ mixes online. That sparked an interest in digital music, so 2003 I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
 
@@ -14,11 +14,11 @@ In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my jo
 
 - I have been teaching students 3D games programming for four years
 - I have nearly thirty years of experience in the computing industry, beginning in 1992 with a COBOL programming course
-- I have been writing frontend React since 2016
+- I have been writing full-stack Javascript applications since 2016 – React frontends. Node.js, Express backends
 - I have a decade of experience with blockchains, including four years researching the technology as part of a [PhD](/academia/phd)
 - Many years of freelance computing experience, during which, I have created and maintained many websites
 - Five years of programming within the games industry, where I worked on four completed titles
-- Early in my professional career, I was a UNIX Systems Administrator
+- Early in my professional career, I was a UNIX Systems Administrator. I maintain strong Linux and Mac command-line skills
 
 ## Academic Publications
 
@@ -39,9 +39,9 @@ In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my jo
 
 ## Career History
 
-- October 2020 - now: Lecturer and Module Convenor of [Programming for 3D](https://www.sussex.ac.uk/study/modules/postgraduate/2023/85872-programming-for-3d) - [University of Sussex](https://www.sussex.ac.uk/)
-- September 2021 - October 2022: Full Stack Development Teacher - [Boolean UK Ltd](https://boolean.co.uk/)
-- September 2020 - November 2021: Senior Developer, [Minima Global](https://www.minima.global/)
+- October 2020 - now: Lecturer and Module Convenor of [Programming for 3D](https://github.com/glowkeeper/P3D) - University of Sussex
+- September 2021 - October 2022: Full Stack Development Teacher - Boolean UK Ltd
+- September 2020 - November 2021: Senior Developer, Minima Global
 - November 2008 – January 2016: Freelance Programmer
 - May 2007 – November 2008: Senior Audio Programmer - Zoe Mode
 - October 2004 – May 2007: Senior Audio Programmer - Sony Computer Entertainment
@@ -64,8 +64,8 @@ In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my jo
 
 ## Contact Details
 
-e-personal: steve dot huckle at gmail dot com
-e-professional: s dot huckle at sussex dot ac dot uk
+e-personal: <steve.huckle@gmail.com>
+e-professional: <s.huckle@sussex.ac.uk>
 
 ## Leisure Interests
 
