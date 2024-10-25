@@ -1,22 +1,21 @@
 # Dr Steve Huckle
 
-I am an accomplished full-stack web developer, educated to doctoral level, who enjoys teaching.
+I am an accomplished developer, educated to doctoral level, who is currently enjoying teaching.
 
 ## Professional Profile
 
-In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my journey into the blockchain space. I have since completed a [PhD](/academia/phd) that focused on blockchains, where my [thesis](/assets/docs/pHDThesis.pdf) asked whether the technology could help overcome some of the most urgent problems facing humanity. In short, they might help, but it is impossible to solve all of humanity's issues through technology; we must also change political, economic, and cultural goals.
+I am currently lecturing in Computer Graphics and Computer Science at the University of Sussex, where I teach students on the university's games degree [Programming for 3D](https://github.com/glowkeeper/P3D), a module that uses [Unity](https://unity.com/) to train the students on the fundamentals of a 3D space and games programming.
 
-My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business, streaming DJ mixes online. That sparked an interest in digital music, so in 2003, I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
+My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business, streaming DJ mixes online. That sparked an interest in digital music, so 2003 I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
 
-By 2010, I was becoming increasingly concerned about the looming climate crisis. To better understand it, I began a second master's degree, this time in Advanced Environment and Energy. I funded that course by working as a Freelance Programmer focusing on website development.
-
-Since completing my PhD, I have found a love of teaching - I am currently lecturing in Computer Graphics and Computer Science at the University of Sussex.
+In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my journey into teaching. I have since completed a [PhD](/academia/phd) that focused on blockchains, where my [thesis](/assets/docs/pHDThesis.pdf) asked whether the technology could help overcome some of the most urgent problems facing humanity. In short, they might help, but it is impossible to solve all of humanity's issues through technology; we must also change political, economic, and cultural goals.
 
 ## Experience
 
+- I have been teaching students 3D games programming for four years
 - I have nearly thirty years of experience in the computing industry, beginning in 1992 with a COBOL programming course
 - I have been writing frontend React since 2016
-- I had a decade of experience with blockchains, including four years researching the technology as part of a [PhD](/academia/phd)
+- I have a decade of experience with blockchains, including four years researching the technology as part of a [PhD](/academia/phd)
 - Many years of freelance computing experience, during which, I have created and maintained many websites
 - Five years of programming within the games industry, where I worked on four completed titles
 - Early in my professional career, I was a UNIX Systems Administrator
