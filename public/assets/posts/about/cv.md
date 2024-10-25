@@ -12,8 +12,8 @@ In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my jo
 
 ## Experience
 
-- I have been teaching students 3D games programming for four years
-- I have nearly thirty years of experience in the computing industry, beginning in 1992 with a COBOL programming course
+- I have been teaching university students 3D games programming since 2020
+- I have nearly thirty years of experience in the computing industry, beginning in 1992 with a City & Guilds COBOL programming course
 - I have been writing full-stack Javascript since 2016 – React frontends. Node.js, Express backends
 - I have a decade of experience with blockchains, including four years researching the technology as part of a [PhD](/academia/phd)
 - Many years of freelance computing experience, during which, I have created and maintained many websites
