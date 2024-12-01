@@ -73,6 +73,7 @@
   background: var(--content-colour);
 }
 
+#poetry-averse-md,
 #poetry-difficult-md,
 #poetry-dreamland-md,
 #poetry-golden-brown-md,
@@ -90,6 +91,7 @@
   background: var(--content-colour);
 }
 
+#poetry-averse-md table,
 #poetry-difficult-md table,
 #poetry-dreamland-md table,
 #poetry-golden-brown-md table,
@@ -104,6 +106,7 @@
   border-spacing: var(--table-spacing);
 }
 
+#poetry-averse-md th,
 #poetry-difficult-md th,
 #poetry-dreamland-md th,
 #poetry-golden-brown-md th,

@@ -56,6 +56,7 @@ class LocalRoutesMisc {
 
 export class LocalRoutesPoetry {
   
+  static averse = `${LocalRoutes.poetry}/averse`
   static balls = `${LocalRoutes.poetry}/ballsShmalls`
   static bandsBoycottBarclays = `${LocalRoutes.poetry}/bandsBoycottBarclays`
   static brighton = `${LocalRoutes.poetry}/brighton`
@@ -191,6 +192,7 @@ export class UITextMisc {
 
 export class UITextPoetry {
 
+  static averse = "I be averse"
   static balls = "balls shmalls"
   static bandsBoycottBarclays = "bands boycott barclays"
   static brighton = "brighton"
@@ -531,6 +533,13 @@ export const miscSections = {
 }
 
 export const poetrySections = {
+  averse: {
+    id: "poetry-averse",
+    title: UITextPoetry.averse,
+    subText: "kids shmids",
+    route: LocalRoutesPoetry.balls,
+    content: "/assets/posts/poetry/averse.md"
+  },
   balls: {
     id: "poetry-balls",
     title: UITextPoetry.balls,
