@@ -1,6 +1,7 @@
 @import "variables.css";
 @import "animations.css"; 
 
+#about-animated,
 #about-cv,
 #about-contact, 
 #about-info {
@@ -12,6 +13,7 @@
   animation: backgroundAnimation 10s ease infinite;
 }
 
+#about-animated-md,
 #about-cv-md,
 #about-contact-md,
 #about-info-md {

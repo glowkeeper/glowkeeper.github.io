@@ -146,6 +146,7 @@ export class UITextAbout {
 
   static contact = "contact"
   static cv = "cv"
+  static animated = "animated"
   static info = "site info"
 }
 
@@ -255,7 +256,7 @@ export const homeSections = {
   about: {
     id: "home-about",
     title: UIText.about,
-    subText: "info about Dr Huckle and the content on this site",
+    subText: "info about Dr Huckle",
     route: LocalRoutes.about
   },
   academia: {
@@ -328,6 +329,13 @@ export const aboutSections = {
     subText: "the curriculum vitae of Dr Huckle",
     route: LocalRoutesAbout.cv,
     content: "/assets/posts/about/cv.md"
+  },
+  animated: {
+    id: "about-animated",
+    title: UITextAbout.animated,
+    subText: "make Dr Huckle run and jump",
+    route: "",
+    content: "https://huckle.studio/animated-huckle/"
   },
   info: {
     id: "about-info",
