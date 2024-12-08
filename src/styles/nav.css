@@ -47,7 +47,7 @@ a.content:active {
 }
 
 p#menu-burger {
-  color: var(--links-colour-link);
+  color: var(--menu-burger-colour);
   font-size: 4rem;
   margin: 0;
   padding: 0;
@@ -93,13 +93,13 @@ button.context-link:active {
   position: fixed;
   top: 0;
   bottom: 0;
-  right: var(--width-negative);
+  right: var(--menu-width-negative);
 
   z-index: 2;
 
   padding: 1rem;
 
-  width: var(--width);
+  width: var(--menu-width);
 
   background-color: var(--menu-colour);
   transition: transform .8s ease-in-out;
@@ -134,11 +134,11 @@ button.main-link-close:active {
 }
 
 #main-nav.open {
-  transform: translateX(var(--width-negative));
+  transform: translateX(var(--menu-width-negative));
 }
 
 #main-nav.close {
-  transform: translateX(var(--width));
+  transform: translateX(var(--menu-width));
 }
 
 #main-items {
@@ -153,16 +153,16 @@ button.main-link-close:active {
 
 @media screen and (max-width: 768px) {
   #main-nav {
-    right: var(--width-negative-small);
-    width: var(--width-small);
+    right: var(--menu-width-negative-small);
+    width: var(--menu-width-small);
   }
 
   #main-nav.open {
-    transform: translateX(var(--width-negative-small));
+    transform: translateX(var(--menu-width-negative-small));
   }
   
   #main-nav.close {
-    transform: translateX(var(--width-small));
+    transform: translateX(var(--menu-width-small));
   }
 }
 

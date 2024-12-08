@@ -1,29 +1,10 @@
-:root {
-  --background-colour: #7395ae;
-  --header-colour: #557a95;
-  --footer-colour: #557a95;
-  --menu-colour: #c5c6c7;
-
-  --title-text-colour: white;
-  --text-colour: #000000;
-  --footer-text-colour: white;
-
-  --content-link-colour: linear-gradient(45deg, #d1dbdf, #a9cedd, #8dc5db, #73c2e0);
-  --content-colour: #73c2e0;
-
+:root { 
   --content-link-size: 1.4rem;
 
-  --links-content-link: rgba(24, 59, 68, 0.6);
-  --links-content-visited: rgba(24, 59, 68, 0.6);
-  --links-content-hover: rgba(24, 59, 68, 0.6);
-  --links-content-active: rgba(255, 0, 0, 0.6);
-
-  --links-colour-link: rgb(87, 150, 223);
-  --links-colour-visited: rgb(15, 32, 109);
-  --links-colour-hover: red;
-  --links-colour-active: rgb(211, 115, 25);
-
-  --button-border-colour: black;
+  --menu-width-small: 100px;
+  --menu-negative-small: -100px;
+  --menu-width: 200px;
+  --menu-width-negative: -200px;
 
   --header-height: 3rem;
   --footer-height: 4rem;
@@ -33,65 +14,58 @@
   --audio-filter: brightness(100%);
 }
 
+:root[data-theme="light"] {
+
+  --header-colour: #FFFDD0;
+  --footer-colour: #FFFDD0;
+  --menu-colour: #fbf7e2;
+  --menu-burger-colour: #000000;
+
+  --title-text-colour: #000000;
+  --text-colour: #000000;
+  --footer-text-colour: #000000;
+
+  --content-link-colour: linear-gradient(115deg, #FFFDF2, #FFFFF0);
+  --content-colour: linear-gradient(115deg, #FFFFF0, #FFFDF2);
+
+  --links-content-link: red;
+  --links-content-visited: #FF6347;
+  --links-content-hover: #FF7F50;
+  --links-content-active: #FF4500;
+
+  --links-colour-link: red;
+  --links-colour-visited: #FF6347;
+  --links-colour-hover: #FF7F50;
+  --links-colour-active: #FF4500;
+
+  --button-border-colour: black;
+}
+
 :root[data-theme="dark"] {
-  --background-colour: #1f2833;
-  --header-colour: #0b0c10;
-  --footer-colour: #0b0c10;
-  --menu-colour: #5d5c61;
 
-  --title-text-colour: #66fcf1;
-  --text-colour: #66fcf1;
-  --footer-text-colour: #66fcf1;
+  --header-colour: #00224D;
+  --footer-colour: #00224D;
+  --menu-colour: #5D0E41;
+  --menu-burger-colour: #ffffff;
 
-  --content-link-colour: linear-gradient(45deg, #45A29E, #30837f, #1b797a, #116466);
-  --content-colour: #116466;
+  --title-text-colour: #ffffff;
+  --text-colour: #ffffff;
+  --footer-text-colour: #ffffff;
 
-  --links-content-link: rgba(255, 0, 0, 0.6);
-  --links-content-visited: rgba(255, 0, 0, 0.6);
-  --links-content-hover: rgba(255, 0, 0, 0.6);
-  --links-content-active: rgba(211, 115, 25, 0.6);
+  --content-link-colour: linear-gradient(115deg, #A0153E, #FF204E);
+  --content-colour: linear-gradient(115deg, #FF204E, #A0153E);
 
-  --links-colour-link: rgb(87, 150, 223);
-  --links-colour-visited: rgb(61, 126, 201);
-  --links-colour-hover: red;
-  --links-colour-active: rgb(211, 115, 25);
+  --links-colour-link: lightskyblue;
+  --links-colour-visited: rgb(124, 200, 247);
+  --links-colour-hover: rgb(119, 191, 235);
+  --links-colour-active: rgb(81, 161, 211);
+
+  --links-colour-link: lightskyblue;
+  --links-colour-visited: rgb(125, 187, 226);
+  --links-colour-hover: rgb(101, 167, 209);
+  --links-colour-active: rgb(100, 156, 191);
 
   --button-border-colour: white; 
 
   --audio-filter: brightness(50%);
-}
-
-:root[data-theme="light"] {
-  --background-colour: #7395ae;
-  --header-colour: #557a95;
-  --footer-colour: #557a95;
-  --menu-colour: #c5c6c7;
-  
-  --title-text-colour: white;
-  --text-colour: #557a95;
-  --footer-text-colour: white;
-
-  --content-link-colour: linear-gradient(45deg, #d1dbdf, #a9cedd, #8dc5db, #73c2e0);
-  --content-colour: #d1dbdf;
-
-  --links-content-link: rgba(24, 59, 68, 0.6);
-  --links-content-visited: rgba(24, 59, 68, 0.6);
-  --links-content-hover: rgba(24, 59, 68, 0.6);
-  --links-content-active: rgba(255, 0, 0, 0.6);
-
-  --links-colour-link: #254e58;
-  --links-colour-visited: #183b44;
-  --links-colour-hover: red;
-  --links-colour-active: rgb(211, 115, 25);
-
-  --button-border-colour: black;
-
-  --audio-filter: brightness(100%);
-}
-
-#main-nav {
-  --width-small: 100px;
-  --width-negative-small: -100px;
-  --width: 200px;
-  --width-negative: -200px;
 }
