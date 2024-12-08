@@ -16,7 +16,7 @@ export const ThemeContext = React.createContext(themeContext);
 export const App = () => {
   const [title, setTitle] = useState("")
   const [isMenuOpen, setIsMenuOpen] = useState(false)
-  const [thisTheme, setThisTheme] = useState(System.darkTheme)
+  const [thisTheme, setThisTheme] = useState(System.lightTheme)
 
   const setTheme = (theme) => {
     document.documentElement.setAttribute('data-theme', theme);
@@ -32,7 +32,7 @@ export const App = () => {
 
   useEffect(() => {
     const thisTheme = window.localStorage.getItem(System.themeKey) || 
-      window.matchMedia(`(prefers-color-scheme: ${System.darkTheme})`).matches ? System.darkTheme : System.lightTheme;
+    window.matchMedia(`(prefers-color-scheme: ${System.darkTheme})`).matches ? System.darkTheme : System.lightTheme;
     document.documentElement.setAttribute('data-theme', thisTheme);
     window.localStorage.setItem(System.themeKey, thisTheme)
     themeContext.theme = thisTheme
