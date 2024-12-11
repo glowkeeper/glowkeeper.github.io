@@ -31,12 +31,14 @@ export const App = () => {
   }
 
   useEffect(() => {
-    const thisTheme = window.localStorage.getItem(System.themeKey) || 
-    window.matchMedia(`(prefers-color-scheme: ${System.darkTheme})`).matches ? System.darkTheme : System.lightTheme;
-    document.documentElement.setAttribute('data-theme', thisTheme);
-    window.localStorage.setItem(System.themeKey, thisTheme)
-    themeContext.theme = thisTheme
-    setThisTheme(thisTheme)
+    let newTheme = window.localStorage.getItem(System.themeKey) 
+    if (!newTheme) {
+      newTheme = window.matchMedia(`(prefers-color-scheme: ${System.darkTheme})`).matches ? System.darkTheme : System.lightTheme
+    }
+    document.documentElement.setAttribute('data-theme', newTheme);
+    window.localStorage.setItem(System.themeKey, newTheme)
+    themeContext.theme = newTheme
+    setThisTheme(newTheme)
   }, [])
   
   return (
