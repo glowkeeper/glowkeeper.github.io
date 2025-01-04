@@ -45,6 +45,7 @@ class LocalRoutesMisc {
 
   static anotherGreatEscape = `${LocalRoutes.misc}/another-great-escape`
   static championsOfEurope = `${LocalRoutes.misc}/champions-of-europe`
+  static declansLingerie = `${LocalRoutes.misc}/declans-lingerie`
   static jokes = `${LocalRoutes.misc}/jokes`
   static myGreatEscape = `${LocalRoutes.misc}/my-great-escape`
   static patience = `${LocalRoutes.misc}/patience`
@@ -182,6 +183,7 @@ export class UITextMisc {
 
   static anotherGreatEscape = "another great escape"
   static championsOfEurope = "champions of europe"
+  static declansLingerie = "declan's lingerie"
   static jokes = "jokes"
   static myGreatEscape = "my great escape"
   static patience = "patience"
@@ -489,6 +491,13 @@ export const miscSections = {
     route: LocalRoutesMisc.championsOfEurope,
     content: "/assets/posts/misc/championsOfEurope.md"
   },
+  declansLingerie: {
+    id: "misc-declans-lingerie",
+    title: UITextMisc.declansLingerie,
+    subText: "the spirit of declan rice",
+    route: LocalRoutesMisc.declansLingerie,
+    content: "/assets/posts/misc/declansLingerie.md"
+  },
   jokes: {
     id: "misc-jokes",
     title: UITextMisc.jokes,
@@ -545,7 +554,7 @@ export const poetrySections = {
     id: "poetry-averse",
     title: UITextPoetry.averse,
     subText: "kids shmids",
-    route: LocalRoutesPoetry.balls,
+    route: LocalRoutesPoetry.averse,
     content: "/assets/posts/poetry/averse.md"
   },
   balls: {
