@@ -4,7 +4,7 @@ I am an accomplished developer, educated to doctoral level, who enjoys teaching.
 
 ## Professional Profile
 
-I am currently lecturing in Computer Graphics and Computer Science at the University of Sussex, where I teach students on the university's games degree [Programming for 3D](https://github.com/glowkeeper/P3D), a module that uses Unity to train the students on the fundamentals of a 3D space and games programming.
+I am a Lecturer in Computer Graphics and Computer Science at the University of Sussex, where I teach students on the university's games degree [Programming for 3D](https://github.com/glowkeeper/P3D), a module that uses Unity to train the students on the fundamentals of a 3D space and games programming.
 
 My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business, streaming DJ mixes online. That sparked an interest in digital music, so 2003 I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
 
@@ -12,7 +12,7 @@ In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my jo
 
 ## Experience
 
-- I have been teaching university students 3D games programming since 2020
+- I currently teach university students 3D games programming
 - Five years of programming within the games industry, where I worked on four completed titles
 - I have nearly thirty years of experience in the computing industry, beginning in 1992 with a City & Guilds COBOL programming course
 - I have been writing full-stack Javascript since 2016 – React frontends. Node.js, Express backends
@@ -39,7 +39,7 @@ In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my jo
 
 ## Career History
 
-- January 2025 - now: Visiting Tutor - University of Roehapmpton
+- January 2025 - now: Visiting Tutor - University of Roehampton
 - October 2020 - now: Lecturer and Module Convenor of Programming for 3D - University of Sussex
 - September 2021 - October 2022: Full Stack Development Teacher - Boolean UK Ltd
 - September 2020 - November 2021: Senior Developer, Minima Global
@@ -69,7 +69,7 @@ In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my jo
 
 ## Leisure Interests
 
-I have many and varied interests, and I maintain a sense of fun and creativity through writing code and prose, re-imagining classic poetry, and playing the guitar.
+I have many and varied interests, and I maintain a sense of fun and creativity through playing games, writing code and prose, re-imagining classic poetry, and playing the guitar.
 
 ## References
 
