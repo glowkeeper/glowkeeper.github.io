@@ -56,6 +56,7 @@ In 2013, a friend asked me to build him a Bitcoin mining rig, and so began my jo
 
 ## Education
 
+- September 2024 - March 2025: Postgraduate Certificate in Higher Education (Portfolio route)
 - February 2016 - March 2020: PhD in Informatics at the University of Sussex
 - September 2010 – January 2014: MSc Architecture: Advanced Environmental and Energy Studies from the Centre for Alternative Technology
 - January 2005 – September 2008: Diploma in Mathematics from the Open University
