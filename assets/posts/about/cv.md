@@ -4,7 +4,7 @@ I am an accomplished developer, educated to doctoral level, who has found the jo
 
 ## Professional Profile
 
-I am currently a Visiting Tutor at the University of Roehampton, where I have been teaching Foundation Year students how to conduct research and introducing them to building games. Before that, I was a Lecturer in Computer Graphics and Computer Science at the University of Sussex, where I taught students [Unity](https://unity.com/) and the fundamentals of a 3D space and games programming.
+I am currently a Visiting Tutor at the University of Roehampton, where I have been teaching Foundation Year students how to conduct research and [introducing them to building games](https://github.com/glowkeeper/IntroToBuilding3DGamesInUnity). Before that, I was a Lecturer in Computer Graphics and Computer Science at the University of Sussex, where I taught students the Unity games engine and the fundamentals of a 3D space.
 
 My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business, streaming DJ mixes online. That sparked an interest in digital music, so in 2003 I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
 
@@ -22,6 +22,7 @@ I then returned to the web space as a freelance web programmer, before a friend 
 
 ## Academic Publications
 
+- [Loosen control without losing control: Formalization and decentralization within commons-based peer production](https://doi.org/10.1002/asi.24393)
 - [Cryptocurrencies and Beyond: Using Design Science Research to Demonstrate Diverse Applications of Blockchains](http://sro.sussex.ac.uk/id/eprint/90377/)
 - [Fake News - a Technological Approach to Proving Provenance Using Blockchains](https://doi.org/10.1089/big.2017.0071)
 - [Towards a post-cash society: An application to convert fiat money into a cryptocurrency](http://firstmonday.org/ojs/index.php/fm/article/view/7410/6003)
