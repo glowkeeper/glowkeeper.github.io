@@ -4,7 +4,7 @@ I am an accomplished developer, educated to doctoral level, who has found the jo
 
 ## Professional Profile
 
-I am currently a Visiting Tutor at the University of Roehampton, where I have been teaching Foundation Year students how to conduct research and introducing them to games programming. Before that, I was a Lecturer in Computer Graphics and Computer Science at the University of Sussex, where I taught students on the university's games degree [Programming for 3D](https://github.com/glowkeeper/P3D), a module that used Unity to train the students on the fundamentals of a 3D space and games programming.
+I am currently a Visiting Tutor at the University of Roehampton, where I have been teaching Foundation Year students how to conduct research and introducing them to building games. Before that, I was a Lecturer in Computer Graphics and Computer Science at the University of Sussex, where I taught students [Unity](https://unity.com/) and the fundamentals of a 3D space and games programming.
 
 My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business, streaming DJ mixes online. That sparked an interest in digital music, so in 2003 I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
 
@@ -12,11 +12,11 @@ I then returned to the web space as a freelance web programmer, before a friend 
 
 ## Experience
 
-- Five years as Module Convenor of _Programming for 3D_, a third-year undergraduate and postgraduate games programming course at the University of Sussex
+- Five years as Module Convenor of [Programming for 3D](https://github.com/glowkeeper/p3d), a third-year undergraduate and postgraduate games programming course at the University of Sussex
 - Five years of programming within the games industry, where I worked on four completed titles
 - I have nearly thirty years of experience in the computing industry, beginning in 1992 with a City & Guilds COBOL programming course
 - I have been writing full-stack Javascript since 2016 – React frontends. Node.js, Express, MySQL backends
-- I have a decade of experience with blockchains, including four years researching the technology as part of a [PhD](/academia/phd)
+- I have a decade of experience with blockchains, including four years researching the technology as part of a PhD
 - Many years of freelance computing experience, during which I created and maintained many websites
 - Early in my professional career, I was a UNIX Systems Administrator. I maintain strong Linux and Mac command-line skills
 
