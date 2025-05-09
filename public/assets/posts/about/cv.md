@@ -61,7 +61,7 @@ I then returned to the web space as a freelance web programmer, before a friend 
 
 ## Leisure Interests
 
-I have many and varied interests, and I maintain a sense of fun and creativity through playing games, writing code and prose, re-imagining classic poetry, and playing the guitar.
+I have many and varied interests, and I maintain a sense of fun and creativity through playing sports and games, writing code and prose, re-imagining classic poetry, and playing the guitar.
 
 ## References
 
