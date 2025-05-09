@@ -8,13 +8,12 @@ I am currently a Visiting Tutor at the University of Roehampton, where I have be
 
 My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business, streaming DJ mixes online. That sparked an interest in digital music, so in 2003 I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
 
-I then returned to the web space as a freelance web programmer, before a friend asked me to build a Bitcoin mining rig for them sometime around 2013. I have since completed a [PhD](/academia/phd) that focused on blockchains, where my [thesis](/assets/docs/pHDThesis.pdf) wondered whether the technology could help overcome some of the most urgent problems facing humanity. In short, blockchains might _help_, but it is impossible to solve all of humanity's issues through technology; we must also change political, economic, and cultural goals. However, the best outcome from my PhD was that it introduced me to academia and the joys of teaching.
+I then returned to the web space as a freelance web programmer, before a friend asked me to build a Bitcoin mining rig for them sometime around 2013. I have since completed a [PhD](/academia/phd) that focused on blockchains, where my [thesis](/assets/docs/pHDThesis.pdf) used design science research to ask whether the technology could help overcome some of the most urgent problems facing humanity. In short, blockchains might _help_, but it is impossible to solve all of humanity's issues through technology; we must also change political, economic, and cultural goals. However, the best outcome from my PhD was that it introduced me to academia and the joys of teaching.
 
 ## Experience
 
 - Five years as Module Convenor of [Programming for 3D](https://github.com/glowkeeper/p3d), a third-year undergraduate and postgraduate games programming course at the University of Sussex
 - Five years of programming within the games industry, where I worked on four completed titles
-- I have nearly thirty years of experience in the computing industry, beginning in 1992 with a City & Guilds COBOL programming course
 - I have been writing full-stack Javascript since 2016 – React frontends. Node.js, Express, MySQL backends
 - I have a decade of experience with blockchains, including four years researching the technology as part of a PhD
 - Many years of freelance computing experience, during which I created and maintained many websites
@@ -48,7 +47,7 @@ I then returned to the web space as a freelance web programmer, before a friend 
 
 ## Education
 
-- September 2024 - March 2025: Postgraduate Certificate in Higher Education - PGCertHE (Portfolio route)
+- September 2024 - March 2025: Postgraduate Certificate in Higher Education
 - February 2016 - March 2020: PhD in Informatics at the University of Sussex
 - September 2010 – January 2014: MSc Architecture: Advanced Environmental and Energy Studies from the Centre for Alternative Technology
 - January 2005 – September 2008: Diploma in Mathematics from the Open University
@@ -62,7 +61,7 @@ I then returned to the web space as a freelance web programmer, before a friend 
 
 ## Leisure Interests
 
-I have many and varied interests, and I maintain a sense of fun and creativity through playing games, writing code and prose, re-imagining classic poetry, and playing the guitar.
+I have many and varied interests, and I maintain a sense of fun and creativity through playing sports and games, writing code and prose, re-imagining classic poetry, and playing the guitar.
 
 ## References
 
