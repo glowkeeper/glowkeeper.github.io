@@ -4,9 +4,9 @@ import { siteSections, MusicSections } from '@/app/config'
 
 export function generateStaticParams() {
 
-  const paths = Object.keys(siteSections.writing.siteSections[MusicSections.songs].content).map(item => {
+  const paths = Object.keys(siteSections.music.siteSections[MusicSections.songs].content).map(item => {
     //console.log('book', book)
-    const path = siteSections.writing.siteSections[MusicSections.songs].content[item].endPoint
+    const path = siteSections.music.siteSections[MusicSections.songs].content[item].endPoint
     return { path: path }
   })
   //console.log('paths', paths)
@@ -20,8 +20,8 @@ const SongsPage = async ({
 }) => {
   const { path } = await params
 
-  const route = `${siteSections.writing.siteSections[MusicSections.songs].path}/${path}`
-  return <Page title={siteSections.writing.siteSections[MusicSections.songs].title} path={route} />
+  const route = `${siteSections.music.siteSections[MusicSections.songs].path}/${path}`
+  return <Page title={siteSections.music.siteSections[MusicSections.songs].title} path={route} />
 }
 
 export default SongsPage

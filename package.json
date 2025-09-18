@@ -7,7 +7,7 @@
     "dev": "next dev --turbopack",
     "build": "next build --turbopack && cp src/CNAME build/CNAME",
     "deploy": "next build && gh-pages -d build",
-    "start": "next start",
+    "start": "pnpx serve build",
     "lint": "eslint",
     "lint:fix": "eslint --fix"
   },
@@ -28,6 +28,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.5.2",
     "gh-pages": "^6.3.0",
+    "serve": "^14.2.5",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
