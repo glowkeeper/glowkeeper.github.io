@@ -38,7 +38,7 @@ const WritingPage = () => {
                 >
                   <Link
                     key={item}
-                    href={storiesSections.content[item].route}
+                    href={`${storiesSections.path}/${storiesSections.content[item].endPoint}`}
                   >                                        
                     {storiesSections.content[item].title}
                   </Link>
@@ -64,7 +64,7 @@ const WritingPage = () => {
                 >
                   <Link
                     key={item}
-                    href={storiesSections.content[item].route}
+                    href={`${storiesSections.path}/${storiesSections.content[item].endPoint}`}
                   >                                        
                     {storiesSections.content[item].title}
                   </Link>

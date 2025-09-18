@@ -50,6 +50,8 @@ const AboutPage = () => {
 
             {siteSections[section].siteSections.map((subSection, index) => {
 
+              const path = subSection.path
+
               return (
 
                 <div
@@ -61,6 +63,8 @@ const AboutPage = () => {
                     className='grid grid-flow-col auto-cols-auto justify-start gap-2'
                   >
                     {Object.keys(subSection.content).map(item => 
+
+                      
                     
                       <div
                         key={item}
@@ -68,7 +72,7 @@ const AboutPage = () => {
                       >
                         <Link
                           key={item}
-                          href={subSection.content[item].route}
+                          href={`${path}/${subSection.content[item].endPoint}`}
                         >                                        
                           {subSection.content[item].title}
                         </Link>
@@ -91,6 +95,8 @@ const AboutPage = () => {
 
             {siteSections[section].siteSections.map((subSection, index) => {
 
+              const path = subSection.path
+
               return (
 
                 <div
@@ -109,7 +115,7 @@ const AboutPage = () => {
                       >
                         <Link
                           key={item}
-                          href={subSection.content[item].route}
+                          href={`${path}/${subSection.content[item].endPoint}`}
                         >                                        
                           {subSection.content[item].title}
                         </Link>

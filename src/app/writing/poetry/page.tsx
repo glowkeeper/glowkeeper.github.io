@@ -38,7 +38,7 @@ const WritingPage = () => {
                 >
                   <Link
                     key={item}
-                    href={poetrySections.content[item].route}
+                    href={`${poetrySections.path}/${poetrySections.content[item].endPoint}`}
                   >                                        
                     {poetrySections.content[item].title}
                   </Link>
@@ -64,7 +64,7 @@ const WritingPage = () => {
                 >
                   <Link
                     key={item}
-                    href={poetrySections.content[item].route}
+                    href={`${poetrySections.path}/${poetrySections.content[item].endPoint}`}
                   >                                        
                     {poetrySections.content[item].title}
                   </Link>

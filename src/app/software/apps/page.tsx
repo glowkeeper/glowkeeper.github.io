@@ -39,7 +39,7 @@ const SoftwareAppsPage = () => {
                 >
                   <Link
                     key={item}
-                    href={appsSections.content[item].route}
+                    href={`${appsSections.path}/${appsSections.content[item].endPoint}`}
                   >                                        
                     {appsSections.content[item].title}
                   </Link>
@@ -65,7 +65,7 @@ const SoftwareAppsPage = () => {
                 >
                   <Link
                     key={item}
-                    href={appsSections.content[item].route}
+                    href={`${appsSections.path}/${appsSections.content[item].endPoint}`}
                   >                                        
                     {appsSections.content[item].title}
                   </Link>

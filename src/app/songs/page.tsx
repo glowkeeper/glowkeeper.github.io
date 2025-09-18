@@ -50,6 +50,8 @@ const AboutPage = () => {
 
             {siteSections[section].siteSections.map((subSection, index) => {
 
+              const path = subSection.path
+
               return (
 
                 <div
@@ -68,7 +70,7 @@ const AboutPage = () => {
                       >
                         <Link
                           key={item}
-                          href={subSection.content[item].route}
+                          href={`${path}/${subSection.content[item].endPoint}`}
                         >                                        
                           {subSection.content[item].title}
                         </Link>
@@ -91,6 +93,8 @@ const AboutPage = () => {
 
             {siteSections[section].siteSections.map((subSection, index) => {
 
+              const path = subSection.path
+
               return (
 
                 <div
@@ -109,7 +113,7 @@ const AboutPage = () => {
                       >
                         <Link
                           key={item}
-                          href={subSection.content[item].route}
+                          href={`${path}/${subSection.content[item].endPoint}`}
                         >                                        
                           {subSection.content[item].title}
                         </Link>

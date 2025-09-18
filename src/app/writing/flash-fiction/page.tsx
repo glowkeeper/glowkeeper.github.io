@@ -38,7 +38,7 @@ const WritingPage = () => {
                 >
                   <Link
                     key={item}
-                    href={flashFictionSections.content[item].route}
+                    href={`${flashFictionSections.path}/${flashFictionSections.content[item].endPoint}`}
                   >                                        
                     {flashFictionSections.content[item].title}
                   </Link>
@@ -64,7 +64,7 @@ const WritingPage = () => {
                 >
                   <Link
                     key={item}
-                    href={flashFictionSections.content[item].route}
+                    href={`${flashFictionSections.path}/${flashFictionSections.content[item].endPoint}`}
                   >                                        
                     {flashFictionSections.content[item].title}
                   </Link>
