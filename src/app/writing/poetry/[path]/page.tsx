@@ -1,0 +1,27 @@
+import { Page } from '@/app/components/Page'
+
+import { siteSections, WritingSections } from '@/app/config'
+
+export function generateStaticParams() {
+
+  const paths = Object.keys(siteSections.writing.siteSections[WritingSections.poetry].content).map(item => {
+    //console.log('book', book)
+    const path = siteSections.writing.siteSections[WritingSections.poetry].content[item].endPoint
+    return { path: path }
+  })
+  //console.log('paths', paths)
+  return paths
+}
+
+const PoetryPage = async ({
+  params,
+}: {
+  params: Promise<{ path: string }>
+}) => {
+  const { path } = await params
+  
+  const route = `${siteSections.writing.siteSections[WritingSections.poetry].path}/${path}`
+  return <Page title={siteSections.writing.siteSections[WritingSections.poetry].title} path={route} />
+}
+
+export default PoetryPage

@@ -12,12 +12,13 @@ export type Content = {
       id: string
       title: string
       subText: string
-      route: string
+      endPoint: string
       content: string
 }
 
 export type SiteSection = {
   title: string
+  path: string
   content: {
     [key: string]: Content
   } 

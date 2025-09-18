@@ -52,9 +52,11 @@ export const Menu = () => {
         
         Object.keys(subSection.content).forEach(item => {
 
+          const path = subSection.path
+
           const thisLink: MenuLink = {
             title: subSection.content[item].title,
-            route: subSection.content[item].route
+            route: `${path}/${subSection.content[item].endPoint}`
           }
 
           menu[sectionTitle][subSection.title].push(thisLink)

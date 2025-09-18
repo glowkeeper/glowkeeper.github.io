@@ -17,16 +17,18 @@ export const setContent = (store: Store) => {
             //console.log('sub section', subSection)
 
             Object.keys(subSection.content).forEach(item => {
+           
 
                 //console.log('content', item)
                 const thisItem: Content = subSection.content[item]
+                const route = `${subSection.path}/${thisItem.endPoint}`
                 fetch(thisItem.content)
                 .then(res => res.text())
                 .then(text => { 
 
                     // console.log('item', thisItem)
                     const thisContent: SiteContent = {
-                        [thisItem.route]: {
+                        [route]: {
                             id: thisItem.id,
                             title: thisItem.title,
                             subText: thisItem.subText,
