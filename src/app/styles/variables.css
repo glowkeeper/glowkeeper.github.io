@@ -1,0 +1,62 @@
+:root {
+  --background: hsl(0, 0%, 98%);
+  --foreground: hsl(0, 0%, 94%);
+
+  --on-foreground: hsl(240, 15%, 10%);
+  --on-background: hsl(240, 15%, 10%);
+
+  --primary: hsl(245, 40%, 40%);
+  --primary-foreground: hsl(0, 0%, 100%);
+
+  --secondary: hsl(225, 28%, 50%);
+  --secondary-foreground: hsl(0, 0%, 100%);
+
+  --accent: hsl(5, 80%, 70%);
+  --accent-foreground: hsl(240, 15%, 10%);
+
+  --header-height: 5rem;
+  --footer-height: 6rem;
+
+  --main-height: calc(100vh -(var(--header-height) + var(--footer-height) + 4rem));
+}
+
+@theme {
+
+  --color-background: hsl(0, 0%, 98%);
+  --color-foreground: hsl(0, 0%, 94%);
+
+  --color-on-foreground: hsl(0, 0%, 100%);
+  --color-on-background: hsl(0, 0%, 100%);
+
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+
+  --color-accent: var(--secondary);
+  --color-accent-foreground: var(--secondary-foreground);
+
+  /* --color-button: var(--accent);
+  --color-button-border: var(--accent-foreground);
+  --color-button-foreground: var(--accent-foreground); */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: hsl(240, 15%, 10%);
+    --foreground: hsl(240, 15%, 15%);
+
+    --on-foreground: hsl(0, 0%, 100%);
+    --on-background: hsl(0, 0%, 100%);
+
+    --primary: hsl(245, 40%, 70%);
+    --primary-foreground: hsl(240, 15%, 10%);
+
+    --secondary: hsl(225, 28%, 60%);
+    --secondary-foreground: hsl(240, 15%, 10%);
+
+    --accent: hsl(5, 80%, 70%);
+    --accent-foreground: hsl(240, 15%, 10%);
+  }
+}
