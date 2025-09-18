@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack && cp src/CNAME build/CNAME",
+    "build": "next build --turbopack && cp CNAME build/CNAME",
     "deploy": "next build && gh-pages -d build",
     "start": "pnpx serve build",
     "lint": "eslint",
