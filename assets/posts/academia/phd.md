@@ -1,30 +1,16 @@
 # PhD
 
-<br />
-
 A list of works produced during my PhD at the [University of Sussex](http://www.sussex.ac.uk/).
-
-<br />
 
 ## Thesis
 
-<br />
-
 [Cryptocurrencies and Beyond: Using Design Science Research to Demonstrate Diverse Applications of Blockchains](/assets/docs/pHDThesis.pdf)
-
-<br />
 
 ## Software
 
-<br />
-
-![](/assets/images/allFiveArtefacts.png)
-
-<br />
+![PhD Applications](/assets/images/allFiveArtefacts.png)
 
 ## Published Journal Papers
-
-<br />
 
 | Title | Date Published | Publisher | Where | DOI |
 |:------|:---------------|:----------|:------|:----|
@@ -32,31 +18,19 @@ A list of works produced during my PhD at the [University of Sussex](http://www.
 | [Towards a post-cash society: An application to convert fiat money into a cryptocurrency](http://firstmonday.org/ojs/index.php/fm/article/view/7410/6003 "Towards a post-cash society") |  6th March, 2017 | First Monday | Volume 22, Number 3, March 6 2017 | [10.5210/fm.v22i3.7410]( http://dx.doi.org/10.5210/fm.v22i3.7410 "10.5210/fm.v22i3.7410") |
 | [Socialism and the Blockchain]( http://www.mdpi.com/1999-5903/8/4/49 "Socialism and the Blockchain") | 18th October, 2016 | MDPI | Future Internet 2016, 8(4), 49 | [10.3390/fi8040049](http://dx.doi.org/10.3390/fi8040049 "10.3390/fi8040049") |
 
-<br />
-
 ## Published Conference Papers
-
-<br />
 
 | Title | Date Published | Publisher | Where | DOI |
 |:------|:---------------|:----------|:------|:----|
 | [Internet of Things, Blockchain and Shared Economy Applications](http://dx.doi.org/10.1016/j.procs.2016.09.074 "Internet of Things, Blockchain and Shared Economy Applications") | 22nd September, 2016 | Elsevier | Procedia Computer Science, Volume 98, 2016, Pages 461–466 | [10.1016/j.procs.2016.09.074]( http://dx.doi.org/10.1016/j.procs.2016.09.074 "10.1016/j.procs.2016.09.074") |
 
-<br />
-
 ## Published Independent Media Articles
-
-<br />
 
 | Title | Date Published | Publisher |
 |:------|:---------------|:----------|
 | [Bitcoin’s high energy consumption is a concern – but it may be a price worth paying](https://theconversation.com/bitcoins-high-energy-consumption-is-a-concern-but-it-may-be-a-price-worth-paying-106282) | 7th November, 2018 | [The Conversation](https://theconversation.com/uk) |
 
-<br />
-
 ## Public Speaking
-
-<br />
 
 | Title | Info' | Date | Where | Presentation |
 |:------|:------|:-----|:------|:-------------|
@@ -72,59 +46,35 @@ A list of works produced during my PhD at the [University of Sussex](http://www.
 | _Blockchain Technology_ | Overview of blockchains, given at the launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) | 9th May, 2016 | Launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) | [Blockchain Technology and the Internet of Things](https://github.com/glowkeeper/Creative-Technology-Group-Blockchain-Presentation) |
 | _Evaluating Bitcoin as an Open Source Project_ | A presentation given to the students on the University of Sussex's Science Policy Research Unit's MSc Module, _ICT Policy and Strategy_ | 6th May, 2016 | [University of Sussex](http://www.sussex.ac.uk/) seminar on [Information and Communication Technology Policy and Strategy](http://www.sussex.ac.uk/bmec/internal/departments/spru/pgcourses/2016/L1520T/62854) | [Evaluating Bitcoin as an Open Source Project](https://github.com/glowkeeper/Bitcoin-Presentation) |
 
-<br />
-
 _Enervator - Incentivising Energy Efficiency Innovation forum, Energy Services Business Models, held by the [UK Centre for Research into Energy Demand Solutions](http://www.sussex.ac.uk/spru/research/projects/creds) at [The Fusebox, Brighton](https://thefuseboxbrighton.com/)_
 
-<br />
+![Evervator Presentation](/assets/images/enervatorPresentation.jpeg)
 
-![](/assets/images/enervatorPresentation.jpeg)
+_Enervator Presentation_
 
-<br />
+![Digital Discovery Presentation](/assets/images/digitalDiscoveryFakeNews.jpg)
 
-_Fake News and Blockchains at the University of Sussex's Digital Discovery Week_
+_Fake News and Blockchains at the [University of Sussex's](https://www.sussex.ac.uk/) Digital Discovery Week_
 
-<br />
-
-![](/assets/images/digitalDiscoveryFakeNews.jpg)
-
-<br />
+![Blockchain Application Development Short Course](/assets/images/dCBrighton190318.png)
 
 _Introduction to Blockchain Application Development at [Wired Sussex](https://www.wiredsussex.com/)_
 
-<br />
-
-![](/assets/images/dCBrighton190318.png)
-
-<br />
-
 ## Poster Presentations
-
-<br />
 
 | Poster | Date | Where |
 |:-------|:-----|:------|
 | [Are Blockchains the Means By Which We Can Collaborate?](/assets/docs/poster120717.pdf) | Wednesday 12th July, 2017  | Chichester 1, [University of Sussex](http://www.sussex.ac.uk/) |
 
-<br />
-
 ## Training
-
-<br />
 
 | Title | Date | Where |
 |:------|:-----|:------|
 | Blockchain Development for Shared Economy Applications | 5th December, 2016 | American Express, Burgess Hill |
 
-<br />
-
 ## Lectures
-
-<br />
 
 | Title | Date | Where |
 |:------|:-----|:------|
 | [An Introduction to GitHub](https://github.com/glowkeeper/gitHubPresentation/blob/master/presentation/github.md) | A one hour lecture to Second Year Computer Science Undergraduates, for a Software Engineering module | [University of Sussex](http://www.sussex.ac.uk/) |
 | Topics in Computer Science (Blockchain Development for Shared Economy Applications) | 4 x 1 hour lectures on 28/11/16, 1/12/16, 5/12/16 and 8/12/16 | [University of Sussex](http://www.sussex.ac.uk/) |
-
-&nbsp;

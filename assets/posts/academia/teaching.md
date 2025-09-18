@@ -4,7 +4,7 @@ I have extensive experience as a teacher at university level. In 2025, I complet
 
 ## An Introduction to Building 3D Games in Unity
 
-Currently, I am a Visiting Tutor at the University of Roehampton, where I have been teaching Foundation Year students how to conduct research and [introducing them to building games in Unity](https://github.com/glowkeeper/IntroToBuilding3DGamesInUnity). The games workshops cover the Unity games engine, and specifically:
+Currently, I am a Visiting Tutor at the [University of Roehampton](https://www.roehampton.ac.uk/), where I have been teaching Foundation Year students how to conduct research and [introducing them to building games in Unity](https://github.com/glowkeeper/IntroToBuilding3DGamesInUnity). The games workshops cover the principles of creating a 3D space through the [Unity](https://unity.com/) games engine, and specifically:
 
 - Modelling
 - Materials and Textures
@@ -13,7 +13,7 @@ Currently, I am a Visiting Tutor at the University of Roehampton, where I have b
 
 ## Programming for 3D
 
-From 2020 until 2025, I taught [Programming for 3D](https://www.sussex.ac.uk/study/modules/postgraduate/2023/85872-programming-for-3d) at the [University of Sussex](https://www.sussex.ac.uk), during which students worked on an intensive course on 3D programming using the Unity games engine. The module covered:
+From 2020 until 2025, I taught Programming for 3D at the [University of Sussex](https://www.sussex.ac.uk), where third-year undergraduate and postgraduate students worked on an intensive course build a 3D game using Unity. The module covered:
 
 - Creative Thinking
 - Narrative Design
@@ -31,10 +31,8 @@ From 2020 until 2025, I taught [Programming for 3D](https://www.sussex.ac.uk/stu
 
 ## Fullstack Web Development
 
-During 2020 to 2021, I was a fullstack web development teacher on a 6-month bootcamp run by [Boolean UK Ltd](https://boolean.co.uk/). The bootcamp covered:
+From 2020 through to the end of 2021, I was a fullstack web development teacher on a 6-month bootcamp run by [Boolean UK Ltd](https://boolean.co.uk/). The bootcamp covered:
 
-- Mastering HTML and CSS and creating responsive web interfaces 
-- Utilising Javascript and React
-- Server-side development through Node.js, Express, Postgres, SQL and Prisma
-
-&nbsp;
+- Mastering HTML and CSS and creating responsive web interfaces
+- Utilising Javascript and [React](https://react.dev/)
+- Server-side development through [Node.js](https://nodejs.org/), [Express](https://expressjs.com/), [Postgres](https://www.postgresql.org/), SQL and [Prisma](https://www.prisma.io/.)

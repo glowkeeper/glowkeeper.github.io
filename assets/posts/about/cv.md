@@ -1,10 +1,10 @@
 # Dr Steve Huckle
 
-I am an accomplished developer, educated to doctoral level, who has found the joy of teaching; it's a wonderful opportunity to pass on experience and evolve the next generation of computing professionals.
+I am an accomplished developer, educated to doctoral level, who has found the joy of teaching; it's a wonderful opportunity to pass on my experience and evolve and enthuse the next generation.
 
 ## Professional Profile
 
-I am currently a Visiting Tutor at the University of Roehampton, where I have been teaching Foundation Year students how to conduct research and [introducing them to building games](https://github.com/glowkeeper/IntroToBuilding3DGamesInUnity). Before that, I was a Lecturer in Computer Graphics and Computer Science at the University of Sussex, where I taught students the Unity games engine and the fundamentals of a 3D space.
+I am currently a Visiting Tutor at the [University of Roehampton](https://www.roehampton.ac.uk/), where I have been teaching Foundation Year students how to conduct research and [introducing them to building games](https://github.com/glowkeeper/IntroToBuilding3DGamesInUnity). Before that, I was a Lecturer in Computer Graphics and Computer Science at the University of Sussex, where I taught students the Unity games engine and the fundamentals of a 3D space.
 
 My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business, streaming DJ mixes online. That sparked an interest in digital music, so in 2003 I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
 
@@ -12,7 +12,7 @@ I then returned to the web space as a freelance web programmer, before a friend 
 
 ## Experience
 
-- Five years as Module Convenor of [Programming for 3D](https://github.com/glowkeeper/p3d), a third-year undergraduate and postgraduate games programming course at the University of Sussex
+- Five years as Module Convenor of Programming for 3D, a third-year undergraduate and postgraduate games programming course at the University of Sussex
 - Five years of programming within the games industry, where I worked on four completed titles
 - I have been writing full-stack Javascript since 2016 – React frontends. Node.js, Express, MySQL backends
 - I have a decade of experience with blockchains, including four years researching the technology as part of a PhD
@@ -57,7 +57,7 @@ I then returned to the web space as a freelance web programmer, before a friend 
 
 ## Professional Accreditation
 
-- Fellow of Advance HE (FHEA) 
+Fellow of Advance HE (FHEA)
 
 ## Contact Details
 
@@ -65,10 +65,8 @@ I then returned to the web space as a freelance web programmer, before a friend 
 
 ## Leisure Interests
 
-I have many and varied interests, and I maintain a sense of fun and creativity through playing sports and games, writing code and prose, re-imagining classic poetry, and playing the guitar.
+I have many and varied interests. I maintain a sense of fun and creativity through playing sports and games, writing code and prose, re-imagining classic poetry, and playing the guitar.
 
 ## References
 
 Available upon request.
-
-&nbsp;
