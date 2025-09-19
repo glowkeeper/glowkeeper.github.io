@@ -27,7 +27,6 @@ export const Site = ({
 
   const [firstLoad, setFirstLoad] = useState<boolean>(true)
 
-
   useEffect(() => {
   
     if(firstLoad)

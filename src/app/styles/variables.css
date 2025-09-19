@@ -17,7 +17,7 @@
   --header-height: 5rem;
   --footer-height: 6rem;
 
-  --main-height: calc(100vh -(var(--header-height) + var(--footer-height) + 4rem));
+  --main-height: calc(100vh - (var(--header-height) + var(--footer-height) + 4rem));
 }
 
 @theme {
@@ -58,5 +58,7 @@
 
     --accent: hsl(5, 80%, 70%);
     --accent-foreground: hsl(240, 15%, 10%);
+
+    --main-height: calc(100vh - (var(--header-height) + var(--footer-height) + 2rem));
   }
 }
