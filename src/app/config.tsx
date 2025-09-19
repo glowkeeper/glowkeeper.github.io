@@ -65,13 +65,6 @@ export const academiaSections: SiteSection = {
       endPoint: 'teaching',
       content: '/assets/posts/academia/teaching.md'
     },
-    phd: {
-      id: "academia-phd",
-      title: "phd",
-      subText: "how Dr Huckle got his salutation",
-      endPoint: 'phd',
-      content: '/assets/posts/academia/phd.md'
-    },
     msc: {
       id: "academia-msc",
       title: "msc",
@@ -79,6 +72,27 @@ export const academiaSections: SiteSection = {
       endPoint: 'msc',
       content: '/assets/posts/academia/msc.md'
     },
+    phd: {
+      id: "academia-phd",
+      title: "phd",
+      subText: "how Dr Huckle got his salutation",
+      endPoint: 'phd',
+      content: '/assets/posts/academia/phd.md'
+    },
+    publications: {
+      id: "academia-publications",
+      title: "publications",
+      subText: "published works",
+      endPoint: 'publications',
+      content: '/assets/posts/academia/publications.md'
+    },
+    talks: {
+      id: "academia-talks",
+      title: "talks",
+      subText: "lectures and public speaking",
+      endPoint: 'talks',
+      content: '/assets/posts/academia/talks.md'
+    }
   }
 }
 

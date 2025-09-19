@@ -4,7 +4,7 @@ I have extensive experience as a teacher at university level. In 2025, I complet
 
 ## An Introduction to Building 3D Games in Unity
 
-Currently, I am a Visiting Tutor at the [University of Roehampton](https://www.roehampton.ac.uk/), where I have been teaching Foundation Year students how to conduct research and [introducing them to building games in Unity](https://github.com/glowkeeper/IntroToBuilding3DGamesInUnity). The games workshops cover the principles of creating a 3D space through the [Unity](https://unity.com/) games engine, and specifically:
+Currently, I am a Visiting Tutor at the [University of Roehampton](https://www.roehampton.ac.uk/), where I have been teaching Foundation Year students how to conduct research and [introducing them to building 3D games in Unity](https://github.com/glowkeeper/IntroToBuilding3DGamesInUnity). The games workshops cover the principles of creating a 3D space through the [Unity](https://unity.com/) games engine, and specifically:
 
 - Modelling
 - Materials and Textures
