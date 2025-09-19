@@ -33,7 +33,7 @@ const AboutPage = () => {
   return (
 
     <>    
-      <div className="max-sm:hidden grid grid-cols-2 gap-16">
+      <div className="max-sm:hidden h-[var(--main-height)] grid grid-cols-2 gap-16">
         <div className="home-container">
           <Image
             className='coding'
@@ -43,7 +43,7 @@ const AboutPage = () => {
             priority={true}
           />
         </div>
-        <div className='grid h-[var(--main-height)] place-items-center'> 
+        <div className='grid place-items-center'> 
           <div>     
             <h1>{siteSections[section].title}</h1>
             <p>{siteSections[section].subText}</p>            

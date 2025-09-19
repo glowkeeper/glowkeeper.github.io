@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
 
     <>    
-      <div className="max-sm:hidden h-[var(--main-height)] grid grid-cols-2 gap-16">
+      <div className="max-sm:hidden grid grid-cols-2 gap-16 h-[var(--main-height)]">
         <div className="home-container">
           <Image
             className='home'
