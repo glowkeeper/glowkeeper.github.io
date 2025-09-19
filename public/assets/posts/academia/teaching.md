@@ -13,7 +13,9 @@ Currently, I am a Visiting Tutor at the [University of Roehampton](https://www.r
 
 ## Programming for 3D
 
-From 2020 until 2025, I taught Programming for 3D at the [University of Sussex](https://www.sussex.ac.uk), where third-year undergraduate and postgraduate students worked on an intensive course build a 3D game using Unity. The module covered:
+From 2020 until 2025, I was Module Convenor for Programming for 3D (P3D) at the [University of Sussex](https://www.sussex.ac.uk). There, I took third-year undergraduate and postgraduate students through an intensive course on building a 3D game, using Unity. 
+
+P3D covered:
 
 - Creative Thinking
 - Narrative Design
