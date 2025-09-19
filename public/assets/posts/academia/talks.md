@@ -42,6 +42,12 @@ _Introduction to Blockchain Application Development at [Wired Sussex](https://ww
 |:------|:-----|:------|
 | Blockchain Development for Shared Economy Applications | 5th December, 2016 | American Express, Burgess Hill |
 
+## Workshops
+
+| Title | Date | Where |
+|:------|:-----|:------|
+| [Intro to building 3D games in Unity](https://github.com/glowkeeper/IntroToBuilding3DGamesInUnity) | 6th May, 2025 | [University of Roehampton](https://www.roehampton.ac.uk/) |
+
 ## Lectures
 
 | Title | Info | Where |
