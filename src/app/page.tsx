@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
 
     <>    
-      <div className="max-sm:hidden grid grid-cols-2 gap-16 h-[var(--main-height)]">
+      <div className="max-sm:hidden grid grid-cols-2 gap-16">
         <div className="home-container">
           <Image
             className='home'
@@ -15,7 +15,7 @@ const HomePage = () => {
             priority={true}
           />
         </div>
-        <div className='grid place-items-center'> 
+        <div className='grid place-items-center h-[var(--main-height)]'> 
           <div className='text-center'>     
             <h2>Where Code, Creativity and Curiosity Meet</h2>
             <p>Dr Steve Huckle is a writer, academic and educator exploring the spaces between technology, teaching and creative practice. At <a href="https://huckle.studio/">huckle.studio</a>, he shares selected research, university work, and independent projects — from blockchain and decentralised systems to poetry, prose and pedagogy. Grounded in both industry and academia, his work reflects a thoughtful, curious approach to making and understanding.</p>
