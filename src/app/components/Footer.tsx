@@ -5,7 +5,7 @@ export const Footer = () => {
   return (    
     <footer>  
       <div className="max-sm:hidden grid grid-flow-col cols-2 items-center justify-start gap-2">
-        <p className="on-primary">Built using</p>
+        <p className="footer-item on-secondary">Built using</p>
         <Link
           href="https://nextjs.org/"
         >
@@ -17,25 +17,25 @@ export const Footer = () => {
           />        
         </Link>
       </div> 
-      <p className="on-primary">
+      <p className="footer-item on-secondary">
         © 2025, Dr Steve Huckle
       </p>
 
       <div className="grid grid-flow-row auto-rows-auto items-start justify-center gap-2">
         <Link 
-          className="on-primary"
+          className="on-secondary"
           href="/about/contact"
         >
           contact
         </Link>
         <Link
-          className="on-primary" 
+          className="on-secondary"
           href="/about/cv"
         >
           cv
         </Link>            
         <Link 
-          className="on-primary"
+          className="on-secondary"
           href="/about/legal"
         >
           legal

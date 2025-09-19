@@ -131,7 +131,7 @@ export const Menu = () => {
                   className='grid grid-flow-col cols-1 justify-start'
                 >
                   <Link
-                    className="menu-link menu-item-home on-primary"
+                    className="menu-item-home on-primary"
                     href="/"
                     onClick={() => {
                       setIsOpen(false)

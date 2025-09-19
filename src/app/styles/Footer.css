@@ -9,6 +9,10 @@ footer {
   padding: 0.5rem 0 0.5rem 0;
 }
 
+p.footer-item {
+  font-weight: var(--font-weight-semibold);
+}
+
 @media only screen and (max-width: 640px) {
 
   footer { 

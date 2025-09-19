@@ -6,7 +6,7 @@ h1 {
 }
 
 h1.site-title {
-  color: var(--on-primary);  
+  color: var(--secondary-foreground);  
 }
 
 h2 {
@@ -49,13 +49,13 @@ td {
 p.site-title {
   font-size: 1.7rem;
   font-weight: var(--font-weight-semibold);
-  color: var(--on-primary);  
+  color: var(--secondary-foreground);  
   margin: 0;
 }
 
 p.page-title {
   font-weight: var(--font-weight-semibold);
-  color: var(--on-primary);  
+  color: var(--secondary-foreground);  
   padding-left: 2rem;
 }
 
@@ -71,18 +71,12 @@ p.sub-menu-sections {
   /* text-decoration: underline; */
 }
 
-a {
-  font-weight: 500;
-  color: oklch(0.6869 0.0873 316.74);
-  text-decoration: inherit;
-}
-
-a:hover {
-  color: oklch(0.6869 0.0873 270.8);
-}
-
 .on-primary {
   color: var(--primary-foreground);
+}
+
+.on-secondary {
+  color: var(--secondary-foreground);
 }
 
 @media only screen and (max-width: 640px) {  

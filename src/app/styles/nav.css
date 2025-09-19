@@ -5,17 +5,17 @@
 
 a {
   color: var(--on-foreground);
-  font-weight: bolder;
+  font-weight: var(--font-weight-semibold);
   text-decoration: none;
   text-align: center;
 }
 
 a:visited {
-  font-weight: lighter;
+  font-weight: var(--font-weight-medium);
 }
 
 a:hover {
-  font-weight: bold;
+  font-weight: var(--font-weight-bold);
 }
 
 a:active {
@@ -27,7 +27,7 @@ a:active {
 }
 
 p#menu-burger {
-  color: var(--primary-foreground);
+  color: var(--secondary-foreground);
   font-size: 4rem;
   padding: 0;
   margin: 0;
@@ -60,18 +60,6 @@ p.menu-item:hover {
   cursor:pointer;
 }
 
-a:visited {
-  font-weight: lighter;
-}
-
-a:hover {
-  font-weight: bold;
-}
-
-a:active {
-  transform: translateY(1px);
-}
-
 #menu-nav,
 #menu-link-nav {
   position: fixed;
@@ -85,7 +73,7 @@ a:active {
   height: auto;
 
   background-color: var(--primary);
-  color: var(--secondary-foreground);
+  color: var(--primary-foreground);
   transition: transform .8s ease-in-out;
 }
 

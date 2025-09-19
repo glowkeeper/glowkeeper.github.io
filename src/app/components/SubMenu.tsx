@@ -58,7 +58,7 @@ export const SubMenu: SubMenuType = ({ title, links, onHasClosed, onHasLinked }:
                 >
                   <Link
                     key={index}
-                    className="menu-link menu-item on-primary "
+                    className="menu-item on-primary"
                     href={link.route}
                     onClick={() => {
                       setIsOpen(false)
