@@ -1,6 +1,11 @@
 import { ContentPage } from '@/app/components/ContentPage'
 
 import { siteSections, AboutSections } from '@/app/config'
+import { createContentMetadataGenerator } from '@/app/utils/metadata'
+
+const section = siteSections.about.siteSections[AboutSections.about]
+
+export const generateMetadata = createContentMetadataGenerator(section)
 
 export function generateStaticParams() {
 
@@ -19,7 +24,7 @@ const AboutPage = async ({
 }) => {
   const { path } = await params
 
-  return <ContentPage endPoint={path} section={siteSections.about.siteSections[AboutSections.about]} />
+  return <ContentPage endPoint={path} section={section} />
 }
 
 export default AboutPage

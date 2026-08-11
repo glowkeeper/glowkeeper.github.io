@@ -12,9 +12,12 @@ export const ThemeToggle = () => {
   }, [])
 
   const toggleTheme = () => {
-    const nextTheme: Theme = theme === 'dark' ? 'light' : 'dark'
+    const currentTheme: Theme = document.documentElement.dataset.theme === 'dark' ? 'dark' : theme
+    const nextTheme: Theme = currentTheme === 'dark' ? 'light' : 'dark'
     document.documentElement.dataset.theme = nextTheme
-    localStorage.setItem('huckle-theme', nextTheme)
+    try {
+      localStorage.setItem('huckle-theme', nextTheme)
+    } catch {}
     setTheme(nextTheme)
   }
 

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Literata } from "next/font/google"
 
 import { Site } from '@/app/components/Site'
+import { themeScript } from '@/app/utils/theme'
 
 import "@/app/styles/globals.css"
 
@@ -17,20 +18,16 @@ const literata = Literata({
   display: 'swap',
 })
 
-const themeScript = `
-  (() => {
-    const saved = localStorage.getItem('huckle-theme');
-    const theme = saved === 'light' || saved === 'dark'
-      ? saved
-      : window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-    document.documentElement.dataset.theme = theme;
-  })();
-`
-
 export const metadata: Metadata = {
-  title: "Dr Steve Huckle",
+  title: {
+    default: 'Dr Steve Huckle',
+    template: '%s | Dr Steve Huckle',
+  },
   description: "Where Code, Creativity and Curiosity Meet. Dr Steve Huckle is a writer, academic and educator exploring the spaces between technology, teaching and creative practice. At huckle.studio, he shares selected research, university work, and independent projects — from blockchain and decentralised systems to poetry, prose and pedagogy. Grounded in both industry and academia, his work reflects a thoughtful, curious approach to making and understanding.",
   metadataBase: new URL('https://huckle.studio'),
+  alternates: {
+    canonical: '/',
+  },
   openGraph: {
     title: 'Dr Steve Huckle',
     description: 'Where code, creativity and curiosity meet.',

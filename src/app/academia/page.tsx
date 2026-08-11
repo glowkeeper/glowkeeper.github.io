@@ -1,4 +1,12 @@
 import { SectionLanding } from '@/app/components/SectionLanding'
+import { siteSections } from '@/app/config'
+import { createPageMetadata } from '@/app/utils/metadata'
+
+export const metadata = createPageMetadata({
+  title: siteSections.academia.title,
+  description: siteSections.academia.subText,
+  path: '/academia',
+})
 
 const AcademiaPage = () => (
   <SectionLanding

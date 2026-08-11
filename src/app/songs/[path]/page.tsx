@@ -1,6 +1,11 @@
 import { ContentPage } from '@/app/components/ContentPage'
 
 import { siteSections, MusicSections } from '@/app/config'
+import { createContentMetadataGenerator } from '@/app/utils/metadata'
+
+const section = siteSections.music.siteSections[MusicSections.songs]
+
+export const generateMetadata = createContentMetadataGenerator(section)
 
 export function generateStaticParams() {
 
@@ -20,7 +25,7 @@ const SongsPage = async ({
 }) => {
   const { path } = await params
 
-  return <ContentPage endPoint={path} section={siteSections.music.siteSections[MusicSections.songs]} />
+  return <ContentPage endPoint={path} section={section} />
 }
 
 export default SongsPage

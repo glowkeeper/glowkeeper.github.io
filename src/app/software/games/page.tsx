@@ -1,5 +1,12 @@
 import { SubsectionLanding } from '@/app/components/SubsectionLanding'
 import { gamesSections } from '@/app/config'
+import { createPageMetadata } from '@/app/utils/metadata'
+
+export const metadata = createPageMetadata({
+  title: gamesSections.title,
+  description: 'Games built by Dr Steve Huckle.',
+  path: gamesSections.path,
+})
 
 const SoftwareGamesPage = () => (
   <SubsectionLanding
