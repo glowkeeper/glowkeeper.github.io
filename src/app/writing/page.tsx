@@ -12,7 +12,7 @@ const WritingPage = () => (
   <SectionLanding
     imageAlt="dr huckle, writing"
     imageClassName="writing"
-    imageSrc="/assets/images/writing.avif"
+    imageSrc="/assets/images/writing.webp"
     linkGridClassName="grid grid-cols-4 md:grid-cols-5 grid-flow-row auto-rows-fr gap-1"
     section="writing"
     showImageOnMobile={false}

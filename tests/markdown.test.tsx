@@ -27,4 +27,15 @@ describe('Markdown rendering', () => {
     expect(html).toContain('<table class="verse-lines">')
     expect(html).not.toContain('table-scroll')
   })
+
+  it('preserves headings and spacing hooks for comparison poems', () => {
+    const markdown = '# Poem\n\n**Mine**|**Original**\n:--|:--\nMy line | Their line'
+    const html = renderToStaticMarkup(<Page content={markdown} variant="poetry" />)
+
+    expect(html).toContain('aria-label="Side-by-side poem comparison"')
+    expect(html).toContain('class="verse verse--comparison"')
+    expect(html).toContain('<table class="verse-lines verse-lines--comparison">')
+    expect(html).toContain('<strong>Mine</strong>')
+    expect(html).toContain('<strong>Original</strong>')
+  })
 })

@@ -79,6 +79,57 @@ tbody tr:hover td {
   font-size: inherit;
 }
 
+.verse--comparison {
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+}
+
+.verse--comparison:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--primary) 45%, transparent);
+  outline-offset: 3px;
+}
+
+.verse-lines--comparison {
+  width: 100%;
+  min-width: 42rem;
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.verse-lines--comparison thead {
+  display: table-header-group;
+}
+
+.verse-lines--comparison th {
+  padding: 0 2rem 0.8rem;
+  border: 0;
+  background: transparent;
+  color: var(--primary);
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+}
+
+.verse-lines--comparison th:first-child,
+.verse-lines--comparison td:first-child {
+  padding-right: 2rem;
+  padding-left: 0;
+  border-right: 1px solid var(--border);
+}
+
+.verse-lines--comparison th:last-child,
+.verse-lines--comparison td:last-child {
+  padding-right: 0;
+  padding-left: 2rem;
+}
+
+.verse-lines--comparison td,
+.verse-lines--comparison tbody tr:nth-child(even) td,
+.verse-lines--comparison tbody tr:hover td {
+  background: transparent;
+}
+
 @media only screen and (max-width: 767px) {
   th,
   td {
@@ -89,5 +140,21 @@ tbody tr:hover td {
   .verse-lines td {
     padding: 0;
     font-size: inherit;
+  }
+
+  .verse-lines--comparison td,
+  .verse-lines--comparison tbody tr:nth-child(even) td,
+  .verse-lines--comparison tbody tr:hover td {
+    font-size: 0.9rem;
+  }
+
+  .verse-lines--comparison th:first-child,
+  .verse-lines--comparison td:first-child {
+    padding-right: 1.25rem;
+  }
+
+  .verse-lines--comparison th:last-child,
+  .verse-lines--comparison td:last-child {
+    padding-left: 1.25rem;
   }
 }

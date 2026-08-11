@@ -13,7 +13,7 @@ const PoetryPage = () => (
     heading="writing"
     imageAlt="dr huckle, writing"
     imageClassName="writing"
-    imageSrc="/assets/images/writing.avif"
+    imageSrc="/assets/images/writing.webp"
     subsection={poetrySections}
   />
 )
