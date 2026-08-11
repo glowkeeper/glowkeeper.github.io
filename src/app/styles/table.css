@@ -1,13 +1,25 @@
 table {
-  display: block;
   width: 100%;
-  max-width: 100%;
-  overflow-x: auto;
-  overscroll-behavior-inline: contain;
   /* border-collapse: separate; */
   border-spacing: 0 0.1em; /* vertical spacing between rows */
   font-family: system-ui, sans-serif;
   font-size: 1rem;
+}
+
+.table-scroll {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+}
+
+.table-scroll table {
+  min-width: 100%;
+}
+
+.table-scroll:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
 }
 
 thead {

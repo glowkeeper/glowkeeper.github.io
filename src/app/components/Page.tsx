@@ -3,6 +3,7 @@
 import React, { useContext, useEffect, type ReactNode} from "react"
  
 import Markdown from 'react-markdown'
+import type { Components } from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 
 import {
@@ -15,6 +16,14 @@ type PageType = ({ title, path }: PageProps) => ReactNode
 interface PageProps {
   title: string
   path: string
+}
+
+const markdownComponents: Components = {
+  table: ({ children, ...props }) => (
+    <div className="table-scroll" role="region" aria-label="Scrollable table" tabIndex={0}>
+      <table {...props}>{children}</table>
+    </div>
+  ),
 }
 
 export const Page: PageType = ({ title, path }) => {
@@ -35,7 +44,7 @@ export const Page: PageType = ({ title, path }) => {
   
   return (
     <div>
-      <Markdown remarkPlugins={[remarkGfm]}>{content}</Markdown>
+      <Markdown components={markdownComponents} remarkPlugins={[remarkGfm]}>{content}</Markdown>
     </div>
   )
 }
