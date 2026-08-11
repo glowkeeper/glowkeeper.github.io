@@ -43,8 +43,8 @@ export const Page: PageType = ({ title, path }) => {
   }, [currentTitle, dispatch, title])
   
   return (
-    <div>
+    <article className="article">
       <Markdown components={markdownComponents} remarkPlugins={[remarkGfm]}>{content}</Markdown>
-    </div>
+    </article>
   )
 }

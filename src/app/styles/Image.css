@@ -3,54 +3,54 @@
   min-height: 12rem;
 }
 
-img.home {
-  border-radius: 20px;
+.landing-media {
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--border) 78%, transparent);
+  border-radius: var(--radius-large);
+  background: var(--surface-muted);
+  box-shadow: 0 2rem 5rem -3rem var(--shadow);
+  isolation: isolate;
+}
+
+.landing-media::after {
+  position: absolute;
+  z-index: 1;
+  inset: 0;
+  content: '';
+  pointer-events: none;
+  background: linear-gradient(180deg, transparent 58%, color-mix(in srgb, var(--primary) 14%, transparent));
+}
+
+.landing-media img {
   margin: 0;
   padding: 0;
-  opacity: 70%;
+  opacity: 1;
   object-fit: cover;
+  filter: saturate(0.96) contrast(1.02);
+  transition: transform 600ms cubic-bezier(0.2, 0.75, 0.25, 1), filter 300ms ease;
+}
+
+.landing-media:hover img {
+  transform: scale(1.015);
+  filter: saturate(1.03) contrast(1.02);
+}
+
+img.home {
   object-position: 100% 5%;
 }
 
 img.academia {
-  border-radius: 20px;
-  margin: 0;
-  padding: 0;
-  opacity: 70%;
-  object-fit: cover;
   object-position: 10% 100%;
 }
 
 img.songs {
-  border-radius: 20px;
-  margin: 0;
-  padding: 0;
-  opacity: 70%;
-  object-fit: cover;
   object-position: 100% 1%;
 }
 
 img.writing {
-  border-radius: 20px;
-  margin: 0;
-  padding: 0;
-  opacity: 70%;
-  object-fit: cover;
   object-position: 100% 20%;
 }
 
 img.coding {
-  border-radius: 20px;
-  margin: 0;
-  padding: 0;
-  opacity: 70%;
-  object-fit: cover;
   object-position: 30% 100%;
-}
-
-@media only screen and (max-width: 767px) {
-
-  img.home {  
-    opacity: 80%;
-  }
 }

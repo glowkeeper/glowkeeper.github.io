@@ -45,13 +45,14 @@ export const SectionLanding = ({
       imageSrc={imageSrc}
       showImageOnMobile={showImageOnMobile}
     >
+      <p className="eyebrow">Explore</p>
       <h1>{sectionConfig.title}</h1>
-      <p>{sectionConfig.subText}</p>
+      <p className="landing-deck">{sectionConfig.subText}</p>
 
       {sectionConfig.siteSections.map(subSection => (
-        <section key={subSection.path}>
+        <section key={subSection.path} className="section-group">
           {sectionConfig.siteSections.length > 1 && <h2>{subSection.title}</h2>}
-          <div className={linkGridClassName}>
+          <div className={`section-links ${linkGridClassName}`}>
             {Object.values(subSection.content).map(item => (
               <div key={item.id}>
                 <Link href={`${subSection.path}/${item.endPoint}`}>

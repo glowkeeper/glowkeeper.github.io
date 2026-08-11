@@ -1,74 +1,70 @@
-h1 {
-  font-size: 1.5rem;
-  font-weight: var(--font-weight-semibold);
+h1,
+h2,
+h3,
+h4 {
   color: var(--on-background);
-  margin: 0;
+  font-family: var(--font-literata), Georgia, serif;
+  font-weight: 600;
+  line-height: 1.15;
+  text-wrap: balance;
 }
 
-h1.site-title {
-  color: var(--secondary-foreground);  
+h1 {
+  margin: 0 0 0.75rem;
+  font-size: clamp(2rem, 5vw, 4.5rem);
+  letter-spacing: -0.035em;
 }
 
 h2 {
-  font-size: 1.4rem;
-  font-weight: var(--font-weight-semibold);
-  color: var(--on-background);
-  margin: 1rem 0 1rem 0;
+  margin: 2rem 0 0.75rem;
+  font-size: clamp(1.45rem, 3vw, 2.4rem);
+  letter-spacing: -0.025em;
 }
 
 h3 {
-  font-size: 1.3rem;
-  font-weight: var(--font-weight-semibold);
-  color: var(--on-background);
-  margin: 1rem 0 1rem 0;
+  margin: 1.75rem 0 0.65rem;
+  font-size: clamp(1.2rem, 2vw, 1.65rem);
 }
 
 p {
-  font-size: 1.2rem;
+  margin: 0.9rem 0;
   color: var(--on-background);
-  margin: 1rem 0 1rem 0;
+  font-size: 1rem;
+}
+
+.article p,
+.article li {
+  font-size: clamp(1rem, 1.4vw, 1.08rem);
+}
+
+ul,
+ol {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+  color: var(--on-background);
 }
 
 ul {
-  font-size: 1.2rem;
-  list-style: circle;
-  list-style-position: inside;
-  color: var(--on-background);
+  list-style: disc;
 }
 
-th, td {
-  padding: 0.5rem 1rem 0.5rem 1rem;
-  line-height: 1rem;
+ol {
+  list-style: decimal;
 }
 
-td {
-  font-size: 1.2rem;
-  color: var(--on-background);
+li::marker {
+  color: var(--accent);
 }
 
+.site-title,
+h1.site-title,
 p.site-title {
-  font-size: 1.5rem;
-  font-weight: var(--font-weight-semibold);
-  color: var(--secondary-foreground);  
   margin: 0;
-}
-
-p.page-title {
-  font-weight: var(--font-weight-semibold);
-  color: var(--secondary-foreground);  
-  padding-left: 2rem;
-}
-
-p.menu-sections {
-  color: var(--on-primary);
-
-  /* text-decoration: underline; */
-}
-
-p.sub-menu-sections {
-  color: var(--on-primary);
-  margin: 0 0 0.5rem 0;
-  /* text-decoration: underline; */
+  color: var(--on-background);
+  font-family: var(--font-literata), Georgia, serif;
+  font-size: 1.15rem;
+  font-weight: 650;
+  letter-spacing: -0.02em;
 }
 
 .on-primary {
@@ -80,42 +76,28 @@ p.sub-menu-sections {
 }
 
 @media only screen and (max-width: 767px) {
-
   h1 {
-    font-size: 1rem;
-  }
-
-  h1.site-title {
-    font-size: 1rem;
+    font-size: clamp(1.75rem, 9vw, 2.75rem);
   }
 
   h2 {
-    font-size: 0.9rem;
-    margin: 0.5rem 0 0.5rem 0;
+    margin-top: 1.4rem;
+    font-size: 1.35rem;
   }
 
   h3 {
-    font-size: 0.85rem;
-    margin: 0.5rem 0 0.5rem 0;
+    margin-top: 1.25rem;
+    font-size: 1.15rem;
   }
 
-  p {
-    font-size: 0.8rem;
-    margin: 0.5rem 0 0.5rem 0;
+  p,
+  .article p,
+  .article li {
+    font-size: 0.94rem;
   }
 
-  ul {
-    font-size: 0.8rem;
-  }
-
-  td {
-    font-size: 0.8rem;
-  }
-
-  th, td {
-    padding: 0.2rem 0.5rem 0.2rem 0.5rem;
-  }
-
+  .site-title,
+  h1.site-title,
   p.site-title {
     font-size: 1rem;
   }

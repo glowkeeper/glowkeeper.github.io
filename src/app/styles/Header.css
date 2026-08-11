@@ -1,31 +1,51 @@
 header {
-  @apply grid grid-flow-col grid-cols-3 w-full;
   position: fixed;
-  z-index: 1;
+  z-index: 20;
   top: 0;
-  background-color: var(--secondary);
-  color: var(--secondary-foreground);
-  height: var(--header-height);
   width: 100%;
+  height: var(--header-height);
+  border-bottom: 1px solid color-mix(in srgb, var(--border) 76%, transparent);
+  background: color-mix(in srgb, var(--background) 88%, transparent);
+  backdrop-filter: blur(16px);
+}
+
+.site-header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: min(100%, var(--content-width));
+  height: 100%;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.header-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--on-background);
+  text-align: left;
+}
+
+.brand-mark {
+  display: none;
+  place-items: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  color: var(--primary);
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
 }
 
 @media only screen and (max-width: 767px) {
-  header {
-    grid-template-columns: minmax(0, 1fr) auto;
-    border-bottom: 1px solid color-mix(in srgb, var(--secondary-foreground) 18%, transparent);
-    box-shadow: 0 2px 12px color-mix(in srgb, var(--on-background) 10%, transparent);
+  .site-header-inner {
+    padding: 0 0.75rem 0 1rem;
   }
 
-  .header-context {
+  .brand-mark {
     display: none;
-  }
-
-  .header-brand {
-    justify-content: start;
-    padding-left: 1rem;
-  }
-
-  .header-brand a {
-    text-align: left;
   }
 }

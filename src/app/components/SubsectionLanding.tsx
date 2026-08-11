@@ -25,9 +25,9 @@ export const SubsectionLanding = ({
     imageClassName={imageClassName}
     imageSrc={imageSrc}
   >
-    <h1>{heading}</h1>
-    <p>{subsection.title}</p>
-    <div className={linkGridClassName}>
+    <p className="eyebrow">{heading}</p>
+    <h1>{subsection.title}</h1>
+    <div className={`section-links ${linkGridClassName}`}>
       {Object.values(subsection.content).map(item => (
         <div key={item.id}>
           <Link href={`${subsection.path}/${item.endPoint}`}>

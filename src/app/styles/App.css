@@ -1,31 +1,105 @@
 html {
   background-color: var(--background);
+  scroll-behavior: smooth;
 }
 
 body {
-  /* font-family: var(--font-sans); */
-  line-height: normal;
-
-  color-scheme: light dark;
-  color: var(--on-foreground);
-  background-color: var(--background);
-
-  margin: 0;
-  padding: 0;
-
   min-width: 100%;
   min-height: 100%;
+  margin: 0;
+  padding: 0;
+  color: var(--on-background);
+  background:
+    radial-gradient(circle at 5% 8%, color-mix(in srgb, var(--accent-soft) 42%, transparent), transparent 26rem),
+    var(--background);
+  font-family: var(--font-inter), system-ui, sans-serif;
+  line-height: 1.65;
+  transition: color 180ms ease, background-color 180ms ease;
 }
 
 main {
-  padding: calc(var(--header-height) + 2rem) 2rem calc(var(--footer-height) + 2rem) 2rem;
-  margin: 0;
+  width: min(100%, calc(var(--content-width) + 4rem));
+  min-height: 100vh;
+  min-height: 100dvh;
+  margin: 0 auto;
+  padding: calc(var(--header-height) + 2rem) 2rem calc(var(--footer-height) + 2rem);
 }
 
+::selection {
+  color: var(--accent-foreground);
+  background: var(--accent-soft);
+}
+
+.article {
+  width: min(100%, var(--reading-width));
+  margin: 0 auto;
+  padding: clamp(1.25rem, 4vw, 3rem);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-large);
+  background: color-mix(in srgb, var(--surface) 94%, transparent);
+  box-shadow: 0 1.25rem 3.5rem -2.5rem var(--shadow);
+}
+
+.article > :first-child {
+  margin-top: 0;
+}
+
+.article > :last-child {
+  margin-bottom: 0;
+}
+
+.article img,
+.article video {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius-medium);
+}
+
+.article blockquote {
+  margin: 2rem 0;
+  padding: 0.25rem 0 0.25rem 1.25rem;
+  border-left: 3px solid var(--accent);
+  color: var(--muted);
+  font-family: var(--font-literata), Georgia, serif;
+  font-style: italic;
+}
+
+.article hr {
+  height: 1px;
+  margin: 2.5rem 0;
+  border: 0;
+  background: var(--border);
+}
+
+.article code {
+  padding: 0.15em 0.35em;
+  border-radius: 0.35rem;
+  background: var(--surface-muted);
+  font-size: 0.9em;
+}
+
+.article pre {
+  max-width: 100%;
+  overflow-x: auto;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-medium);
+  background: var(--surface-muted);
+}
+
+.article pre code {
+  padding: 0;
+  background: transparent;
+}
 
 @media only screen and (max-width: 767px) {
-
   main {
-    padding: calc(var(--header-height) + 1rem) 1rem calc(var(--footer-height) + 1rem) 1rem;
+    width: 100%;
+    padding: calc(var(--header-height) + 1rem) 1rem calc(var(--footer-height) + 1rem);
+  }
+
+  .article {
+    padding: 1.25rem;
+    border-radius: var(--radius-medium);
   }
 }

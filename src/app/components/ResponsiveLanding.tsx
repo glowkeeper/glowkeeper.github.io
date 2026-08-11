@@ -17,8 +17,8 @@ export const ResponsiveLanding = ({
   showImageOnMobile = true,
 }: ResponsiveLandingProps) => {
   return (
-    <div className={`grid gap-4 md:h-[var(--main-height)] md:grid-cols-2 md:grid-rows-1 md:gap-16 ${showImageOnMobile ? 'min-h-[var(--main-height)] grid-rows-[auto_minmax(12rem,1fr)]' : ''}`}>
-      <div className={`home-container order-2 md:order-1 ${showImageOnMobile ? '' : 'hidden md:block'}`}>
+    <div className={`responsive-landing grid gap-5 md:h-[var(--main-height)] md:grid-cols-2 md:grid-rows-1 md:gap-16 ${showImageOnMobile ? 'min-h-[var(--main-height)] grid-rows-[auto_minmax(12rem,1fr)]' : ''}`}>
+      <div className={`home-container landing-media order-2 md:order-1 ${showImageOnMobile ? '' : 'hidden md:block'}`}>
         <Image
           className={imageClassName}
           fill
@@ -27,8 +27,8 @@ export const ResponsiveLanding = ({
           priority={true}
         />
       </div>
-      <div className="order-1 grid items-center md:order-2">
-        <div>
+      <div className="landing-content order-1 grid items-center md:order-2">
+        <div className="landing-content-inner">
           {children}
         </div>
       </div>

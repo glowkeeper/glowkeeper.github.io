@@ -1,180 +1,162 @@
 'use client'
 
-import React, { useEffect, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import Link from 'next/link'
-
-import { SubMenu } from './SubMenu'
+import { usePathname } from 'next/navigation'
 
 import { siteSections } from '@/app/config'
 
-import type { Site as TopLevel } from '@/app/store/types'
-
-type SubMenuLinks = {
-  title: string
-  links: MenuLink[]
+const primaryRoutes: Record<string, string> = {
+  about: '/about',
+  academia: '/academia',
+  software: '/software',
+  writing: '/writing',
+  music: '/songs',
 }
 
-export type MenuLink = {
-  title: string
-  route: string
+const primaryLabels: Record<string, string> = {
+  about: 'About',
+  academia: 'Academia',
+  software: 'Software',
+  writing: 'Writing',
+  music: 'Music',
 }
-
-type MenuSections = {
-  [key: string]: MenuLink[]
-}
-
-type MenuType = {
-  [key: string]: MenuSections
-}
-
-const createMenu = (): MenuType => {
-  const menu: MenuType = {}
-
-  Object.keys(siteSections as TopLevel).forEach(section => {
-    const sectionTitle = siteSections[section].title
-    menu[sectionTitle] = {}
-
-    siteSections[section].siteSections.forEach(subSection => {
-      menu[sectionTitle][subSection.title] = Object.values(subSection.content).map(item => ({
-        title: item.title,
-        route: `${subSection.path}/${item.endPoint}`,
-      }))
-    })
-  })
-
-  return menu
-}
-
-const menu = createMenu()
 
 export const Menu = () => {
+  const pathname = usePathname()
+  const [isOpen, setIsOpen] = useState(false)
+  const [expanded, setExpanded] = useState<string | null>(null)
+  const triggerRef = useRef<HTMLButtonElement>(null)
+  const closeRef = useRef<HTMLButtonElement>(null)
 
-  const [isOpen, setIsOpen] = useState<boolean>(false)
-  const [subMenu, setSubMenu] = useState<SubMenuLinks | null>(null)
-  const transitionTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const sections = useMemo(() => Object.entries(siteSections).map(([key, config]) => ({
+    key,
+    label: primaryLabels[key],
+    route: primaryRoutes[key],
+    groups: config.siteSections,
+  })), [])
 
   useEffect(() => {
-    return () => {
-      if (transitionTimer.current) {
-        clearTimeout(transitionTimer.current)
+    if (!isOpen) return
+
+    const previousOverflow = document.body.style.overflow
+    document.body.style.overflow = 'hidden'
+    closeRef.current?.focus()
+
+    const onKeyDown = (event: KeyboardEvent) => {
+      if (event.key === 'Escape') {
+        setIsOpen(false)
+        triggerRef.current?.focus()
       }
     }
-  }, [])
 
-  const scheduleTransition = (callback: () => void) => {
-    if (transitionTimer.current) {
-      clearTimeout(transitionTimer.current)
+    window.addEventListener('keydown', onKeyDown)
+    return () => {
+      document.body.style.overflow = previousOverflow
+      window.removeEventListener('keydown', onKeyDown)
     }
+  }, [isOpen])
 
-    transitionTimer.current = setTimeout(() => {
-      transitionTimer.current = null
-      callback()
-    }, 300)
+  const closeMenu = () => {
+    setIsOpen(false)
+    setExpanded(null)
   }
 
-  const onHasClosed = () => {
-    scheduleTransition(() => {
-      setSubMenu(null)
-      setIsOpen(true)
-    })
-  }
-
-  const onHasLinked = () => {
-    scheduleTransition(() => {
-      setSubMenu(null)
-      setIsOpen(false)
-    })
-  }
+  const isCurrent = (route: string) => pathname === route || pathname.startsWith(`${route}/`)
 
   return (
-      <>        
-
-        <div className="menu-trigger grid justify-end">
-          <button
-            aria-label="Open menu"
-            onClick={() => {
-              setIsOpen(true)
-            }}
+    <>
+      <nav className="desktop-navigation" aria-label="Primary navigation">
+        {sections.map(section => (
+          <Link
+            key={section.key}
+            className={isCurrent(section.route) ? 'current' : ''}
+            href={section.route}
+            aria-current={isCurrent(section.route) ? 'page' : undefined}
           >
-            <span aria-hidden="true">☰</span>
-          </button>
+            {section.label}
+          </Link>
+        ))}
+      </nav>
+
+      <button
+        ref={triggerRef}
+        className="menu-trigger"
+        type="button"
+        aria-label="Open menu"
+        aria-expanded={isOpen}
+        aria-controls="mobile-navigation"
+        onClick={() => setIsOpen(true)}
+      >
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </button>
+
+      <button
+        className={`menu-backdrop ${isOpen ? 'open' : ''}`}
+        type="button"
+        aria-label="Close menu"
+        tabIndex={isOpen ? 0 : -1}
+        onClick={closeMenu}
+      />
+
+      <nav
+        id="mobile-navigation"
+        className={`mobile-navigation ${isOpen ? 'open' : ''}`}
+        aria-label="Mobile navigation"
+        aria-hidden={!isOpen}
+      >
+        <div className="mobile-navigation-header">
+          <span>Explore</span>
+          <button ref={closeRef} type="button" aria-label="Close menu" onClick={closeMenu}>×</button>
         </div>
 
-        {/* the menu - slides in and out via css */}
-        <nav
-          id='menu-nav'
-          className={isOpen ? "open" : "close"}
-        >
-          <div 
-            className="grid justify-end"
-          >
-            <button
-              aria-label="Close menu"
-              onClick={() => {
-                setIsOpen(false)
-              }}
-            >
-              ×
-            </button>
-            <br />
-          </div>
+        <Link className="mobile-home-link" href="/" onClick={closeMenu}>Home</Link>
 
-          <div
-            className='grid grid-flow-row justify-start'
-          >
-            <div
-                  className='grid grid-flow-col cols-1 justify-start'
-                >
+        <div className="mobile-navigation-sections">
+          {sections.map(section => {
+            const isExpanded = expanded === section.key
+            return (
+              <section key={section.key} className="mobile-navigation-section">
+                <div className="mobile-navigation-row">
                   <Link
-                    className="menu-item-home on-primary"
-                    href="/"
-                    onClick={() => {
-                      setIsOpen(false)
-                      onHasLinked()
-                    }}
-                  >                                        
-                    {'home'}
+                    className={isCurrent(section.route) ? 'current' : ''}
+                    href={section.route}
+                    onClick={closeMenu}
+                  >
+                    {section.label}
                   </Link>
-                </div>
-            
-            {Object.keys(menu).map((section, index) => {              
-
-              return (     
-                
-                <div
-                  key={index}
-                >
-                
-                  <p className="menu-sections">{section}</p> 
-                    
-                  {Object.keys(menu[section]).map(thisSection => {
-
-                    return (
-                      <p
-                        key={`${section} + ${thisSection} + ${index}`}
-                        className="menu-item on-primary"
-                        onClick={() => {
-                          const subMenu: SubMenuLinks = {
-                            title: thisSection,
-                            links: menu[section][thisSection]
-                          }
-                          setSubMenu(subMenu)     
-                          setIsOpen(false)                    
-                        }}
-                      >
-                        {thisSection}
-                      </p>
-                    )
-                  })}
+                  <button
+                    type="button"
+                    aria-label={`${isExpanded ? 'Collapse' : 'Expand'} ${section.label}`}
+                    aria-expanded={isExpanded}
+                    onClick={() => setExpanded(isExpanded ? null : section.key)}
+                  >
+                    <span aria-hidden="true">{isExpanded ? '−' : '+'}</span>
+                  </button>
                 </div>
 
-              )})}
-          </div>
-        </nav>
-
-        {subMenu && <SubMenu title={subMenu.title} links={subMenu.links} onHasClosed={onHasClosed} onHasLinked={onHasLinked}/>}
-      </>
+                {isExpanded && (
+                  <div className="mobile-navigation-details">
+                    {section.groups.map(group => (
+                      <div key={group.path}>
+                        {section.groups.length > 1 && <p>{group.title}</p>}
+                        <div>
+                          {Object.values(group.content).map(item => (
+                            <Link key={item.id} href={`${group.path}/${item.endPoint}`} onClick={closeMenu}>
+                              {item.title}
+                            </Link>
+                          ))}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                )}
+              </section>
+            )
+          })}
+        </div>
+      </nav>
+    </>
   )
 }
-
-{/* <SubMenu title={thisSection} links={menu[section][thisSection]} onClose={onClose} />    */}
