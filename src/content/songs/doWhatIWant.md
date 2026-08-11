@@ -1,6 +1,6 @@
 # Do What I Want
 
-By _Fat Pad Concussion_ (a Huckle-Smith-Pitrova-Hamsik-Hamsikova family-band formed on a trip to [Corrageen](/assets/poetry/milk-after-ivor)).
+By _Fat Pad Concussion_ (a Huckle-Smith-Pitrova-Hamsik-Hamsikova family-band formed on a trip to [Corrageen](/writing/poetry/milk-after-ivor)).
 
 [do what i want recording (_recorded 24th November 2023_)](/assets/audio/doWhatIWantBand.mp3)
 

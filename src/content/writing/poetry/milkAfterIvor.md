@@ -185,4 +185,4 @@
 
 6 August, 2023
 
-![Watching for a Hen Harrier](/assets/photos/corrageen.jpeg)
+![Watching for a Hen Harrier](/assets/photos/corrageen.avif)

@@ -66,6 +66,6 @@ Honour those at Orgreave, | Honour the Light Brigade,
 Noble eight thousand five hundred! | Noble six hundred!
 &nbsp; | &nbsp;
 
-[orgreave reading](/assets/audio/Orgreave.wav)
+[orgreave reading](/assets/audio/Orgreave.mp3)
 
 27 January, 2018

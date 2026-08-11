@@ -5,7 +5,7 @@ const HomePage = () => {
     <ResponsiveLanding
       imageAlt="dr huckle"
       imageClassName="home"
-      imageSrc="/assets/images/me.jpg"
+      imageSrc="/assets/images/me.avif"
     >
       <div className="home-hero">
         <p className="eyebrow">Writer · Academic · Educator</p>

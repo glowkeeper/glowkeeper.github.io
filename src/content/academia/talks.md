@@ -18,15 +18,15 @@ A list of talks.
 | Overview of blockchains, given at the launch of the [Creative Technology Group](http://www.sussex.ac.uk/creativetechnology/) at the [University of Sussex](http://www.sussex.ac.uk/) | 9th May, 2016 | [Blockchain Technology and the Internet of Things](https://github.com/glowkeeper/Creative-Technology-Group-Blockchain-Presentation) |
 | Evaluating Bitcoin as an Open Source Project  - a presentation given to the students on the University of Sussex's Science Policy Research Unit's MSc Module, _ICT Policy and Strategy_ | 6th May, 2016 | [Evaluating Bitcoin as an Open Source Project](https://github.com/glowkeeper/Bitcoin-Presentation) |
 
-![Evervator Presentation](/assets/images/enervatorPresentation.jpeg)
+![Evervator Presentation](/assets/images/enervatorPresentation.avif)
 
 _Enervator Presentation_
 
-![Digital Discovery Presentation](/assets/images/digitalDiscoveryFakeNews.jpg)
+![Digital Discovery Presentation](/assets/images/digitalDiscoveryFakeNews.avif)
 
 _Fake News and Blockchains at the [University of Sussex's](https://www.sussex.ac.uk/) Digital Discovery Week_
 
-![Blockchain Application Development Short Course](/assets/images/dCBrighton190318.png)
+![Blockchain Application Development Short Course](/assets/images/dCBrighton190318.avif)
 
 _Introduction to Blockchain Application Development at [Wired Sussex](https://www.wiredsussex.com/)_
 

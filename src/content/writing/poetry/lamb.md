@@ -10,4 +10,4 @@
 
 26 March, 2024
 
-![Lamb](/assets/images/lamb.jpg)
+![Lamb](/assets/images/lamb.avif)

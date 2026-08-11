@@ -12,7 +12,7 @@ const AboutPage = () => (
   <SectionLanding
     imageAlt="dr huckle, standing"
     imageClassName="home"
-    imageSrc="/assets/images/standingMan.jpeg"
+    imageSrc="/assets/images/standingMan.avif"
     linkGridClassName="grid grid-flow-col auto-cols-auto justify-start gap-2"
     section="about"
   />

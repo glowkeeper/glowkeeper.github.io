@@ -27,6 +27,6 @@ While weary Joan does chance her lot. | While greasy Joan doth keel the pot.
 
 Listen to a recording of the poem:
 
-[winter reading](/assets/audio/Winter.wav)
+[winter reading](/assets/audio/Winter.mp3)
 
 7 January, 2018

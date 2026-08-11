@@ -47,6 +47,7 @@ pnpm start      # Serve the generated build locally
 │       └── video/                # Video files
 ├── src/
 │   ├── content/                  # Build-time Markdown, grouped by section
+│   ├── media-originals/          # Source-quality media excluded from deployment
 │   └── app/
 │       ├── components/           # Shared layout, navigation and page components
 │       ├── styles/               # Global, responsive and component CSS
@@ -123,6 +124,8 @@ Use root-relative asset URLs inside Markdown, for example:
 
 [Listen to the recording](/assets/audio/example.mp3)
 ```
+
+Deployed media should use web-oriented formats and sizes: AVIF for raster images, MP3 for audio, and H.264/AAC MP4 with fast-start for video. Source-quality originals belong beneath `src/media-originals/`, where they remain versioned without being copied into the static export.
 
 ## Layout and styling
 

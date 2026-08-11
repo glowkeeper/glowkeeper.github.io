@@ -12,7 +12,7 @@ const AcademiaPage = () => (
   <SectionLanding
     imageAlt="dr huckle, presenting"
     imageClassName="academia"
-    imageSrc="/assets/images/dCBrighton190318.png"
+    imageSrc="/assets/images/dCBrighton190318.avif"
     linkGridClassName="grid grid-flow-col auto-cols-auto justify-start gap-2"
     section="academia"
   />

@@ -1,4 +1,4 @@
-import { readdir, stat } from 'node:fs/promises'
+import { readFile, readdir, stat } from 'node:fs/promises'
 import path from 'node:path'
 
 import { siteSections } from '@/app/config'
@@ -72,6 +72,23 @@ export const validateContentRegistry = async (): Promise<void> => {
 
   const missingDrafts = [...allowedDrafts].filter(file => !markdownFiles.includes(file))
   if (missingDrafts.length) errors.push(`Allowed drafts no longer exist: ${missingDrafts.join(', ')}`)
+
+  const assetReferences = new Set<string>()
+  await Promise.all(markdownFiles.map(async file => {
+    const markdown = await readFile(path.join(contentDirectory, file), 'utf8')
+    for (const match of markdown.matchAll(/\/assets\/[A-Za-z0-9._%/-]+/g)) {
+      assetReferences.add(match[0])
+    }
+  }))
+  const missingAssets = (await Promise.all([...assetReferences].map(async asset => {
+    try {
+      const file = await stat(path.join(process.cwd(), 'public', asset))
+      return file.isFile() ? null : asset
+    } catch {
+      return asset
+    }
+  }))).filter((asset): asset is string => asset !== null)
+  if (missingAssets.length) errors.push(`Missing linked assets: ${missingAssets.join(', ')}`)
 
   if (errors.length) {
     throw new Error(`Content registry validation failed:\n- ${errors.join('\n- ')}`)

@@ -1,6 +1,6 @@
 # What's Wrong With Now?
 
-[what's wrong with now recording](/assets/audio/WhatsWrongWithNow.wav)
+[what's wrong with now recording](/assets/audio/WhatsWrongWithNow.mp3)
 
 ---
 Intro: Am, Em, Am, Em, C

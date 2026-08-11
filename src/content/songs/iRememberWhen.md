@@ -1,6 +1,6 @@
 # I Remember When
 
-[i remember when recording](/assets/audio/iRememberWhen.wav)
+[i remember when recording](/assets/audio/iRememberWhen.mp3)
 
 ---
 Intro: E

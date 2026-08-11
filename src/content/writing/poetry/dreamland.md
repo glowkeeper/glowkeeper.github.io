@@ -27,6 +27,6 @@ In England's unclean, unpleasant Land. | In Englands green & pleasant Land.
 
 Listen to a recording of the poem:
 
-[dreamland reading](/assets/audio/Dreamland.wav)
+[dreamland reading](/assets/audio/Dreamland.mp3)
 
 20 January, 2018

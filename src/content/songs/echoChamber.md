@@ -1,6 +1,6 @@
 # Echo Chamber
 
-[echo chamber recording](/assets/audio/EchoChamber.wav)
+[echo chamber recording](/assets/audio/EchoChamber.mp3)
 
 ---
 Intro: D, C, A#, A, D, C, A#, A, D, C, A#, A, D, C, A#, A, D, C, A#, A, A, A#, C, D, D, C, A#, A, A, A#, C, D

@@ -8,4 +8,4 @@ A list of works produced during my PhD at the [University of Sussex](http://www.
 
 ## Built Software Artefacts
 
-![PhD Applications](/assets/images/allFiveArtefacts.png)
+![PhD Applications](/assets/images/allFiveArtefacts.avif)

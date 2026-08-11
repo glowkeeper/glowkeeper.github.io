@@ -24,14 +24,14 @@ Nathan and I enjoyed catching up - it was great seeing him happy and settled! Bu
 
 After arriving in Brno, I stocked up on refreshments in a nearby supermarket before finding my bus for the three-hour journey to Prague, where I arrived around lunchtime. I needed refuelling for the long, nervous evening ahead, so I sat outside the [Cihelna La Familia](https://cihelnalafamilia.cz/) restaurant on Křižíkova in the [Karlín district of Prague](https://en.wikipedia.org/wiki/Karl%C3%ADn) (just up from the [Florenc bus station](https://www.florenc.cz/index.php?lan=en&site=an&usite=sluzby&sel=usch)) and had a gorgeous salmon risotto and homemade ginger lemonade (I'd decided not to drink before the game, as, unlike the majority of West Ham fans, I wanted to experience the whole event entirely sober; I'd done the same at [West Ham's fabulous 3-0 win in the Europa Cup quarter-final in Lyon](https://www.bbc.co.uk/sport/football/61088177) the previous year and had thoroughly enjoyed myself - enjoying a big game free of alcohol is something I can thoroughly recommend). Afterwards, I headed to the [Křižíkova metro station](https://en.wikipedia.org/wiki/K%C5%99i%C5%BE%C3%ADkova_(Prague_Metro)) and made my way up to [Hradčanská](https://en.wikipedia.org/wiki/Hrad%C4%8Dansk%C3%A1_(Prague_Metro)), where the West Ham fan park was situated. There, I found a muddy, fenced-off festival-like space selling sausages and beer - it was full of [fellow West Ham fans](/assets/video/bubblesFanPark.mp4), but it was not really the vibe I was after. The final straw came when [Chesney Hawkes](https://en.wikipedia.org/wiki/Chesney_Hawkes) arrived on stage and proved he wasn't my [one and only](https://www.youtube.com/watch?v=ZvMsp7s78Do) by murdering Lennon's _Imagine_.
 
-![West Ham fan park](/assets/images/westHamFanPark.jpg)
+![West Ham fan park](/assets/images/westHamFanPark.avif)
 _West Ham Fan Park_
 
 I decided I was better off heading to the old town and finding something more authentically Czech, so I headed back to the metro and the stop [Staroměstská](https://en.wikipedia.org/wiki/Starom%C4%9Bstsk%C3%A1_(Prague_Metro)), where I walked up to [Staroměstské náměstí](https://www.prague.eu/en/object/places/183/old-town-square-staromestske-namesti) - the old town square, famous for [Pražský orloj](https://www.prague.eu/cs/objekt/mista/188/staromestska-radnice-s-orlojem) - Prague's astronomical clock.
 
 The square was overrun by West Ham fans! I even bumped into an old friend, Ciaran, whom I hadn't seen since Cardiff's [2006 Fa Cup final between West Ham and Liverpool](https://en.wikipedia.org/wiki/2006_FA_Cup_final).
 
-![Ciaran](/assets/images/ciaranPrague.jpg)
+![Ciaran](/assets/images/ciaranPrague.avif)
 _Ciaran!_
 
 We lost that game, thanks to [Lionel Scaloni](https://en.wikipedia.org/wiki/Lionel_Scaloni), who, rather than putting the ball into Row Z during the last seconds, smashed it up to Steven Gerrard in the middle of the park, who promptly dispatched it past [Shaka Hislop](https://en.wikipedia.org/wiki/Shaka_Hislop) in the West Ham nets, making it 3-3 and taking the match into extra-time and penalties. Gerrard's was a good goal, but Scaloni should never have given him the effing ball in the first place! Who'd have thought that eejit would end up managing the Argentina World Cup-winning team? I've still not forgiven him for losing his head when we needed calm at the end of that 2006 final - he was supposed to be our most experienced player, too - GRRRR. I hoped my meeting with Ciaran wasn't a bad omen for what would come later that evening.
@@ -42,14 +42,14 @@ Katka and I caught a tram back to her flat in [Vršovice](https://en.wikipedia.o
 
 Waiting at the flat were Anna and Toby, two of Katka's three grown-up kids I already knew from their trips to Brighton. Katka prepared an aubergine and chickpea stew before Katka, Anna, and I made the ten-minute walk to the stadium for the final.
 
-![Anna](/assets/images/anna.jpg)
+![Anna](/assets/images/anna.avif)
 _At the Stadium_
 
 Anna's boyfriend, Kuba, was stewarding at the game, and he watched on as I entered through the Gate 1 security cordon; his presence nearly turned out to be necessary as I endured a nerve-wracking minute-or-so when something appeared to be wrong with my mobile ticket. That meant some suits and other stewards had a bit of discussion about it all - one of the suits even took a photo of my personal info' from the ticket. Fortunately, after a while, I was allowed through the security cordon, where Kuba greeted me. "What was the problem?" he asked - "I have no idea!" I replied (the discussions were all held in Czech). Whatever - even if there was a problem, I bet it would have all been fine, as Kuba, my Guardian angel, might have been able to intervene and smooth things over. I still had one more hurdle to overcome - the turnstile into the stadium itself - thankfully, that went smoothly - a green tick confirmed I could enter. So I waved my thanks to Kuba and headed up some stairs to find my seat.
 
 Oh my! It was still half an hour before kick-off, but the West Ham section was already packed and singing loud and proud!
 
-![West Ham section](/assets/images/westHamSectionPreGame.jpg)
+![West Ham section](/assets/images/westHamSectionPreGame.avif)
 _Before the Game_
 
 I must have found a ticket for the friends and family section, as behind me were [Saïd Benrahma](https://en.wikipedia.org/wiki/Sa%C3%AFd_Benrahma)'s friends, and the row behind them sat [Flynn Downes](https://en.wikipedia.org/wiki/Flynn_Downes)' family. And I was seated next to [Aaron Cresswell](https://en.wikipedia.org/wiki/Aaron_Cresswell)'s dad, who was quite drunk, much like quite a few around me. Aaron hadn't made the starting line-up, and when I asked his dad how he felt about that, he just shrugged, "It is what it is"; maybe he'd had a few to overcome his disappointment? However, Aaron's dad was a picture of sobriety compared to a group of lads in the row in front of me; they could barely stand up! And they must have added another five or six pints during the game - God only knows what state they were in the following day. Their drunken peaks and troughs were quite funny to witness; they were either effing and blinding at the ref' or falling into a drunken stupor, barely witnessing the game unfolding before them. However, I was less enthralled by their obliviousness to the two young Czech children sitting in front of them, who couldn't have seen the like before. I wanted to say something about that, "Fellas, you have kids in front of you, so it might be good if you toned down the language!" but it wouldn't have achieved anything other than the possibility of a bit of agro, so I decided to let it go - ah well - I suppose if you take your kids to a football match you should expect exposure to some base behaviour. Still, it's a shame it has to be that way.
@@ -66,7 +66,7 @@ Then came the moment that will live long in the memory of West Ham fans (except,
 
 Since I was in the family and friends section, all the post-match celebrations were happening in front of me (the goal celebrations were in my corner, too).
 
-![post-match celebrations](/assets/images/playerCelebrations.jpg)
+![post-match celebrations](/assets/images/playerCelebrations.avif)
 _Post-Match Celebrations_
 
 So, after lifting the cup, the players brought it over to the corner where I was sitting - not that I'd done much sitting! Aaron's dad even got onto the pitch, where I watched him have a kick about with his two very young grandchildren, who were both sporting West Ham kit featuring their dad's number 3. That was a nice moment - unlike the lads in front of me, Aaron's dad had not been drinking during the game, so I reckon he'd sobered up somewhat.
@@ -76,12 +76,12 @@ _Winners!_
 
 You have to savour the moment when you've had so many trophyless years, so the West Ham fans were going nowhere! The atmosphere was jubilant - like nothing I'd ever witnessed, "Champions of Europe! We know what we are!". That hour or so after the game will live long in my memory. However, all good things must end, so around a quarter past midnight, nearly an hour and a half after the end of the match, people started to leave, and I went with them. It was awesome that I could simply walk home after an away game in Prague! When I returned to Katka's flat, she, her husband Kuba and Toby were waiting for me with a couple of celebratory beers. After congratulating me, they left me to answer my many "Get in!" WhatsApp messages. Then I watched some of the highlights from the game, including [THAT WINNING GOAL](https://www.bt.com/sport/watch/video/clips/2023/june/scenes-bowen-wins-it-for-west-ham-in-90th-minute). I even found myself on the telly - just after Benrahma's goal, the camera swung round and caught [me texting a friend, "Yesssss!"](https://www.youtube.com/watch?v=s8kjqwzDMFU&t=4466s) (I'm on the far left of the shot) - if Andy Warhol had proclaimed fifteen milliseconds of fame instead of [fifteen minutes](https://en.wikipedia.org/wiki/15_minutes_of_fame) then I'd made it - _boom_! Next, I watched the West Ham press conferences featuring a jubilant Bowen and Moyes. Finally, I relived the whole evening by flicking through some of the photos and videos I'd taken - the West Ham fans singing _Bowen's on Fire!_ a full hour after the game has finished is probably my all-time-ever-favourite video ever! In other words, it took me a while to wind down - it was gone 3 am when I finally fell asleep.
 
-[![_Bowen's on Fire!_](/assets/images/bowensOnFire.jpg)](/assets/video/bowensOnFire.mp4)
+[![_Bowen's on Fire!_](/assets/images/bowensOnFire.avif)](/assets/video/bowensOnFire.mp4)
 _Bowen's on Fire_
 
 The next day, I had a bit of work to catch up on, so I hung around the flat and bashed out a few lines of code on my laptop before having lunch and a chat with Katka's youngest daughter, Klara, who made me a sumptuous potato salad. Following a mid-afternoon siesta, Katka came home and dragged me out into the Prague evening via its fantastic tram service, where, for 40 Kč (about £1.40), you get an hour and a half to travel on any of Prague's public transport - bus, tram, train or metro - an absolute bargain. Once in town, we admired [David Cerny's incredible rotating Franz Kafka homage](https://www.tours-prague.eu/prague-franz-kafka-statue.phtml) before having dinner with Anna and Klara at a restaurant opposite the statue - [Dhaba Beas](https://dhababeas.cz/), a yummy vegetarian buffet where you have to weigh your dinner (which made me feel a bit like a horse, and I probably ate enough to satisfy one). Afterwards, we jumped onto Prague's [Petřín funicular](https://en.wikipedia.org/wiki/Pet%C5%99%C3%ADn_funicular) and travelled up to the summit of a hill overlooking Prague. Not that we got the view until we'd walked a little down the hill, through a beautiful church courtyard and onto a viewing area near Prague's Swedish embassy. But the view was worth waiting for! Prague is stunning!
 
-![The view over Prague](/assets/images/annaMeKlaraKatka.jpeg)
+![The view over Prague](/assets/images/annaMeKlaraKatka.avif)
 _Anna, Me, Klara and Katka_
 
 Klara left us, leaving Katka, Anna and me to return to [Klub Petrohradská](https://www.instagram.com/klubpetrohradska/), a bar opposite Katka's flat, where we met Katka's husband, Kuba. It's a fashionably progressive place featuring a small cinema and occasional live shows of local bands and DJs; we had a pleasant half-hour or so there. Kuba reckoned the 220 Kč I paid for two pints and a trendy lemonade was expensive - ha! He should try Brighton - he'd be lucky to get a single pint for that!
@@ -92,7 +92,7 @@ Before going to the bar, we met the other Kuba - Anna's boyfriend, who I thanked
 
 At around 7:45 am the following day, Katka accompanied me to [Vršovice train station](https://en.wikipedia.org/wiki/Praha-Vr%C5%A1ovice_railway_station), where we caught an 8 am train for the short ride to [Praha hlavní nádraží](https://en.wikipedia.org/wiki/Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD), the central train station in Prague.
 
-![coffee in the beautiful art-nouveau main hall at the station](/assets/images/pragueStationMainHall.jpeg)
+![coffee in the beautiful art-nouveau main hall at the station](/assets/images/pragueStationMainHall.avif)
 _A Gentleman in Prague_
 
 After a coffee in the beautiful art-nouveau main hall at the station, I caught an 8:45 train back to Vienna. Katka and I had to ask a guard the location of my seat; they told me carriage six and pointed towards the back of the train. However, after we walked past carriage three, then two, then one, we doubted I was going the right way, so we returned to ask the guard for help. He looked at me, exasperated, and said we had been walking in the right direction, "Three, then two, then one, then six!"  I mean, it's fucking obvious that six precedes one, right? Whatever - I eventually found my seat and settled in for the €27, four-and-a-half-hour journey back to the Austrian capital, where I would get my return flight home.

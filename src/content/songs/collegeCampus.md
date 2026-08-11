@@ -1,6 +1,6 @@
 # College Campus
 
-[college campus recording](/assets/audio/CollegeCampus.wav)
+[college campus recording](/assets/audio/CollegeCampus.mp3)
 
 ---
 Intro: Em, C, Em, D, Em, C, Em, D, C, B

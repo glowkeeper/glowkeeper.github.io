@@ -13,7 +13,7 @@ const ReportsPage = () => (
     heading="writing"
     imageAlt="dr huckle, writing"
     imageClassName="writing"
-    imageSrc="/assets/images/writing.jpg"
+    imageSrc="/assets/images/writing.avif"
     subsection={reportsSections}
   />
 )

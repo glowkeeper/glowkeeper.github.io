@@ -2,7 +2,7 @@
 
 The poetry is by Matt Quinn
 
-[Listen to a recording of the story](/assets/audio/Freedom.wav) from a campfire reading.
+[Listen to a recording of the story](/assets/audio/Freedom.mp3) from a campfire reading.
 
 Hedgrerowdasher was wearing a pair of underpants on his head as he flew into the wide expanse of the beautiful willow tree that hung over the pond. He helped himself to a bowl of caterpillars and nonchalantly plonked himself down on a branch as though there was nothing unusual going on, whatsoever.
 

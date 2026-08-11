@@ -77,6 +77,6 @@ HAPPY CHRISTMAS DADDY! DID YOU HAVE A GOOD NIGHT? | HAPPY CHRISTMAS TO ALL, AND 
 
 Listen to a recording of the poem:
 
-[not christmas reading](/assets/audio/TheNightBeforeNotChristmas.wav)
+[not christmas reading](/assets/audio/TheNightBeforeNotChristmas.mp3)
 
 24 December, 2017

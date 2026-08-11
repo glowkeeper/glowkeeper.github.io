@@ -13,7 +13,7 @@ const SoftwareGamesPage = () => (
     heading="built software"
     imageAlt="dr huckle, coding"
     imageClassName="coding"
-    imageSrc="/assets/images/coding.jpg"
+    imageSrc="/assets/images/coding.avif"
     subsection={gamesSections}
   />
 )
