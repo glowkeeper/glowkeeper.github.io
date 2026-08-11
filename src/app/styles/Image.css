@@ -21,7 +21,15 @@
   background: linear-gradient(180deg, transparent 58%, color-mix(in srgb, var(--primary) 14%, transparent));
 }
 
+.landing-media picture {
+  position: absolute;
+  inset: 0;
+  display: block;
+}
+
 .landing-media img {
+  width: 100%;
+  height: 100%;
   margin: 0;
   padding: 0;
   opacity: 1;

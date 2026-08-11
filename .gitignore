@@ -20,6 +20,8 @@
 # production
 /build
 /public/social
+/public/assets/images/responsive
+/.lighthouseci
 
 # misc
 .DS_Store

@@ -67,6 +67,20 @@ jobs:
       - name: Build with Next.js
         run: pnpm build
 
+      - name: Lighthouse regression checks
+        run: pnpm lighthouse
+        env:
+          LIGHTHOUSE_FULL_AUDIT: true
+
+      - name: Upload Lighthouse reports
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
+        with:
+          name: lighthouse-reports
+          path: .lighthouseci
+          if-no-files-found: warn
+          retention-days: 14
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
         with:

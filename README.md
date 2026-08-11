@@ -29,9 +29,11 @@ pnpm lint       # Run ESLint
 pnpm lint:fix   # Run ESLint and apply safe fixes
 pnpm test       # Run the targeted Vitest suite
 pnpm validate:content # Validate routes and Markdown sources
+pnpm generate:images # Regenerate responsive hero-image variants
 pnpm generate:social # Regenerate page-specific social-preview cards
 pnpm build      # Create the static site in build/
 pnpm start      # Serve the generated build locally
+pnpm lighthouse # Audit representative exported pages with Lighthouse
 ```
 
 ## Project structure
@@ -133,6 +135,8 @@ Use root-relative asset URLs inside Markdown, for example:
 
 Deployed media should use web-oriented formats and sizes: AVIF for raster images, MP3 for audio, and H.264/AAC MP4 with fast-start for video. Source-quality originals belong beneath `src/media-originals/`, where they remain versioned without being copied into the static export.
 
+`pnpm generate:images` creates responsive AVIF variants for the shared landing-page artwork beneath `public/assets/images/responsive/`. That derived directory is ignored by Git and regenerated automatically during every production build. The landing component supplies width-aware `srcset` and `sizes` attributes so browsers download an image appropriate to the rendered viewport and device density.
+
 ## Social previews
 
 Every registered page has its own 1200 × 630 social-preview image. `pnpm generate:social` combines the appropriate section artwork from `src/social-art/` with that page's title and registry summary, writing generated JPEGs beneath `public/social/`. That output is ignored by Git because the build script regenerates it before Next.js exports the site.
@@ -164,3 +168,11 @@ The workflow in `.github/workflows/deploy.yml` runs whenever changes are pushed 
 5. deploys the artifact to GitHub Pages.
 
 Changes are live after the GitHub Pages deployment job completes successfully.
+
+## Automated Lighthouse checks
+
+`lighthouserc.cjs` treats Lighthouse as a regression check for the production static export. It runs each selected route three times under Lighthouse's simulated mobile conditions and applies assertions to the median accessibility, best-practices, SEO and performance results, as well as layout shift, paint, blocking-time and resource-size budgets.
+
+Pull requests audit three representative routes: the homepage, an academic content page and a media page. Pushes to `master` audit those plus contact, software and writing pages before deployment. Manually running the Quality workflow also uses the full six-page set.
+
+The complete HTML and JSON reports are stored as private GitHub Actions artifacts for 14 days. Performance timing and transfer-size limits initially produce warnings, while accessibility, best-practices, SEO and layout-shift regressions fail CI.
