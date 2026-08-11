@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState, useContext, useEffect} from "react"
+import React, { useContext, useEffect} from "react"
 
 import { usePathname } from 'next/navigation'
 
@@ -16,25 +16,20 @@ export const Header = () => {
     const store = useContext(StoreContext)
     const path = usePathname()
 
-    const [title, setTitle] = useState<string>('')
+    const title = store?.state.title ?? ''
+    const dispatch = store?.dispatch
 
     useEffect(() => {
   
-      if (path === '/' && store?.state.title != 'home')
+      if (path === '/' && title !== 'home')
       {
-        store?.dispatch({
+        dispatch?.({
           type: StoreAction.TitleSet,
           payload: 'home',
         }) 
       }
   
-    }, [path, store])
-  
-    useEffect(() => {
-  
-      setTitle(store?.state.title as string)
-  
-    }, [store?.state.title])
+    }, [dispatch, path, title])
 
   return (
     <header>

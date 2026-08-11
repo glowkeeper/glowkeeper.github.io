@@ -15,20 +15,22 @@ import { siteSections } from '@/app/config'
 const AboutPage = () => {
 
   const store = useContext(StoreContext)
+  const currentTitle = store?.state.title
+  const dispatch = store?.dispatch
 
   const section = 'academia'
 
   useEffect(() => {
     
-    if(store?.state.title != section) 
+    if(currentTitle !== section)
     {
-      store?.dispatch({
+      dispatch?.({
         type: StoreAction.TitleSet,
         payload: section,
       }) 
     }
 
-  }, [store])
+  }, [currentTitle, dispatch])
 
   return (
 

@@ -1,12 +1,12 @@
 'use client'
 
-import React, { useReducer } from 'react'
+import React from 'react'
 
 import type { SiteContent } from '@/app/store/types'
 
 export type Store = {
   state: AppState
-  dispatch: (action: (() => void) | AppAction) => void
+  dispatch: React.Dispatch<AppAction>
 } | null
 
 export const StoreContext = React.createContext<Store>(null)
@@ -68,23 +68,6 @@ export const titleReducer = (state: string, action: AppAction): string => {
     default:
       return state
   }
-}
-
-export const useReducerWithThunk = (
-  reducer: (state: AppState, action: AppAction) => AppState,
-  initialState: AppState,
-): [AppState, (action: (() => void) | AppAction) => void] => {
-  const [state, dispatch] = useReducer(reducer, initialState)
-
-  const customDispatch = (action: (() => void) | AppAction) => {
-    if (typeof action === 'function') {
-      action()
-    } else {
-      dispatch(action)
-    }
-  }
-
-  return [state, customDispatch]
 }
 
 const combineReducers = (reducers: {

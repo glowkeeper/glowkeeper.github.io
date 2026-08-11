@@ -16,16 +16,9 @@ interface SubMenuProps {
 export const SubMenu: SubMenuType = ({ title, links, onHasClosed, onHasLinked }: SubMenuProps) => {
 
   const [isOpen, setIsOpen] = useState<boolean>(false)
-  const [menu, setMenu] = useState<MenuLink[]>([])
-
   useEffect(() => {    
-
-    //console.log('setting links', links)
-
-    setMenu(links)
     setIsOpen(true)
-
-  }, [links])
+  }, [title])
 
   return (
       <> 
@@ -49,15 +42,14 @@ export const SubMenu: SubMenuType = ({ title, links, onHasClosed, onHasLinked }:
           </div>          
           <p className='sub-menu-sections'>{title}</p> 
           <>
-            {menu.map((link, index) => {
+            {links.map((link) => {
 
               return (
                 <div
-                  key={index}
+                  key={link.route}
                   className='grid grid-flow-col cols-1 justify-start gap-0'
                 >
                   <Link
-                    key={index}
                     className="menu-item on-primary"
                     href={link.route}
                     onClick={() => {

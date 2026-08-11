@@ -1,17 +1,17 @@
 'use client'
 
-import React, { useState, useEffect, useMemo } from "react"
+import React, { useEffect, useMemo, useReducer } from "react"
 
 import { Header } from '@/app/components/Header'
 import { Footer } from '@/app/components/Footer'
 
-import { setContent } from "@/app/utils/content"
+import { loadContent } from "@/app/utils/content"
 
 import {
   StoreContext,
+  StoreAction,
   rootReducer,
-  initialState,
-  useReducerWithThunk
+  initialState
 } from '@/app/store/store'
 
 export const Site = ({
@@ -20,23 +20,29 @@ export const Site = ({
   children: React.ReactNode;
 }>) => {
 
-  const [state, dispatch] = useReducerWithThunk(rootReducer, initialState)
+  const [state, dispatch] = useReducer(rootReducer, initialState)
   const store = useMemo(() => {
-    return { state: state, dispatch: dispatch }
-  }, [state, dispatch]) 
-
-  const [firstLoad, setFirstLoad] = useState<boolean>(true)
+    return { state, dispatch }
+  }, [state])
 
   useEffect(() => {
-  
-    if(firstLoad)
-    {
+    let cancelled = false
 
-      setContent(store)
-      setFirstLoad(false)
-    }  
+    loadContent().then(content => {
+      if (!cancelled) {
+        dispatch({
+          type: StoreAction.ContentSet,
+          payload: content,
+        })
+      }
+    }).catch(error => {
+      console.error('Unable to load site content', error)
+    })
 
-  }, [store, firstLoad])
+    return () => {
+      cancelled = true
+    }
+  }, [dispatch])
 
   return (    
     <StoreContext.Provider value={store}>

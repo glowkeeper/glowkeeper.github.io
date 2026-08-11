@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState, useEffect } from 'react'
+import React, { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
 
 import { SubMenu } from './SubMenu'
@@ -27,67 +27,63 @@ type MenuType = {
   [key: string]: MenuSections
 }
 
+const createMenu = (): MenuType => {
+  const menu: MenuType = {}
+
+  Object.keys(siteSections as TopLevel).forEach(section => {
+    const sectionTitle = siteSections[section].title
+    menu[sectionTitle] = {}
+
+    siteSections[section].siteSections.forEach(subSection => {
+      menu[sectionTitle][subSection.title] = Object.values(subSection.content).map(item => ({
+        title: item.title,
+        route: `${subSection.path}/${item.endPoint}`,
+      }))
+    })
+  })
+
+  return menu
+}
+
+const menu = createMenu()
+
 export const Menu = () => {
 
   const [isOpen, setIsOpen] = useState<boolean>(false)
-  const [menu, setMenu] = useState<MenuType>({})
-  const [subMenu, setSubMenu] = useState<SubMenuLinks>({} as SubMenuLinks)
+  const [subMenu, setSubMenu] = useState<SubMenuLinks | null>(null)
+  const transitionTimer = useRef<ReturnType<typeof setTimeout> | null>(null)
 
   useEffect(() => {
-
-    //console.log('in here')
-
-    const menu: MenuType = {}
-    Object.keys(siteSections as TopLevel).forEach((section) => {
-      //console.log('section', section)
-
-      const sectionTitle = siteSections[section].title
-
-      menu[sectionTitle] = {}
-       
-      siteSections[section].siteSections.forEach((subSection) => {
-        //console.log('sub section', subSection)
-
-        menu[sectionTitle][subSection.title] = []
-        
-        Object.keys(subSection.content).forEach(item => {
-
-          const path = subSection.path
-
-          const thisLink: MenuLink = {
-            title: subSection.content[item].title,
-            route: `${path}/${subSection.content[item].endPoint}`
-          }
-
-          menu[sectionTitle][subSection.title].push(thisLink)
-          
-        })
-      })
-
-    })
-
-    setMenu(menu)
-
+    return () => {
+      if (transitionTimer.current) {
+        clearTimeout(transitionTimer.current)
+      }
+    }
   }, [])
 
-  const onHasClosed = () => {
+  const scheduleTransition = (callback: () => void) => {
+    if (transitionTimer.current) {
+      clearTimeout(transitionTimer.current)
+    }
 
-    const timer = setTimeout(() => {
-      setSubMenu({} as SubMenuLinks)
-      setIsOpen(true)
+    transitionTimer.current = setTimeout(() => {
+      transitionTimer.current = null
+      callback()
     }, 300)
+  }
 
-    return () => clearInterval(timer)      
+  const onHasClosed = () => {
+    scheduleTransition(() => {
+      setSubMenu(null)
+      setIsOpen(true)
+    })
   }
 
   const onHasLinked = () => {
-    
-    const timer = setTimeout(() => {
-      setSubMenu({} as SubMenuLinks)
+    scheduleTransition(() => {
+      setSubMenu(null)
       setIsOpen(false)
-    }, 300)
-
-    return () => clearInterval(timer)      
+    })
   }
 
   return (
@@ -177,7 +173,7 @@ export const Menu = () => {
           </div>
         </nav>
 
-        {subMenu?.hasOwnProperty('title') && <SubMenu title={subMenu.title} links={subMenu.links} onHasClosed={onHasClosed} onHasLinked={onHasLinked}/>}
+        {subMenu && <SubMenu title={subMenu.title} links={subMenu.links} onHasClosed={onHasClosed} onHasLinked={onHasLinked}/>}
       </>
   )
 }

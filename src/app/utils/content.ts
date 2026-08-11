@@ -1,47 +1,50 @@
 import { siteSections } from '@/app/config'
 
-import {
-  StoreAction
-} from '@/app/store/store'
+import type {
+  Content,
+  SiteContent,
+  Site as TopLevel,
+} from '@/app/store/types'
 
-import type { Content, SiteContent, Site as TopLevel } from '@/app/store/types'
-import type { Store } from '@/app/store/store'
+type ContentRoute = {
+  route: string
+  item: Content
+}
 
-export const setContent = (store: Store) => {
+const contentRoutes: ContentRoute[] = Object.keys(siteSections as TopLevel).flatMap(section =>
+  siteSections[section].siteSections.flatMap(subSection =>
+    Object.values(subSection.content).map(item => ({
+      route: `${subSection.path}/${item.endPoint}`,
+      item,
+    }))
+  )
+)
 
-    Object.keys(siteSections as TopLevel).forEach(section => {
-    
-        //console.log('section', section)
-        
-        siteSections[section].siteSections.forEach(subSection => {
-            //console.log('sub section', subSection)
+let contentPromise: Promise<SiteContent> | undefined
 
-            Object.keys(subSection.content).forEach(item => {
-           
+export const loadContent = (): Promise<SiteContent> => {
+  if (!contentPromise) {
+    contentPromise = Promise.all(
+      contentRoutes.map(async ({ route, item }) => {
+        const response = await fetch(item.content)
 
-                //console.log('content', item)
-                const thisItem: Content = subSection.content[item]
-                const route = `${subSection.path}/${thisItem.endPoint}`
-                fetch(thisItem.content)
-                .then(res => res.text())
-                .then(text => { 
+        if (!response.ok) {
+          throw new Error(`Unable to load content from ${item.content}`)
+        }
 
-                    // console.log('item', thisItem)
-                    const thisContent: SiteContent = {
-                        [route]: {
-                            id: thisItem.id,
-                            title: thisItem.title,
-                            subText: thisItem.subText,
-                            content: text
-                        }
-                    }
-                    
-                    store?.dispatch({
-                        type: StoreAction.ContentAdd,
-                        payload: thisContent,
-                    })
-                })
-            })
-        })
-    })
-} 
+        return [route, {
+          id: item.id,
+          title: item.title,
+          subText: item.subText,
+          content: await response.text(),
+        }] as const
+      })
+    ).then(entries => Object.fromEntries(entries) as SiteContent)
+      .catch(error => {
+        contentPromise = undefined
+        throw error
+      })
+  }
+
+  return contentPromise
+}
