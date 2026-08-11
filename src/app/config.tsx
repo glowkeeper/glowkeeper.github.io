@@ -9,17 +9,17 @@ export enum AcademiaSections {
 }
 
 export enum SoftwareSections {
-  apps,
-  games
+  games,
+  apps
 }
 
 export enum WritingSections {
-  books, 
-  flashFiction,
-  humour,
   poetry,
+  stories,
+  flashFiction,
   reports,
-  stories
+  books,
+  humour
 }
 
 export enum MusicSections {

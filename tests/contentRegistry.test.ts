@@ -1,5 +1,18 @@
 import { describe, expect, it } from 'vitest'
 
+import {
+  appsSections,
+  booksSections,
+  flashFictionSections,
+  gamesSections,
+  humourSections,
+  poetrySections,
+  reportsSections,
+  siteSections,
+  SoftwareSections,
+  storiesSections,
+  WritingSections,
+} from '@/app/config'
 import { allowedDrafts, validateContentRegistry } from '@/app/utils/contentRegistry'
 
 describe('content registry', () => {
@@ -9,5 +22,17 @@ describe('content registry', () => {
 
   it('documents the intentional millwright review draft', () => {
     expect(allowedDrafts).toEqual(new Set(['writing/stories/millwrightReview.md']))
+  })
+
+  it('keeps reordered landing sections mapped to their route groups', () => {
+    expect(siteSections.software.siteSections[SoftwareSections.games]).toBe(gamesSections)
+    expect(siteSections.software.siteSections[SoftwareSections.apps]).toBe(appsSections)
+
+    expect(siteSections.writing.siteSections[WritingSections.poetry]).toBe(poetrySections)
+    expect(siteSections.writing.siteSections[WritingSections.stories]).toBe(storiesSections)
+    expect(siteSections.writing.siteSections[WritingSections.flashFiction]).toBe(flashFictionSections)
+    expect(siteSections.writing.siteSections[WritingSections.reports]).toBe(reportsSections)
+    expect(siteSections.writing.siteSections[WritingSections.books]).toBe(booksSections)
+    expect(siteSections.writing.siteSections[WritingSections.humour]).toBe(humourSections)
   })
 })
