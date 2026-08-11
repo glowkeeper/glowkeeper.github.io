@@ -4,7 +4,7 @@ import Image from 'next/image'
 export const Footer = () => {
   return (    
     <footer>  
-      <div className="hidden md:grid grid-flow-col cols-2 items-center justify-start gap-2">
+      <div className="footer-built-with hidden md:grid grid-flow-col cols-2 items-center justify-start gap-2">
         <p className="footer-item on-secondary">Built using</p>
         <Link
           href="https://nextjs.org/"
@@ -17,11 +17,11 @@ export const Footer = () => {
           />        
         </Link>
       </div> 
-      <p className="footer-item on-secondary">
-        © 2025, Dr Steve Huckle
-      </p>
+      <small className="footer-copyright on-secondary">
+        © {new Date().getFullYear()} Dr Steve Huckle
+      </small>
 
-      <div className="grid grid-flow-row auto-rows-auto items-start justify-center gap-2">
+      <nav className="footer-links" aria-label="Footer navigation">
         <Link 
           className="on-secondary"
           href="/about/contact"
@@ -40,7 +40,7 @@ export const Footer = () => {
         >
           legal
         </Link>   
-      </div>      
+      </nav>
     </footer>
   )
 }

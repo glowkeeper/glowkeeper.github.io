@@ -9,8 +9,23 @@ header {
   width: 100%;
 }
 
-@media only screen and (max-width: 767px) and (max-height: 650px) {
+@media only screen and (max-width: 767px) {
   header {
-    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+    grid-template-columns: minmax(0, 1fr) auto;
+    border-bottom: 1px solid color-mix(in srgb, var(--secondary-foreground) 18%, transparent);
+    box-shadow: 0 2px 12px color-mix(in srgb, var(--on-background) 10%, transparent);
+  }
+
+  .header-context {
+    display: none;
+  }
+
+  .header-brand {
+    justify-content: start;
+    padding-left: 1rem;
+  }
+
+  .header-brand a {
+    text-align: left;
   }
 }

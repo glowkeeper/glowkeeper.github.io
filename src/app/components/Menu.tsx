@@ -89,16 +89,14 @@ export const Menu = () => {
   return (
       <>        
 
-        <div 
-          id='menu-burger'
-          className="grid justify-end"
-        >
+        <div className="menu-trigger grid justify-end">
           <button
+            aria-label="Open menu"
             onClick={() => {
               setIsOpen(true)
             }}
           >
-            <p id="menu-burger">≡</p>
+            <span aria-hidden="true">☰</span>
           </button>
         </div>
 
@@ -111,11 +109,12 @@ export const Menu = () => {
             className="grid justify-end"
           >
             <button
+              aria-label="Close menu"
               onClick={() => {
                 setIsOpen(false)
               }}
             >
-              X
+              ×
             </button>
             <br />
           </div>

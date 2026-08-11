@@ -1,27 +1,58 @@
-footer { 
-  @apply grid grid-flow-col auto-cols-auto items-center justify-center gap-16;
+footer {
   position: fixed;
   bottom: 0;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: auto;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+  width: 100%;
+  height: var(--footer-height);
+  padding: 0.5rem 0;
   background-color: var(--secondary);
   color: var(--secondary-foreground);
-  height: var(--footer-height);
-  width: 100%;
-  padding: 0.5rem 0 0.5rem 0;
 }
 
-p.footer-item {
+.footer-copyright {
+  font-weight: var(--font-weight-semibold);
+  white-space: nowrap;
+}
+
+.footer-built-with p {
   font-weight: var(--font-weight-semibold);
 }
 
-@media only screen and (max-width: 767px) {
-
-  footer { 
-    padding: 0.2rem 0 0.2rem 0;
-  }
+.footer-links {
+  display: grid;
+  grid-auto-flow: row;
+  align-items: start;
+  justify-content: center;
+  gap: 0.5rem;
 }
 
-@media only screen and (max-width: 767px) and (max-height: 650px) {
+@media only screen and (max-width: 767px) {
   footer {
-    gap: 2rem;
+    grid-template-columns: minmax(0, 1fr) auto;
+    grid-auto-flow: row;
+    justify-content: stretch;
+    gap: 0.75rem;
+    padding: 0 1rem;
+    border-top: 1px solid color-mix(in srgb, var(--secondary-foreground) 18%, transparent);
+  }
+
+  .footer-copyright {
+    font-size: 0.7rem;
+  }
+
+  .footer-links {
+    grid-auto-flow: column;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  .footer-links a {
+    font-size: 0.75rem;
+    font-weight: var(--font-weight-medium);
   }
 }

@@ -2,6 +2,7 @@
 
 import React, { useContext, useEffect} from "react"
 
+import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 
 import { Menu } from './Menu'
@@ -33,15 +34,17 @@ export const Header = () => {
 
   return (
     <header>
-        <div className="grid items-center justify-start">
+        <div className="header-context grid items-center justify-start">
           <p className="page-title">{title}</p>
-        </div>        
-        <div className="grid items-center justify-center">
-          {path === '/' ? (
-            <h1 className='site-title'>Dr Steve Huckle</h1>
-          ) : (            
-            <p className='site-title'>Dr Steve Huckle</p>//h1 probably taken by page title
-          )}
+        </div>
+        <div className="header-brand grid items-center justify-center">
+          <Link href="/" aria-label="Dr Steve Huckle — home">
+            {path === '/' ? (
+              <h1 className="site-title">Dr Steve Huckle</h1>
+            ) : (
+              <p className="site-title">Dr Steve Huckle</p>
+            )}
+          </Link>
         </div>
         <Menu />
     </header>
