@@ -2,6 +2,7 @@
   "name": "dr-huckle",
   "version": "2.1.0",
   "homepage": "https://huckle.studio/",
+  "packageManager": "pnpm@10.28.2",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
