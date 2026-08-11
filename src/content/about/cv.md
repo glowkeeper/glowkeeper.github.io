@@ -1,72 +1,114 @@
 # Dr Steve Huckle
 
-I am an accomplished developer, educated to doctoral level, who has found the joy of teaching; it's a wonderful opportunity to pass on my experience and evolve and enthuse the next generation.
+Computing educator, curriculum designer and software developer.
 
 ## Professional Profile
 
-I am currently a Visiting Tutor at the [University of Roehampton](https://www.roehampton.ac.uk/), where I have been teaching Foundation Year students how to conduct research and [introducing them to building games](https://github.com/glowkeeper/IntroToBuilding3DGamesInUnity). Before that, I was a Lecturer in Computer Graphics and Computer Science at the University of Sussex, where I taught students the Unity games engine and the fundamentals of a 3D space.
+I design and deliver engaging computing education for university students and people beginning careers in technology. My work spans curriculum and assessment design, lectures, workshops, tutor guidance, learner resources and practical projects. I hold a Postgraduate Certificate in Higher Education (PGCertHE) and am a Fellow of Advance HE (FHEA).
 
-My career in computing began in the early 1990s. After earning a distinction for my bachelor's degree in Computer Science, I worked as a UNIX Systems Administrator. I then ran my own web-based business, streaming DJ mixes online. That sparked an interest in digital music, so in 2003 I undertook a master's degree in Music Technology. That led to my becoming an Audio Programmer in games, where I worked on various released titles.
+My teaching draws on more than three decades of technical practice across full-stack web development, games programming, systems administration and blockchain research. I make complex ideas accessible, connect theory with practice and help learners build the confidence to work independently.
 
-I then returned to the web space as a freelance web programmer, before a friend asked me to build a Bitcoin mining rig for them sometime around 2013. I have since completed a [PhD](/academia/phd) that focused on blockchains, where my [thesis](/assets/docs/pHDThesis.pdf) used design science research to ask whether the technology could help overcome some of the most urgent problems facing humanity. In short, blockchains might _help_, but it is impossible to solve all of humanity's issues through technology; we must also change political, economic, and cultural goals. However, the best outcome from my PhD was that it introduced me to academia and the joys of teaching.
+## Core Expertise
 
-## Experience
+- Curriculum, assessment and learning-resource design
+- Higher education and career-transition teaching
+- Data visualisation, analysis and research skills
+- Full-stack web development with JavaScript, React and Node.js
+- Purposeful and critical use of AI in education
+- Creative computing, Unity and games development
+- Linux, macOS, Git and developer workflows
 
-- Five years as Module Convenor of Programming for 3D, a third-year undergraduate and postgraduate games programming course at the University of Sussex
-- Five years of programming within the games industry, where I worked on four completed titles
-- I have been writing full-stack Javascript since 2016 – React frontends. Node.js, Express, MySQL backends
-- I have a decade of experience with blockchains, including four years researching the technology as part of a PhD
-- Many years of freelance computing experience, during which I created and maintained many websites
-- Early in my professional career, I was a UNIX Systems Administrator. I maintain strong Linux and Mac command-line skills
+## Professional Experience
 
-## Academic Publications
+My recent work brings together university teaching, curriculum development and intensive, career-focused technical education.
+
+### Visiting Tutor — University of Roehampton
+
+_January 2025 – present_
+
+- Teaching Academic and Communication Skills (ACS) and Data Analysis and Research Skills (DA&RS)
+- Designing teaching content for DA&RS and the postgraduate Data Visualisation and Intelligence (DVI) module
+- Creating curricula, lectures, workshops, practical activities, assessments and supporting resources for students and tutors
+- Introducing Foundation Year students to Unity through a practical workshop in which they built a small 3D game
+
+### Curriculum Designer and Software Development Tutor — Creative Process
+
+_2026 – present_
+
+- Designing and teaching eight-week software development bootcamps for people beginning careers in technology
+- Developing complete teaching programmes spanning developer workflows, HTML, CSS, JavaScript, React, browser-based data persistence, testing, deployment and project showcases
+- Creating tutor guidance, slide decks, worksheets, learner activities and progressively developed reference applications
+- Guiding learners from supported practice to independent, client-informed projects
+- Helping learners use AI critically as a mentor while retaining understanding and ownership of their work
+
+### Lecturer in Computer Graphics — University of Sussex
+
+_October 2020 – July 2025_
+
+- Five years as convenor of Programming for 3D for third-year undergraduate and postgraduate students
+- Design and delivery of an intensive Unity-based module combining game development with creative thinking, narrative design, agile project management and source control
+- Teaching topics spanning 3D modelling, materials, shaders, lighting, physics, scripting, multimedia, animation, particle systems and cutscenes
+
+### Full-Stack Development Teacher — Boolean UK
+
+_September 2021 – October 2022_
+
+- Teaching on an intensive six-month full-stack software development bootcamp
+- Guiding learners from HTML, CSS and JavaScript through React and server-side development with Node.js, Express, PostgreSQL, SQL and Prisma
+
+### Senior Developer — Minima Global
+
+_September 2020 – November 2021_
+
+- Software development for a distributed technology project, drawing on extensive blockchain expertise
+
+## Career History
+
+- 2026 – present: Curriculum Designer and Software Development Tutor — Creative Process
+- January 2025 – present: Visiting Tutor — University of Roehampton
+- October 2020 – July 2025: Lecturer in Computer Graphics — University of Sussex
+- September 2021 – October 2022: Full-Stack Development Teacher — Boolean UK
+- September 2020 – November 2021: Senior Developer — Minima Global
+- November 2008 – January 2016: Freelance Programmer
+- May 2007 – November 2008: Senior Audio Programmer — Zoe Mode
+- October 2004 – May 2007: Senior Audio Programmer — Sony Computer Entertainment
+- August 2001 – September 2003: Company Director — Yossarian Computing Ltd
+- February 2001 – August 2001: Contract Web Support Engineer — Credit Suisse First Boston
+- July 1998 – January 2001: Contract UNIX Technical Support Engineer — Reuters Ltd
+- November 1997 – May 1998: UNIX Systems Administrator — University of North London
+- July 1996 – June 1997: Intern UNIX Systems Administrator — Reuters Ltd
+- March 1995 – October 1995: Contract IT Systems Trainer — Hounslow Social Services
+- June 1992 – September 1994: UNIX Systems Administrator — Seymour International Press
+
+My earlier work across web development, games and infrastructure built the broad technical foundation that now informs my teaching: programming, web technologies, audio systems, production software, command-line tools and the practical realities of collaborative development.
+
+## Education
+
+- September 2024 – March 2025: Postgraduate Certificate in Higher Education (PGCertHE)
+- February 2016 – March 2020: PhD in Informatics — University of Sussex
+- September 2010 – January 2014: MSc Architecture: Advanced Environmental and Energy Studies — Centre for Alternative Technology
+- January 2005 – September 2008: Diploma in Mathematics — Open University
+- September 2003 – September 2004: MSc Music Technology (Distinction) — City University, London
+- September 1994 – June 1998: BSc (Hons) Computer Science (First Class) — University of North London
+- January 1992 – January 1993: City & Guilds 424, Applications Programming in COBOL
+
+## Professional Accreditation
+
+I am a Fellow of Advance HE (FHEA).
+
+## Doctoral Research
+
+My [PhD research](/academia/phd) used design science to investigate applications of blockchain technology beyond cryptocurrencies. My [thesis](/assets/docs/pHDThesis.pdf) considered whether decentralised technologies could contribute to addressing social and environmental problems while recognising that technology cannot substitute for political, economic and cultural change.
+
+## Selected Academic Publications
 
 - [Loosen control without losing control: Formalization and decentralization within commons-based peer production](https://doi.org/10.1002/asi.24393)
 - [Cryptocurrencies and Beyond: Using Design Science Research to Demonstrate Diverse Applications of Blockchains](http://sro.sussex.ac.uk/id/eprint/90377/)
-- [Fake News - a Technological Approach to Proving Provenance Using Blockchains](https://doi.org/10.1089/big.2017.0071)
+- [Fake News — a Technological Approach to Proving Provenance Using Blockchains](https://doi.org/10.1089/big.2017.0071)
 - [Towards a post-cash society: An application to convert fiat money into a cryptocurrency](http://firstmonday.org/ojs/index.php/fm/article/view/7410/6003)
 - [Socialism and the Blockchain](http://www.mdpi.com/1999-5903/8/4/49)
 - [Internet of Things, Blockchain and Shared Economy Applications](http://dx.doi.org/10.1016/j.procs.2016.09.074)
 
-## Career History
-
-- January 2025 - now: Visiting Tutor - University of Roehampton
-- October 2020 - July 2025: Lecturer in Computer Graphics - University of Sussex
-- September 2021 - October 2022: Full Stack Development Teacher - Boolean UK Ltd
-- September 2020 - November 2021: Senior Developer, Minima Global
-- November 2008 – January 2016: Freelance Programmer
-- May 2007 – November 2008: Senior Audio Programmer - Zoe Mode
-- October 2004 – May 2007: Senior Audio Programmer - Sony Computer Entertainment
-- August 2001 - September 2003: Company Director - Yossarian Computing Ltd
-- February 2001 - August 2001: Contract Web Support Engineer - Credit Suisse First Boston
-- July 1998 - January 2001: Contract UNIX Technical Support Engineer - Reuters Ltd
-- November 1997 - May 1998: UNIX Systems Administrator - University Of North London
-- July 1996 - June 1997: Intern' as UNIX Systems Administrator - Reuters Ltd
-- March 1995 - October 1995: Contract IT Systems Trainer - Hounslow Social Services
-- June 1992 - September 1994: UNIX Systems Administrator - Seymour International Press
-
-## Education
-
-- September 2024 - March 2025: Postgraduate Certificate in Higher Education (PGCertHE)
-- February 2016 - March 2020: PhD in Informatics at the University of Sussex
-- September 2010 – January 2014: MSc Architecture: Advanced Environmental and Energy Studies from the Centre for Alternative Technology
-- January 2005 – September 2008: Diploma in Mathematics from the Open University
-- September 2003 – September 2004: MSc (Distinction) in Music Technology from City University, London
-- September 1994 - June 1998: BSc (Hons) 1st class in Computer Science from the University Of North London
-- January 1992 - January 1993: Applications Programming in COBOL - City & Guilds 424
-
-## Professional Accreditation
-
-Fellow of Advance HE (FHEA)
-
-## Contact Details
+## Contact
 
 <steve@huckle.studio>
-
-## Leisure Interests
-
-I have many and varied interests. I maintain a sense of fun and creativity through playing sports and games, writing code and prose, re-imagining classic poetry, and playing the guitar.
-
-## References
-
-Available upon request.
