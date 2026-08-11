@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     default: 'Dr Steve Huckle',
     template: '%s | Dr Steve Huckle',
   },
-  description: "Where Code, Creativity and Curiosity Meet. Dr Steve Huckle is a writer, academic and educator exploring the spaces between technology, teaching and creative practice. At huckle.studio, he shares selected research, university work, and independent projects — from blockchain and decentralised systems to poetry, prose and pedagogy. Grounded in both industry and academia, his work reflects a thoughtful, curious approach to making and understanding.",
+  description: "Where code, creativity and curiosity meet. Steve Huckle is a computing educator, curriculum designer, software developer and writer sharing teaching, research and creative work.",
   metadataBase: new URL('https://huckle.studio'),
   alternates: {
     canonical: '/',

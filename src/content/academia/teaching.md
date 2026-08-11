@@ -17,9 +17,9 @@ I have also delivered an [introductory workshop on building 3D games in Unity](h
 
 ## Software Development Bootcamps
 
-At [Creative Process](https://creativeprocessdigital.com/), I design and teach eight-week, beginner-facing software development bootcamps. Learners progress from planning and developer workflow through HTML, CSS and JavaScript to React, browser persistence, testing, deployment and a final project showcase.
+At [Creative Process](https://creativeprocessdigital.com/), I design and teach eight-week software development bootcamps for people beginning careers in technology. Learners progress from planning and developer workflows through HTML, CSS and JavaScript to React, browser-based data persistence, testing, deployment and a final project showcase.
 
-I produce the [bootcamp curriculum and teaching resources](https://github.com/glowkeeper/software-development-bootcamp), including tutor guidance, slide decks, worksheets, learner activities and progressively developed reference applications. The programme uses practical client-informed briefs and gradually shifts responsibility from guided demonstration to independent development. It also teaches learners to use AI critically as a mentor while retaining understanding and ownership of their work.
+I produce the [bootcamp curriculum and teaching resources](https://github.com/glowkeeper/software-development-bootcamp), including tutor guidance, slide decks, worksheets, learner activities and progressively developed reference applications. The programme uses practical, client-informed briefs and guides learners from supported practice to independent development. Learners also use AI critically as a mentor while retaining understanding and ownership of their work.
 
 ## Programming for 3D
 
@@ -29,4 +29,4 @@ The module covered creative thinking, narrative design, agile project management
 
 ## Full-Stack Web Development
 
-From 2020 to 2021, I taught on a six-month full-stack web development bootcamp run by [Boolean UK](https://boolean.co.uk/). The course took learners from HTML, CSS and responsive interfaces through JavaScript and React to server-side development with Node.js, Express, PostgreSQL, SQL and Prisma.
+From September 2021 to October 2022, I taught on a six-month full-stack web development bootcamp run by [Boolean UK](https://boolean.co.uk/). The course took learners from HTML, CSS and responsive interfaces through JavaScript and React to server-side development with Node.js, Express, PostgreSQL, SQL and Prisma.

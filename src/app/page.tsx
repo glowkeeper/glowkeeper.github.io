@@ -8,9 +8,9 @@ const HomePage = () => {
       imageSrc="/assets/images/me.avif"
     >
       <div className="home-hero">
-        <p className="eyebrow">Writer · Academic · Educator</p>
+        <p className="eyebrow">Educator · Developer · Writer</p>
         <h1>Where code, creativity and curiosity meet.</h1>
-        <p className="landing-deck">Dr Steve Huckle explores the spaces between technology, teaching and creative practice. At <a href="https://huckle.studio/">huckle.studio</a>, he shares selected research, university work, and independent projects—from blockchain and decentralised systems to poetry, prose and pedagogy.</p>
+        <p className="landing-deck">I design learning experiences, build software and follow ideas wherever they lead. This is where I share my teaching, research and independent projects alongside poetry, prose and music.</p>
       </div>
     </ResponsiveLanding>
   )

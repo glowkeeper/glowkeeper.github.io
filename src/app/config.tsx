@@ -61,14 +61,14 @@ export const academiaSections: SiteSection = {
     teaching: {
       id: "academia-teaching",
       title: "teaching",
-      subText: "Teaching interests, modules and educational work across computing and emerging technology.",
+      subText: "University teaching, curriculum design and software development bootcamps.",
       endPoint: 'teaching',
       content: 'academia/teaching.md'
     },
     msc: {
       id: "academia-msc",
       title: "msc",
-      subText: "Postgraduate research into environmentally conscious computing and sustainable technology.",
+      subText: "Postgraduate work exploring sustainability, energy, the built environment and public policy.",
       endPoint: 'msc',
       content: 'academia/msc.md'
     },
@@ -82,7 +82,7 @@ export const academiaSections: SiteSection = {
     publications: {
       id: "academia-publications",
       title: "publications",
-      subText: "Selected academic publications spanning blockchain, sustainability and decentralised systems.",
+      subText: "Peer-reviewed research, independent media and conference work on blockchain and decentralised systems.",
       endPoint: 'publications',
       content: 'academia/publications.md'
     },
@@ -121,13 +121,6 @@ export const appsSections: SiteSection = {
       endPoint: 'rectangles',
       content: 'software/apps/rectangles.md'
     },
-    storymaker: {
-      id: "software-apps-storymaker",
-      title: "storymaker",
-      subText: "An experimental application for creating stories with generative AI.",
-      endPoint: 'storymaker',
-      content: 'software/apps/storymaker.md'
-    }
   }
 }
   
@@ -644,18 +637,18 @@ export const storiesSections: SiteSection = {
 
 export const siteSections: Site = {
   about: {
-    title: "about dr huckle",
-    subText: "Contact details, professional background and information about Dr Steve Huckle.",
+    title: "about",
+    subText: "Professional background, experience and ways to get in touch.",
     siteSections: [aboutSections]
   },
   academia: {
     title: "academia",
-    subText: "Teaching, research, publications and talks across computing and emerging technology.",
+    subText: "Teaching, curriculum design and research across computing, data and technology.",
     siteSections: [academiaSections]
   },
   software: {
     title: "built software",
-    subText: "Small applications, experiments and games built by Dr Steve Huckle.",
+    subText: "Applications, browser experiments and games—including the daily challenge Quizmo.",
     siteSections: [appsSections, gamesSections]
   },
   writing: {
@@ -665,7 +658,7 @@ export const siteSections: Site = {
   },
   music:  {
     title: "music",
-    subText: "punk acoustic and other home recordings",
+    subText: "Punk acoustic songs and other home recordings.",
     siteSections: [songsSections]
   }
 }

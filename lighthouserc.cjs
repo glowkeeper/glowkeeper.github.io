@@ -7,7 +7,6 @@ const coreRoutes = [
 const fullRoutes = [
   ...coreRoutes,
   'http://localhost/about/contact.html',
-  'http://localhost/software/apps/storymaker.html',
   'http://localhost/writing/poetry/winter.html',
 ]
 
