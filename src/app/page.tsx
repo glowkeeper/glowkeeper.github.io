@@ -5,7 +5,7 @@ const HomePage = () => {
   return (
 
     <>    
-      <div className="max-sm:hidden grid grid-cols-2 gap-16">
+      <div className="hidden md:grid grid-cols-2 gap-16">
         <div className="home-container">
           <Image
             className='home'
@@ -22,7 +22,7 @@ const HomePage = () => {
           </div>  
         </div>
       </div>   
-      <div className="md:hidden grid grid-rows-2 h-[var(--main-height)]">
+      <div className="md:hidden grid grid-rows-[auto_minmax(12rem,1fr)] gap-4 min-h-[var(--main-height)]">
         <div className='grid items-center'> 
           <div>     
             <h2 className='text-center'>Where Code, Creativity and Curiosity Meet</h2>

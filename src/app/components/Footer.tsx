@@ -4,7 +4,7 @@ import Image from 'next/image'
 export const Footer = () => {
   return (    
     <footer>  
-      <div className="max-sm:hidden grid grid-flow-col cols-2 items-center justify-start gap-2">
+      <div className="hidden md:grid grid-flow-col cols-2 items-center justify-start gap-2">
         <p className="footer-item on-secondary">Built using</p>
         <Link
           href="https://nextjs.org/"

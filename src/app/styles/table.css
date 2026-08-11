@@ -1,5 +1,9 @@
 table {
+  display: block;
   width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
   /* border-collapse: separate; */
   border-spacing: 0 0.1em; /* vertical spacing between rows */
   font-family: system-ui, sans-serif;

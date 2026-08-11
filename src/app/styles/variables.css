@@ -18,6 +18,7 @@
   --footer-height: 6rem;
 
   --main-height: calc(100vh - (var(--header-height) + var(--footer-height) + 4rem));
+  --main-height: calc(100dvh - (var(--header-height) + var(--footer-height) + 4rem));
 }
 
 @theme {
@@ -59,6 +60,19 @@
     --accent: hsl(5, 80%, 70%);
     --accent-foreground: hsl(240, 15%, 10%);
 
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  :root {
+    --main-height: calc(100vh - (var(--header-height) + var(--footer-height) + 2rem));
     --main-height: calc(100dvh - (var(--header-height) + var(--footer-height) + 2rem));
+  }
+}
+
+@media only screen and (max-width: 767px) and (max-height: 650px) {
+  :root {
+    --header-height: 4rem;
+    --footer-height: 5rem;
   }
 }

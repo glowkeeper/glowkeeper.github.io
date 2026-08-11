@@ -35,7 +35,7 @@ const AboutPage = () => {
   return (
 
     <>    
-      <div className="max-sm:hidden grid grid-cols-2 gap-16 p-2">
+      <div className="hidden md:grid grid-cols-2 gap-16 p-2">
         <div className="home-container">
           <Image
             className='writing'

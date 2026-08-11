@@ -1,5 +1,6 @@
 .home-container {
   position: relative;
+  min-height: 12rem;
 }
 
 img.home {
@@ -47,7 +48,7 @@ img.coding {
   object-position: 30% 100%;
 }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 767px) {
 
   img.home {  
     opacity: 80%;

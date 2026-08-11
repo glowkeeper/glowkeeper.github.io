@@ -23,7 +23,7 @@ main {
 }
 
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 767px) {
 
   main {
     padding: calc(var(--header-height) + 1rem) 1rem calc(var(--footer-height) + 1rem) 1rem;
