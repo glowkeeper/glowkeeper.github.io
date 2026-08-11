@@ -6,8 +6,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack && cp CNAME build/CNAME",
-    "start": "pnpx serve build",
+    "validate:content": "tsx scripts/validate-content.ts",
+    "build": "pnpm validate:content && next build --turbopack && cp CNAME build/CNAME",
+    "start": "pnpm exec serve build",
+    "test": "vitest run",
     "lint": "eslint",
     "lint:fix": "eslint --fix"
   },
@@ -21,15 +23,19 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.3",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "daisyui": "^5.1.8",
     "eslint": "^9",
     "eslint-config-next": "15.5.2",
-    "gh-pages": "^6.3.0",
+    "eslint-plugin-react-hooks": "5.2.0",
+    "jsdom": "^30.0.1",
     "serve": "^14.2.5",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "tsx": "^4.23.12",
+    "typescript": "^5",
+    "vitest": "^4.1.10"
   }
 }

@@ -6,7 +6,7 @@ This repository contains the source for [huckle.studio](https://huckle.studio/),
 
 - Next.js 15 using the App Router
 - React 19 and TypeScript
-- Tailwind CSS 4 and DaisyUI
+- Tailwind CSS 4
 - Markdown rendering with `react-markdown` and `remark-gfm`
 - pnpm for dependency management
 - GitHub Actions and GitHub Pages for deployment
@@ -27,6 +27,8 @@ Other useful commands:
 ```bash
 pnpm lint       # Run ESLint
 pnpm lint:fix   # Run ESLint and apply safe fixes
+pnpm test       # Run the targeted Vitest suite
+pnpm validate:content # Validate routes and Markdown sources
 pnpm build      # Create the static site in build/
 pnpm start      # Serve the generated build locally
 ```

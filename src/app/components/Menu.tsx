@@ -28,6 +28,7 @@ export const Menu = () => {
   const [expanded, setExpanded] = useState<string | null>(null)
   const triggerRef = useRef<HTMLButtonElement>(null)
   const closeRef = useRef<HTMLButtonElement>(null)
+  const mobileNavRef = useRef<HTMLElement>(null)
 
   const sections = useMemo(() => Object.entries(siteSections).map(([key, config]) => ({
     key,
@@ -45,8 +46,28 @@ export const Menu = () => {
 
     const onKeyDown = (event: KeyboardEvent) => {
       if (event.key === 'Escape') {
+        event.preventDefault()
         setIsOpen(false)
         triggerRef.current?.focus()
+      }
+
+      if (event.key === 'Tab') {
+        const focusable = mobileNavRef.current?.querySelectorAll<HTMLElement>(
+          'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])'
+        )
+
+        if (!focusable?.length) return
+
+        const first = focusable[0]
+        const last = focusable[focusable.length - 1]
+
+        if (event.shiftKey && document.activeElement === first) {
+          event.preventDefault()
+          last.focus()
+        } else if (!event.shiftKey && document.activeElement === last) {
+          event.preventDefault()
+          first.focus()
+        }
       }
     }
 
@@ -57,9 +78,10 @@ export const Menu = () => {
     }
   }, [isOpen])
 
-  const closeMenu = () => {
+  const closeMenu = (restoreFocus = true) => {
     setIsOpen(false)
     setExpanded(null)
+    if (restoreFocus) triggerRef.current?.focus()
   }
 
   const isCurrent = (route: string) => pathname === route || pathname.startsWith(`${route}/`)
@@ -97,21 +119,23 @@ export const Menu = () => {
         type="button"
         aria-label="Close menu"
         tabIndex={isOpen ? 0 : -1}
-        onClick={closeMenu}
+        onClick={() => closeMenu()}
       />
 
       <nav
+        ref={mobileNavRef}
         id="mobile-navigation"
         className={`mobile-navigation ${isOpen ? 'open' : ''}`}
         aria-label="Mobile navigation"
         aria-hidden={!isOpen}
+        inert={!isOpen}
       >
         <div className="mobile-navigation-header">
           <span>Explore</span>
-          <button ref={closeRef} type="button" aria-label="Close menu" onClick={closeMenu}>×</button>
+          <button ref={closeRef} type="button" aria-label="Close menu" onClick={() => closeMenu()}>×</button>
         </div>
 
-        <Link className="mobile-home-link" href="/" onClick={closeMenu}>Home</Link>
+        <Link className="mobile-home-link" href="/" onClick={() => closeMenu()}>Home</Link>
 
         <div className="mobile-navigation-sections">
           {sections.map(section => {
@@ -122,7 +146,7 @@ export const Menu = () => {
                   <Link
                     className={isCurrent(section.route) ? 'current' : ''}
                     href={section.route}
-                    onClick={closeMenu}
+                    onClick={() => closeMenu()}
                   >
                     {section.label}
                   </Link>
@@ -143,7 +167,7 @@ export const Menu = () => {
                         {section.groups.length > 1 && <p>{group.title}</p>}
                         <div>
                           {Object.values(group.content).map(item => (
-                            <Link key={item.id} href={`${group.path}/${item.endPoint}`} onClick={closeMenu}>
+                            <Link key={item.id} href={`${group.path}/${item.endPoint}`} onClick={() => closeMenu()}>
                               {item.title}
                             </Link>
                           ))}

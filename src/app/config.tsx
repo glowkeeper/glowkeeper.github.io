@@ -101,28 +101,28 @@ export const appsSections: SiteSection = {
   path: '/software/apps',
   content: {
     animated: {
-      id: "software-apps",
+      id: "software-apps-animated",
       title: "animated",
       subText: "make dr huckle run and jump",
       endPoint: 'animated',
       content: 'software/apps/animated.md'
     },
     calculator: {
-      id: "software-apps",
+      id: "software-apps-calculator",
       title: "calculator",
       subText: "a simple reverse-polish calculator",
       endPoint: 'calculator',
       content: 'software/apps/calculator.md'
     },
     rectangles: {
-      id: "software-apps",
+      id: "software-apps-rectangles",
       title: "rectangles",
       subText: "helps solve exercism's rectangles problem",
       endPoint: 'rectangles',
       content: 'software/apps/rectangles.md'
     },
     storymaker: {
-      id: "software-apps",
+      id: "software-apps-storymaker",
       title: "storymaker",
       subText: "ai-based story generation",
       endPoint: 'storymaker',
@@ -150,14 +150,14 @@ export const booksSections: SiteSection = {
   path: '/writing/books',
   content: {
     myAbi: {
-      id: "writing-books",
+      id: "writing-books-my-abi",
       title: "my abi",
       subText: "a father's story",
       endPoint: 'my-abi',
       content: 'writing/books/myAbi.md'
     },
     storiesFromTheCampfire: {
-      id: "writing-books",
+      id: "writing-books-stories-from-the-campfire",
       title: "stories from the campfire",
       subText: "tales from a family retreat",
       endPoint: 'stories-from-the-campfire',

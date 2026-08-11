@@ -9,12 +9,3 @@
 @import "./table.css";
 @import "./Image.css";
 @import "./Landing.css";
-
-@plugin "daisyui" {
-  themes: false;
-  root: ":root";
-  include: ;
-  exclude: ;
-  prefix: ;
-  logs: false;
-}
