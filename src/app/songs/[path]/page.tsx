@@ -1,4 +1,4 @@
-import { Page } from '@/app/components/Page'
+import { ContentPage } from '@/app/components/ContentPage'
 
 import { siteSections, MusicSections } from '@/app/config'
 
@@ -20,8 +20,7 @@ const SongsPage = async ({
 }) => {
   const { path } = await params
 
-  const route = `${siteSections.music.siteSections[MusicSections.songs].path}/${path}`
-  return <Page title={siteSections.music.siteSections[MusicSections.songs].title} path={route} />
+  return <ContentPage endPoint={path} section={siteSections.music.siteSections[MusicSections.songs]} />
 }
 
 export default SongsPage

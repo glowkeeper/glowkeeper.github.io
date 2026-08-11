@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 import { ResponsiveLanding } from '@/app/components/ResponsiveLanding'
-import type { SiteSection } from '@/app/store/types'
+import type { SiteSection } from '@/app/types'
 
 type SubsectionLandingProps = {
   heading: string

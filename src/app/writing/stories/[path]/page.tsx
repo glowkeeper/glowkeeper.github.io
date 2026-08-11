@@ -1,4 +1,4 @@
-import { Page } from '@/app/components/Page'
+import { ContentPage } from '@/app/components/ContentPage'
 
 import { siteSections, WritingSections } from '@/app/config'
 
@@ -20,8 +20,7 @@ const StoriesPage = async ({
 }) => {
   const { path } = await params
   
-  const route = `${siteSections.writing.siteSections[WritingSections.stories].path}/${path}`
-  return <Page title={siteSections.writing.siteSections[WritingSections.stories].title} path={route} />
+  return <ContentPage endPoint={path} section={siteSections.writing.siteSections[WritingSections.stories]} />
 }
 
 export default StoriesPage

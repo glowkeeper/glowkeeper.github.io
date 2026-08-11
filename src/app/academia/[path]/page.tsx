@@ -1,4 +1,4 @@
-import { Page } from '@/app/components/Page'
+import { ContentPage } from '@/app/components/ContentPage'
 
 import { siteSections, AcademiaSections } from '@/app/config'
 
@@ -20,8 +20,7 @@ const AcademiaPage = async ({
 
   const { path } = await params
 
-  const route = `${siteSections.academia.siteSections[AcademiaSections.academia].path}/${path}`
-  return <Page title={siteSections.academia.siteSections[AcademiaSections.academia].title} path={route} />
+  return <ContentPage endPoint={path} section={siteSections.academia.siteSections[AcademiaSections.academia]} />
 }
 
 export default AcademiaPage

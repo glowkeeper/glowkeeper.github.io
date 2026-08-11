@@ -41,7 +41,7 @@ Yours is the Earth plundered for everything in it, | Yours is the Earth and ever
 And, what's more, you'll lead the 'free world', my son! | And—which is more—you’ll be a Man, my son!
 &nbsp; | &nbsp;
 
-I've written a [song](/assets/posts/songs/If), based on this poem.
+I've written a [song](/songs/if), based on this poem.
 
 27 August, 2018
 

@@ -1,4 +1,4 @@
-import { Page } from '@/app/components/Page'
+import { ContentPage } from '@/app/components/ContentPage'
 
 import { siteSections, SoftwareSections } from '@/app/config'
 
@@ -20,8 +20,7 @@ const AppsPage = async ({
 }) => {
   const { path } = await params
 
-  const route = `${siteSections.software.siteSections[SoftwareSections.apps].path}/${path}`
-  return <Page title={siteSections.software.siteSections[SoftwareSections.apps].title} path={route} />
+  return <ContentPage endPoint={path} section={siteSections.software.siteSections[SoftwareSections.apps]} />
 }
 
 export default AppsPage

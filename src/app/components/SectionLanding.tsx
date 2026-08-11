@@ -1,11 +1,7 @@
-'use client'
-
-import { useContext, useEffect } from 'react'
 import Link from 'next/link'
 
 import { ResponsiveLanding } from '@/app/components/ResponsiveLanding'
 import { siteSections } from '@/app/config'
-import { StoreAction, StoreContext } from '@/app/store/store'
 
 type SectionLandingProps = {
   imageAlt: string
@@ -24,19 +20,7 @@ export const SectionLanding = ({
   section,
   showImageOnMobile,
 }: SectionLandingProps) => {
-  const store = useContext(StoreContext)
-  const currentTitle = store?.state.title
-  const dispatch = store?.dispatch
   const sectionConfig = siteSections[section]
-
-  useEffect(() => {
-    if (currentTitle !== section) {
-      dispatch?.({
-        type: StoreAction.TitleSet,
-        payload: section,
-      })
-    }
-  }, [currentTitle, dispatch, section])
 
   return (
     <ResponsiveLanding

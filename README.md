@@ -42,15 +42,15 @@ pnpm start      # Serve the generated build locally
 │       ├── docs/                 # PDFs and other documents
 │       ├── images/               # Site and article images
 │       ├── photos/               # Additional photographs
-│       ├── posts/                # Markdown content, grouped by section
 │       └── video/                # Video files
-├── src/app/
-│   ├── components/               # Shared layout, navigation and page components
-│   ├── store/                    # Site content and page-title state
-│   ├── styles/                   # Global, responsive and component CSS
-│   ├── utils/content.ts          # Markdown content loader
-│   ├── config.tsx                # Central site structure and content registry
-│   └── ...                       # App Router routes and section landing pages
+├── src/
+│   ├── content/                  # Build-time Markdown, grouped by section
+│   └── app/
+│       ├── components/           # Shared layout, navigation and page components
+│       ├── styles/               # Global, responsive and component CSS
+│       ├── utils/markdown.ts     # Server-only Markdown reader
+│       ├── config.tsx            # Central site structure and content registry
+│       └── ...                   # App Router routes and section landing pages
 ├── next.config.ts                # Static-export configuration
 └── package.json                  # Dependencies and project scripts
 ```
@@ -71,11 +71,11 @@ Each section contains one or more subsections. Every content entry specifies:
 - the title displayed in navigation and listings;
 - supporting summary text;
 - the URL endpoint; and
-- the Markdown file beneath `public/assets/posts/`.
+- the Markdown file beneath `src/content/`.
 
-The same configuration drives the main menu, subsection menus, section landing-page links, Markdown loading, and static route generation. This keeps navigation and available pages aligned.
+The same configuration drives the main menu, subsection menus, section landing-page links, build-time Markdown rendering, and static route generation. This keeps navigation and available pages aligned.
 
-At runtime, `src/app/utils/content.ts` fetches the registered Markdown files from the public assets directory and stores them in the shared React context. `src/app/components/Page.tsx` selects the content for the current route and renders it using `react-markdown`, with GitHub Flavoured Markdown enabled through `remark-gfm`.
+During the build, `src/app/utils/markdown.ts` reads each route's registered Markdown file from `src/content/`. `src/app/components/ContentPage.tsx` passes that content to `Page.tsx`, which renders it using `react-markdown` with GitHub Flavoured Markdown enabled through `remark-gfm`. The completed article is written into the exported HTML; the source Markdown is not deployed or fetched by the browser.
 
 ## Routes and static generation
 
@@ -97,7 +97,7 @@ Because the site uses a static export, a new endpoint must be registered in `con
 
 To add a new article, poem, song, or other content page:
 
-1. Add a Markdown file in the appropriate directory beneath `public/assets/posts/`.
+1. Add a Markdown file in the appropriate directory beneath `src/content/`.
 2. Add any referenced images, audio, video, or documents beneath the matching `public/assets/` directory.
 3. Add an entry to the appropriate subsection in `src/app/config.tsx`.
 4. Run `pnpm build` to confirm that the endpoint is generated successfully.
@@ -110,7 +110,7 @@ example: {
   title: "example",
   subText: "a short description",
   endPoint: "example",
-  content: "/assets/posts/writing/poetry/example.md"
+  content: "writing/poetry/example.md"
 }
 ```
 
@@ -124,7 +124,7 @@ Use root-relative asset URLs inside Markdown, for example:
 
 ## Layout and styling
 
-`src/app/layout.tsx` supplies the root document metadata and wraps all routes in the shared `Site` component. `Site` provides the header, slide-in navigation, content store, main page area, and footer.
+`src/app/layout.tsx` supplies the root document metadata and wraps all routes in the shared `Site` component. `Site` provides the header, slide-in navigation, main page area, and footer.
 
 Global styles are assembled in `src/app/styles/globals.css`. The remaining stylesheets separate typography, navigation, layout, images, tables, header, and footer concerns. Colour and sizing tokens are defined in `variables.css`, including light and dark colour schemes. Responsive layouts primarily use Tailwind utility classes, with custom CSS where required.
 

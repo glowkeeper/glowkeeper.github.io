@@ -1,4 +1,4 @@
-import { Page } from '@/app/components/Page'
+import { ContentPage } from '@/app/components/ContentPage'
 
 import { siteSections, WritingSections } from '@/app/config'
 
@@ -20,8 +20,7 @@ const PoetryPage = async ({
 }) => {
   const { path } = await params
   
-  const route = `${siteSections.writing.siteSections[WritingSections.poetry].path}/${path}`
-  return <Page title={siteSections.writing.siteSections[WritingSections.poetry].title} path={route} />
+  return <ContentPage endPoint={path} section={siteSections.writing.siteSections[WritingSections.poetry]} />
 }
 
 export default PoetryPage
