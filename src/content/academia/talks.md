@@ -18,15 +18,15 @@ I have presented research, taught technical workshops and spoken to academic, pr
 | [Blockchain Technology and the Internet of Things](https://github.com/glowkeeper/Creative-Technology-Group-Blockchain-Presentation) | Launch of the Creative Technology Group, University of Sussex | 9 May 2016 |
 | [Evaluating Bitcoin as an Open Source Project](https://github.com/glowkeeper/Bitcoin-Presentation) | ICT Policy and Strategy, University of Sussex | 6 May 2016 |
 
-![Presenting Enervator at Brighton Nerd Nite](/assets/images/enervatorPresentation.avif)
+![Presenting Enervator](/assets/images/enervatorPresentation.webp)
 
-_Presenting Enervator at Brighton Nerd Nite_
+_Presenting Enervator_
 
-![Presenting research into fake news and blockchain provenance](/assets/images/digitalDiscoveryFakeNews.avif)
+![Presenting research into fake news and blockchain provenance](/assets/images/digitalDiscoveryFakeNews.webp)
 
 _Fake News and Blockchains at the University of Sussex Digital Discovery Week_
 
-![Delivering a blockchain application development course](/assets/images/dCBrighton190318.avif)
+![Delivering a blockchain application development course](/assets/images/dCBrighton190318.webp)
 
 _Introduction to Blockchain Application Development at Wired Sussex_
 

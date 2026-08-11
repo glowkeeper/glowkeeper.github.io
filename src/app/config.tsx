@@ -649,12 +649,12 @@ export const siteSections: Site = {
   software: {
     title: "built software",
     subText: "Applications, browser experiments and games—including the daily challenge Quizmo.",
-    siteSections: [appsSections, gamesSections]
+    siteSections: [gamesSections, appsSections]
   },
   writing: {
     title: "writing",
     subText: "Poetry, fiction, humour, reports and longer-form writing by Dr Steve Huckle.",
-    siteSections: [booksSections, flashFictionSections, humourSections, poetrySections, reportsSections, storiesSections]
+    siteSections: [poetrySections, storiesSections, flashFictionSections, reportsSections, booksSections, humourSections]
   },
   music:  {
     title: "music",

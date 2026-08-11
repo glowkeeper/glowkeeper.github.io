@@ -17,6 +17,7 @@ export const ContentPage = async ({ endPoint, section }: ContentPageProps) => {
   }
 
   const content = await readMarkdown(item.content)
+  const variant = item.content.startsWith('writing/poetry/') ? 'poetry' : 'default'
 
-  return <Page content={content} />
+  return <Page content={content} variant={variant} />
 }

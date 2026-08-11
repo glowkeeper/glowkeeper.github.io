@@ -52,10 +52,42 @@ tbody tr:hover td {
   background: var(--accent-soft);
 }
 
+.verse {
+  margin: 1.75rem 0;
+}
+
+.verse-lines {
+  width: auto;
+  min-width: 0;
+  border-collapse: collapse;
+  font-family: var(--font-literata), Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.verse-lines thead {
+  display: none;
+}
+
+.verse-lines td,
+.verse-lines tbody tr:nth-child(even) td,
+.verse-lines tbody tr:hover td {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--on-background);
+  font-size: inherit;
+}
+
 @media only screen and (max-width: 767px) {
   th,
   td {
     padding: 0.65rem 0.75rem;
     font-size: 0.8rem;
+  }
+
+  .verse-lines td {
+    padding: 0;
+    font-size: inherit;
   }
 }

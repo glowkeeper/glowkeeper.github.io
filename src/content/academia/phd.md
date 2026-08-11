@@ -10,6 +10,30 @@ Using design science research, I built and evaluated a series of software artefa
 
 ## Software Artefacts
 
-The five applications below formed the practical core of the research. Building working systems made it possible to test ideas, expose limitations and evaluate blockchain applications through practice rather than theory alone.
+The research produced five related design science artefacts. Together, they explored four questions concerning energy efficiency, the informal economy, digital provenance and humanitarian aid reporting.
+
+### Enervator
+
+[Enervator](https://github.com/glowkeeper/Enervator) was a cryptocurrency designed to reward improvements in energy efficiency. Its value model connected the token to energy-use metrics, exploring whether economic incentives could encourage more sustainable behaviour.
+
+### Eneradmin
+
+Eneradmin supported Enervator by managing the token supply and the parameters used to calculate its value.
+
+### Enerchanger
+
+Enerchanger simulated exchanging sovereign currency for Enervator tokens. It explored whether digital currency could support financial inclusion and help formalise economic activity.
+
+### Provenator
+
+Provenator recorded provenance metadata for digital media. It explored how blockchain records could help establish authorship, ownership and context when assessing potentially misleading content.
+
+### ReportAid
+
+ReportAid applied blockchain technology to humanitarian aid reporting. It used the International Aid Transparency Initiative standard to explore whether transparent, auditable records could improve trust and accountability.
 
 ![Five software applications developed during the PhD research](/assets/images/allFiveArtefacts.avif)
+
+_The five software artefacts developed and evaluated during the research_
+
+Building working applications allowed me to test these ideas in practice, identify their technical and organisational limitations, and evaluate what blockchain technology could—and could not—contribute.

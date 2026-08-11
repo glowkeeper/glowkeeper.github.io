@@ -17,4 +17,14 @@ describe('Markdown rendering', () => {
     expect(html).toContain('<h1>Contact</h1>')
     expect(html).toContain('href="mailto:steve@huckle.studio"')
   })
+
+  it('renders poetry tables as verse rather than data tables', () => {
+    const markdown = '# Poem\n\n| |\n|:--|\n| First line |\n| Second line |'
+    const html = renderToStaticMarkup(<Page content={markdown} variant="poetry" />)
+
+    expect(html).toContain('<article class="article article--poetry">')
+    expect(html).toContain('<div class="verse">')
+    expect(html).toContain('<table class="verse-lines">')
+    expect(html).not.toContain('table-scroll')
+  })
 })
