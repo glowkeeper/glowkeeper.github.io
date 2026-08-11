@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "validate:content": "tsx scripts/validate-content.ts",
-    "build": "pnpm validate:content && next build --turbopack && cp CNAME build/CNAME",
+    "generate:social": "tsx scripts/generate-social-cards.ts",
+    "build": "pnpm validate:content && pnpm generate:social && next build --turbopack && cp CNAME build/CNAME",
     "start": "pnpm exec serve build",
     "test": "vitest run",
     "lint": "eslint",
@@ -33,6 +34,7 @@
     "eslint-plugin-react-hooks": "5.2.0",
     "jsdom": "^30.0.1",
     "serve": "^14.2.5",
+    "sharp": "0.34.3",
     "tailwindcss": "^4",
     "tsx": "^4.23.12",
     "typescript": "^5",

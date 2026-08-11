@@ -14,6 +14,9 @@ describe('page metadata', () => {
     expect(metadata.alternates?.canonical).toBe('/writing/poetry')
     expect(metadata.openGraph?.url).toBe('/writing/poetry')
     expect(metadata.openGraph?.title).toBe('Poetry | Dr Steve Huckle')
+    expect(metadata.openGraph?.images).toEqual(expect.arrayContaining([
+      expect.objectContaining({ url: '/social/writing/poetry.jpg' }),
+    ]))
     expect(metadata.twitter?.title).toBe('Poetry | Dr Steve Huckle')
   })
 
@@ -22,8 +25,9 @@ describe('page metadata', () => {
     const metadata = await generateMetadata({ params: Promise.resolve({ path: 'winter' }) })
 
     expect(metadata.title).toBe('Winter')
-    expect(metadata.description).toBe('when the rain never stops to fall')
+    expect(metadata.description).toBe('A rain-soaked winter poem about endurance, greyness and waiting for the weather to turn.')
     expect(metadata.alternates?.canonical).toBe('/writing/poetry/winter')
     expect(metadata.openGraph?.url).toBe('/writing/poetry/winter')
+    expect(metadata.twitter?.images).toEqual(['/social/writing/poetry/winter.jpg'])
   })
 })

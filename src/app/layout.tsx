@@ -34,9 +34,9 @@ export const metadata: Metadata = {
     type: 'website',
     url: '/',
     images: [{
-      url: '/og.jpg',
-      width: 1731,
-      height: 909,
+      url: '/social/home.jpg',
+      width: 1200,
+      height: 630,
       alt: 'Dr Steve Huckle — Where code, creativity and curiosity meet.',
     }],
   },
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Dr Steve Huckle',
     description: 'Where code, creativity and curiosity meet.',
-    images: ['/og.jpg'],
+    images: ['/social/home.jpg'],
   },
 };
 

@@ -4,7 +4,7 @@ import { createPageMetadata } from '@/app/utils/metadata'
 
 export const metadata = createPageMetadata({
   title: flashFictionSections.title,
-  description: 'Flash fiction by Dr Steve Huckle.',
+  description: 'Compact stories and flash fiction by Dr Steve Huckle.',
   path: flashFictionSections.path,
 })
 

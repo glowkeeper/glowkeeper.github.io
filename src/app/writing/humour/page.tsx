@@ -4,7 +4,7 @@ import { createPageMetadata } from '@/app/utils/metadata'
 
 export const metadata = createPageMetadata({
   title: humourSections.title,
-  description: 'Humorous writing by Dr Steve Huckle.',
+  description: 'Comic writing, jokes and playful observations by Dr Steve Huckle.',
   path: humourSections.path,
 })
 

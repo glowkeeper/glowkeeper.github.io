@@ -4,7 +4,7 @@ import { createPageMetadata } from '@/app/utils/metadata'
 
 export const metadata = createPageMetadata({
   title: gamesSections.title,
-  description: 'Games built by Dr Steve Huckle.',
+  description: 'Small, playful browser games built by Dr Steve Huckle.',
   path: gamesSections.path,
 })
 

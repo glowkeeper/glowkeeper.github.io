@@ -19,6 +19,7 @@
 
 # production
 /build
+/public/social
 
 # misc
 .DS_Store

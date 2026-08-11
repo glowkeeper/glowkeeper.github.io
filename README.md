@@ -29,6 +29,7 @@ pnpm lint       # Run ESLint
 pnpm lint:fix   # Run ESLint and apply safe fixes
 pnpm test       # Run the targeted Vitest suite
 pnpm validate:content # Validate routes and Markdown sources
+pnpm generate:social # Regenerate page-specific social-preview cards
 pnpm build      # Create the static site in build/
 pnpm start      # Serve the generated build locally
 ```
@@ -45,9 +46,12 @@ pnpm start      # Serve the generated build locally
 │       ├── images/               # Site and article images
 │       ├── photos/               # Additional photographs
 │       └── video/                # Video files
+├── scripts/
+│   └── generate-social-cards.ts  # Build-time Open Graph card generator
 ├── src/
 │   ├── content/                  # Build-time Markdown, grouped by section
 │   ├── media-originals/          # Source-quality media excluded from deployment
+│   ├── social-art/               # Source artwork for social-preview cards
 │   └── app/
 │       ├── components/           # Shared layout, navigation and page components
 │       ├── styles/               # Global, responsive and component CSS
@@ -77,6 +81,8 @@ Each section contains one or more subsections. Every content entry specifies:
 - the Markdown file beneath `src/content/`.
 
 The same configuration drives the main menu, subsection menus, section landing-page links, build-time Markdown rendering, and static route generation. This keeps navigation and available pages aligned.
+
+The registry summaries also supply each content page's HTML description and social-preview copy. Keep them concise but specific: they are shown by search engines and when a page is shared on services that read Open Graph metadata.
 
 During the build, `src/app/utils/markdown.ts` reads each route's registered Markdown file from `src/content/`. `src/app/components/ContentPage.tsx` passes that content to `Page.tsx`, which renders it using `react-markdown` with GitHub Flavoured Markdown enabled through `remark-gfm`. The completed article is written into the exported HTML; the source Markdown is not deployed or fetched by the browser.
 
@@ -126,6 +132,12 @@ Use root-relative asset URLs inside Markdown, for example:
 ```
 
 Deployed media should use web-oriented formats and sizes: AVIF for raster images, MP3 for audio, and H.264/AAC MP4 with fast-start for video. Source-quality originals belong beneath `src/media-originals/`, where they remain versioned without being copied into the static export.
+
+## Social previews
+
+Every registered page has its own 1200 × 630 social-preview image. `pnpm generate:social` combines the appropriate section artwork from `src/social-art/` with that page's title and registry summary, writing generated JPEGs beneath `public/social/`. That output is ignored by Git because the build script regenerates it before Next.js exports the site.
+
+Page metadata uses the corresponding absolute `https://huckle.studio/social/...` URL for both Open Graph and X/Twitter cards. New registered content receives a card automatically; update its `subText` when the preview description needs refinement.
 
 ## Layout and styling
 

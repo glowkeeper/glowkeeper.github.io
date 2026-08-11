@@ -4,7 +4,7 @@ import { createPageMetadata } from '@/app/utils/metadata'
 
 export const metadata = createPageMetadata({
   title: poetrySections.title,
-  description: 'Poetry by Dr Steve Huckle.',
+  description: 'Poetry about family, politics, place and the peculiarities of ordinary life.',
   path: poetrySections.path,
 })
 

@@ -3,12 +3,6 @@ import type { Metadata } from 'next'
 import type { SiteSection } from '@/app/types'
 
 const siteName = 'Dr Steve Huckle'
-const socialImage = {
-  url: '/og.jpg',
-  width: 1731,
-  height: 909,
-  alt: 'Dr Steve Huckle — Where code, creativity and curiosity meet.',
-}
 
 type PageMetadata = {
   description: string
@@ -16,7 +10,7 @@ type PageMetadata = {
   title: string
 }
 
-const displayTitle = (title: string): string => {
+export const displayTitle = (title: string): string => {
   const exactTitles: Record<string, string> = {
     cv: 'CV',
     msc: 'MSc',
@@ -27,9 +21,18 @@ const displayTitle = (title: string): string => {
   return exactTitles[title] ?? `${title.charAt(0).toUpperCase()}${title.slice(1)}`
 }
 
+export const socialImagePath = (path: string): string =>
+  path === '/' ? '/social/home.jpg' : `/social${path}.jpg`
+
 export const createPageMetadata = ({ description, path, title }: PageMetadata): Metadata => {
   const formattedTitle = displayTitle(title)
   const socialTitle = `${formattedTitle} | ${siteName}`
+  const socialImage = {
+    url: socialImagePath(path),
+    width: 1200,
+    height: 630,
+    alt: `${formattedTitle} — ${siteName}`,
+  }
 
   return {
     title: formattedTitle,
