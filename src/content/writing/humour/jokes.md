@@ -9,3 +9,5 @@ There's quite a difference between the sewage systems of Tudor Britain and their
 The class had been studying the water cycle and **precipitation**, and the teacher wanted to reinforce their learning. "Who can think of a really really long word beginning with 'P', for raining?". After a few seconds of silence, she picked out Seth, at the back, hoping he had been paying attention, "Any idea, Seth?", to which he answered, "Pissing down?".
 
 My partner told me to go to Specsavers. I don't see why.
+
+I'd love to go to holiday to Norway, but I can't aFjord it.
