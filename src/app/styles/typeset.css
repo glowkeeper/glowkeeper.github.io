@@ -37,6 +37,27 @@ p {
   font-size: clamp(1rem, 1.4vw, 1.08rem);
 }
 
+.article h1 {
+  margin-bottom: 1.25rem;
+  font-size: clamp(1.8rem, 4vw, 2.65rem);
+  font-weight: 550;
+  letter-spacing: -0.025em;
+}
+
+.article h2 {
+  margin-top: 2.25rem;
+  font-size: clamp(1.35rem, 2.5vw, 1.8rem);
+  font-weight: 550;
+  letter-spacing: -0.015em;
+}
+
+.article h3 {
+  margin-top: 1.75rem;
+  font-size: clamp(1.12rem, 2vw, 1.35rem);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
 ul,
 ol {
   margin: 1rem 0;
@@ -94,6 +115,18 @@ p.site-title {
   .article p,
   .article li {
     font-size: 0.94rem;
+  }
+
+  .article h1 {
+    font-size: 1.75rem;
+  }
+
+  .article h2 {
+    font-size: 1.3rem;
+  }
+
+  .article h3 {
+    font-size: 1.08rem;
   }
 
   .site-title,
