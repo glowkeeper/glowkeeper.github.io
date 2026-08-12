@@ -6,6 +6,9 @@ const siteName = 'Dr Steve Huckle'
 
 type PageMetadata = {
   description: string
+  imagePath?: string
+  keywords?: string[]
+  openGraphType?: 'article' | 'website'
   path: string
   title: string
 }
@@ -24,11 +27,12 @@ export const displayTitle = (title: string): string => {
 export const socialImagePath = (path: string): string =>
   path === '/' ? '/social/home.jpg' : `/social${path}.jpg`
 
-export const createPageMetadata = ({ description, path, title }: PageMetadata): Metadata => {
+export const createPageMetadata = ({ description, imagePath, keywords, openGraphType = 'website', path, title }: PageMetadata): Metadata => {
   const formattedTitle = displayTitle(title)
   const socialTitle = `${formattedTitle} | ${siteName}`
+  const resolvedImagePath = imagePath ?? socialImagePath(path)
   const socialImage = {
-    url: socialImagePath(path),
+    url: resolvedImagePath,
     width: 1200,
     height: 630,
     alt: `${formattedTitle} — ${siteName}`,
@@ -37,13 +41,15 @@ export const createPageMetadata = ({ description, path, title }: PageMetadata): 
   return {
     title: formattedTitle,
     description,
+    authors: [{ name: 'Dr Steve Huckle', url: '/' }],
+    keywords,
     alternates: {
       canonical: path,
     },
     openGraph: {
       title: socialTitle,
       description,
-      type: 'website',
+      type: openGraphType,
       url: path,
       images: [socialImage],
     },
@@ -51,7 +57,7 @@ export const createPageMetadata = ({ description, path, title }: PageMetadata): 
       card: 'summary_large_image',
       title: socialTitle,
       description,
-      images: [socialImage.url],
+      images: [resolvedImagePath],
     },
   }
 }

@@ -2,12 +2,25 @@ import { ContentPage } from '@/app/components/ContentPage'
 import { BookReader } from '@/app/components/BookReader'
 
 import { siteSections, WritingSections } from '@/app/config'
-import { createContentMetadataGenerator } from '@/app/utils/metadata'
+import { createContentMetadataGenerator, createPageMetadata } from '@/app/utils/metadata'
 import { readBookContent } from '@/app/utils/bookRegistry'
+import { bookEntryDescription, onSlenderStringsKeywords } from '@/app/utils/bookSeo'
 
 const section = siteSections.writing.siteSections[WritingSections.books]
 
-export const generateMetadata = createContentMetadataGenerator(section)
+export const generateMetadata = async ({ params }: { params: Promise<{ path: string }> }) => {
+  const { path } = await params
+  const book = await readBookContent(path)
+  if (!book) return createContentMetadataGenerator(section)({ params: Promise.resolve({ path }) })
+
+  return createPageMetadata({
+    title: book.manifest.title,
+    description: bookEntryDescription(book.manifest, book.entry),
+    keywords: path === 'on-slender-strings' ? onSlenderStringsKeywords : undefined,
+    openGraphType: path === 'on-slender-strings' ? 'article' : 'website',
+    path: `/writing/books/${path}`,
+  })
+}
 
 export function generateStaticParams() {
 

@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation'
 import { BookReader } from '@/app/components/BookReader'
 import { allBookParams, readBookContent } from '@/app/utils/bookRegistry'
 import { createPageMetadata } from '@/app/utils/metadata'
+import { bookEntryDescription, onSlenderStringsKeywords } from '@/app/utils/bookSeo'
 
 export const generateStaticParams = allBookParams
 
@@ -17,7 +18,10 @@ export const generateMetadata = async ({ params }: BookChapterProps) => {
 
   return createPageMetadata({
     title: `${book.entry.title} · ${book.manifest.title}`,
-    description: `${book.entry.title}, from ${book.manifest.title} by Dr Steve Huckle.`,
+    description: bookEntryDescription(book.manifest, book.entry),
+    imagePath: `/social/writing/books/${path}.jpg`,
+    keywords: path === 'on-slender-strings' ? onSlenderStringsKeywords : undefined,
+    openGraphType: path === 'on-slender-strings' ? 'article' : 'website',
     path: `/writing/books/${path}/${chapter.join('/')}`,
   })
 }
