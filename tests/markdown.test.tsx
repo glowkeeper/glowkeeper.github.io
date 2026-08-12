@@ -33,6 +33,7 @@ describe('Markdown rendering', () => {
     const html = renderToStaticMarkup(<Page content={markdown} variant="poetry" />)
 
     expect(html).toContain('aria-label="Side-by-side poem comparison"')
+    expect(html).toContain('article article--poetry article--comparison')
     expect(html).toContain('class="verse verse--comparison"')
     expect(html).toContain('<table class="verse-lines verse-lines--comparison">')
     expect(html).toContain('<strong>Mine</strong>')

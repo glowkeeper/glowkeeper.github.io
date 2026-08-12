@@ -81,8 +81,6 @@ tbody tr:hover td {
 
 .verse--comparison {
   max-width: 100%;
-  overflow-x: auto;
-  overscroll-behavior-inline: contain;
 }
 
 .verse--comparison:focus-visible {
@@ -92,7 +90,7 @@ tbody tr:hover td {
 
 .verse-lines--comparison {
   width: 100%;
-  min-width: 42rem;
+  min-width: 0;
   table-layout: fixed;
   border-collapse: separate;
   border-spacing: 0;
@@ -103,7 +101,7 @@ tbody tr:hover td {
 }
 
 .verse-lines--comparison th {
-  padding: 0 2rem 0.8rem;
+  padding: 0 clamp(0.75rem, 3vw, 2rem) 0.8rem;
   border: 0;
   background: transparent;
   color: var(--primary);
@@ -113,7 +111,7 @@ tbody tr:hover td {
 
 .verse-lines--comparison th:first-child,
 .verse-lines--comparison td:first-child {
-  padding-right: 2rem;
+  padding-right: clamp(0.75rem, 3vw, 2rem);
   padding-left: 0;
   border-right: 1px solid var(--border);
 }
@@ -121,7 +119,7 @@ tbody tr:hover td {
 .verse-lines--comparison th:last-child,
 .verse-lines--comparison td:last-child {
   padding-right: 0;
-  padding-left: 2rem;
+  padding-left: clamp(0.75rem, 3vw, 2rem);
 }
 
 .verse-lines--comparison td,

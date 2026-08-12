@@ -56,7 +56,9 @@ const markdownComponents = (variant: PageProps['variant']): Components => ({
 })
 
 export const Page: PageType = ({ content, variant = 'default' }) => (
-  <article className={variant === 'poetry' ? 'article article--poetry' : 'article'}>
+  <article className={variant === 'poetry'
+    ? `article article--poetry${content.includes('**Mine**|**Original**') ? ' article--comparison' : ''}`
+    : 'article'}>
     <Markdown components={markdownComponents(variant)} remarkPlugins={[remarkGfm]}>{content}</Markdown>
   </article>
 )
