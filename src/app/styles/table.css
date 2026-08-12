@@ -70,8 +70,8 @@ tbody tr:hover td {
 }
 
 .verse-lines td,
-.verse-lines tbody tr:nth-child(even) td,
-.verse-lines tbody tr:hover td {
+.verse-lines:not(.verse-lines--comparison) tbody tr:nth-child(even) td,
+.verse-lines:not(.verse-lines--comparison) tbody tr:hover td {
   padding: 0;
   border: 0;
   background: transparent;
@@ -127,6 +127,7 @@ tbody tr:hover td {
 .verse-lines--comparison td,
 .verse-lines--comparison tbody tr:nth-child(even) td,
 .verse-lines--comparison tbody tr:hover td {
+  border-bottom: 0;
   background: transparent;
 }
 
@@ -142,9 +143,7 @@ tbody tr:hover td {
     font-size: inherit;
   }
 
-  .verse-lines--comparison td,
-  .verse-lines--comparison tbody tr:nth-child(even) td,
-  .verse-lines--comparison tbody tr:hover td {
+  .verse-lines--comparison td {
     font-size: 0.9rem;
   }
 

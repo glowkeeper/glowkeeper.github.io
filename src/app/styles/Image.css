@@ -62,3 +62,15 @@ img.writing {
 img.coding {
   object-position: 30% 100%;
 }
+
+@media only screen and (min-width: 768px) {
+  .responsive-landing {
+    align-items: start;
+  }
+
+  .responsive-landing .landing-media {
+    position: sticky;
+    top: calc(var(--header-height) + 2rem);
+    height: var(--main-height);
+  }
+}
