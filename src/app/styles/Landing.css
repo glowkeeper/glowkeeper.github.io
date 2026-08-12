@@ -72,13 +72,6 @@
   box-shadow: 0 0.75rem 2rem -1.5rem var(--shadow);
 }
 
-.section-links > .section-link--featured > a {
-  border-color: color-mix(in srgb, var(--accent) 45%, var(--border));
-  color: var(--primary);
-  background: color-mix(in srgb, var(--accent-soft) 52%, var(--surface));
-  font-weight: 750;
-}
-
 .about-introduction {
   max-width: 40rem;
 }
@@ -108,13 +101,10 @@
   text-decoration: none;
 }
 
-.about-action--primary {
-  border-color: var(--primary);
-  color: var(--background);
-  background: var(--primary);
-}
-
 .about-action:hover {
+  border-color: color-mix(in srgb, var(--primary) 38%, var(--border));
+  color: var(--primary);
+  background: var(--surface);
   transform: translateY(-1px);
   box-shadow: 0 0.75rem 2rem -1.5rem var(--shadow);
 }

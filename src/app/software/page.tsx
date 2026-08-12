@@ -10,7 +10,6 @@ export const metadata = createPageMetadata({
 
 const SoftwarePage = () => (
   <SectionLanding
-    featuredItemId="software-games"
     imageAlt="dr huckle, coding"
     imageClassName="coding"
     imageSrc="/assets/images/coding.avif"

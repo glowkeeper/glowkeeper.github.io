@@ -8,7 +8,6 @@ type SectionLandingProps = {
   imageClassName: string
   imageSrc: string
   linkGridClassName: string
-  featuredItemId?: string
   section: string
   showImageOnMobile?: boolean
 }
@@ -18,7 +17,6 @@ export const SectionLanding = ({
   imageClassName,
   imageSrc,
   linkGridClassName,
-  featuredItemId,
   section,
   showImageOnMobile,
 }: SectionLandingProps) => {
@@ -40,7 +38,7 @@ export const SectionLanding = ({
           {sectionConfig.siteSections.length > 1 && <h2>{subSection.title}</h2>}
           <div className={`section-links ${linkGridClassName}`}>
             {Object.values(subSection.content).map(item => (
-            <div key={item.id} className={item.id === featuredItemId ? 'section-link--featured' : undefined}>
+            <div key={item.id}>
                 <Link href={`${subSection.path}/${item.endPoint}`}>
                   {item.title}
                 </Link>

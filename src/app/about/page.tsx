@@ -24,8 +24,8 @@ const AboutPage = () => (
       <p>My career has moved through systems administration, games and audio programming, web development, blockchain research and higher education. Today, I design learning experiences, teach computing and data skills, build independent software, and write poetry, fiction and songs.</p>
     </div>
     <div className="about-actions">
-      <Link className="about-action about-action--primary" href="/about/cv">Read my CV</Link>
-      <Link className="about-action" href="/about/contact">Get in touch</Link>
+      <Link className="about-action" href="/about/cv">read my cv</Link>
+      <Link className="about-action" href="/about/contact">get in touch</Link>
     </div>
   </ResponsiveLanding>
 )
