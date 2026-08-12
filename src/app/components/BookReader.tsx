@@ -1,5 +1,6 @@
 import Link from 'next/link'
 
+import { EmailCopy } from '@/app/components/EmailCopy'
 import { Page } from '@/app/components/Page'
 import type { BookEntry, BookManifest } from '@/app/utils/bookRegistry'
 
@@ -84,6 +85,7 @@ export const BookReader = ({ content, current, manifest }: BookReaderProps) => {
         </nav>
       </details>
       <Page content={content} />
+      {isOnSlenderStrings && !current.route && <EmailCopy label="Contact:" />}
       <nav aria-label="Book page navigation" className="book-pagination">
         {previous ? <Link href={entryHref(manifest, previous)}>← {previous.title}</Link> : <span />}
         {next ? <Link href={entryHref(manifest, next)}>{next.title} →</Link> : <span />}

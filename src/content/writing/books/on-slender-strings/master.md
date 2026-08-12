@@ -4,6 +4,4 @@
 
 By Steve Huckle
 
-steve\@huckle.studio
-
 *On Slender Strings* is a father’s personal account of his daughter’s childhood pilocytic astrocytoma, from the first missed symptoms and emergency brain surgery through recurrence, chemotherapy and the uncertainty that follows treatment.

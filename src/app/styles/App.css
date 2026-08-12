@@ -100,24 +100,29 @@ main {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0.65rem;
+  gap: 0.5rem;
   margin-top: 0.75rem;
 }
 
-.email-copy button {
-  padding: 0.35rem 0.7rem;
+.email-copy > button[type='button'] {
+  width: auto;
+  min-width: 0;
+  min-height: 0;
+  padding: 0.18rem 0.48rem;
   border: 1px solid var(--border);
   border-radius: 999px;
   color: var(--on-background);
   background: var(--surface-muted);
   cursor: pointer;
-  font: inherit;
-  font-size: 0.82rem;
+  font-family: inherit;
+  font-size: 0.72rem;
   font-weight: 650;
+  line-height: 1.25;
+  letter-spacing: 0.01em;
 }
 
-.email-copy button:hover,
-.email-copy button:focus-visible {
+.email-copy > button[type='button']:hover,
+.email-copy > button[type='button']:focus-visible {
   border-color: var(--accent);
   background: var(--accent-soft);
 }
