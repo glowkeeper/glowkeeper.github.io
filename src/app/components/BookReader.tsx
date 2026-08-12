@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { EmailCopy } from '@/app/components/EmailCopy'
 import { Page } from '@/app/components/Page'
 import type { BookEntry, BookManifest } from '@/app/utils/bookRegistry'
+import { bookEntryDescription, onSlenderStringsDescription } from '@/app/utils/bookSeo'
 
 type BookReaderProps = {
   content: string
@@ -27,6 +28,9 @@ export const BookReader = ({ content, current, manifest }: BookReaderProps) => {
       '@type': current.route ? 'Article' : 'Book',
       name: current.route ? current.title : manifest.title,
       headline: current.title,
+      description: current.route
+        ? bookEntryDescription(manifest, current)
+        : onSlenderStringsDescription,
       url: pageUrl,
       author: {
         '@type': 'Person',
@@ -43,7 +47,12 @@ export const BookReader = ({ content, current, manifest }: BookReaderProps) => {
         bookFormat: 'https://schema.org/EBook',
         genre: ['Memoir', 'Family', 'Health'],
         inLanguage: 'en-GB',
-        description: 'A father’s personal account of his daughter’s childhood pilocytic astrocytoma, brain surgery, recurrence and chemotherapy.',
+        about: [
+          'Childhood brain tumours',
+          'Pilocytic astrocytoma',
+          'Paediatric low-grade glioma',
+          'Family caregiving',
+        ],
       }),
     },
     {
