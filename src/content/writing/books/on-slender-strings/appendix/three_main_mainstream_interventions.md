@@ -1,7 +1,25 @@
-# Three Mainstream Interventions
+# Mainstream Interventions: Then and Now
 
-In the 1960s, the International Society of Paediatric Oncology (SIOP) was formed, and since then, a number of clinical trials have been conducted to study and establish standard courses of treatments for childhood cancers. Currently, there are three primary interventions available:
+## What the Options Looked Like Then
 
-1. Surgery. Removal of the tumour through surgical intervention is the preferred course of treatment for benign brain tumours. In fact, complete resection is by far the best outcome for paediatric brain tumour patients. Even so, a recent study into childhood low-grade gliomas showed that of those having had their tumour totally removed, approximately 15% still suffered a relapse. Also, although death from planned brain surgery is extremely uncommon, it does come with a risk of bleeding and infection.
-2. Chemotherapy. This involves the use of powerful drugs that stop cancer cells from multiplying. Chemotherapy’s aim is to stabilise tumour growth so that doctors can defer radiotherapy until a more mature brain is less prone to damage. However, chemotherapy drugs themselves carry risks, due to their toxicity. They can also induce an allergic reaction, with a recent study showing that over half of the children suffered such a reaction while taking carboplatin and vincristine, the combination that is the standard protocol for children undergoing chemotherapy for benign tumours in the UK.
-3. Radiotherapy. This uses high doses of focused radiation to kill cancerous tissue. Doctors use radiotherapy when surgical removal is not possible. That might be for a myriad of factors, not least the location and type of tumour. The risk with radiotherapy is that it damages the brain surrounding the treatment area. Unfortunately, there isn’t data about any long-term danger to children who have undergone this therapy, so the risks are still relatively unknown. What’s certain is that cranial irradiation increases the risk of other cancers, such as meningeal leukaemia.
+When I was making decisions about Abi’s treatment, the three principal interventions offered for a childhood low-grade glioma were surgery, chemotherapy and radiotherapy. Observation—usually called “watch and wait”—was also important when a tumour was stable and not causing serious symptoms.
+
+1. **Surgery.** Removing as much of the tumour as could be removed safely offered the best prospect of long-term control. Complete removal was not always possible, particularly when a tumour was close to major blood vessels or important structures. Surgery itself carried risks including bleeding, infection and neurological injury.
+2. **Chemotherapy.** Drugs such as carboplatin and vincristine, or vinblastine on its own, were used to control growth and delay or avoid radiotherapy. The intention was often disease control rather than cure. These treatments could cause toxicity, low blood counts, infection and, depending on the drugs used, allergic reactions or neurological side effects.
+3. **Radiotherapy.** Radiation could control tumours that could not be removed surgically or had continued to progress. In young children it was often delayed because radiation to a developing brain could cause lasting cognitive, endocrine and vascular effects and increase the risk of later tumours.
+
+That was the landscape in which Sarah and I made decisions for Abi. Our choices were not between a dangerous treatment and a safe one. They involved balancing the tumour’s immediate threat against the possible harm caused by trying to control it.
+
+## What Has Changed by 2026
+
+Surgery, chemotherapy, radiotherapy and observation all remain part of treatment. However, it is no longer accurate to describe them as the only meaningful options.
+
+Diagnosis now makes much greater use of a tumour’s molecular features. Many paediatric low-grade gliomas are driven by changes in the MAPK signalling pathway, frequently involving **BRAF**. That knowledge has led to targeted medicines designed to interrupt the particular signals helping a tumour grow.
+
+For example, NICE recommended the BRAF inhibitor **dabrafenib** with the MEK inhibitor **trametinib** in 2024 for children aged one year and over with a BRAF V600E-mutated low-grade glioma requiring systemic treatment. Other RAF and MEK inhibitors are used or being studied for different molecular alterations and clinical situations. These medicines have side effects and are not suitable for every tumour, but they represent a genuine additional class of treatment.
+
+Radiotherapy has changed too. When it is needed, modern conformal techniques—including intensity-modulated and proton-beam radiotherapy—can reduce the dose received by healthy tissue, although they cannot eliminate long-term risk.
+
+So, by 2026, the central question is not simply which of three treatments to choose. It is how best to combine observation, maximal safe surgery, chemotherapy, radiotherapy and molecularly targeted treatment for a particular child and a particular tumour. Decisions should be made by a specialist paediatric neuro-oncology team using current pathology, molecular testing, symptoms, tumour location and the child’s previous treatment.
+
+Further information: [NCI childhood glioma treatment summary](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq) and [NICE guidance on dabrafenib with trametinib](https://www.nice.org.uk/guidance/ta977).

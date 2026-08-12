@@ -1,13 +1,29 @@
-# The Funding Gap
+# The Funding Gap: Then and Now
 
-The National Cancer Research Institute (NCRI), is a UK-wide partnership that promotes co-operation between the government, charity and industry in cancer research. The brilliant news is that the annual spend in cancer research by the NCRI had reached £500 million by 2010.
+## What the Figures Showed Then
+
+When I first wrote this page, the National Cancer Research Institute (NCRI) brought together major UK government and charitable cancer-research funders. Its partners reported spending approximately **£500 million on cancer research in 2010**.
 
 ![The Funding Gap](/assets/books/on-slender-strings/funding-gap.png)
 
-The Funding Gap
+*The original chart, based on figures available when this book was written.*
 
-Funding for brain tumour research has improved a good deal in ten years. However, it still gets just 2% of the available money. That equates to an annual spend of roughly UK£10 million. To put these figures into perspective, according to statistics from the National Audit Office, since the 2007 crisis the UK Government has bailed out the banks to the tune of UK£123.93 billion. I wonder about a society that spends billions of pounds lining the pockets of our banking institutions, while children with cancer are left to suffer, due to a lack of funding for the research that might cure them.
+The contemporary figures showed that only a small proportion of site-specific cancer-research spending went to brain tumours. Later parliamentary evidence reported that, in 2012, £4.9 million of £507 million spent by NCRI partners—about 0.9% of the total—was directed specifically to brain-tumour research. In 2014 the reported figure was approximately £7.7 million, or 1.5% of the total cancer-research spend recorded by those funders.
 
-The situation in the USA is no better. Just like the UK, paediatric brain tumours there have one of the highest death rates of all childhood cancers. They also have one of the lowest levels of research funding. According to their National Cancer Institute, in 2010, US$2.16 billion was spent on cancer research. Approximately 4% of that was budgeted for paediatric cancer research and just 8% of that was specifically targeted at paediatric brain tumours. That equates to approximately US$7 million, or just 0.003% of the total spend.
+Those comparisons helped campaigners make an important point: research investment did not reflect the years of life lost, complexity or poor outcomes associated with many brain tumours.
 
-Without increasing the money put into research, there is little hope of improving treatment for paediatric brain tumours, and they will remain a significant cause of cancer deaths. Some charities have been very successful in raising funding by raising the profile of the disease they champion. A good example is breast cancer, which has achieved global recognition through the brilliant Pink Ribbon campaign. As a result, breast cancer is by far the best-funded area of cancer research in the UK, with approximately ten times the annual spend of brain tumour research. Brain tumours need the same high profile to get the necessary funding. It’s how we could offer our children fighting the disease a brighter future.
+However, some claims in the original page were too loose. Comparing research spending directly with the cost of rescuing banks after the financial crisis made a forceful political point, but the budgets served entirely different purposes. Comparing tumour sites by a single percentage could also conceal basic research that benefited several cancers and differences in the number and quality of fundable proposals.
+
+## What Has Changed by 2026
+
+The NCRI announced in 2023 that it was winding down, so it can no longer be described as a current UK partnership. This also means there is no simple, continuously updated equivalent of its historical site-specific spending series.
+
+Government figures show that the National Institute for Health and Care Research spent **£2.1 million on direct brain-cancer research awards in 2023–24**, across 22 active studies with a total lifetime value of £11.8 million. That figure does not include all relevant infrastructure, charity, university, industry, UK Research and Innovation or fundamental-science spending, so it is not a complete measure of UK investment.
+
+There has nevertheless been significant new activity. In December 2025 the NIHR announced **£13.7 million** to establish a national Brain Tumour Research Consortium involving hospitals, universities, cancer centres and charities. The 2026 National Cancer Plan for England also committed to co-funding Cancer Research UK Brain Tumour Centres of Excellence and to further work intended to move discoveries into treatments.
+
+This is progress, but it does not make the funding question disappear. Brain tumours comprise many biologically different and often rare diseases. Research requires specialist tissue, molecular data, long follow-up, trial infrastructure and collaboration across centres. A one-off announcement cannot by itself build or retain that capacity.
+
+The fairest conclusion in 2026 is that brain-tumour research has gained visibility, infrastructure and important targeted investment since this book was first written. It is also still reasonable to ask whether the scale and continuity of funding match the difficulty of the diseases and the harm they cause. Answering that properly requires transparent, consistently defined figures rather than slogans alone.
+
+Sources: [2012–13 NCRI operating report](https://www.ncri.org.uk/wp-content/uploads/2013-NCRI-Operating-Report-2012-2013.pdf), [NCRI wind-down announcement](https://www.ncri.org.uk/wp-content/uploads/NCRI-letter-26-June-2023.pdf), [2023–24 NIHR spending answer](https://questions-statements.parliament.uk/written-questions/detail/2025-01-10/23243/), and the [2026 National Cancer Plan for England](https://www.gov.uk/government/publications/national-cancer-plan-for-england/the-national-cancer-plan-for-england-delivering-world-class-cancer-care-accessible-version).

@@ -1,19 +1,21 @@
-# Mainstream Trials
+# Emerging Treatments: Then and Now
 
-Mainstream western medicine is trialling some novel approaches to treating brain tumours. Below is a brief summary of some of these.
+## What Research Looked Like Then
 
-## Biological Therapies <a href="#biological-therapies" id="biological-therapies"></a>
+When I first researched this subject, biological therapies, immunotherapy, tumour vaccines and gene therapy were usually described as possible future treatments. Much of the evidence came from laboratory work, small early-stage trials or research involving different kinds of brain tumour.
 
-Biological therapies look to treat cancer using drugs made from the body’s natural substances. Tyrosine kinase inhibitors (TKIs) block cancer cells from receiving ‘divide and grow’ signals. PARP is an enzyme that enables damaged cells to repair themselves. Anti-angiogenic drugs aim to stop cancers from developing their own blood vessels, which they need for progression.
+Tyrosine kinase inhibitors aimed to block signals telling cancer cells to divide. Anti-angiogenic drugs sought to interfere with the blood supply a tumour needed. Immunotherapy and vaccines attempted to help the immune system recognise tumour cells. Gene therapy sought ways to correct or exploit genetic faults inside those cells.
 
-## Immunotherapy <a href="#immunotherapy" id="immunotherapy"></a>
+These approaches were scientifically interesting, but interest was not the same as an available treatment for a child like Abi.
 
-An active area of brain tumour research is immunotherapy. The central premise of this is to stimulate the immune system so that it recognises and then rejects a glioma. The body seems to tolerate tumours because they are essentially the patient’s own cells. However, the hope is that immunotherapy treatments can teach the body to target them because many kinds of tumour cells have unusual properties.
+## What Has Changed by 2026
 
-## Vaccination <a href="#vaccination" id="vaccination"></a>
+The largest practical advance for paediatric low-grade glioma has come from understanding its molecular drivers. Most of these tumours contain an alteration affecting the MAPK pathway. That has allowed researchers to move from broadly attacking dividing cells towards targeting specific signals used by the tumour.
 
-Vaccine therapy also aims to help the immune system kill cancer cells. DCVax-L for glioblastoma multiforme is one such trial. A dendritic cell vaccine is made by using healthy dendritic cells mixed with proteins taken from a patient’s brain tumour. The hope is that the vaccine will help an immune system to recognise and, ultimately, kill the patient’s cancer cells.
+BRAF and MEK inhibitors are now established treatments in some circumstances. In the UK, dabrafenib with trametinib is recommended for children with BRAF V600E-mutated low-grade glioma who require systemic treatment. Selumetinib has shown activity in several groups of children with recurrent or progressive low-grade glioma, while the RAF inhibitor tovorafenib has been approved in the United States for certain relapsed or refractory BRAF-altered tumours and is undergoing appraisal in the UK.
 
-## Gene Therapy <a href="#gene-therapy" id="gene-therapy"></a>
+This progress does not mean every child can receive a targeted drug, or that targeted treatment is necessarily a cure. Different BRAF alterations behave differently and may respond differently to particular medicines. Tumours can progress after treatment stops, resistance can develop, and the long-term effects of newer drugs require continued study.
 
-Researchers are studying how they might substitute healthy genes for the damaged genes in cancer cells.
+Immunotherapy, vaccines and gene-based approaches remain important areas of research, particularly for aggressive brain tumours, but they are not routine treatments for pilocytic astrocytoma. It would therefore be misleading to place every novel approach on the same footing. By 2026, targeted inhibition of the MAPK pathway has entered clinical practice for selected paediatric low-grade gliomas; many other approaches remain experimental.
+
+Further information: [NCI childhood glioma treatment summary](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq), [NICE guidance on dabrafenib with trametinib](https://www.nice.org.uk/guidance/ta977), and [NICE’s appraisal of tovorafenib](https://www.nice.org.uk/guidance/indevelopment/gid-ta11693).

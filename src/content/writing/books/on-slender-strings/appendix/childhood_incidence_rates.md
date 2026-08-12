@@ -1,6 +1,8 @@
-# Childhood Incidence Rates
+# Childhood Incidence Rates: Then and Now
 
-The table below shows data from 1996–2005 detailing the incidence rates, in Great Britain, of low-grade gliomas per million population of children aged 0 - 14. Astrocytomas are very rare; during 1996 - 2005, just over 1 in 55,000 2-year-old children contracted the disease. Overall, just 226.4 children per million of age 0 - 14 would be diagnosed with an Astrocytoma during that same period, which is about 1 in 4417 children, or just 0.02%.
+## The Historical Table
+
+The table below appeared in the original edition and covers Great Britain from 1996 to 2005. It lists age-specific rates for astrocytoma diagnoses among children aged 0–14.
 
 | Age at Diagnosis | Incidence per Million |
 | ---------------- | --------------------- |
@@ -19,4 +21,15 @@ The table below shows data from 1996–2005 detailing the incidence rates, in Gr
 | 12               | 12.3                  |
 | 13               | 15.9                  |
 | 14               | 13.5                  |
-| Total            | **226.4**             |
+
+The original page added these fifteen annual age-specific rates to produce 226.4 per million, then described that as approximately one child in 4,417. That sum was intended as a rough cumulative risk across childhood, but it was insufficiently explained and did not account for competing risks or changes in population over time. It should not be presented as an annual incidence rate.
+
+I have also been unable to verify the table’s original source from the material retained with the book. It remains here as a clearly labelled historical table, but readers should use current registry data for research or comparison.
+
+## The Position in 2026
+
+Cancer Research UK describes tumours of the brain and spinal cord as the second most common group of childhood cancers in the UK. It reports that leukaemias, brain and other central nervous system tumours, and lymphomas together account for around two-thirds of cancers diagnosed in UK children.
+
+Comparing childhood brain-tumour rates over time is complicated. Registries may include malignant, non-malignant and uncertain-behaviour central nervous system tumours differently, and tumour classifications have changed as molecular diagnosis has improved. For that reason, a current publication should specify exactly which tumour types, behaviours, ages, population and years are included rather than offering a single apparently timeless risk.
+
+Sources: [Cancer Research UK children’s cancer statistics](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/childrens-cancers) and [UK population study of childhood CNS incidence and changing definitions](https://researchportal.ukhsa.gov.uk/en/publications/incidence-of-childhood-cns-tumours-in-britain-and-variation-in-ra/).
