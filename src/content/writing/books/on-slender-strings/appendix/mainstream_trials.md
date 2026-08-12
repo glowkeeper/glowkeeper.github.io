@@ -4,7 +4,7 @@ Mainstream western medicine is trialling some novel approaches to treating brain
 
 ## Biological Therapies <a href="#biological-therapies" id="biological-therapies"></a>
 
-Biological therapies look to to treat cancer using drugs made from the body’s natural substances. Tyrosine kinase inhibitors (TKIs) block cancer cells from receiving ‘divide and grow’ signals. PARP is an enzyme that enables damaged cells to repair themselves. Anti-angiogenic drugs aim to stop cancers from developing their own blood vessels, which they need for progression.
+Biological therapies look to treat cancer using drugs made from the body’s natural substances. Tyrosine kinase inhibitors (TKIs) block cancer cells from receiving ‘divide and grow’ signals. PARP is an enzyme that enables damaged cells to repair themselves. Anti-angiogenic drugs aim to stop cancers from developing their own blood vessels, which they need for progression.
 
 ## Immunotherapy <a href="#immunotherapy" id="immunotherapy"></a>
 
