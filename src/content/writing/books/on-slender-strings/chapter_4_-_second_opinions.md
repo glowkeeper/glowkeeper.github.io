@@ -2,4 +2,4 @@
 
 > Intuition will tell the thinking mind where to look next.
 
-*Jonas Salk*
+*Jonas Salk, Anatomy of Reality*

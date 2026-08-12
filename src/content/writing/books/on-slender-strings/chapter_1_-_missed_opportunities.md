@@ -2,4 +2,4 @@
 
 > All human things of dearest value hang on slender strings.
 
-*Edmund Waller*
+*Edmund Waller, “To the King, on His Navy”*

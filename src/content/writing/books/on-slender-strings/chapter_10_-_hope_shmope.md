@@ -2,4 +2,4 @@
 
 > Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
 
-*Samuel Beckett*
+*Samuel Beckett, Worstward Ho*

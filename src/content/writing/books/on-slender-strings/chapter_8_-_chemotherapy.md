@@ -2,4 +2,4 @@
 
 > Chemotherapy tests your sanity.
 
-*Melissa Etheridge*
+*Melissa Etheridge, speaking about her cancer treatment, 2005*

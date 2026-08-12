@@ -54,10 +54,21 @@ This page brings the appendix references together in one place. Each factual app
 
 - Fred J. Epstein with Joshua Horwitz, *If I Get to Five: What Children Can Teach Us About Courage and Character* (Henry Holt, 2003). Source of the passage opening the preface.
 - Edmund Waller, [“To the King, on His Navy”](https://www.gutenberg.org/cache/epub/12322/pg12322-images.html), collected in *Miscellanies*. Source of “All human things / Of dearest value hang on slender strings”, from which the book takes its title.
+- John Gay, [“The Persian, the Sun and the Cloud”](https://www.eighteenthcenturypoetry.org/works/ojg27-w0290.shtml), from *Fables*. Source of the preamble epigraph.
+- [*Tao Te Ching*, chapter 64](https://taoism.net/tao-te-ching-chapter-64/). Source of “The journey of a thousand miles begins with one step”; the familiar English wording is a loose translation of the original Chinese.
+- Bukkyō Dendō Kyōkai, [*The Teaching of Buddha*](https://www.bdkamerica.org/product/the-teaching-of-buddha-english-pocketbook-edition/). Source of the passage opening Part Two. It is a modern compilation of Buddhist teaching and is not presented here as a verbatim saying of the historical Buddha.
+- Emily Dickinson, [“Surgeons must be very careful”](https://www.gutenberg.org/cache/epub/2679/pg2679.html), published posthumously in *Poems by Emily Dickinson, Series Two*.
+- Jonas Salk, *Anatomy of Reality: Merging of Intuition and Reason* (Columbia University Press, 1983). Source of the epigraph opening “Second Opinions”.
+- The line “Success is not final, failure is not fatal: it is the courage to continue that counts” has no verified author. It is often attributed to Winston Churchill, but [the International Churchill Society cannot substantiate that attribution](https://www.cbsnews.com/news/ron-desantis-campaign-winston-churchill-fake-quote-experts-say/).
+- Don DeLillo, *Mao II* (Viking, 1991). Source of the epigraph opening “Out of Control”.
+- Melissa Etheridge, interview about her cancer treatment, 2005. Source of “Chemotherapy tests your sanity”.
+- The “three methods” passage opening “Tantrums” is commonly attributed to Confucius, but [its precise wording cannot be verified in the *Analects*](https://warpweftandway.com/time-sensitive-question-re-confucius-quote/). It is therefore identified as an uncertain attribution in the text.
+- Samuel Beckett, *Worstward Ho* (Calder, 1983). Source of “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.”
 - Kahlil Gibran, [*The Prophet*](https://www.gutenberg.org/ebooks/58585) (Knopf, 1923), “On Death”. Source of the passage quoted in “No Conclusion”.
 - Douglas Dunn, “Second Opinion”, quoted in the chapter of the same name.
+- Tim Minchin, “Storm”, source of the passage quoted in “Alternatives”.
 
-Short epigraphs are attributed beside the text wherever their source is known. Quotations from letters, clinical correspondence and support-group discussions are part of the personal record rather than published works.
+Quotations from letters, clinical correspondence and support-group discussions are part of the personal record rather than published works. Their authors are unnamed where identification would be inappropriate.
 
 ## A Note on the Historical Material
 
