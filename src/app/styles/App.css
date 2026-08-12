@@ -92,6 +92,64 @@ main {
   background: transparent;
 }
 
+.book-reader {
+  width: min(100%, var(--reading-width));
+  margin: 0 auto;
+}
+
+.book-contents {
+  margin-bottom: 1rem;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-medium);
+  background: var(--surface);
+}
+
+.book-contents summary {
+  color: var(--on-background);
+  cursor: pointer;
+  font-weight: 650;
+}
+
+.book-contents ol {
+  columns: 2 16rem;
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
+.book-contents li {
+  break-inside: avoid;
+  margin: 0.3rem 0;
+}
+
+.book-contents__depth-2 {
+  margin-left: 1rem !important;
+  font-size: 0.92rem;
+}
+
+.book-contents a[aria-current='page'] {
+  color: var(--on-background);
+  font-weight: 700;
+}
+
+.book-pagination {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.book-pagination a {
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-medium);
+  background: var(--surface);
+}
+
+.book-pagination a:last-child {
+  text-align: right;
+}
+
 @media only screen and (max-width: 767px) {
   main {
     width: 100%;

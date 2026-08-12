@@ -1,0 +1,690 @@
+{
+  "slug": "on-slender-strings",
+  "title": "On Slender Strings",
+  "entries": [
+    {
+      "title": "On Slender Strings",
+      "route": "",
+      "file": "master.md",
+      "depth": 0
+    },
+    {
+      "title": "Dedication",
+      "route": "dedication",
+      "file": "dedication.md",
+      "depth": 1
+    },
+    {
+      "title": "Author’s Note",
+      "route": "preface",
+      "file": "preface.md",
+      "depth": 1
+    },
+    {
+      "title": "Part One — Before and After",
+      "route": "part_1",
+      "file": "part_1_-_before_and_after.md",
+      "depth": 1
+    },
+    {
+      "title": "Preamble",
+      "route": "preamble",
+      "file": "preamble.md",
+      "depth": 1
+    },
+    {
+      "title": "Abi’s Birth",
+      "route": "preamble/abis_birth",
+      "file": "preamble/abis_birth.md",
+      "depth": 2
+    },
+    {
+      "title": "Our New Home",
+      "route": "preamble/our_new_home",
+      "file": "preamble/our_new_home.md",
+      "depth": 2
+    },
+    {
+      "title": "Chapter 1 - Missed Opportunities",
+      "route": "chapter_1_-_missed_opportunities",
+      "file": "chapter_1_-_missed_opportunities.md",
+      "depth": 1
+    },
+    {
+      "title": "Symptoms",
+      "route": "chapter_1_-_missed_opportunities/symptoms",
+      "file": "chapter_1_-_missed_opportunities/symptoms.md",
+      "depth": 2
+    },
+    {
+      "title": "Missed Opportunities",
+      "route": "chapter_1_-_missed_opportunities/missed_opportunities",
+      "file": "chapter_1_-_missed_opportunities/missed_opportunities.md",
+      "depth": 2
+    },
+    {
+      "title": "Admitted to Hospital",
+      "route": "chapter_1_-_missed_opportunities/admitted_to_hospital",
+      "file": "chapter_1_-_missed_opportunities/admitted_to_hospital.md",
+      "depth": 2
+    },
+    {
+      "title": "The Scan",
+      "route": "chapter_1_-_missed_opportunities/the_scan",
+      "file": "chapter_1_-_missed_opportunities/the_scan.md",
+      "depth": 2
+    },
+    {
+      "title": "Transfer",
+      "route": "chapter_1_-_missed_opportunities/transfer",
+      "file": "chapter_1_-_missed_opportunities/transfer.md",
+      "depth": 2
+    },
+    {
+      "title": "Surgery",
+      "route": "chapter_1_-_missed_opportunities/surgery",
+      "file": "chapter_1_-_missed_opportunities/surgery.md",
+      "depth": 2
+    },
+    {
+      "title": "Pilocytic Astrocytoma",
+      "route": "chapter_1_-_missed_opportunities/pilocytic_astrocytoma",
+      "file": "chapter_1_-_missed_opportunities/pilocytic_astrocytoma.md",
+      "depth": 2
+    },
+    {
+      "title": "Why?",
+      "route": "chapter_1_-_missed_opportunities/why",
+      "file": "chapter_1_-_missed_opportunities/why.md",
+      "depth": 2
+    },
+    {
+      "title": "Morphine",
+      "route": "chapter_1_-_missed_opportunities/morphine",
+      "file": "chapter_1_-_missed_opportunities/morphine.md",
+      "depth": 2
+    },
+    {
+      "title": "Recovery",
+      "route": "chapter_1_-_missed_opportunities/recovery",
+      "file": "chapter_1_-_missed_opportunities/recovery.md",
+      "depth": 2
+    },
+    {
+      "title": "CSF Leak",
+      "route": "chapter_1_-_missed_opportunities/csf_leak",
+      "file": "chapter_1_-_missed_opportunities/csf_leak.md",
+      "depth": 2
+    },
+    {
+      "title": "The Letter",
+      "route": "chapter_1_-_missed_opportunities/the_letter",
+      "file": "chapter_1_-_missed_opportunities/the_letter.md",
+      "depth": 2
+    },
+    {
+      "title": "Chapter 2 - Running, Jumping and Dancing",
+      "route": "chapter_2_-_running-_jumping_and_dancing",
+      "file": "chapter_2_-_running-_jumping_and_dancing.md",
+      "depth": 1
+    },
+    {
+      "title": "Costa Rica",
+      "route": "chapter_2_-_running-_jumping_and_dancing/costa_rica",
+      "file": "chapter_2_-_running-_jumping_and_dancing/costa_rica.md",
+      "depth": 2
+    },
+    {
+      "title": "Running, Jumping and Dancing",
+      "route": "chapter_2_-_running-_jumping_and_dancing/running-_jumping_and_dancing",
+      "file": "chapter_2_-_running-_jumping_and_dancing/running-_jumping_and_dancing.md",
+      "depth": 2
+    },
+    {
+      "title": "Spinning",
+      "route": "chapter_2_-_running-_jumping_and_dancing/spinning",
+      "file": "chapter_2_-_running-_jumping_and_dancing/spinning.md",
+      "depth": 2
+    },
+    {
+      "title": "Compassion",
+      "route": "chapter_2_-_running-_jumping_and_dancing/compassion",
+      "file": "chapter_2_-_running-_jumping_and_dancing/compassion.md",
+      "depth": 2
+    },
+    {
+      "title": "A Stark Reminder",
+      "route": "chapter_2_-_running-_jumping_and_dancing/a_stark_reminder",
+      "file": "chapter_2_-_running-_jumping_and_dancing/a_stark_reminder.md",
+      "depth": 2
+    },
+    {
+      "title": "Divorce",
+      "route": "chapter_2_-_running-_jumping_and_dancing/divorce",
+      "file": "chapter_2_-_running-_jumping_and_dancing/divorce.md",
+      "depth": 2
+    },
+    {
+      "title": "The Effect on Abi",
+      "route": "chapter_5_-_the_effects/the_effect_on_abi",
+      "file": "chapter_5_-_the_effects/the_effect_on_abi.md",
+      "depth": 2
+    },
+    {
+      "title": "The Effect on Abi’s Sister",
+      "route": "chapter_5_-_the_effects/the_effect_on_abis_sister",
+      "file": "chapter_5_-_the_effects/the_effect_on_abis_sister.md",
+      "depth": 2
+    },
+    {
+      "title": "Films, Festivals and Football",
+      "route": "chapter_5_-_the_effects/films-_festivals_and_football",
+      "file": "chapter_5_-_the_effects/films-_festivals_and_football.md",
+      "depth": 2
+    },
+    {
+      "title": "Part Two — Living with Uncertainty",
+      "route": "part_2",
+      "file": "part_2_-_living_with_uncertainty.md",
+      "depth": 1
+    },
+    {
+      "title": "Chapter 3 - A Shock for Christmas",
+      "route": "chapter_3_-_a_shock_for_christmas",
+      "file": "chapter_3_-_a_shock_for_christmas.md",
+      "depth": 1
+    },
+    {
+      "title": "A Shock for Christmas",
+      "route": "chapter_3_-_a_shock_for_christmas/a_shock_for_christmas",
+      "file": "chapter_3_-_a_shock_for_christmas/a_shock_for_christmas.md",
+      "depth": 2
+    },
+    {
+      "title": "Meditation",
+      "route": "chapter_3_-_a_shock_for_christmas/meditation",
+      "file": "chapter_3_-_a_shock_for_christmas/meditation.md",
+      "depth": 2
+    },
+    {
+      "title": "Surgery Time",
+      "route": "chapter_3_-_a_shock_for_christmas/surgery_time",
+      "file": "chapter_3_-_a_shock_for_christmas/surgery_time.md",
+      "depth": 2
+    },
+    {
+      "title": "The Morning After the Day Before",
+      "route": "chapter_3_-_a_shock_for_christmas/the_morning_after_the_day_before",
+      "file": "chapter_3_-_a_shock_for_christmas/the_morning_after_the_day_before.md",
+      "depth": 2
+    },
+    {
+      "title": "Chapter 4 - Second Opinions",
+      "route": "chapter_4_-_second_opinions",
+      "file": "chapter_4_-_second_opinions.md",
+      "depth": 1
+    },
+    {
+      "title": "Something Left",
+      "route": "chapter_4_-_second_opinions/something_left",
+      "file": "chapter_4_-_second_opinions/something_left.md",
+      "depth": 2
+    },
+    {
+      "title": "Benign?",
+      "route": "chapter_4_-_second_opinions/benign",
+      "file": "chapter_4_-_second_opinions/benign.md",
+      "depth": 2
+    },
+    {
+      "title": "Abi’s Options",
+      "route": "chapter_4_-_second_opinions/abis_options",
+      "file": "chapter_4_-_second_opinions/abis_options.md",
+      "depth": 2
+    },
+    {
+      "title": "Second Opinions",
+      "route": "chapter_4_-_second_opinions/second_opinions",
+      "file": "chapter_4_-_second_opinions/second_opinions.md",
+      "depth": 2
+    },
+    {
+      "title": "Progression",
+      "route": "chapter_4_-_second_opinions/progression",
+      "file": "chapter_4_-_second_opinions/progression.md",
+      "depth": 2
+    },
+    {
+      "title": "Alternatives",
+      "route": "chapter_4_-_second_opinions/alternatives",
+      "file": "chapter_4_-_second_opinions/alternatives.md",
+      "depth": 2
+    },
+    {
+      "title": "Difficult Decisions",
+      "route": "chapter_4_-_second_opinions/difficult_decisions",
+      "file": "chapter_4_-_second_opinions/difficult_decisions.md",
+      "depth": 2
+    },
+    {
+      "title": "The Effect on Me",
+      "route": "chapter_5_-_the_effects/the_effect_on_me",
+      "file": "chapter_5_-_the_effects/the_effect_on_me.md",
+      "depth": 2
+    },
+    {
+      "title": "Tears",
+      "route": "chapter_5_-_the_effects/tears",
+      "file": "chapter_5_-_the_effects/tears.md",
+      "depth": 2
+    },
+    {
+      "title": "Writing",
+      "route": "chapter_5_-_the_effects/writing",
+      "file": "chapter_5_-_the_effects/writing.md",
+      "depth": 2
+    },
+    {
+      "title": "Peer Support",
+      "route": "chapter_5_-_the_effects/peer_support",
+      "file": "chapter_5_-_the_effects/peer_support.md",
+      "depth": 2
+    },
+    {
+      "title": "Fundraising",
+      "route": "chapter_5_-_the_effects/fundraising",
+      "file": "chapter_5_-_the_effects/fundraising.md",
+      "depth": 2
+    },
+    {
+      "title": "Chapter 5 - Scanxiety",
+      "route": "chapter_6_-_scanxiety",
+      "file": "chapter_6_-_scanxiety.md",
+      "depth": 1
+    },
+    {
+      "title": "Scanxiety",
+      "route": "chapter_6_-_scanxiety/scanxiety",
+      "file": "chapter_6_-_scanxiety/scanxiety.md",
+      "depth": 2
+    },
+    {
+      "title": "Second Opinions Again",
+      "route": "chapter_6_-_scanxiety/second_opinions_again",
+      "file": "chapter_6_-_scanxiety/second_opinions_again.md",
+      "depth": 2
+    },
+    {
+      "title": "Third Time Lucky?",
+      "route": "chapter_6_-_scanxiety/third_time_lucky",
+      "file": "chapter_6_-_scanxiety/third_time_lucky.md",
+      "depth": 2
+    },
+    {
+      "title": "Complete Resection",
+      "route": "chapter_6_-_scanxiety/complete_resection",
+      "file": "chapter_6_-_scanxiety/complete_resection.md",
+      "depth": 2
+    },
+    {
+      "title": "Unwinding",
+      "route": "chapter_6_-_scanxiety/unwinding",
+      "file": "chapter_6_-_scanxiety/unwinding.md",
+      "depth": 2
+    },
+    {
+      "title": "Scan Day",
+      "route": "chapter_6_-_scanxiety/scan_day",
+      "file": "chapter_6_-_scanxiety/scan_day.md",
+      "depth": 2
+    },
+    {
+      "title": "Results Day",
+      "route": "chapter_6_-_scanxiety/results_day",
+      "file": "chapter_6_-_scanxiety/results_day.md",
+      "depth": 2
+    },
+    {
+      "title": "Happily Ever After?",
+      "route": "chapter_6_-_scanxiety/happily_ever_after",
+      "file": "chapter_6_-_scanxiety/happily_ever_after.md",
+      "depth": 2
+    },
+    {
+      "title": "Tumour Free",
+      "route": "chapter_6_-_scanxiety/tumour_free",
+      "file": "chapter_6_-_scanxiety/tumour_free.md",
+      "depth": 2
+    },
+    {
+      "title": "Hope",
+      "route": "chapter_6_-_scanxiety/hope",
+      "file": "chapter_6_-_scanxiety/hope.md",
+      "depth": 2
+    },
+    {
+      "title": "Part Three — Out of Control",
+      "route": "part_3",
+      "file": "part_3_-_out_of_control.md",
+      "depth": 1
+    },
+    {
+      "title": "Chapter 6 - Out of Control",
+      "route": "chapter_7_-_out_of_control",
+      "file": "chapter_7_-_out_of_control.md",
+      "depth": 1
+    },
+    {
+      "title": "Why Her?",
+      "route": "chapter_7_-_out_of_control/why_her",
+      "file": "chapter_7_-_out_of_control/why_her.md",
+      "depth": 2
+    },
+    {
+      "title": "Out of Control",
+      "route": "chapter_7_-_out_of_control/out_of_control",
+      "file": "chapter_7_-_out_of_control/out_of_control.md",
+      "depth": 2
+    },
+    {
+      "title": "Sarah and I Fall Out",
+      "route": "chapter_7_-_out_of_control/sarah_and_i_fall_out",
+      "file": "chapter_7_-_out_of_control/sarah_and_i_fall_out.md",
+      "depth": 2
+    },
+    {
+      "title": "Sarah",
+      "route": "chapter_10_-_hope_shmope/sarah",
+      "file": "chapter_10_-_hope_shmope/sarah.md",
+      "depth": 2
+    },
+    {
+      "title": "Mum and I Fallout",
+      "route": "chapter_7_-_out_of_control/mum_and_i_fallout",
+      "file": "chapter_7_-_out_of_control/mum_and_i_fallout.md",
+      "depth": 2
+    },
+    {
+      "title": "Christmas Time",
+      "route": "chapter_7_-_out_of_control/christmas_time",
+      "file": "chapter_7_-_out_of_control/christmas_time.md",
+      "depth": 2
+    },
+    {
+      "title": "More Bad News",
+      "route": "chapter_7_-_out_of_control/more_bad_news",
+      "file": "chapter_7_-_out_of_control/more_bad_news.md",
+      "depth": 2
+    },
+    {
+      "title": "Yet More Second Opinions",
+      "route": "chapter_7_-_out_of_control/yet_more_second_opinions",
+      "file": "chapter_7_-_out_of_control/yet_more_second_opinions.md",
+      "depth": 2
+    },
+    {
+      "title": "Chapter 7 - Chemotherapy",
+      "route": "chapter_8_-_chemotherapy",
+      "file": "chapter_8_-_chemotherapy.md",
+      "depth": 1
+    },
+    {
+      "title": "Chemotherapy",
+      "route": "chapter_8_-_chemotherapy/chemotherapy",
+      "file": "chapter_8_-_chemotherapy/chemotherapy.md",
+      "depth": 2
+    },
+    {
+      "title": "Agreement",
+      "route": "chapter_8_-_chemotherapy/agreement",
+      "file": "chapter_8_-_chemotherapy/agreement.md",
+      "depth": 2
+    },
+    {
+      "title": "Port Catheter",
+      "route": "chapter_8_-_chemotherapy/port_catheter",
+      "file": "chapter_8_-_chemotherapy/port_catheter.md",
+      "depth": 2
+    },
+    {
+      "title": "Chemotherapy Begins",
+      "route": "chapter_8_-_chemotherapy/chemotherapy_begins",
+      "file": "chapter_8_-_chemotherapy/chemotherapy_begins.md",
+      "depth": 2
+    },
+    {
+      "title": "Three Weeks In",
+      "route": "chapter_8_-_chemotherapy/three_weeks_in",
+      "file": "chapter_8_-_chemotherapy/three_weeks_in.md",
+      "depth": 2
+    },
+    {
+      "title": "The Innocence of Childhood",
+      "route": "chapter_8_-_chemotherapy/the_innocence_of_childhood",
+      "file": "chapter_8_-_chemotherapy/the_innocence_of_childhood.md",
+      "depth": 2
+    },
+    {
+      "title": "Admitted to Hospital Again",
+      "route": "chapter_8_-_chemotherapy/admitted_to_hospital_again",
+      "file": "chapter_8_-_chemotherapy/admitted_to_hospital_again.md",
+      "depth": 2
+    },
+    {
+      "title": "I’m Scared",
+      "route": "chapter_8_-_chemotherapy/im_scared",
+      "file": "chapter_8_-_chemotherapy/im_scared.md",
+      "depth": 2
+    },
+    {
+      "title": "An Email to Abi’s Oncologist",
+      "route": "chapter_8_-_chemotherapy/an_email_to_abis_oncologist",
+      "file": "chapter_8_-_chemotherapy/an_email_to_abis_oncologist.md",
+      "depth": 2
+    },
+    {
+      "title": "Nasojejunal Fun",
+      "route": "chapter_8_-_chemotherapy/nasojejunal_fun",
+      "file": "chapter_8_-_chemotherapy/nasojejunal_fun.md",
+      "depth": 2
+    },
+    {
+      "title": "Free Again",
+      "route": "chapter_8_-_chemotherapy/free_again",
+      "file": "chapter_8_-_chemotherapy/free_again.md",
+      "depth": 2
+    },
+    {
+      "title": "Hospitalised Again",
+      "route": "chapter_8_-_chemotherapy/hospitalised_again",
+      "file": "chapter_8_-_chemotherapy/hospitalised_again.md",
+      "depth": 2
+    },
+    {
+      "title": "Chapter 8 - Tantrums",
+      "route": "chapter_9_-_tantrums",
+      "file": "chapter_9_-_tantrums.md",
+      "depth": 1
+    },
+    {
+      "title": "Tantrum",
+      "route": "chapter_9_-_tantrums/tantrum",
+      "file": "chapter_9_-_tantrums/tantrum.md",
+      "depth": 2
+    },
+    {
+      "title": "Carefree",
+      "route": "chapter_9_-_tantrums/carefree",
+      "file": "chapter_9_-_tantrums/carefree.md",
+      "depth": 2
+    },
+    {
+      "title": "My Birthday",
+      "route": "chapter_9_-_tantrums/my_birthday",
+      "file": "chapter_9_-_tantrums/my_birthday.md",
+      "depth": 2
+    },
+    {
+      "title": "Chemotherapy Ends",
+      "route": "chapter_9_-_tantrums/chemotherapy_ends",
+      "file": "chapter_9_-_tantrums/chemotherapy_ends.md",
+      "depth": 2
+    },
+    {
+      "title": "Part Four — On Slender Strings",
+      "route": "part_4",
+      "file": "part_4_-_on_slender_strings.md",
+      "depth": 1
+    },
+    {
+      "title": "Chapter 9 - Hope Shmope",
+      "route": "chapter_10_-_hope_shmope",
+      "file": "chapter_10_-_hope_shmope.md",
+      "depth": 1
+    },
+    {
+      "title": "Hope Shmope",
+      "route": "chapter_10_-_hope_shmope/hope_shmope",
+      "file": "chapter_10_-_hope_shmope/hope_shmope.md",
+      "depth": 2
+    },
+    {
+      "title": "Facing Fear",
+      "route": "chapter_10_-_hope_shmope/facing_fear",
+      "file": "chapter_10_-_hope_shmope/facing_fear.md",
+      "depth": 2
+    },
+    {
+      "title": "The Nature of God",
+      "route": "chapter_5_-_the_effects/the_nature_of_god",
+      "file": "chapter_5_-_the_effects/the_nature_of_god.md",
+      "depth": 2
+    },
+    {
+      "title": "Two Beautiful Children",
+      "route": "chapter_10_-_hope_shmope/two_beautiful_children",
+      "file": "chapter_10_-_hope_shmope/two_beautiful_children.md",
+      "depth": 2
+    },
+    {
+      "title": "No Conclusion",
+      "route": "chapter_10_-_hope_shmope/no_conclusion",
+      "file": "chapter_10_-_hope_shmope/no_conclusion.md",
+      "depth": 2
+    },
+    {
+      "title": "Epilogue: Five Years Later",
+      "route": "addendum",
+      "file": "addendum.md",
+      "depth": 1
+    },
+    {
+      "title": "Chronology",
+      "route": "chapter_10_-_hope_shmope/timeline",
+      "file": "chapter_10_-_hope_shmope/timeline.md",
+      "depth": 1
+    },
+    {
+      "title": "Appendix",
+      "route": "appendix",
+      "file": "appendix.md",
+      "depth": 1
+    },
+    {
+      "title": "The BFG",
+      "route": "appendix/the_bfg",
+      "file": "appendix/the_bfg.md",
+      "depth": 2
+    },
+    {
+      "title": "Pilocytic Astrocytomas",
+      "route": "appendix/pilocytic_astrocytomas",
+      "file": "appendix/pilocytic_astrocytomas.md",
+      "depth": 2
+    },
+    {
+      "title": "BRAF",
+      "route": "appendix/braf",
+      "file": "appendix/braf.md",
+      "depth": 2
+    },
+    {
+      "title": "Childhood Incidence Rates",
+      "route": "appendix/childhood_incidence_rates",
+      "file": "appendix/childhood_incidence_rates.md",
+      "depth": 2
+    },
+    {
+      "title": "General Incidence Rates",
+      "route": "appendix/general_incidence_rates",
+      "file": "appendix/general_incidence_rates.md",
+      "depth": 2
+    },
+    {
+      "title": "The Funding Gap",
+      "route": "appendix/the_funding_gap",
+      "file": "appendix/the_funding_gap.md",
+      "depth": 2
+    },
+    {
+      "title": "Three Mainstream Interventions",
+      "route": "appendix/three_main_mainstream_interventions",
+      "file": "appendix/three_main_mainstream_interventions.md",
+      "depth": 2
+    },
+    {
+      "title": "Treatment Outcomes",
+      "route": "appendix/treatment_outcomes",
+      "file": "appendix/treatment_outcomes.md",
+      "depth": 2
+    },
+    {
+      "title": "Mainstream Trials",
+      "route": "appendix/mainstream_trials",
+      "file": "appendix/mainstream_trials.md",
+      "depth": 2
+    },
+    {
+      "title": "The Alternative Options",
+      "route": "appendix/the_alternative_options",
+      "file": "appendix/the_alternative_options.md",
+      "depth": 2
+    },
+    {
+      "title": "The Cancer Act",
+      "route": "appendix/the_cancer_act",
+      "file": "appendix/the_cancer_act.md",
+      "depth": 2
+    },
+    {
+      "title": "Convention on the Rights of Persons with Disabilities",
+      "route": "appendix/convention_on_the_rights_of_persons_with_disabilit",
+      "file": "appendix/convention_on_the_rights_of_persons_with_disabilit.md",
+      "depth": 2
+    },
+    {
+      "title": "Where Treatment Has Been Ordered by the Courts",
+      "route": "appendix/where_treatment_has_been_ordered_by_the_courts",
+      "file": "appendix/where_treatment_has_been_ordered_by_the_courts.md",
+      "depth": 2
+    },
+    {
+      "title": "Acknowledgements",
+      "route": "acknowledgements",
+      "file": "acknowledgements.md",
+      "depth": 1
+    },
+    {
+      "title": "Disclaimer",
+      "route": "disclaimer",
+      "file": "disclaimer.md",
+      "depth": 1
+    },
+    {
+      "title": "Legalities",
+      "route": "legal",
+      "file": "legal.md",
+      "depth": 1
+    }
+  ]
+}

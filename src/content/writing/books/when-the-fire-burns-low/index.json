@@ -1,0 +1,72 @@
+{
+  "slug": "when-the-fire-burns-low",
+  "title": "When the Fire Burns Low",
+  "entries": [
+    {
+      "title": "When the Fire Burns Low",
+      "route": "",
+      "file": "master.md",
+      "depth": 0
+    },
+    {
+      "title": "Dedication",
+      "route": "dedication",
+      "file": "dedication.md",
+      "depth": 1
+    },
+    {
+      "title": "Legalities",
+      "route": "legalities",
+      "file": "legalities.md",
+      "depth": 1
+    },
+    {
+      "title": "Acknowledgements",
+      "route": "acknowledgements",
+      "file": "acknowledgements.md",
+      "depth": 1
+    },
+    {
+      "title": "Mystery on a White Horse",
+      "route": "mystery_on_a_white_horse",
+      "file": "mystery_on_a_white_horse.md",
+      "depth": 1
+    },
+    {
+      "title": "Day of the Demon or Night of the Living Bread",
+      "route": "day_of_the_demon_or_night_of_the_living_bread",
+      "file": "day_of_the_demon_or_night_of_the_living_bread.md",
+      "depth": 1
+    },
+    {
+      "title": "Change",
+      "route": "change",
+      "file": "change.md",
+      "depth": 1
+    },
+    {
+      "title": "Wisdom",
+      "route": "wisdom",
+      "file": "wisdom.md",
+      "depth": 1
+    },
+    {
+      "title": "Gratitude",
+      "route": "gratitude",
+      "file": "gratitude.md",
+      "depth": 1
+    },
+    {
+      "title": "Freedom",
+      "route": "freedom",
+      "file": "freedom.md",
+      "depth": 1
+    },
+    {
+      "title": "The Earth and the Moon",
+      "route": "the-earth-and-the-moon",
+      "file": "the-earth-and-the-moon.md",
+      "depth": 1
+    }
+  ]
+}

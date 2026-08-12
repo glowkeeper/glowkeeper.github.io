@@ -1,7 +1,9 @@
 import { ContentPage } from '@/app/components/ContentPage'
+import { BookReader } from '@/app/components/BookReader'
 
 import { siteSections, WritingSections } from '@/app/config'
 import { createContentMetadataGenerator } from '@/app/utils/metadata'
+import { readBookContent } from '@/app/utils/bookRegistry'
 
 const section = siteSections.writing.siteSections[WritingSections.books]
 
@@ -24,6 +26,11 @@ const BooksPage = async ({
   params: Promise<{ path: string }>
 }) => {
   const { path } = await params
+
+  const book = await readBookContent(path)
+  if (book) {
+    return <BookReader content={book.content} current={book.entry} manifest={book.manifest} />
+  }
 
   return <ContentPage endPoint={path} section={section} />
 }

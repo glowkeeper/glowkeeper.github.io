@@ -1,0 +1,7 @@
+# Where Treatment Has Been Ordered by the Courts
+
+Evidence that the UK State was willing to impose treatment on brain tumour patients came to the fore in late 2012 when the case of Neon Roberts hit the news. Neon was suffering from an aggressive brain tumour; a Grade IV Glioblastoma that his doctors wanted to treat with radiotherapy. His mother disagreed and so she absconded with her son to an alternative therapy clinic.
+
+The UK Government decided to intervene. However, the manner and extent of their intervention were concerning. Fifteen policemen and a helicopter were deployed to a house where Mrs Roberts was thought to be hiding. Radio, television and newspapers were kept informed of the operation. When Neon was found, he was removed from his mother’s care and placed in a foster home. Then the full force of the judiciary was deployed, and her case was heard by a judge.
+
+The case proved that Neon’s mother was caring. Indeed, Mrs Roberts was very knowledgeable about her son’s condition. She did not want her son to have radiotherapy based on research she had done about its efficacy and associated risk. She did not run away simply out of fear of radiotherapy, but rather, she went to a centre offering, what she thought, was a better alternative; Hyperbaric Oxygen Therapy: “It made sense to do something that would help Neon – oxygen therapy has been shown to help the brain heal.” The judge eventually ruled against Mrs Roberts and Neon, against his mother’s wishes, was forced to undergo radiotherapy.

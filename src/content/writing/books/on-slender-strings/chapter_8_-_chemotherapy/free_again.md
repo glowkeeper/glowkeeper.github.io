@@ -1,0 +1,5 @@
+# Free Again
+
+Abi was discharged from the hospital on Wednesday, 20 May 2015. By then she had stopped being sick, and she had started to regain some weight - back up to 18.5 kg. Before Abi’s discharge, she had another MRI. Yesterday we got the results. After six years, you would think I would be used to scan results day, but I’m not. I get very nervous. This time I had reason to be; there was, of course, the possibility that her vomiting was somehow due to her brain tumours. But the scan proved that Abi’s tumours were stable; no growth, no shrinkage, just the same as things were three months prior. That was fantastic news. I could breathe again.
+
+Indeed, it would be easy to ascribe all of Abi’s ailments to her tumours. Or chemotherapy, even. However, the doctors at our local hospital were busy considering other reasons. There is a history of migraines in the family, and at Abi’s age, that illness often manifests in the abdomen. So she has been prescribed pizotifen, a drug for treating that. It also has the fortuitous side-effect, in Abi’s case, of increasing appetite. Indeed, since taking the drug, Abi has begun eating well again.

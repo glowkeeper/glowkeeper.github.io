@@ -14,11 +14,11 @@ export enum SoftwareSections {
 }
 
 export enum WritingSections {
+  books,
   poetry,
   stories,
   flashFiction,
   reports,
-  books,
   humour
 }
 
@@ -142,19 +142,19 @@ export const booksSections: SiteSection = {
   title: 'books',
   path: '/writing/books',
   content: {
-    myAbi: {
-      id: "writing-books-my-abi",
-      title: "my abi",
-      subText: "A father's personal story of love, family and Abi.",
-      endPoint: 'my-abi',
-      content: 'writing/books/myAbi.md'
+    onSlenderStrings: {
+      id: "writing-books-on-slender-strings",
+      title: "on slender strings",
+      subText: "A father's story of love, fear and a childhood brain tumour.",
+      endPoint: 'on-slender-strings',
+      content: 'writing/books/on-slender-strings/master.md'
     },
-    storiesFromTheCampfire: {
-      id: "writing-books-stories-from-the-campfire",
-      title: "stories from the campfire",
-      subText: "A collection of stories written to be shared around a family retreat campfire.",
-      endPoint: 'stories-from-the-campfire',
-      content: 'writing/books/storiesFromTheCampfire.md'
+    whenTheFireBurnsLow: {
+      id: "writing-books-when-the-fire-burns-low",
+      title: "when the fire burns low",
+      subText: "Tales of magic, mischief and unexpected wisdom.",
+      endPoint: 'when-the-fire-burns-low',
+      content: 'writing/books/when-the-fire-burns-low/master.md'
     }
   }
 }
@@ -654,7 +654,7 @@ export const siteSections: Site = {
   writing: {
     title: "writing",
     subText: "Poetry, fiction, humour, reports and longer-form writing by Dr Steve Huckle.",
-    siteSections: [poetrySections, storiesSections, flashFictionSections, reportsSections, booksSections, humourSections]
+    siteSections: [booksSections, poetrySections, storiesSections, flashFictionSections, reportsSections, humourSections]
   },
   music:  {
     title: "music",

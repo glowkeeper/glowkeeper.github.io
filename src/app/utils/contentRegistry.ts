@@ -2,6 +2,7 @@ import { readFile, readdir, stat } from 'node:fs/promises'
 import path from 'node:path'
 
 import { siteSections } from '@/app/config'
+import { readBookManifest } from '@/app/utils/bookRegistry'
 
 const contentDirectory = path.join(process.cwd(), 'src', 'content')
 
@@ -44,6 +45,10 @@ export const validateContentRegistry = async (): Promise<void> => {
     )
   )
   const errors: string[] = []
+  const bookManifests = (await Promise.all([
+    readBookManifest('on-slender-strings'),
+    readBookManifest('when-the-fire-burns-low'),
+  ])).filter(manifest => manifest !== null)
 
   const duplicateIds = duplicates(items.map(item => item.id))
   const duplicateRoutes = duplicates(items.map(item => item.route))
@@ -64,7 +69,12 @@ export const validateContentRegistry = async (): Promise<void> => {
   const missingFiles = missing.filter((file): file is string => file !== null)
   if (missingFiles.length) errors.push(`Missing Markdown files: ${missingFiles.join(', ')}`)
 
-  const registered = new Set(items.map(item => item.content))
+  const registered = new Set([
+    ...items.map(item => item.content),
+    ...bookManifests.flatMap(manifest => manifest.entries.map(entry => (
+      `writing/books/${manifest.slug}/${entry.file}`
+    ))),
+  ])
   const markdownFiles = (await collectMarkdownFiles(contentDirectory))
     .map(file => path.relative(contentDirectory, file).split(path.sep).join('/'))
   const unregistered = markdownFiles.filter(file => !registered.has(file) && !allowedDrafts.has(file))

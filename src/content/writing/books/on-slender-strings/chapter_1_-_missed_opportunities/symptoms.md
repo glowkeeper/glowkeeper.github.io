@@ -1,0 +1,3 @@
+# Symptoms
+
+Sometime around mid-June 2009, Abi suddenly started squinting. She also became unsteady on her feet. Soon after, Sarah took her to the local doctor, who referred her squint to the local eye hospital. Abi was given an appointment six weeks from then, on 9 August. However, my daughter’s ever more pronounced squint worried me, so I tried to get her seen sooner by phoning the eye hospital’s outpatient department. “I’m sorry,” they told me, “but we can’t give your daughter an earlier appointment without a proper referral from a medical professional.” So Abi would have to wait.

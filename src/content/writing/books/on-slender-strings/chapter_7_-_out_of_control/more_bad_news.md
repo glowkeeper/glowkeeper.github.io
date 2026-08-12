@@ -1,0 +1,9 @@
+# More Bad News
+
+On 5 January, Abi and I arrived at the hospital to get her latest scan results. As usual, I first went and sat in the chapel for 10 minutes and prayed for good health.
+
+I had learned to prepare myself for the worst because I had become used to getting bad news. So I met her surgeon with a good deal of resigned trepidation, steeled to hear that her tumour had progressed. I shook hands with Carlton, and we exchanged polite pleasantries as he led Sarah and me into his office, leaving the girls playing happily outside. Carlton sat at his desk and beckoned us to take our seats. “I understand that Abi has been hospitalised recently. Could you tell me more about it?” he asked. “Around the end of summer, Abi just couldn’t stop vomiting,” I said to him. “She stopped eating almost entirely, and her weight plummeted,” I continued. “They still don’t know what the cause of all that was. They suspect psychological problems. But is it possible it could have had anything to do with Abi’s tumour?” I asked. “Well,” Carlton continued, “it’s possible. We’ve found evidence of a second tumour on Abi’s hypothalamus, which is a part of the brain that controls many functions, including growth and appetite. So it may have been that which caused her to become unwell, certainly,” he told me. “A second tumour?” I asked. “Unfortunately, yes. Furthermore, the second tumour is inoperable because of its location.”
+
+Much of the rest of the meeting was a blur. But the gist of it was that because Abi’s new tumour was inaccessible to surgery, her care was being moved away from the surgical team, and on to an oncologist. I knew what that meant. Chemotherapy.
+
+Back outside, hiding my real emotions and conveying the idea that all was right with the world, Kara, Abi and I had a big, happy, team hug. I then left Sarah to take the children home, and went and sat back in the chapel and had a good old-fashioned cry.
