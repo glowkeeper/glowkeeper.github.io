@@ -1,23 +1,78 @@
 # Chronology
 
-Here’s a summary of the past seven years:
+The principal events described in this book, from Abi’s first symptoms in 2009 to the events of the Afterword in 2026.
 
-1. Abi becomes unwell, but her symptoms remain undiagnosed.
-2. She is rushed to the hospital to have life-saving surgery.
-3. Diagnosed with a ‘benign’ brain tumour.
-4. Shunt fitted.
-5. I cycle from Land’s End to John O’Groats to raise funds and say thank you to Abi’s hospital.
-6. Divorce.
-7. Abi has 18 months free of tumour progression.
-8. Tumour growth. More brain surgery.
-9. I cycle from London to Nice to thank Abi’s hospital again, raising more funds for them.
-10. Against the advice of Abi’s oncologist, we have a year of ‘watch and wait’.
-11. Abi has a complete resection. Tumour-free!
-12. She remains tumour free for over a year but then has a recurrence.
-13. Abi’s hospitalised when she can’t stop vomiting.
-14. A second brain tumour is found in the hypothalamus.
-15. Abi starts chemotherapy.
-16. More sickness and Abi’s weight plummets. She is put on artificial feeds.
-17. Abi stops vomiting and gains weight.
-18. A year of tumour free progression. Shrinkage, even.
-19. Chemotherapy ends.
+## 2009
+
+- **Mid-June:** Two-year-old Abi begins squinting and becomes unsteady on her feet. Headaches and vomiting follow.
+- **9 August:** An orthoptist attributes Abi’s symptoms to long-sightedness.
+- **10 August:** An optician recognises that Abi is seriously unwell and has her admitted to hospital.
+- **August:** An MRI reveals a brain tumour approximately the size of a tennis ball. Abi is transferred to a specialist hospital and undergoes life-saving surgery.
+- **August–September:** Complications follow, including a cerebrospinal fluid leak. Abi eventually has a permanent shunt fitted.
+- **Mid-September:** Abi is discharged from hospital.
+
+## 2010
+
+- **August:** A scan shows that the remaining tumour appears to have shrunk. Abi remains under regular observation.
+- **December:** Sarah and I separate. Shared custody of Kara and Abi follows.
+
+## 2011
+
+- **January:** Kara, Abi and I move into the coastguard cottage.
+- **December:** A scan shows that Abi’s tumour has progressed. Further surgery is recommended.
+
+## 2012
+
+- **16 January:** Abi undergoes her second brain operation.
+- **20 January:** She returns home, four days after surgery.
+- **May:** A scan shows further tumour growth.
+- **Summer:** Faced with chemotherapy or radiotherapy, we begin a period of watchful waiting while considering other treatments.
+
+## 2013
+
+- **January:** Another scan shows continued progression.
+- **19 March:** Abi undergoes brain and spinal MRI scans at a different hospital.
+- **25 March:** A new surgeon tells us that he believes he can remove the whole tumour.
+- **10 April:** Abi undergoes her third brain operation.
+- **15 April:** She returns home, five days after surgery.
+- **12 July:** We are told that her scan shows no evidence of residual or recurrent tumour.
+
+## 2014
+
+- **July:** A routine scan shows signs of recurrence at the original tumour site.
+- **September–October:** Abi is hospitalised for several weeks after prolonged vomiting and serious weight loss.
+- **December:** Abi has a further MRI scan. I postpone receiving the results until after Christmas.
+
+## 2015
+
+- **5 January:** We are told that Abi’s tumour has progressed and that a second tumour has been found in her hypothalamus.
+- **19 January:** Abi’s oncologist recommends treatment with vinblastine.
+- **16 February:** Abi has a port fitted in preparation for chemotherapy.
+- **Late February:** Weekly chemotherapy begins.
+- **May:** After further vomiting and weight loss, Abi is given a nasojejunal feeding tube.
+- **20 May:** She is discharged from hospital. Her tumours remain stable.
+- **Later in the year:** Abi’s health, weight and mood improve. Scans show stability and some shrinkage.
+
+## 2016
+
+- **February:** Abi completes one year of chemotherapy. Her tumours are stable or smaller, and her weight has increased substantially.
+- **After treatment:** Regular MRI scans continue.
+
+## 2021
+
+- **August:** Five years after Abi completed chemotherapy, her tumour remains stable. Her oncologist discharges her from regular specialist follow-up and considers it unlikely that he will need to see her again.
+
+## 2022
+
+- **April:** Shortly before her fifteenth birthday, Abi leaves my home to live permanently with her mum.
+- **Shortly afterwards:** Kara moves out too.
+
+## 2022–2025
+
+- I see very little of either girl.
+
+## 2026
+
+- **Early in the year:** Kara begins coming back into my life.
+- Abi remains distant.
+- **Later in the year:** Abi is due to begin university.
