@@ -1,5 +1,7 @@
 # Alternatives
 
+*Written in 2012. This chapter records what I considered and tried at the time; it is not an endorsement of those treatments. I have revisited the evidence in [Alternative Treatments I Considered](/writing/books/on-slender-strings/appendix/the_alternative_options).*
+
 By early summer 2012, Abi was left in a precarious position because according to the standard of care offered by the UK’s NHS, she had run out of options. So I began looking outside of mainstream medicine.
 
 I’m a fan of Tim Minchin, and I have always loved his ‘Storm’. It includes the following lines:

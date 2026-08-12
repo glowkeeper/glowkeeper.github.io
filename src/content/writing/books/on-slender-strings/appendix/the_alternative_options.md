@@ -1,81 +1,67 @@
-# The Alternative Options
+# Alternative Treatments I Considered
 
-Below is a list of alternative medicines that purport to have properties that make them suitable in the fight against brain tumours.
+When I first wrote this part of the book, I listed a range of alternative treatments that I had investigated while trying to find something that might help Abi. Presented as a list, those treatments may have appeared to carry my endorsement. They do not.
 
-## Homeopathy <a href="#homeopathy" id="homeopathy"></a>
+This page records the things I considered at a frightening and desperate point in my daughter’s illness. Some of them I also tried. It is not a recommendation that anyone else should do the same. In fact, with the benefit of hindsight, I can see that some of the claims I encountered were unsupported, some were misleading and a few were potentially dangerous.
 
-Homeopathy seems completely counter-intuitive in that the more diluted the medicine, the higher the potency. Yet millions of people use homoeopathy worldwide, and they spend billions too. According to the World Health Organisation, in 2008 Australian’s paid US$7.3 million on homoeopathic remedies, the French more than US$408 million, Germans US$346 million and UK citizens more than US$62 million. In 2007, adults in the United States spent a staggering $2.9 billion. Perhaps the free market economy had judged?
+## Why I Looked
 
-Perhaps the best known of the brain tumour homoeopathic remedies is the Banerji protocol. The Banerji’s have a long history of treating brain tumours and one of their papers reports having treated 30,288 malignant tumours in the period 1990–2008. Of these, they claimed that 21% had completely regressed, and 23% had improved or were stable. If such statistics are correct, then the protocol compares extremely favourably with conventional treatments for cancer.
+In 2012, Abi’s tumour had progressed after two operations. The treatments being discussed carried risks of their own, and I was frightened of making a decision that might harm her. So I did what many worried parents probably do: I searched everywhere.
 
-## Supplements <a href="#supplements" id="supplements"></a>
+I read about homeopathy, supplements, special diets, spiritual healing, hyperbaric oxygen, cannabinoids and clinics offering treatments unavailable through the NHS. I came across laboratory studies, testimonials, documentaries, patents and impressive-sounding statistics. At the time, all of those could feel like pieces of the same puzzle. They were not.
 
-There is a range of supplements that are supposed to help combat brain tumours.
+A substance affecting cancer cells in a laboratory is not proof that it can treat cancer safely in a person. A patent is not evidence that something works. A testimonial cannot tell us what would have happened without the treatment, and an expensive clinic is not necessarily an effective one. Most importantly, the fact that conventional treatment can have serious side effects does not make an unproven alternative effective.
 
-### Boswellia <a href="#boswellia" id="boswellia"></a>
+I understood some of that at the time. I did not understand it nearly as clearly as I thought I did.
 
-Boswellia is a herbal medicine traditionally used for its anti-inflammatory properties. It’s the focus of some clinical trials researching its efficacy in treating brain tumours.
+## Homeopathy
 
-### Curcumin <a href="#curcumin" id="curcumin"></a>
+Abi received homeopathic remedies. I was drawn to homeopathy partly because it appeared harmless and partly because its practitioners offered hope when I badly needed some.
 
-Curcumin is a substance in turmeric that is thought to have medicinal properties which help the body fight off pain and inflammation. Some laboratory tests suggest that curcumin may block the growth of certain kinds of tumours.
+However, popularity is not evidence. Nor is the amount of money people spend on a treatment. There is no good-quality evidence that homeopathy can prevent or treat cancer, or that it is effective for any other health condition. Its greatest danger arises when it replaces treatment that has evidence behind it.
 
-### DCA <a href="#dca" id="dca"></a>
+Further information: [Homeopathy and cancer, Cancer Research UK](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/homeopathy).
 
-DCA, or dichloroacetate, is a very simple chemical that some researchers have found causes cancer cells to stop multiplying and die. Furthermore, unlike chemotherapy agents, DCA isn’t thought to affect healthy cells.
+## Diet and Supplements
 
-### Coriolus <a href="#coriolus" id="coriolus"></a>
+I changed Abi’s diet and gave her a long list of supplements, including Boswellia, curcumin, DCA, Turkey Tail mushroom, Maitake D-Fraction, melatonin, zinc, omega 3 and whey protein. I wanted to believe that if I found the correct combination, I could make her body inhospitable to the tumour.
 
-Coriolus Versicolor, or Turkey Tail mushroom, has long been used in Traditional Chinese Medicine for boosting the immune system. There have been Western studies that suggest it protects the immune system during chemotherapy, but research has also begun to consider whether it could help fight cancer in its own right. One American trial found very compelling results as to its efficacy in treating breast cancer.
+Giving a child a varied and nutritious diet is sensible. But that is very different from claiming that a particular food, vitamin, herb or supplement can control cancer. There is no reliable evidence that any diet or nutritional supplement can cure cancer or stop it returning. Supplements can also interact with cancer medicines, so they should be discussed with the child’s medical team.
 
-### Maitake D-Fraction <a href="#maitake-d-fraction" id="maitake-d-fraction"></a>
+I also believed that removing sugar might help because PET scans demonstrate that tumours take up glucose. That reasoning was too simplistic. Cancer cells use glucose, but so do healthy cells. There is no evidence that eating sugar makes an existing cancer worse, or that eliminating it causes a tumour to shrink. A severely restrictive diet can be particularly dangerous for a child who is already struggling to maintain weight.
 
-Maitake D-Fraction is purported to have antitumor effects and helps enhance the immune system.
+Laboratory findings involving substances such as curcumin, mushrooms or DCA may provide a reason for further research. They are not, by themselves, evidence of a safe and effective treatment. I blurred that distinction because I wanted the early research to mean more than it did.
 
-### Melatonin <a href="#melatonin" id="melatonin"></a>
+Further information: [Diets, supplements and cancer, US National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/cam/diets-supplements) and [Sugar and cancer, Cancer Research UK](https://news.cancerresearchuk.org/2023/08/16/sugar-and-cancer-what-you-need-to-know/).
 
-Chemically, melatonin is N-acetyl–5-methoxy tryptamine, a hormone that anticipates the daily onset of darkness and induces sleep. A 2005 meta-study of its use in treating solid tumours found that: “The substantial reduction in risk of death, low adverse events reported and low costs related to this intervention suggest great potential for melatonin in treating cancer.”
+## Apricot Kernels and Laetrile
 
-### Zinc <a href="#zinc" id="zinc"></a>
+Apricot kernels deserve a particular warning. They contain amygdalin, which can release cyanide inside the body. Laetrile, a partly synthetic form of amygdalin sometimes called “Vitamin B17”, has not been shown to treat cancer and can cause cyanide poisoning. The possible effects include liver damage, nerve damage, coma and death.
 
-Studies indicate that zinc may play a significant role in cancer treatment. Indeed, zinc deficiency may be a contributory factor in cancer development.
+This is not a harmless remedy. Nobody should take apricot kernels or laetrile in an attempt to treat cancer.
 
-### Apricot Kernels <a href="#apricot-kernels" id="apricot-kernels"></a>
+Further information: [Laetrile, Cancer Research UK](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/laetrile).
 
-Apricot kernels are reported to be beneficial for brain tumour patients. However, they contain the substance laetrile, whose active ingredient is hydrogen cyanide, a potent toxin at high doses. Laetrile has been actively promoted as beneficial for cancer patients since the early 20th century, but its use has become highly controversial. In fact, the US Federal Drugs Agency actively prosecutes those promoting it as a cancer cure, calling it a “highly toxic product that has not shown any effect on cancer.”
+## Cannabinoids
 
-### Omega 3 <a href="#omega-3" id="omega-3"></a>
+I was also interested in research suggesting that cannabinoids affected tumour cells. Again, laboratory research and patents did not establish that cannabis could cure a brain tumour. Some cannabinoid medicines may help manage symptoms such as chemotherapy-related nausea, but that is different from treating the cancer itself. Evidence for using cannabis or cannabinoids as an anticancer treatment in people remains insufficient.
 
-Omega 3 is a well-established brain food.
+Further information: [Cannabis and cannabinoids, US National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/cam/patient/cannabis-pdq).
 
-### Whey Protein <a href="#whey-protein" id="whey-protein"></a>
+## Clinics and Other Therapies
 
-According to the Journal of the American College of Nutrition, there’s growing evidence to suggest that whey protein can help prevent and attenuate disease. They say that we’ve known for centuries that it forms an essential constituent of a healthy diet. For example, a very well-known nursery rhyme, first appearing in print in 1805 (but may date back to the 15th century) mentions whey protein: “Little Miss Muffet sat on a tuffet eating her curds and whey.” Researchers think that whey protein is an anti-carcinogen because it replenishes the immune system and helps the body respond effectively to disease. It does this through the delivery of one of the principal protective mechanisms of a cell’s protective antioxidant system, glutathione.
+I read about hyperbaric oxygen therapy and overseas cancer clinics, including the Burzynski Clinic. The conflicting stories were difficult to navigate. I was too willing to treat controversy as evidence that an overlooked treatment might be threatening the medical establishment. It could equally mean that extraordinary claims had not been supported by reliable results.
 
-## Hyperbaric Oxygen Therapy (HBOT) <a href="#hyperbaric-oxygen-therapy-hbot" id="hyperbaric-oxygen-therapy-hbot"></a>
+Documentaries, patient stories and accusations of conspiracy are not substitutes for properly conducted clinical trials. Neither is the price of a treatment a measure of its value. My comparison between the cost of the Burzynski Clinic and conventional cancer care was especially unhelpful because cost says nothing about whether a treatment works.
 
-Brain tumours have hypoxic areas, and it is believed that HBOT has a role to play in treating them because it promotes oxygen delivery.
+I also took Abi to a spiritual healer. I remain glad that we went because he was kind, focused and gave her his complete attention. That experience may have offered comfort, just as meditation offered comfort to me. But comfort is not the same as treating a tumour, and I should not confuse the two.
 
-## Cannabinoids <a href="#cannabinoids" id="cannabinoids"></a>
+## Looking Back
 
-Cannabis produces a series of unique compounds, called cannabinoids, which exhibit some biological effects by activating cannabinoid receptors (the so-called endocannabinoids) in humans and animals. Perhaps the best known of these cannabinoids is the highly potent tetrahydrocannabinol (THC), the primary psychoactive constituent of cannabis that is responsible for producing a ‘high’. It is this property that also makes the drug illegal in many countries around the world. This, of course, has stigmatised cannabis, which is unfortunate because there are a growing number of studies that suggest that cannabinoids may inhibit tumour growth. Below is a graph showing the annual searches on PubMed for the phrase “cannabinoids and cancer.” Note how the number of searches has a recent upward trend.
+I was scrambling around for hope. That explains my decisions, but it does not turn weak evidence into strong evidence. Nor does it mean that other parents should follow the same path.
 
-![PubMed Cannabinoids](/assets/books/on-slender-strings/pubmed-cannabinoids.png)
+There is an important difference between a complementary therapy used to support someone’s wellbeing and an alternative treatment used in place of medical care. Anyone considering a supplement, restrictive diet or complementary therapy during cancer treatment should discuss it with their oncologist, specialist nurse or dietitian. Some products can interfere with treatment and others can cause direct harm.
 
-PubMed Annual Number of Searches for the Phrase “Cannabinoids and Cancer.”
+I do not regret looking for every possible way to help my daughter. I do regret sometimes allowing hope to make an unproven claim appear more convincing than it was.
 
-In fact, there are one or two interesting US patent applications that suggest the beneficial medicinal properties of cannabis. The first is application 20130059018: Phytocannabinoids in the treatment of Cancer. The second is the granted application 6630507: Cannabinoids as antioxidants and neuroprotectants. The abstract of the paper describing that patent starts with the following paragraph:
-
-> Cannabinoids have been found to have antioxidant properties, unrelated to NMDA receptor antagonism. This new found property makes cannabinoids useful in the treatment and prophylaxis of wide variety of oxidation associated diseases, such as ischemic, age-related, inflammatory and autoimmune diseases.
-
-This patent is interesting because it was filed by the Government of the United States of America, as represented by their Department of Health and Human Services. So the use of cannabis as a medicine is considered beneficial by the highest of powers. Indeed, there is a growing number of countries that have legislated to allow the use of medical cannabis.
-
-## Alternative Health Clinics <a href="#alternative-health-clinics" id="alternative-health-clinics"></a>
-
-There are many alternative brain cancer clinics in America. One example is the Burzynski Clinic. But is Burzynski a quack or a saviour? You can easily find conflicting views on the Internet, including a documentary that seems to suggest the clinic is the victim of a conspiracy by the US FDA. Part of the controversy is that treatment costs US$100 thousand. But that cost is actually dwarfed by the price of chemotherapy and radiotherapy. It’s simply that American Health Insurance schemes fund conventional therapy, but not alternative treatments, such as Burzynski. That leaves interested patients having to find the money for themselves.
-
-## Diet <a href="#diet" id="diet"></a>
-
-There must be some truth to the proverb: “We are what we eat.” It is disappointing that the standard of care from the UK’s NHS does not include food. It is unforgivable to feed patients junk while they are hospitalised. It’s also a shame there aren’t more studies involving diet and brain tumours.
-
-There are many diets purported to have anti-cancer properties. Gerson therapy, the ketogenic diet and the alkaline diet are to name but a few. Getting children to eat anything out of the ordinary is often problematic. Indeed, care should be taken when considering dietary changes for a child and it would be wise to seek the advice of a professional nutritionist.
+That is why this list belongs in the story. Not as an endorsement, but as an honest account of what fear can lead a parent to consider.
