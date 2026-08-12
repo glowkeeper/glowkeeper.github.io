@@ -17,8 +17,14 @@ export const EmailCopy = ({ label }: { label?: string }) => {
     <div className="email-copy">
       {label && <span>{label}</span>}
       <span>{email}</span>
-      <button aria-label="Copy email address" onClick={copyEmail} type="button">
-        {copied ? 'Copied' : 'Copy'}
+      <button
+        aria-label={copied ? 'Email address copied' : 'Copy email address'}
+        className={copied ? 'email-copy__button email-copy__button--copied' : 'email-copy__button'}
+        onClick={copyEmail}
+        title={copied ? 'Copied' : 'Copy email address'}
+        type="button"
+      >
+        <span aria-hidden="true" className="email-copy__icon" />
       </button>
       <span aria-live="polite" className="email-copy__status">
         {copied ? 'Email address copied to clipboard.' : ''}
