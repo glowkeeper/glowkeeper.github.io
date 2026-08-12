@@ -1,5 +1,7 @@
 # The Effect on Abi’s Sister
 
+*Written in 2012.*
+
 Abi’s sister, Kara, is also an extremely happy, well-adjusted young lady. Just like her sister, she’s doing well at school and making lots of new friends. In fact, both girls light up the lives of all those who cross their path, and I’m blessed to have them entrusted to my care. I love them dearly.
 
 Despite their mother and I getting divorced, they have had a happy upbringing. However, I’m convinced that our separation is partly the reason that the girls are so close. In difficult times, they have always been able to fall back on each other.

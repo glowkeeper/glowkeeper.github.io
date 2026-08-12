@@ -1,5 +1,7 @@
 # The Effect on Me
 
+*Written in 2013.*
+
 Abi’s illness has had an enormous impact on my life. Some of it, believe it or not, good. Some of it, of course, bad. There are also parts that are downright ugly.
 
 ## The Good <a href="#the-good" id="the-good"></a>

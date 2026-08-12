@@ -1,6 +1,6 @@
 # Yet More Second Opinions
 
-The days following the news of Abi’s second tumour were difficult. My angel was in trouble. I felt physically sick. My blood pressure must have been very high, and one night I awoke many times feeling as though I was about to have a heart attack. I’ve since learnt that it must have been anxiety. I had never experienced anything like that before; I was a nervous wreck.
+The days following the news of Abi’s second tumour site were difficult. My angel was in trouble. I felt physically sick. My blood pressure must have been very high, and one night I awoke many times feeling as though I was about to have a heart attack. I’ve since learnt that it must have been anxiety. I had never experienced anything like that before; I was a nervous wreck.
 
 My mum’s partner was the first to phone. “I’m sorry to hear the news. So’s your mother. Will you speak to her?” he asked. Before I could decide whether I should, she called. “We want to support you. Let’s put all of our problems behind us,” she said. “I don’t want to talk about that now,” I replied, sharply. I could tell she was shocked. I think she expected that, with the news of Abi’s illness, I would want to settle our differences. But I felt my focus had to be Abi, not my problematic relationship with my parents. In fact, a few days later I decided that I would not change my stance. I only wanted supportive people in my life and they had never been that.
 

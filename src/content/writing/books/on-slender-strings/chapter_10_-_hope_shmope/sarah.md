@@ -1,5 +1,7 @@
 # Sarah
 
+*Written in 2016.*
+
 During Abi’s illness, her mum and I have lurched from one argument to another. Even six years after the divorce, we have been unable to resolve our differences. In fact, our fights are getting worse.
 
 Adversity either brings people together, or it rips them apart. Sarah made it clear from the very start that Abi’s hospitalisation would mean the latter for us. And whereas most divorcees get to separate properly, and rarely see each other, Sarah and I have had to spend hours in each other’s company at our daughter’s bedside. That hasn’t helped. Worse is that I can quickly push Sarah’s buttons, and they produce emotional outbursts that I haven’t always found easy to ignore.

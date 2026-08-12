@@ -45,7 +45,7 @@ The principal events described in this book, from Abi’s first symptoms in 2009
 
 ## 2015
 
-- **5 January:** We are told that Abi’s tumour has progressed and that a second tumour has been found in her hypothalamus.
+- **5 January:** We are told that Abi’s tumour has progressed and that another tumour site has been found in her hypothalamus. This is later understood to be a dissemination of her original tumour rather than a separate new tumour.
 - **19 January:** Abi’s oncologist recommends treatment with vinblastine.
 - **16 February:** Abi has a port fitted in preparation for chemotherapy.
 - **Late February:** Weekly chemotherapy begins.

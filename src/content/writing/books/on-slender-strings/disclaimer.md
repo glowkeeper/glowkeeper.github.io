@@ -1,3 +1,5 @@
 # Disclaimer
 
-This story is based on true events. However, all characters appearing in this work are fictitious. Any resemblance to real persons, living or dead, is purely coincidental.
+This book is based on a true story. It recounts events as I remember them and reflects my own experiences and perspective.
+
+Nothing in this book should be interpreted as medical or legal advice.

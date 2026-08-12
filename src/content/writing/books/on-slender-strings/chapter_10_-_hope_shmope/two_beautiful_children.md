@@ -1,5 +1,7 @@
 # Two Beautiful Children
 
+*Written in 2016.*
+
 Soon after Abi’s third surgery, just after we had been told that she was tumour free, a friend of mine posted a lovely message on Facebook:
 
 > For anyone who hasn’t been there, it is impossible to empathise with what you have all gone through. We can only imagine how bad it has been and, even then, only from a distance. You have had to cope with it all every minute for the last few years, like a weight that hangs around your neck, changing everything, restricting everything. Every minute of the day and night. It has stopped life in its tracks. Now it’s almost certainly over. You can’t even know how that feels yet; it’s uncharted territory.
