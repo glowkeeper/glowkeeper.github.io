@@ -4,11 +4,13 @@ import Markdown from 'react-markdown'
 import type { Components } from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 
+import { EmailCopy } from '@/app/components/EmailCopy'
+
 type PageType = ({ content }: PageProps) => ReactNode
 
 interface PageProps {
   content: string
-  variant?: 'default' | 'poetry'
+  variant?: 'contact' | 'default' | 'poetry'
 }
 
 type MarkdownNode = {
@@ -60,5 +62,6 @@ export const Page: PageType = ({ content, variant = 'default' }) => (
     ? `article article--poetry${content.includes('**Mine**|**Original**') ? ' article--comparison' : ''}`
     : 'article'}>
     <Markdown components={markdownComponents(variant)} remarkPlugins={[remarkGfm]}>{content}</Markdown>
+    {variant === 'contact' && <EmailCopy />}
   </article>
 )

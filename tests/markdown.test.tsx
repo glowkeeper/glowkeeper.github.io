@@ -11,11 +11,13 @@ describe('Markdown rendering', () => {
       path.join(process.cwd(), 'src/content/about/contact.md'),
       'utf8'
     )
-    const html = renderToStaticMarkup(<Page content={markdown} />)
+    const html = renderToStaticMarkup(<Page content={markdown} variant="contact" />)
 
     expect(html).toContain('<article class="article">')
     expect(html).toContain('<h1>Contact</h1>')
-    expect(html).toContain('href="mailto:steve@huckle.studio"')
+    expect(html).toContain('steve@huckle.studio')
+    expect(html).toContain('Copy email address')
+    expect(html).not.toContain('mailto:')
   })
 
   it('renders poetry tables as verse rather than data tables', () => {

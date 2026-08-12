@@ -111,4 +111,4 @@ My [PhD research](/academia/phd) used design science to investigate applications
 
 ## Contact
 
-<steve@huckle.studio>
+steve\@huckle.studio

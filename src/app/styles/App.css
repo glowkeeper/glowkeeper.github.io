@@ -96,6 +96,42 @@ main {
   background: transparent;
 }
 
+.email-copy {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem;
+  margin-top: 0.75rem;
+}
+
+.email-copy button {
+  padding: 0.35rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--on-background);
+  background: var(--surface-muted);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 650;
+}
+
+.email-copy button:hover,
+.email-copy button:focus-visible {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.email-copy__status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
 .book-reader {
   width: min(100%, var(--reading-width));
   margin: 0 auto;
