@@ -27,7 +27,7 @@ const staticCards: SocialCard[] = [
   { art: 'about', label: 'About', path: '/about', title: siteSections.about.title, description: siteSections.about.subText },
   { art: 'academia', label: 'Academia', path: '/academia', title: siteSections.academia.title, description: siteSections.academia.subText },
   { art: 'software', label: 'Software', path: '/software', title: siteSections.software.title, description: siteSections.software.subText },
-  { art: 'software', label: 'Software', path: '/software/apps', title: 'apps', description: 'Software applications and browser experiments built by Dr Steve Huckle.' },
+  { art: 'software', label: 'Software', path: '/software/apps', title: 'fun', description: 'Playful utilities and browser experiments built by Dr Steve Huckle.' },
   { art: 'software', label: 'Software', path: '/software/games', title: 'games', description: 'Small, playful browser games built by Dr Steve Huckle.' },
   { art: 'writing', label: 'Writing', path: '/writing', title: siteSections.writing.title, description: siteSections.writing.subText },
   { art: 'writing', label: 'Writing', path: '/writing/books', title: 'books', description: 'Books and longer-form writing by Dr Steve Huckle.' },

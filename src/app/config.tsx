@@ -97,7 +97,7 @@ export const academiaSections: SiteSection = {
 }
 
 export const appsSections: SiteSection = {
-  title: 'apps',
+  title: 'fun',
   path: '/software/apps',
   content: {
     animated: {
@@ -649,8 +649,8 @@ export const siteSections: Site = {
   },
   software: {
     eyebrow: "Developer · Maker",
-    title: "Software with a point of view",
-    subText: "Games, useful tools and browser experiments—including the daily challenge Quizmo.",
+    title: "Code, mostly for fun",
+    subText: "Games, playful utilities and browser experiments—including the daily challenge Quizmo.",
     siteSections: [gamesSections, appsSections]
   },
   writing: {
