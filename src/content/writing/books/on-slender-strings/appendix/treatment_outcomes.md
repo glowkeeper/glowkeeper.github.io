@@ -10,7 +10,7 @@ The **HIT-LGG-1996** study followed 1,031 children and adolescents recruited bet
 
 The study’s conclusion that “primary safe tumour resection is the treatment of choice” remains important. The word *safe* matters: removing more tumour is not automatically a better outcome if doing so causes serious neurological harm.
 
-A population study of 1,202 Ontario children diagnosed between 1985 and 2012 found excellent long-term survival overall. It also found that upfront radiotherapy was associated with increased late mortality. That evidence helped reinforce a move already under way: delay or avoid cranial radiotherapy in young children when other effective options are available.
+A population study of 1,202 Ontario children diagnosed between 1985 and 2012 found excellent long-term survival overall. It also found that radiotherapy given as an initial treatment was associated with an increased risk of dying later. That evidence reinforced a change already under way: delaying or avoiding cranial radiotherapy in young children when other effective options were available.
 
 These were observational data and treatment groups were not interchangeable. Children receiving radiotherapy, chemotherapy or observation differed in age, tumour location, symptoms and resectability. Their survival percentages should not be read as though the treatments had been randomly assigned to otherwise identical children.
 
@@ -18,13 +18,13 @@ These were observational data and treatment groups were not interchangeable. Chi
 
 The broad picture remains encouraging: most children with paediatric low-grade glioma survive for many years. A large US registry study of 4,040 children diagnosed between 1973 and 2008 reported overall survival of about 87% at twenty years. More recent cohorts and treatment eras show improved late outcomes, particularly as cranial radiotherapy has been used less often.
 
-However, progression is not rare. The NCI reports that children managed with surgery followed by observation had an eight-year overall survival rate of 96% and progression-free survival of 78% in one large study. Outcome varies substantially with tumour location, extent of safe resection, age, histology and molecular alteration.
+But progression is not rare. The NCI reports that children managed with surgery followed by observation had an eight-year overall survival rate of 96% and progression-free survival of 78% in one large study. Outcomes vary substantially with tumour location, extent of safe resection, age, histology and molecular alteration.
 
-Long-term follow-up matters because survivors can experience visual, hearing, hormonal, neurological, cognitive and psychological effects. Those effects may arise from the tumour itself, hydrocephalus or treatment. Avoiding death is the most important outcome, but it is not the only outcome that matters to a child’s life.
+Long-term follow-up matters because survivors can experience problems with vision, hearing, hormones, movement, learning and mental health. Those effects may arise from the tumour itself, hydrocephalus or treatment. Avoiding death is the most important outcome, but it is not the only one that matters to a child’s life.
 
 ## How Treatment Is Judged Now
 
-Modern decisions are increasingly individualised. The team considers:
+Treatment is increasingly tailored to the individual child. The team considers:
 
 - whether the tumour is causing symptoms or progressing;
 - whether it can be removed without unacceptable harm;

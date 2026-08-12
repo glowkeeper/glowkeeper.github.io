@@ -1,6 +1,6 @@
 # Sources and Further Reading
 
-This page brings the appendix references together in one place. Each factual appendix page also carries a shorter source block beside the claims it supports. Links were checked in August 2026; medical guidance and statistics will continue to change.
+This page brings the appendix references together in one place. Each factual appendix page also ends with a shorter list of the sources used there. Links were checked in August 2026; medical guidance and statistics will continue to change.
 
 ## Tumour Classification, Biology and Treatment
 

@@ -12,7 +12,7 @@ That was the landscape in which Sarah and I made decisions for Abi. Our choices 
 
 ## What Has Changed by 2026
 
-Surgery, chemotherapy, radiotherapy and observation all remain part of treatment. However, it is no longer accurate to describe them as the only meaningful options.
+Surgery, chemotherapy, radiotherapy and observation all remain important. But it is no longer accurate to describe them as the only meaningful options.
 
 Diagnosis now makes much greater use of a tumour’s molecular features. Many paediatric low-grade gliomas are driven by changes in the MAPK signalling pathway, frequently involving **BRAF**. That knowledge has led to targeted medicines designed to interrupt the particular signals helping a tumour grow.
 
@@ -20,7 +20,7 @@ For example, NICE recommended the BRAF inhibitor **dabrafenib** with the MEK inh
 
 Radiotherapy has changed too. When it is needed, modern conformal techniques—including intensity-modulated and proton-beam radiotherapy—can reduce the dose received by healthy tissue, although they cannot eliminate long-term risk.
 
-So, by 2026, the central question is not simply which of three treatments to choose. It is how best to combine observation, maximal safe surgery, chemotherapy, radiotherapy and molecularly targeted treatment for a particular child and a particular tumour. Decisions should be made by a specialist paediatric neuro-oncology team using current pathology, molecular testing, symptoms, tumour location and the child’s previous treatment.
+So, in 2026, the question is no longer simply which of three treatments to choose. It is how best to use observation, the greatest amount of surgery that can be performed safely, chemotherapy, radiotherapy and targeted treatment for one child and one tumour. That decision belongs with a specialist paediatric neuro-oncology team, guided by the latest pathology and molecular testing, the tumour’s location, the child’s symptoms and any treatment they have already received.
 
 ## Sources and Further Reading
 

@@ -2,7 +2,7 @@
 
 ## The Basic Picture
 
-Pilocytic astrocytoma is a relatively slow-growing glioma seen most often in children and young people. It can arise in several parts of the brain, including the cerebellum, optic pathway, hypothalamus and brain stem. Its position is crucial: even a slow-growing tumour can cause serious harm by pressing on or growing around structures responsible for movement, vision, hormones or other essential functions.
+Pilocytic astrocytoma is a relatively slow-growing glioma seen most often in children and young people. It can arise in several parts of the brain, including the cerebellum, optic pathway, hypothalamus and brainstem. Its position is crucial: even a slow-growing tumour can cause serious harm by pressing on or growing around structures responsible for movement, vision, hormones or other essential functions.
 
 Historically, these tumours were described as “benign Grade I astrocytomas”. The word *benign* could be misleading. It described their microscopic appearance and relatively slow growth, but did not mean that the tumour was harmless or easy to treat. Abi’s experience makes that distinction painfully clear.
 
@@ -16,7 +16,7 @@ Alterations activating the MAPK pathway are found in most paediatric low-grade g
 
 Overall survival for children with low-grade glioma is high, especially when a tumour can be removed safely. But survival is not the whole outcome. Some tumours recur or progress, sometimes many years later, and children may live with effects caused by the tumour, hydrocephalus, surgery or other treatment. Location, extent of resection, molecular features and the child’s age all matter.
 
-For that reason, individual predictions should come from the specialist team caring for the child. Population statistics cannot say what will happen to one particular patient.
+That is why any prediction about an individual child should come from the specialist team caring for them. Population statistics cannot tell a family what will happen to their child.
 
 ## Sources and Further Reading
 

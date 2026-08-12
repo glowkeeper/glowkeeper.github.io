@@ -12,11 +12,11 @@ These approaches were scientifically interesting, but interest was not the same 
 
 The largest practical advance for paediatric low-grade glioma has come from understanding its molecular drivers. Most of these tumours contain an alteration affecting the MAPK pathway. That has allowed researchers to move from broadly attacking dividing cells towards targeting specific signals used by the tumour.
 
-BRAF and MEK inhibitors are now established treatments in some circumstances. In the UK, dabrafenib with trametinib is recommended for children with BRAF V600E-mutated low-grade glioma who require systemic treatment. Selumetinib has shown activity in several groups of children with recurrent or progressive low-grade glioma, while the RAF inhibitor tovorafenib has been approved in the United States for certain relapsed or refractory BRAF-altered tumours and is undergoing appraisal in the UK.
+BRAF and MEK inhibitors are now established treatments in some circumstances. In the UK, dabrafenib with trametinib is recommended for children with BRAF V600E-mutated low-grade glioma who need treatment with medicines. Selumetinib has shown activity in several groups of children whose low-grade glioma has returned or progressed. Another RAF inhibitor, tovorafenib, has been approved in the United States for certain BRAF-altered tumours that have returned or resisted treatment, and is being appraised in the UK.
 
 This progress does not mean every child can receive a targeted drug, or that targeted treatment is necessarily a cure. Different BRAF alterations behave differently and may respond differently to particular medicines. Tumours can progress after treatment stops, resistance can develop, and the long-term effects of newer drugs require continued study.
 
-Immunotherapy, vaccines and gene-based approaches remain important areas of research, particularly for aggressive brain tumours, but they are not routine treatments for pilocytic astrocytoma. It would therefore be misleading to place every novel approach on the same footing. By 2026, targeted inhibition of the MAPK pathway has entered clinical practice for selected paediatric low-grade gliomas; many other approaches remain experimental.
+Immunotherapy, vaccines and gene-based approaches remain important areas of research, particularly for aggressive brain tumours, but they are not routine treatments for pilocytic astrocytoma. It would be misleading to put every new approach on the same footing. By 2026, drugs targeting the MAPK pathway have entered clinical practice for some paediatric low-grade gliomas. Many other approaches remain experimental.
 
 ## Sources and Further Reading
 
