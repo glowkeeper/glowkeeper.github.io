@@ -18,4 +18,7 @@ That distinction matters for treatment. Dabrafenib with trametinib targets BRAF 
 
 Modern diagnosis therefore combines what the tumour looks like under a microscope with molecular testing. “BRAF-positive” on its own is not a sufficiently precise description; the exact alteration matters.
 
-Further information: [NCI childhood glioma treatment summary](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq) and [NICE guidance on BRAF V600E-mutated glioma](https://www.nice.org.uk/guidance/ta977).
+## Sources and Further Reading
+
+- [NCI childhood glioma treatment summary](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq)
+- [NICE guidance on BRAF V600E-mutated glioma](https://www.nice.org.uk/guidance/ta977)

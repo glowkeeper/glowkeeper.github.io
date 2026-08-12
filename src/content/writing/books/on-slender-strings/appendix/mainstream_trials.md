@@ -18,4 +18,8 @@ This progress does not mean every child can receive a targeted drug, or that tar
 
 Immunotherapy, vaccines and gene-based approaches remain important areas of research, particularly for aggressive brain tumours, but they are not routine treatments for pilocytic astrocytoma. It would therefore be misleading to place every novel approach on the same footing. By 2026, targeted inhibition of the MAPK pathway has entered clinical practice for selected paediatric low-grade gliomas; many other approaches remain experimental.
 
-Further information: [NCI childhood glioma treatment summary](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq), [NICE guidance on dabrafenib with trametinib](https://www.nice.org.uk/guidance/ta977), and [NICE’s appraisal of tovorafenib](https://www.nice.org.uk/guidance/indevelopment/gid-ta11693).
+## Sources and Further Reading
+
+- [NCI childhood glioma treatment summary](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq)
+- [NICE guidance on dabrafenib with trametinib](https://www.nice.org.uk/guidance/ta977)
+- [NICE appraisal of tovorafenib](https://www.nice.org.uk/guidance/indevelopment/gid-ta11693)

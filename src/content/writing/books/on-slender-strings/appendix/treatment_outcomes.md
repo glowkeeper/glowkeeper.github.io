@@ -36,4 +36,9 @@ Modern decisions are increasingly individualised. The team considers:
 
 The lesson I take from the evidence is not that one treatment always wins. It is that long survival allows little room for complacency about late effects. Treatment must control the tumour while preserving as much of the child’s future as possible.
 
-Further reading: [HIT-LGG-1996 long-term follow-up](https://pmc.ncbi.nlm.nih.gov/articles/PMC3452343/), [Ontario population study](https://acsjournals.onlinelibrary.wiley.com/doi/full/10.1002/cncr.29907), [long-term SEER outcomes](https://pmc.ncbi.nlm.nih.gov/articles/PMC4657506/), and [current NCI treatment evidence](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq).
+## Sources and Further Reading
+
+- [HIT-LGG-1996 long-term follow-up](https://pmc.ncbi.nlm.nih.gov/articles/PMC3452343/)
+- [Ontario population study](https://acsjournals.onlinelibrary.wiley.com/doi/full/10.1002/cncr.29907)
+- [Long-term SEER outcomes](https://pmc.ncbi.nlm.nih.gov/articles/PMC4657506/)
+- [Current NCI treatment evidence](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq)

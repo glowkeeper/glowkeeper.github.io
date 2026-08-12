@@ -32,4 +32,7 @@ Cancer Research UK describes tumours of the brain and spinal cord as the second 
 
 Comparing childhood brain-tumour rates over time is complicated. Registries may include malignant, non-malignant and uncertain-behaviour central nervous system tumours differently, and tumour classifications have changed as molecular diagnosis has improved. For that reason, a current publication should specify exactly which tumour types, behaviours, ages, population and years are included rather than offering a single apparently timeless risk.
 
-Sources: [Cancer Research UK children’s cancer statistics](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/childrens-cancers) and [UK population study of childhood CNS incidence and changing definitions](https://researchportal.ukhsa.gov.uk/en/publications/incidence-of-childhood-cns-tumours-in-britain-and-variation-in-ra/).
+## Sources and Further Reading
+
+- [Cancer Research UK children’s cancer statistics](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/childrens-cancers)
+- [UK population study of childhood CNS incidence and changing definitions](https://researchportal.ukhsa.gov.uk/en/publications/incidence-of-childhood-cns-tumours-in-britain-and-variation-in-ra/)

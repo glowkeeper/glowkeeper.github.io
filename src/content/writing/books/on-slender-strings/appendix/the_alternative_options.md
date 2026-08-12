@@ -20,8 +20,6 @@ Abi received homeopathic remedies. I was drawn to homeopathy partly because it a
 
 However, popularity is not evidence. Nor is the amount of money people spend on a treatment. There is no good-quality evidence that homeopathy can prevent or treat cancer, or that it is effective for any other health condition. Its greatest danger arises when it replaces treatment that has evidence behind it.
 
-Further information: [Homeopathy and cancer, Cancer Research UK](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/homeopathy).
-
 ## Diet and Supplements
 
 I changed Abi’s diet and gave her a long list of supplements, including Boswellia, curcumin, DCA, Turkey Tail mushroom, Maitake D-Fraction, melatonin, zinc, omega 3 and whey protein. I wanted to believe that if I found the correct combination, I could make her body inhospitable to the tumour.
@@ -32,21 +30,15 @@ I also believed that removing sugar might help because PET scans demonstrate tha
 
 Laboratory findings involving substances such as curcumin, mushrooms or DCA may provide a reason for further research. They are not, by themselves, evidence of a safe and effective treatment. I blurred that distinction because I wanted the early research to mean more than it did.
 
-Further information: [Diets, supplements and cancer, US National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/cam/diets-supplements) and [Sugar and cancer, Cancer Research UK](https://news.cancerresearchuk.org/2023/08/16/sugar-and-cancer-what-you-need-to-know/).
-
 ## Apricot Kernels and Laetrile
 
 Apricot kernels deserve a particular warning. They contain amygdalin, which can release cyanide inside the body. Laetrile, a partly synthetic form of amygdalin sometimes called “Vitamin B17”, has not been shown to treat cancer and can cause cyanide poisoning. The possible effects include liver damage, nerve damage, coma and death.
 
 This is not a harmless remedy. Nobody should take apricot kernels or laetrile in an attempt to treat cancer.
 
-Further information: [Laetrile, Cancer Research UK](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/laetrile).
-
 ## Cannabinoids
 
 I was also interested in research suggesting that cannabinoids affected tumour cells. Again, laboratory research and patents did not establish that cannabis could cure a brain tumour. Some cannabinoid medicines may help manage symptoms such as chemotherapy-related nausea, but that is different from treating the cancer itself. Evidence for using cannabis or cannabinoids as an anticancer treatment in people remains insufficient.
-
-Further information: [Cannabis and cannabinoids, US National Cancer Institute](https://www.cancer.gov/about-cancer/treatment/cam/patient/cannabis-pdq).
 
 ## Clinics and Other Therapies
 
@@ -65,3 +57,11 @@ There is an important difference between a complementary therapy used to support
 I do not regret looking for every possible way to help my daughter. I do regret sometimes allowing hope to make an unproven claim appear more convincing than it was.
 
 That is why this list belongs in the story. Not as an endorsement, but as an honest account of what fear can lead a parent to consider.
+
+## Sources and Further Reading
+
+- [Cancer Research UK: homeopathy and cancer](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/homeopathy)
+- [US National Cancer Institute: diets and supplements](https://www.cancer.gov/about-cancer/treatment/cam/diets-supplements)
+- [Cancer Research UK: sugar and cancer](https://news.cancerresearchuk.org/2023/08/16/sugar-and-cancer-what-you-need-to-know/)
+- [Cancer Research UK: laetrile](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/laetrile)
+- [US National Cancer Institute: cannabis and cannabinoids](https://www.cancer.gov/about-cancer/treatment/cam/patient/cannabis-pdq)

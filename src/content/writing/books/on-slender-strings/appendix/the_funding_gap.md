@@ -26,4 +26,9 @@ This is progress, but it does not make the funding question disappear. Brain tum
 
 The fairest conclusion in 2026 is that brain-tumour research has gained visibility, infrastructure and important targeted investment since this book was first written. It is also still reasonable to ask whether the scale and continuity of funding match the difficulty of the diseases and the harm they cause. Answering that properly requires transparent, consistently defined figures rather than slogans alone.
 
-Sources: [2012–13 NCRI operating report](https://www.ncri.org.uk/wp-content/uploads/2013-NCRI-Operating-Report-2012-2013.pdf), [NCRI wind-down announcement](https://www.ncri.org.uk/wp-content/uploads/NCRI-letter-26-June-2023.pdf), [2023–24 NIHR spending answer](https://questions-statements.parliament.uk/written-questions/detail/2025-01-10/23243/), and the [2026 National Cancer Plan for England](https://www.gov.uk/government/publications/national-cancer-plan-for-england/the-national-cancer-plan-for-england-delivering-world-class-cancer-care-accessible-version).
+## Sources and Further Reading
+
+- [2012–13 NCRI operating report](https://www.ncri.org.uk/wp-content/uploads/2013-NCRI-Operating-Report-2012-2013.pdf)
+- [NCRI wind-down announcement](https://www.ncri.org.uk/wp-content/uploads/NCRI-letter-26-June-2023.pdf)
+- [2023–24 NIHR spending answer](https://questions-statements.parliament.uk/written-questions/detail/2025-01-10/23243/)
+- [2026 National Cancer Plan for England](https://www.gov.uk/government/publications/national-cancer-plan-for-england/the-national-cancer-plan-for-england-delivering-world-class-cancer-care-accessible-version)

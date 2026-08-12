@@ -16,4 +16,7 @@ These totals cannot be compared directly with every number in the old page becau
 
 Statistics describe populations, not individual outcomes. They combine many tumour types whose behaviour and prognosis differ enormously.
 
-Source: [Cancer Research UK: brain, other CNS and intracranial tumour statistics](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/brain-other-cns-and-intracranial-tumours) and [information about brain tumours](https://www.cancerresearchuk.org/about-cancer/brain-tumours/about).
+## Sources and Further Reading
+
+- [Cancer Research UK: brain, other CNS and intracranial tumour statistics](https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/brain-other-cns-and-intracranial-tumours)
+- [Cancer Research UK: information about brain tumours](https://www.cancerresearchuk.org/about-cancer/brain-tumours/about)

@@ -1,7 +1,20 @@
 # Where Treatment Has Been Ordered by the Courts
 
-Evidence that the UK State was willing to impose treatment on brain tumour patients came to the fore in late 2012 when the case of Neon Roberts hit the news. Neon was suffering from an aggressive brain tumour; a Grade IV Glioblastoma that his doctors wanted to treat with radiotherapy. His mother disagreed and so she absconded with her son to an alternative therapy clinic.
+The case of Neon Roberts brought this painful territory into public view in late 2012. Neon was seven and had a medulloblastoma, a fast-growing malignant brain tumour. He had undergone surgery, and his doctors recommended further surgery followed by radiotherapy and chemotherapy. His mother, Sally Roberts, feared the permanent effects of radiotherapy and wanted more time to investigate other possibilities. His father supported the treatment proposed by the clinical team.
 
-The UK Government decided to intervene. However, the manner and extent of their intervention were concerning. Fifteen policemen and a helicopter were deployed to a house where Mrs Roberts was thought to be hiding. Radio, television and newspapers were kept informed of the operation. When Neon was found, he was removed from his mother’s care and placed in a foster home. Then the full force of the judiciary was deployed, and her case was heard by a judge.
+Earlier versions of this page described Neon’s tumour as a Grade IV glioblastoma and said that his mother had taken him to an alternative-therapy clinic. Those details were wrong. She briefly disappeared with him while opposing the proposed treatment, which led to a police search, but the published judgment is more important than the surrounding drama.
 
-The case proved that Neon’s mother was caring. Indeed, Mrs Roberts was very knowledgeable about her son’s condition. She did not want her son to have radiotherapy based on research she had done about its efficacy and associated risk. She did not run away simply out of fear of radiotherapy, but rather, she went to a centre offering, what she thought, was a better alternative; Hyperbaric Oxygen Therapy: “It made sense to do something that would help Neon – oxygen therapy has been shown to help the brain heal.” The judge eventually ruled against Mrs Roberts and Neon, against his mother’s wishes, was forced to undergo radiotherapy.
+The NHS trust applied to the High Court. Mr Justice Bodey heard evidence about the likely course of the disease, the benefits and serious long-term risks of radiotherapy, and the alternatives Sally Roberts wished to explore. He accepted that she was a devoted mother acting from love and genuine concern. He nevertheless concluded that her assessment of the immediate danger had gone wrong. The court authorised the proposed treatment because, on the evidence before it, Neon might die within months without it and the treatment offered a substantial prospect of long-term survival.
+
+That is not the same as saying that parents do not matter, or that a doctor’s preference automatically wins. When a dispute about major treatment reaches the High Court, the judge must decide independently what is in the particular child’s best interests. The court can authorise treatment despite a parent’s refusal, but only after considering the available choices and the child’s welfare as a whole.
+
+Nor does the case prove that questioning doctors is wrong. Sally Roberts was right that radiotherapy could have profound late effects. The court’s decision rested on a harder comparison: those risks against the danger of leaving an aggressive tumour without treatment shown to control it. As the judge put the essential point, a child cannot enjoy quality of life unless he remains alive.
+
+I understand why this case frightened me. I was already trying to weigh tumour progression against treatments that could themselves change Abi’s life. But the accurate lesson is narrower than the one I originally drew. Parents carry enormous responsibility and their views command serious respect; where an irreconcilable dispute puts a child’s welfare at stake, the court has the final decision.
+
+## Sources and Further Reading
+
+- [*An NHS Trust v SR* [2012] EWHC 3842 (Fam)](https://www.familylawweek.co.uk/judgments/an-nhs-trust-v-sr-2012-ewhc-3842-fam/)
+- [Contemporary report of the judgment and medical evidence](https://www.theguardian.com/society/2012/dec/21/neon-roberts-radiotherapy-mother-wishes)
+- [Expert medical context published after the ruling](https://www.sciencemediacentre.org/experts-comment-on-the-neon-roberts-radiotherapy-court-case/)
+- [UK Supreme Court explanation of the High Court’s protective jurisdiction](https://www.supremecourt.uk/cases/judgments/uksc-2023-0053)

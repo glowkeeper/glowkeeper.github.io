@@ -22,4 +22,7 @@ Radiotherapy has changed too. When it is needed, modern conformal techniques—i
 
 So, by 2026, the central question is not simply which of three treatments to choose. It is how best to combine observation, maximal safe surgery, chemotherapy, radiotherapy and molecularly targeted treatment for a particular child and a particular tumour. Decisions should be made by a specialist paediatric neuro-oncology team using current pathology, molecular testing, symptoms, tumour location and the child’s previous treatment.
 
-Further information: [NCI childhood glioma treatment summary](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq) and [NICE guidance on dabrafenib with trametinib](https://www.nice.org.uk/guidance/ta977).
+## Sources and Further Reading
+
+- [NCI childhood glioma treatment summary](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq)
+- [NICE guidance on dabrafenib with trametinib](https://www.nice.org.uk/guidance/ta977)

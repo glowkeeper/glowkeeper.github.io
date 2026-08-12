@@ -18,4 +18,7 @@ Overall survival for children with low-grade glioma is high, especially when a t
 
 For that reason, individual predictions should come from the specialist team caring for the child. Population statistics cannot say what will happen to one particular patient.
 
-Further information: [NCI childhood glioma information](https://www.cancer.gov/types/brain/patient/childhood-glioma-astrocytoma) and its [health-professional treatment summary](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq).
+## Sources and Further Reading
+
+- [NCI childhood glioma information](https://www.cancer.gov/types/brain/patient/childhood-glioma-astrocytoma)
+- [NCI health-professional treatment summary](https://www.cancer.gov/types/brain/hp/child-astrocytoma-glioma-treatment-pdq)

@@ -597,6 +597,12 @@
       "depth": 1
     },
     {
+      "title": "Glossary",
+      "route": "appendix/glossary",
+      "file": "appendix/glossary.md",
+      "depth": 2
+    },
+    {
       "title": "The BFG",
       "route": "appendix/the_bfg",
       "file": "appendix/the_bfg.md",
@@ -615,24 +621,6 @@
       "depth": 2
     },
     {
-      "title": "Childhood Incidence Rates: Then and Now",
-      "route": "appendix/childhood_incidence_rates",
-      "file": "appendix/childhood_incidence_rates.md",
-      "depth": 2
-    },
-    {
-      "title": "Brain Tumour Statistics: Then and Now",
-      "route": "appendix/general_incidence_rates",
-      "file": "appendix/general_incidence_rates.md",
-      "depth": 2
-    },
-    {
-      "title": "The Funding Gap: Then and Now",
-      "route": "appendix/the_funding_gap",
-      "file": "appendix/the_funding_gap.md",
-      "depth": 2
-    },
-    {
       "title": "Mainstream Interventions: Then and Now",
       "route": "appendix/three_main_mainstream_interventions",
       "file": "appendix/three_main_mainstream_interventions.md",
@@ -648,6 +636,24 @@
       "title": "Emerging Treatments: Then and Now",
       "route": "appendix/mainstream_trials",
       "file": "appendix/mainstream_trials.md",
+      "depth": 2
+    },
+    {
+      "title": "Childhood Incidence Rates: Then and Now",
+      "route": "appendix/childhood_incidence_rates",
+      "file": "appendix/childhood_incidence_rates.md",
+      "depth": 2
+    },
+    {
+      "title": "Brain Tumour Statistics: Then and Now",
+      "route": "appendix/general_incidence_rates",
+      "file": "appendix/general_incidence_rates.md",
+      "depth": 2
+    },
+    {
+      "title": "The Funding Gap: Then and Now",
+      "route": "appendix/the_funding_gap",
+      "file": "appendix/the_funding_gap.md",
       "depth": 2
     },
     {
@@ -672,6 +678,12 @@
       "title": "Where Treatment Has Been Ordered by the Courts",
       "route": "appendix/where_treatment_has_been_ordered_by_the_courts",
       "file": "appendix/where_treatment_has_been_ordered_by_the_courts.md",
+      "depth": 2
+    },
+    {
+      "title": "Sources and Further Reading",
+      "route": "appendix/sources_and_further_reading",
+      "file": "appendix/sources_and_further_reading.md",
       "depth": 2
     },
     {

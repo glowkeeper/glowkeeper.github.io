@@ -8,4 +8,7 @@ There are exemptions, including communications directed at doctors, nurses, phar
 
 The wording is old and broad, and it is reasonable to debate whether legislation passed in 1939 remains the best way to regulate modern communications. However, it is important to describe the law accurately. It controls certain advertising; it does not prohibit free speech about cancer.
 
-The full legislation is available at [legislation.gov.uk](https://www.legislation.gov.uk/ukpga/Geo6/2-3/13/section/4), and current guidance on advertising medicines is published by the [Medicines and Healthcare products Regulatory Agency](https://www.gov.uk/government/publications/blue-guide-advertising-and-promoting-medicines).
+## Sources and Further Reading
+
+- [Cancer Act 1939, section 4](https://www.legislation.gov.uk/ukpga/Geo6/2-3/13/section/4)
+- [MHRA guidance on advertising and promoting medicines](https://www.gov.uk/government/publications/blue-guide-advertising-and-promoting-medicines)
