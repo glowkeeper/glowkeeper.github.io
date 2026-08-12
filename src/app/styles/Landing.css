@@ -72,6 +72,53 @@
   box-shadow: 0 0.75rem 2rem -1.5rem var(--shadow);
 }
 
+.section-links > .section-link--featured > a {
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--border));
+  color: var(--primary);
+  background: color-mix(in srgb, var(--accent-soft) 52%, var(--surface));
+  font-weight: 750;
+}
+
+.about-introduction {
+  max-width: 40rem;
+}
+
+.about-introduction p {
+  margin: 0;
+}
+
+.about-introduction p + p {
+  margin-top: 0.9rem;
+}
+
+.about-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.about-action {
+  padding: 0.72rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-small);
+  color: var(--on-background);
+  background: var(--surface);
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.about-action--primary {
+  border-color: var(--primary);
+  color: var(--background);
+  background: var(--primary);
+}
+
+.about-action:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 0.75rem 2rem -1.5rem var(--shadow);
+}
+
 @media only screen and (max-width: 767px) {
   .responsive-landing {
     align-content: start;

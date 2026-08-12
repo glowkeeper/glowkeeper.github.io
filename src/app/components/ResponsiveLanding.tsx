@@ -6,6 +6,7 @@ type ResponsiveLandingProps = {
   children: ReactNode
   imageAlt: string
   imageClassName: string
+  imageCaption?: string
   imageSrc: string
   showImageOnMobile?: boolean
 }
@@ -14,6 +15,7 @@ export const ResponsiveLanding = ({
   children,
   imageAlt,
   imageClassName,
+  imageCaption,
   imageSrc,
   showImageOnMobile = true,
 }: ResponsiveLandingProps) => {
@@ -36,6 +38,7 @@ export const ResponsiveLanding = ({
             width={image.width}
           />
         </picture>
+        {imageCaption && <p className="landing-media-caption">{imageCaption}</p>}
       </div>
       <div className="landing-content order-1 grid items-center md:order-2">
         <div className="landing-content-inner">

@@ -13,6 +13,7 @@ export type SiteSection = {
 }
 
 export type Site = Record<string, {
+  eyebrow?: string
   title: string
   subText: string
   siteSections: SiteSection[]

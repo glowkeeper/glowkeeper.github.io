@@ -1,4 +1,6 @@
-import { SectionLanding } from '@/app/components/SectionLanding'
+import Link from 'next/link'
+
+import { ResponsiveLanding } from '@/app/components/ResponsiveLanding'
 import { siteSections } from '@/app/config'
 import { createPageMetadata } from '@/app/utils/metadata'
 
@@ -9,13 +11,23 @@ export const metadata = createPageMetadata({
 })
 
 const AboutPage = () => (
-  <SectionLanding
+  <ResponsiveLanding
     imageAlt="dr huckle, standing"
     imageClassName="home"
+    imageCaption="Usually thinking about what to make, teach or write next."
     imageSrc="/assets/images/standingMan.avif"
-    linkGridClassName="grid grid-flow-col auto-cols-auto justify-start gap-2"
-    section="about"
-  />
+  >
+    <p className="eyebrow">Educator · Developer · Creative</p>
+    <h1>About me</h1>
+    <div className="landing-deck about-introduction">
+      <p>I’m Dr Steve Huckle: a computing educator, curriculum designer and software developer with a longstanding interest in where technology, creativity and social purpose meet.</p>
+      <p>My career has moved through systems administration, games and audio programming, web development, blockchain research and higher education. Today, I design learning experiences, teach computing and data skills, build independent software, and write poetry, fiction and songs.</p>
+    </div>
+    <div className="about-actions">
+      <Link className="about-action about-action--primary" href="/about/cv">Read my CV</Link>
+      <Link className="about-action" href="/about/contact">Get in touch</Link>
+    </div>
+  </ResponsiveLanding>
 )
 
 export default AboutPage

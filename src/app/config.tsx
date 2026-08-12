@@ -638,27 +638,31 @@ export const storiesSections: SiteSection = {
 export const siteSections: Site = {
   about: {
     title: "about",
-    subText: "Professional background, experience and ways to get in touch.",
+    subText: "Computing educator, curriculum designer, software developer and restless creative.",
     siteSections: [aboutSections]
   },
   academia: {
-    title: "academia",
-    subText: "Teaching, curriculum design and research across computing, data and technology.",
+    eyebrow: "Teaching · Curriculum · Research",
+    title: "Ideas made teachable",
+    subText: "Current teaching, curriculum design and research across computing, data and technology.",
     siteSections: [academiaSections]
   },
   software: {
-    title: "built software",
-    subText: "Applications, browser experiments and games—including the daily challenge Quizmo.",
+    eyebrow: "Developer · Maker",
+    title: "Software with a point of view",
+    subText: "Games, useful tools and browser experiments—including the daily challenge Quizmo.",
     siteSections: [gamesSections, appsSections]
   },
   writing: {
-    title: "writing",
-    subText: "Poetry, fiction, humour, reports and longer-form writing by Dr Steve Huckle.",
+    eyebrow: "Poetry · Fiction · Non-fiction",
+    title: "Words in several directions",
+    subText: "Political and personal poetry, short fiction, humour, football reports and longer-form work.",
     siteSections: [booksSections, poetrySections, storiesSections, flashFictionSections, reportsSections, humourSections]
   },
   music:  {
-    title: "music",
-    subText: "Punk acoustic songs and other home recordings.",
+    eyebrow: "Songs · Home recordings",
+    title: "Loud ideas, played acoustically",
+    subText: "Punk-acoustic songs about politics, frustration, friendship and the world as it is.",
     siteSections: [songsSections]
   }
 }
