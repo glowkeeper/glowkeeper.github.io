@@ -657,7 +657,7 @@ export const siteSections: Site = {
   software: {
     eyebrow: "Developer · Maker",
     title: "Code, mostly for fun",
-    subText: "Games, playful utilities and browser experiments—including the daily challenge Quizmo.",
+    subText: "Games, playful utilities and browser experiments—including the satirical commons game The Horizontal Front and the daily challenge Quizmo.",
     siteSections: [gamesSections, appsSections]
   },
   writing: {
