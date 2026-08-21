@@ -24,23 +24,9 @@ The afternoon brightened up and even the sun made an appearance. With it came mo
 
 Throughout the day, I met lots of people who had experience of a brain tumour, through a friend or family member contracting the condition. Two had themselves received treatment for brain tumours. I also met people with serious illnesses who had been treated at the same hospital as Abi. It was tremendously moving to hear their stories and fantastic that they were able to support mine.
 
-Then, later that evening I received the following email:
+Later that evening, a parent who had seen me fundraising sent an email. Her young son also had a pilocytic astrocytoma and had endured grave complications and lasting disabilities. Despite everything her family had experienced, she offered to talk about chemotherapy and support us through what might lie ahead. She wrote that connecting with another family helped people feel less alone.
 
-I hope you are well. I hope you don’t mind me emailing you, but your story is very similar to ours.
-
-I walked past you today with my 2 small boys in their double buggy. I saw you fundraising by cycling on George Street, Hove, and read the sign about your brave daughter, Abi. Your story made me feel so sad, and I very nearly came up to talk to you so you could meet my son, who also has a pilocytic astrocytoma.
-
-He was diagnosed at 3 months old. A tiny baby. We had enjoyed the first 3 months of our baby’s life with absolutely no idea. One day his personality completely changed, and he was lethargic and miserable. I took him to the doctor twice, but I was dismissed with: “teething or growth spurt,” but I knew something was wrong. So we took him to A\&E and he was given an ultrasound on his head, and hydrocephalus was diagnosed. I will never forget that moment as long as I live. It was horrific.
-
-I could tell you his story, but it is long and unhappy. We too were at Abi’s hospital in the Children’s Critical Care Centre. He too had a craniotomy, but his tumour is in the optic pathway encasing all the main blood vessels and incredibly volatile. He had a biopsy and had a massive bleed which caused horrendous damage that left him blind and weak down one side. He doesn’t walk or talk, but he is very giggly with the right songs and gorgeously ticklish!
-
-We went through 10 months of chemotherapy, given at a different hospital so I can talk to you if you need any guidance or advice there. My son’s tumour did respond to chemotherapy, and it does stabilise in many cases.
-
-If you ever need to talk to someone in the same position, we are certainly open to it! It helps not to feel so alone.
-
-I hope you don’t mind this impromptu email. I have just read through your blog, and I think you are inspirational. It’s funny when people tell us how strong we are, I just shrug it off, but when I read of other people going through the same, I am in awe!
-
-That email made me cry; it was a tremendously moving way to finish such a fulfilling day. I tried replying, but everything I wrote sounded inadequate. The next day I eventually did manage to write something. I told them that I was sorry that they had experienced something similar (and much more besides). I said that I admired them for being able to offer their support, even after all they had been through. I told them that I found that incredibly inspirational.
+That email made me cry; it was a tremendously moving way to finish such a fulfilling day. At first, everything I tried to write in reply sounded inadequate. The next day I eventually told her how sorry I was for everything her family had experienced, and how much I admired her ability to offer support after all they had been through. I found that incredibly inspirational.
 
 ## Fundraising at Abi’s Hospital <a href="#fundraising-at-abi-s-hospital" id="fundraising-at-abi-s-hospital"></a>
 

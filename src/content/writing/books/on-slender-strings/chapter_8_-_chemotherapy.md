@@ -1,5 +1,3 @@
 # Chapter 7 - Chemotherapy
 
-> Chemotherapy tests your sanity.
-
-*Melissa Etheridge, speaking about her cancer treatment, 2005*
+> Treatment can restore hope while testing everything else.

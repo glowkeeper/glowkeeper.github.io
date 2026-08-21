@@ -2,13 +2,11 @@
 
 *Written in 2012. This chapter records what I considered and tried at the time; it is not an endorsement of those treatments. I have revisited the evidence in [Alternative Treatments I Considered](/writing/books/on-slender-strings/appendix/the_alternative_options).*
 
+> When medicine offered no certainty, hope made everything look possible.
+
 By early summer 2012, Abi was left in a precarious position because according to the standard of care offered by the UK’s NHS, she had run out of options. So I began looking outside of mainstream medicine.
 
-I’m a fan of Tim Minchin, and I have always loved his ‘Storm’. It includes the following lines:
-
-> Alternative medicine has either not been proved to work, or been proved not to work. Do you know what they call alternative medicine that’s been proved to work? Medicine!
-
-I understand Tim Minchin’s cynicism; alternative medicine is often criticised for its lack of scientific proof as to its efficacy. But after my research, could any less be said of the mainstream options for children with low-grade gliomas? Teams of researchers have trialled chemotherapy and radiotherapy under clinical conditions, but the results have been quite underwhelming. Furthermore, they pose health risks unto themselves and no matter what your opinion of ‘quackery’, many of the alternative treatments are non-toxic. You could legitimately argue that if a patient gives preference to an ineffective treatment, over one that is proven, then that is a risk. You might also argue that it is wrong to give false hope to unproven treatments that ultimately fail. Is it really, though? In our situation, with nowhere else to turn, I had begun to hold hope very dear. Who would dare take that from me?
+Alternative medicine is often criticised for its lack of scientific evidence. I understood that criticism. But after my research, could any less be said of the options then being offered to children with low-grade gliomas? Teams of researchers had trialled chemotherapy and radiotherapy under clinical conditions, but the results I found seemed underwhelming. Furthermore, those treatments carried risks of their own. Giving preference to an ineffective treatment over one proven to work would plainly be dangerous, and false hope can cause harm. But in our situation, with nowhere else to turn, I had begun to hold hope very dear. Who would dare take that from me?
 
 If Abi got seriously ill again, would I trust my daughter’s life to alternative medicine, over and above the UK’s National Health Service? Absolutely not! She would be immediately back in the hospital for surgery! But I was willing to try alternative medicine while I still had some time.
 

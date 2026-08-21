@@ -1,6 +1,6 @@
 # If
 
-Based on my poem, [If](/poetry/if).
+Based on my poem, [If](https://huckle.studio/writing/poetry/if).
 
 [if recording](/assets/audio/If.ogg)
 

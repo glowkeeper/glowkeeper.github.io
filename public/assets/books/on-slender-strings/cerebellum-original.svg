@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" role="img" aria-labelledby="title desc">
+  <title id="title">Approximate position of the cerebellum</title>
+  <desc id="desc">A simplified side view of the brain. The cerebrum is shown above, the cerebellum below its rear, and the brain stem descending in front of the cerebellum.</desc>
+  <rect width="800" height="440" rx="24" fill="#faf8f4"/>
+  <path d="M166 229c-35-78 3-163 89-191 81-27 198-10 265 38 46 33 71 82 66 127-5 47-43 76-91 86-47 10-85 2-125-4-58-8-103 8-147-7-28-10-47-26-57-49z" fill="#d9e8f2" stroke="#294c60" stroke-width="6"/>
+  <path d="M460 248c27-22 71-24 105-6 35 19 48 59 30 89-20 34-68 48-109 31-35-14-55-48-45-78 3-13 10-25 19-36z" fill="#e7b7a7" stroke="#713f36" stroke-width="6"/>
+  <path d="M449 226c24 14 38 33 41 57 4 26-4 48-20 69l27 54h-71l-16-65c-10-40 1-79 39-115z" fill="#c5d6b5" stroke="#405c35" stroke-width="6"/>
+  <g fill="none" stroke-linecap="round" stroke-width="4" opacity=".62">
+    <path d="M215 116c70-45 188-45 275 2" stroke="#66879b"/>
+    <path d="M196 166c93-46 233-37 330 16" stroke="#66879b"/>
+    <path d="M201 218c70-32 157-30 225-5" stroke="#66879b"/>
+    <path d="M475 278c34-17 75-12 97 12" stroke="#9a6257"/>
+    <path d="M472 309c32-13 67-7 85 12" stroke="#9a6257"/>
+    <path d="M469 338c24-8 47-5 64 5" stroke="#9a6257"/>
+  </g>
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" fill="#202629">
+    <text x="92" y="92" font-size="30" font-weight="650">Cerebrum</text>
+    <path d="M235 101 283 129" fill="none" stroke="#202629" stroke-width="3"/>
+    <text x="600" y="304" font-size="30" font-weight="650">Cerebellum</text>
+    <path d="M594 311 550 315" fill="none" stroke="#202629" stroke-width="3"/>
+    <text x="95" y="365" font-size="30" font-weight="650">Brain stem</text>
+    <path d="M247 355 455 310" fill="none" stroke="#202629" stroke-width="3"/>
+    <text x="400" y="424" text-anchor="middle" font-size="19" fill="#5d6569">Simplified side view — not to scale</text>
+  </g>
+</svg>

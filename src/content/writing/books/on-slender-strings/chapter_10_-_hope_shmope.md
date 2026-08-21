@@ -1,5 +1,3 @@
 # Chapter 9 - Hope Shmope
 
-> Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.
-
-*Samuel Beckett, Worstward Ho*
+> Hope is useful, but it is a poor place to stand.

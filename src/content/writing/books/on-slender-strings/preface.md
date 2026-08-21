@@ -1,8 +1,6 @@
 # Author’s Note
 
-> The question, “Why do children suffer?” has no answer, unless it’s simply, “To break our hearts.” Once our hearts get broken, they never fully heal. They always ache. But perhaps a broken heart is a more loving instrument. Perhaps only after our hearts have cracked wide open, have finally and totally unclenched, can we truly know love without boundaries.
-
-*Fred J. Epstein, with Joshua Horwitz, If I Get to Five*
+> There are some questions a parent cannot answer. He can only learn how to live beside them.
 
 This book tells the story of a child with a brain tumour. It is told from the perspective of her father.
 
