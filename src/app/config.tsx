@@ -128,8 +128,15 @@ export const gamesSections: SiteSection = {
   title: 'games',
   path: '/software/games',
   content: {
+    theHorizontalFront: {
+      id: "software-games-the-horizontal-front",
+      title: "the horizontal front",
+      subText: "A satirical rhythm game about resisting compulsory productivity—free, open-source and run as a digital commons.",
+      endPoint: 'the-horizontal-front',
+      content: 'software/games/the-horizontal-front.md'
+    },
     quizmo: {
-      id: "software-games",
+      id: "software-games-quizmo",
       title: "quizmo",
       subText: "A fast-paced general-knowledge quiz played against the clock.",
       endPoint: 'quizmo',
