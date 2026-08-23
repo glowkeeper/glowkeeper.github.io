@@ -33,6 +33,8 @@ This page brings the appendix references together in one place. Each factual app
 - Cancer Research UK, [Homeopathy](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/homeopathy).
 - National Cancer Institute, [Diets and supplements](https://www.cancer.gov/about-cancer/treatment/cam/diets-supplements).
 - Cancer Research UK, [Sugar and cancer](https://news.cancerresearchuk.org/2023/08/16/sugar-and-cancer-what-you-need-to-know/).
+- NHS, [Food intolerance](https://www.nhs.uk/conditions/food-intolerance/).
+- British Society for Allergy and Clinical Immunology, [Tests not recommended for food allergy](https://www.bsaci.org/resources/allergy-management/food-allergy/investigations/other-tests/).
 - Cancer Research UK, [Laetrile](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/laetrile).
 - National Cancer Institute, [Cannabis and cannabinoids](https://www.cancer.gov/about-cancer/treatment/cam/patient/cannabis-pdq).
 

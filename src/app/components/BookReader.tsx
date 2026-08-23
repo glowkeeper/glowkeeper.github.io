@@ -45,7 +45,7 @@ export const BookReader = ({ content, current, manifest }: BookReaderProps) => {
         },
       } : {
         bookFormat: 'https://schema.org/EBook',
-        genre: ['Memoir', 'Family', 'Health'],
+        genre: ['Nonfiction', 'Family', 'Health'],
         inLanguage: 'en-GB',
         about: [
           'Childhood brain tumours',
@@ -95,6 +95,12 @@ export const BookReader = ({ content, current, manifest }: BookReaderProps) => {
       </details>
       <Page content={content} />
       {isOnSlenderStrings && !current.route && <EmailCopy label="Contact:" />}
+      {isOnSlenderStrings && current.route !== 'disclaimer' && (
+        <p className="book-disclaimer-note">
+          This true story uses pseudonyms and reconstructed dialogue. Read the{' '}
+          <Link href="/writing/books/on-slender-strings/disclaimer">Disclaimer</Link>.
+        </p>
+      )}
       <nav aria-label="Book page navigation" className="book-pagination">
         {previous ? <Link href={entryHref(manifest, previous)}>← {previous.title}</Link> : <span />}
         {next ? <Link href={entryHref(manifest, next)}>{next.title} →</Link> : <span />}

@@ -1,7 +1,9 @@
 # Legalities
 
-Copyright © Steve Huckle, 2016.
+Copyright © Steve Huckle, 2016 and 2026. All rights reserved.
 
-![CC BY-NC-SA 4.0](/assets/books/on-slender-strings/license.png)
+Steve Huckle has asserted his right under the Copyright, Designs and Patents Act 1988 to be identified as the author of this work.
 
-Steve Huckle’s original text and graphics in this work are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). The licence lets you share and adapt that material non-commercially, provided that you credit Steve Huckle and distribute adaptations under the same terms. It does not claim copyright in quoted public-domain material, which retains its existing status.
+No part of this work may be reproduced, distributed or adapted without the copyright holder’s prior written permission, except as permitted by law. Copyright in any quoted or reproduced third-party material remains with the respective copyright holders; material in the public domain retains that status.
+
+Material obtained while this work was offered under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence remains subject to that licence.

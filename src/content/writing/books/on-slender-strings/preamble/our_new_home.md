@@ -4,6 +4,6 @@ By the summer of 2007, I had managed to get a lucrative new job and we had moved
 
 So that time should have been full of joy because I was raising a beautiful young family and was making new friends in an exciting new town.
 
-Unfortunately, that was not a fun time because, by then, my marriage was failing. So it had turned into an intolerably painful period of my life; an incredibly stressful job coupled with an unhappy and unsupportive wife. But we loved the children dearly, and, in spite of everything, we managed to make sure they had a happy home.
+Unfortunately, that was not a fun time. An incredibly stressful job was waiting for me each morning, and a failing marriage each night. I felt increasingly alone in both. But we loved the children dearly and, in spite of everything, managed to make sure they had a happy home.
 
 The marriage was all but over by the arrival of early summer, 2009. But a drama was about to unfold around our youngest daughter and with it, our circumstances were about to get even more complicated.

@@ -1,6 +1,6 @@
 import type { BookEntry, BookManifest } from '@/app/utils/bookRegistry'
 
-export const onSlenderStringsDescription = 'A father’s account of his daughter’s childhood pilocytic astrocytoma—from brain surgery and chemotherapy to survival, family separation and life in 2026.'
+export const onSlenderStringsDescription = 'The true story of a father whose daughter had a childhood pilocytic astrocytoma—brain surgery, chemotherapy, survival, family separation and life in 2026.'
 
 const topicDescriptions: Record<string, string> = {
   pilocytic_astrocytoma: 'A father learns that his young daughter has a pilocytic astrocytoma after emergency brain surgery.',
@@ -47,7 +47,7 @@ export const bookEntryDescription = (manifest: BookManifest, entry: BookEntry): 
 
   const key = entry.route.split('/').at(-1) ?? ''
   return topicDescriptions[key]
-    ?? `${entry.title}, from On Slender Strings: a father’s personal story of love, fear and his daughter’s childhood brain tumour.`
+    ?? `${entry.title}, from On Slender Strings: the true story of a father’s love, fear and his daughter’s childhood brain tumour.`
 }
 
 export const onSlenderStringsKeywords = [
@@ -61,5 +61,5 @@ export const onSlenderStringsKeywords = [
   'paediatric low-grade glioma',
   'BRAF',
   'hydrocephalus',
-  'brain tumour memoir',
+  'childhood brain tumour true story',
 ]

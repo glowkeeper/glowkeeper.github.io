@@ -6,4 +6,4 @@ I had learned to prepare myself for the worst because I had become used to getti
 
 Much of the rest of the meeting was a blur. But the gist of it was that because the tumour site on Abi’s hypothalamus was inaccessible to surgery, her care was being moved away from the surgical team, and on to an oncologist. I knew what that meant. Chemotherapy.
 
-Back outside, hiding my real emotions and conveying the idea that all was right with the world, Kara, Abi and I had a big, happy, team hug. I then left Sarah to take the children home, and went and sat back in the chapel and had a good old-fashioned cry.
+Back outside, hiding my real emotions and conveying the idea that all was right with the world, Nadia, Abi and I had a big, happy, team hug. I then left Sarah to take the children home, and went and sat back in the chapel and had a good old-fashioned cry.

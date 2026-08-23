@@ -28,6 +28,8 @@ Giving a child a varied and nutritious diet is sensible. But that is very differ
 
 I also believed that removing sugar might help because PET scans demonstrate that tumours take up glucose. That reasoning was too simplistic. Cancer cells use glucose, but so do healthy cells. There is no evidence that eating sugar makes an existing cancer worse, or that eliminating it causes a tumour to shrink. A severely restrictive diet can be particularly dangerous for a child who is already struggling to maintain weight.
 
+We were also drawn to tests that claimed to identify food intolerances, which added dairy products, eggs and potatoes to the list of things Abi could not eat. Tests based on IgG antibodies are not a reliable way to identify food intolerance. Excluding whole food groups on the strength of such a test can leave a child without nutrients that are important for growth and development.
+
 Laboratory findings involving substances such as curcumin, mushrooms or DCA may provide a reason for further research. They are not, by themselves, evidence of a safe and effective treatment. I blurred that distinction because I wanted the early research to mean more than it did.
 
 ## Apricot Kernels and Laetrile
@@ -63,5 +65,7 @@ That is why this list belongs in the story. Not as an endorsement, but as an hon
 - [Cancer Research UK: homeopathy and cancer](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/homeopathy)
 - [US National Cancer Institute: diets and supplements](https://www.cancer.gov/about-cancer/treatment/cam/diets-supplements)
 - [Cancer Research UK: sugar and cancer](https://news.cancerresearchuk.org/2023/08/16/sugar-and-cancer-what-you-need-to-know/)
+- [NHS: food intolerance](https://www.nhs.uk/conditions/food-intolerance/)
+- [British Society for Allergy and Clinical Immunology: tests not recommended for food allergy](https://www.bsaci.org/resources/allergy-management/food-allergy/investigations/other-tests/)
 - [Cancer Research UK: laetrile](https://www.cancerresearchuk.org/about-cancer/treatment/complementary-alternative-therapies/individual-therapies/laetrile)
 - [US National Cancer Institute: cannabis and cannabinoids](https://www.cancer.gov/about-cancer/treatment/cam/patient/cannabis-pdq)

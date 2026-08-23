@@ -206,6 +206,14 @@ main {
   font-weight: 700;
 }
 
+.book-disclaimer-note {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .book-pagination {
   display: grid;
   grid-template-columns: 1fr 1fr;

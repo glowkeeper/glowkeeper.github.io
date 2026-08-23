@@ -152,7 +152,7 @@ export const booksSections: SiteSection = {
     onSlenderStrings: {
       id: "writing-books-on-slender-strings",
       title: "on slender strings",
-      subText: "A father's honest story of love, fear, childhood brain cancer, survival and what followed.",
+      subText: "The true story of a father, his daughter's childhood brain tumour, and what followed.",
       endPoint: 'on-slender-strings',
       content: 'writing/books/on-slender-strings/master.md'
     },

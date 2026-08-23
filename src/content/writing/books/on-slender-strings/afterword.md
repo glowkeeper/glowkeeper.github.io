@@ -6,11 +6,11 @@ There was no great argument. There was no particular falling-out. I could specul
 
 Abi moved out the day after we had visited my mum, who was very poorly and approaching the end of her life. I knew then that Abi intended to leave, but Mum did not. I decided not to tell her. There was nothing she could have done, and I didn’t want one of her final visits with her granddaughter spoiled by the knowledge that Abi was about to move away from me. Looking back, keeping that from Mum was probably one of the more dignified things I managed during those difficult final days.
 
-In time, Kara moved out too. Her reasons are her own, and this is not the place for me to tell her story. The girls have always been extremely close and, throughout all the upheaval in their lives, they have been able to rely upon each other.
+In time, Nadia moved out too. Her reasons are her own, and this is not the place for me to tell her story. The girls have always been extremely close and, throughout all the upheaval in their lives, they have been able to rely upon each other.
 
 The result was that I saw very little of either of them for about three years.
 
-Contact with Kara has since begun to grow again. Abi and I remain distant. I do not know what that distance means to her, and I will not try to speak for her. I can only say what it means to me: I would be lying if I said that it did not hurt.
+Contact with Nadia has since begun to grow again. Abi and I remain distant. I do not know what that distance means to her, and I will not try to speak for her. I can only say what it means to me: I would be lying if I said that it did not hurt.
 
 Much of this book is about my fear of losing Abi. When she was rushed into hospital, I was afraid that she would die during surgery. When her tumour returned, I was afraid that we would be unable to stop it. During chemotherapy, I worried about the treatment, the cancer and what sort of future she might have. Even after treatment ended, every scan brought with it the possibility that we would receive more bad news.
 

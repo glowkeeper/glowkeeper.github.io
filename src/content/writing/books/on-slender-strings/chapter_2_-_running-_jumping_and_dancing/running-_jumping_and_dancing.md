@@ -1,6 +1,6 @@
 # Running, Jumping and Dancing
 
-While Sarah was away, I had the pleasure of watching Abi enjoy life again. She was having many profound discussions with her sister: “Cats don’t fart!” she cried, incredulous. “Everything farts!” demanded Kara. “Even toys?” asked Abi. A little while later, I heard them talking about dreams. “If you tickle someone while they’re asleep, will they wake up laughing?” Abi asked Kara, who wasn’t sure. Thinking about it, neither was I.
+While Sarah was away, I had the pleasure of watching Abi enjoy life again. She was having many profound discussions with her sister: “Cats don’t fart!” she cried, incredulous. “Everything farts!” demanded Nadia. “Even toys?” asked Abi. A little while later, I heard them talking about dreams. “If you tickle someone while they’re asleep, will they wake up laughing?” Abi asked Nadia, who wasn’t sure. Thinking about it, neither was I.
 
 Abi looked great, and despite the odd wobble, she was behaving just like any 2-year should; running and jumping and back doing all her favourite dances. After all we had been through, it was fantastic to witness. She was still squinting, particularly when she first woke up. But the doctors told me that was to do with the shunt adjusting pressure while she moved from a prone to an upright position. By then, Abi had been prescribed glasses to try and correct her wonky left eye.
 

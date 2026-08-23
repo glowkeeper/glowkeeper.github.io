@@ -5,7 +5,7 @@ The principal events described in this book, from Abi’s first symptoms in 2009
 ## 2009
 
 - **Mid-June:** Two-year-old Abi begins squinting and becomes unsteady on her feet. Headaches and vomiting follow.
-- **9 August:** An orthoptist attributes Abi’s symptoms to long-sightedness.
+- **9 August:** An orthoptist identifies long-sightedness; my concerns about Abi’s other symptoms remain unresolved.
 - **10 August:** An optician recognises that Abi is seriously unwell and has her admitted to hospital.
 - **August:** An MRI reveals a brain tumour approximately the size of a tennis ball. Abi is transferred to a specialist hospital and undergoes life-saving surgery.
 - **August–September:** Complications follow, including a cerebrospinal fluid leak. Abi eventually has a permanent shunt fitted.
@@ -14,11 +14,11 @@ The principal events described in this book, from Abi’s first symptoms in 2009
 ## 2010
 
 - **August:** A scan shows that the remaining tumour appears to have shrunk. Abi remains under regular observation.
-- **December:** Sarah and I separate. Shared custody of Kara and Abi follows.
+- **December:** Sarah and I separate. Shared custody of Nadia and Abi follows.
 
 ## 2011
 
-- **January:** Kara, Abi and I move into the coastguard cottage.
+- **January:** Nadia, Abi and I move into the coastguard cottage.
 - **December:** A scan shows that Abi’s tumour has progressed. Further surgery is recommended.
 
 ## 2012
@@ -65,7 +65,7 @@ The principal events described in this book, from Abi’s first symptoms in 2009
 ## 2022
 
 - **April:** Shortly before her fifteenth birthday, Abi leaves my home to live permanently with her mum.
-- **Shortly afterwards:** Kara moves out too.
+- **Shortly afterwards:** Nadia moves out too.
 
 ## 2022–2025
 
@@ -73,6 +73,6 @@ The principal events described in this book, from Abi’s first symptoms in 2009
 
 ## 2026
 
-- **Early in the year:** Kara begins coming back into my life.
+- **Early in the year:** Nadia begins coming back into my life.
 - Abi remains distant.
 - **Later in the year:** Abi is due to begin university.
