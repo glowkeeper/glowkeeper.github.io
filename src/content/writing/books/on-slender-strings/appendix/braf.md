@@ -4,7 +4,7 @@
 
 BRAF is a gene that provides instructions for making the B-Raf protein, part of a signalling pathway that helps regulate cell growth. Researchers had discovered that alterations involving BRAF were common in pilocytic astrocytomas. That finding suggested two hopeful possibilities: molecular changes might help explain how these tumours behaved, and medicines might eventually be designed to target them.
 
-Earlier versions of this appendix referred simply to a “BRAF abnormality” and suggested that its presence generally meant a better outcome. That was too broad.
+I originally wrote simply of a “BRAF abnormality” and assumed that having one generally meant a better outcome. That was too broad.
 
 ## What We Know in 2026
 

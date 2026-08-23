@@ -1,13 +1,15 @@
-# Mum and I Fallout
+# Mum and I Fall Out
 
 Sarah isn’t the only person I’ve fallen out with recently.
 
-Abi recently shared a little pinky handshake with Simon Cowell. She was on her way down for an x-ray, and he was visiting his ailing mother in a ward in a different part of the hospital. I posted about their meeting on Facebook and made a joking comment about Simon Cowell’s bad haircut. Unfortunately, it seems my mum has a soft spot for Mr Cowell, because, in reply, she posted: “how cruel!” I messaged her and told her that if she had to have a humour failure, perhaps she could do it privately?
+Abi shared a little pinky handshake with Simon Cowell on her way down for an x-ray; he was visiting his own ailing mother in another part of the hospital. I posted about it on Facebook and made a joke about his bad haircut. It turns out my mum has a soft spot for Mr Cowell, because she replied: “how cruel!” I messaged her and said that if she had to have a humour failure, she could at least have it privately.
 
-Shortly afterwards, her partner emailed me and admonished me for telling my mum off. Unbelievable! He went on to say that a blog I had written, where I had spoken, briefly, about some of the fallouts I had had with Sarah, was: “airing your dirty linen in public.” I sent him a curt email back and explained to him that my blog was my only means of support and I needed to vent sometimes.
+Her partner emailed shortly afterwards to tell me off for telling my mum off. Unbelievable! He said that a blog where I had written, briefly, about falling out with Sarah was “airing your dirty linen in public”. I sent back something curt about the blog being the only support I had.
 
-More emails were exchanged. Mum’s partner advised that I should not “burn bridges.” Unfortunately, I did not feel inclined to listen to demands from a man who, during the most difficult of times, was unable to find any supportive words, and instead chose to find fault. I had not heard from him in the month that Abi had been in the hospital and it was unfortunate that he chose that first opportunity to have a go at me. Nor was I particularly impressed that he had not found the time to visit his granddaughter. She would have loved that.
+More emails followed. I was advised not to “burn bridges”. I did not feel much like taking advice from a man who had nothing supportive to say in the month Abi had been in hospital, and who had not found the time to visit his granddaughter. She would have loved that.
 
-My mum has also emailed me since, telling me: “You know I am struggling to get well, and your attitude is not helping.” Trying to pin guilt on me while I am struggling to cope with Abi’s ill-health just annoyed me more. After all, I am not responsible for my mum’s well-being. She needs to be responsible for that herself. Especially when Abi, whose health I am responsible for, needs me much more.
+I know my mum is unwell. I know she is struggling. I am not being fair to either of them, and I know that too. But whatever the reasons for their behaviour, I am at the end of my tether with worry about Abi, and there is nothing left over.
 
-I’m aware my mum is suffering from depression, but I am at the end of my tether with worry about Abi and cannot afford to expend any effort coping with the complication of my parent’s uncivil behaviour towards me. Whatever the reason. I need to give all of my energy to my children, and Abi in particular, and create a happy, supportive environment. Or at least, as close as possible to that, given the circumstances. So I have decided that I can do without my parents particular brand of “support” and have asked them to stop emailing me.
+Everything I have needs to go to my children, to Abi in particular, and to keeping some sort of happy home around them. Or as close to it as I can manage.
+
+So I have decided I can do without my parents’ particular brand of “support”, and I have asked them to stop emailing me.

@@ -10,4 +10,4 @@ I promised Abi a present. She asked me to get her a mummy dinosaur, and Nadia wa
 
 Then, at around 4 p.m., my phone rang. “Hello, Mr Langston. I’m a nurse on the Neurosurgical Recovery Unit. We have Abi here. Surgery has gone well. You may come and see her,” she told me. “Thank you, nurse,” I replied, relieved to hear the good news.
 
-When I went in to see Abi, I was amazed to see her looking comfortable and rested. I was expecting to see her as she was after her first surgery; all bloated from the drugs, with lots of tubes coming out of all sort of places. But this was nothing like that. At that reassuring sight, I shed a tear or two of joy.
+When I went in to see Abi, I was amazed to see her looking comfortable and rested. I was expecting to see her as she was after her first surgery; all bloated from the drugs, with lots of tubes coming out of all sorts of places. But this was nothing like that. At that reassuring sight, I shed a tear or two of joy.

@@ -18,7 +18,7 @@ A Neutrophil is a type of mature white blood cell made in the body’s bone marr
 
 Platelets 288,000 platelets per microlitre of blood.
 
-Platelets are parts of the blood that help the blood clot. So they help stop bleeding and prevent excessive bruising. Normal ranges are 150,000 - 400,000 platelets/mcL. At last, Abi fell within the normal range.
+Platelets are parts of the blood that help the blood clot. So they help stop bleeding and prevent excessive bruising. Normal ranges are 150,000–400,000 platelets/mcL. At last, Abi fell within the normal range.
 
 Even if the counts cause concern, the first course of action would be to lower the dose of vinblastine, perhaps stop giving it for a week or two. In the most extreme cases, a blood transfusion might be required.
 

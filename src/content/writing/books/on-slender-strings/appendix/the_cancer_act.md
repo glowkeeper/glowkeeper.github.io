@@ -6,7 +6,7 @@ The Act does not prohibit people from discussing cancer or possible cures. Nor d
 
 There are exemptions, including communications directed at doctors, nurses, pharmacists, hospitals, local authorities and government bodies. Medical charities, journalists and patient organisations must also take care that public information does not become an advertisement for a cancer treatment.
 
-The wording is old and broad, and it is reasonable to debate whether legislation passed in 1939 remains the best way to regulate modern communications. However, it is important to describe the law accurately. It controls certain advertising; it does not prohibit free speech about cancer.
+The wording is old and broad, and it is reasonable to debate whether legislation passed in 1939 remains the best way to regulate modern communications. However, when I was frightened and searching for anything that might help, I found it easy to read more into the Act than it says. It controls certain advertising; it does not prohibit free speech about cancer.
 
 ## Sources and Further Reading
 
