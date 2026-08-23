@@ -171,18 +171,6 @@
       "depth": 2
     },
     {
-      "title": "The Effect on Abi",
-      "route": "chapter_5_-_the_effects/the_effect_on_abi",
-      "file": "chapter_5_-_the_effects/the_effect_on_abi.md",
-      "depth": 2
-    },
-    {
-      "title": "The Effect on Abi’s Sister",
-      "route": "chapter_5_-_the_effects/the_effect_on_abis_sister",
-      "file": "chapter_5_-_the_effects/the_effect_on_abis_sister.md",
-      "depth": 2
-    },
-    {
       "title": "Films, Festivals and Football",
       "route": "chapter_5_-_the_effects/films-_festivals_and_football",
       "file": "chapter_5_-_the_effects/films-_festivals_and_football.md",
@@ -261,6 +249,24 @@
       "depth": 2
     },
     {
+      "title": "The Effect on Abi",
+      "route": "chapter_5_-_the_effects/the_effect_on_abi",
+      "file": "chapter_5_-_the_effects/the_effect_on_abi.md",
+      "depth": 2
+    },
+    {
+      "title": "The Effect on Nadia",
+      "route": "chapter_5_-_the_effects/the_effect_on_abis_sister",
+      "file": "chapter_5_-_the_effects/the_effect_on_abis_sister.md",
+      "depth": 2
+    },
+    {
+      "title": "The Effect on Me",
+      "route": "chapter_5_-_the_effects/the_effect_on_me",
+      "file": "chapter_5_-_the_effects/the_effect_on_me.md",
+      "depth": 2
+    },
+    {
       "title": "Alternatives",
       "route": "chapter_4_-_second_opinions/alternatives",
       "file": "chapter_4_-_second_opinions/alternatives.md",
@@ -270,12 +276,6 @@
       "title": "Difficult Decisions",
       "route": "chapter_4_-_second_opinions/difficult_decisions",
       "file": "chapter_4_-_second_opinions/difficult_decisions.md",
-      "depth": 2
-    },
-    {
-      "title": "The Effect on Me",
-      "route": "chapter_5_-_the_effects/the_effect_on_me",
-      "file": "chapter_5_-_the_effects/the_effect_on_me.md",
       "depth": 2
     },
     {
@@ -294,12 +294,6 @@
       "title": "Peer Support",
       "route": "chapter_5_-_the_effects/peer_support",
       "file": "chapter_5_-_the_effects/peer_support.md",
-      "depth": 2
-    },
-    {
-      "title": "Fundraising",
-      "route": "chapter_5_-_the_effects/fundraising",
-      "file": "chapter_5_-_the_effects/fundraising.md",
       "depth": 2
     },
     {
@@ -354,6 +348,12 @@
       "title": "Happily Ever After?",
       "route": "chapter_6_-_scanxiety/happily_ever_after",
       "file": "chapter_6_-_scanxiety/happily_ever_after.md",
+      "depth": 2
+    },
+    {
+      "title": "Fundraising",
+      "route": "chapter_5_-_the_effects/fundraising",
+      "file": "chapter_5_-_the_effects/fundraising.md",
       "depth": 2
     },
     {
