@@ -6,4 +6,4 @@ Abi had a nasogastric tube (similar to an NJ tube, but it only goes as far as th
 
 An X-ray later confirmed that the NJ tube was in the correct position. Abi spent the night having Dialyte pumped through it, just to make sure she tolerated having feeds pushed directly into her intestine. That went well, so soon afterwards she started receiving a nutrient supplement at 40ml an hour.
 
-Meanwhile, Abi has improved a good deal. She’s even began eating again (600 calories so far today). Hopefully, that continues and we can start thinking about getting her home.
+Meanwhile, Abi improved a good deal. She even began eating again, managing 600 calories that day. I hoped that would continue and that we could start thinking about getting her home.

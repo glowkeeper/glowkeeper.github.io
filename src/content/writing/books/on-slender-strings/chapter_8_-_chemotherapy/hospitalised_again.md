@@ -28,4 +28,4 @@ Unfortunately, it seemed as though the doctors were a little hasty because I got
 
 Abi continued to do well. No more vomiting and her eating improved too, along with her weight, which was back up to 19.46 kg.
 
-We have just been to see Abi’s oncologist, who was also pleased with how well she was doing. He was busy looking at her latest scan when we entered his office: “The tumour on the hypothalamus seems to have shrunk just a little. However, the one in the surgical cavity on her cerebellum seems much smaller. In fact, I’m having trouble finding it,” he told me. That was brilliant news. May it keep coming over the next few months. Abi’s tired of hospitals and so am I.
+Soon afterwards, we went to see Abi’s oncologist, who was also pleased with how well she was doing. He was busy looking at her latest scan when we entered his office: “The tumour on the hypothalamus seems to have shrunk just a little. However, the one in the surgical cavity on her cerebellum seems much smaller. In fact, I’m having trouble finding it,” he told me. That was brilliant news. I hoped it would keep coming over the next few months. Abi was tired of hospitals and so was I.
