@@ -4,7 +4,7 @@
 
 This book tells the true story of a child with a brain tumour. It is told from the perspective of her father, who appears in these pages under the pseudonym Andrew Langston.
 
-Throughout the book, including the appendix, the first-person voice is Andrew’s. The original pages preserve what he thought, felt and understood as events unfolded. Where medical knowledge has changed—or where he was simply wrong—corrections and current information appear in the appendix; the original account has not been rewritten.
+Throughout the book, including the appendix, the first-person voice is Andrew’s. The original pages preserve what he thought, felt and understood as events unfolded. Where medical knowledge has changed—or where he was simply wrong—corrections and current information appear in the appendix; the original account has not been rewritten to make Andrew’s earlier understanding conform to what is known now.
 
 The story that unfolds is not an easy read because serious childhood diseases are a difficult subject. However, it is a story that needs telling because the stark fact is that many families can tell the drama which unfolds within these pages. Yet, there is a lack of funding for brain tumour research, and, therefore, mainstream medicine has limited options for children suffering from the disease. Quite simply, that must change. Our children deserve better. It can only change by raising awareness that brain tumours are a prevalent cancer killer of children. So I hope you persevere and read on.
 
