@@ -171,12 +171,6 @@
       "depth": 2
     },
     {
-      "title": "Films, Festivals and Football",
-      "route": "chapter_5_-_the_effects/films-_festivals_and_football",
-      "file": "chapter_5_-_the_effects/films-_festivals_and_football.md",
-      "depth": 2
-    },
-    {
       "title": "Part Two — Living with Uncertainty",
       "route": "part_2",
       "file": "part_2_-_living_with_uncertainty.md",
@@ -498,6 +492,12 @@
       "title": "Free Again",
       "route": "chapter_8_-_chemotherapy/free_again",
       "file": "chapter_8_-_chemotherapy/free_again.md",
+      "depth": 2
+    },
+    {
+      "title": "Films, Festivals and Football",
+      "route": "chapter_5_-_the_effects/films-_festivals_and_football",
+      "file": "chapter_5_-_the_effects/films-_festivals_and_football.md",
       "depth": 2
     },
     {
