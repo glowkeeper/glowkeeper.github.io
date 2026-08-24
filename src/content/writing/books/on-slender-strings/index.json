@@ -489,12 +489,6 @@
       "depth": 2
     },
     {
-      "title": "Films, Festivals and Football",
-      "route": "chapter_5_-_the_effects/films-_festivals_and_football",
-      "file": "chapter_5_-_the_effects/films-_festivals_and_football.md",
-      "depth": 2
-    },
-    {
       "title": "Hospitalised Again",
       "route": "chapter_8_-_chemotherapy/hospitalised_again",
       "file": "chapter_8_-_chemotherapy/hospitalised_again.md",
@@ -564,6 +558,12 @@
       "title": "The Nature of God",
       "route": "chapter_5_-_the_effects/the_nature_of_god",
       "file": "chapter_5_-_the_effects/the_nature_of_god.md",
+      "depth": 2
+    },
+    {
+      "title": "Films, Festivals and Football",
+      "route": "chapter_5_-_the_effects/films-_festivals_and_football",
+      "file": "chapter_5_-_the_effects/films-_festivals_and_football.md",
       "depth": 2
     },
     {
