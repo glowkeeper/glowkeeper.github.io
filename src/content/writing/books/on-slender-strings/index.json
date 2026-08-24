@@ -393,12 +393,6 @@
       "depth": 2
     },
     {
-      "title": "Sarah",
-      "route": "chapter_10_-_hope_shmope/sarah",
-      "file": "chapter_10_-_hope_shmope/sarah.md",
-      "depth": 2
-    },
-    {
       "title": "Mum and I Fall Out",
       "route": "chapter_7_-_out_of_control/mum_and_i_fallout",
       "file": "chapter_7_-_out_of_control/mum_and_i_fallout.md",
@@ -534,6 +528,12 @@
       "title": "Chemotherapy Ends",
       "route": "chapter_9_-_tantrums/chemotherapy_ends",
       "file": "chapter_9_-_tantrums/chemotherapy_ends.md",
+      "depth": 2
+    },
+    {
+      "title": "Being Abi’s Parents",
+      "route": "chapter_10_-_hope_shmope/sarah",
+      "file": "chapter_10_-_hope_shmope/sarah.md",
       "depth": 2
     },
     {

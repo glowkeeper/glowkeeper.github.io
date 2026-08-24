@@ -4,7 +4,7 @@
 
 Abi’s illness has had an enormous impact on my life. Some of it, believe it or not, good. Some of it, of course, bad. There are also parts that are downright ugly.
 
-## The Good <a href="#the-good" id="the-good"></a>
+## The Good
 
 In August 2009, just before Abi was first rushed to the hospital, Nadia and I were enjoying a week-long family retreat at a beautiful old rectory. Unfortunately, Abi couldn’t be there due to chickenpox (although of course, it soon turned out that she was suffering from something far more severe). Every morning on the retreat the men would meet to discuss spirituality according to Buddhist principles. “I believe our biggest challenge is to overcome a fear of death,” I suggested. One of the other men disagreed: “For me, it is about overcoming the fear of living, not death,” he said. The man continued: “Many years before, I was given just two years to live. I am now healthy, but I have had to overcome many problems and physical disabilities.” The group fell silent at the revelation. “I used to wake up every day and wonder if I could cope,” he said, pausing for a moment. “Hence, for me, it’s a fear of living, not death.” The man’s explanation humbled me. “I don’t quite know how to reply,” I told him. “I maintain that living is a celebration and not something to fear. Yet nothing so dramatic, as has happened to you, has affected my life. In fact, I have had no first-hand experience of illness or death. So perhaps I am not best qualified to doubt what you have told us.”
 
@@ -14,7 +14,7 @@ Now I can speak from personal experience. I believe that our time here is not ju
 
 That love has meant that I always put Abi’s and Nadia’s needs first. I do not compromise whatsoever on the time I have with them, particularly since, due to my divorce from Sarah, I only see them every other week. That has meant sacrificing any possibility of a full-time job so I can drop the girls off and pick them up from school and take them to all the clubs they attend. I never get babysitters. It’s enabled me to jump off the treadmill and slow down. The instant world is no longer for me; I make tea in a pot, coffee in a cafetiere, I cook rather than get takeaways, and I shave with a cut-throat rather than use plastic disposable razors. The result has been lovely; Abi’s illness may be stressful, but any other stress has disappeared from my life. Above all, because I am there for my children, we have become extremely close.
 
-## The Bad <a href="#the-bad" id="the-bad"></a>
+## The Bad
 
 I learnt to look after myself at a very early age because I left home when I was just sixteen. It has taught me that, ultimately, I am the only person I can rely upon. So I feel shouldering my burdens alone is the best way to tackle problems. That means that, when I’m under pressure, I can become withdrawn. I suppose it’s a coping mechanism. But people close to me have found that behaviour difficult to understand. It can also leave me short-tempered. Indeed, I separated from one girlfriend when, having just been given the news that Abi’s tumour was growing (again), I was simply unable to share my concerns. I could not tell her how I was coping or what emotions I was experiencing. Anything she said annoyed me. Suddenly our relationship didn’t feel ‘right’; faced again with the stark realities of my daughter’s illness, the relationship seemed very superficial. So one evening, I made my excuses and quickly left her for the safety of my home. It proved the death knell for us and a few days later, we separated.
 
@@ -22,7 +22,7 @@ I have become much less judgmental since Abi’s illness because I’ve realised
 
 I needed to use the toilet by the time I found another parking space. In spite of the many thousands of people out shopping, guess who was in the bathroom too? Of course; the gentleman that I had just been arguing with! What’s more, as if the situation couldn’t get any sillier, we went to leave the bathroom at precisely the same time. Well aware of the irony, I opened the door and offered to let him through: “After you!” I mocked. Accepting my ‘kindness’, and looking me straight in the eye, the man replied with an ironic: “Merry Christmas!” I smiled; I like a man who can give as good as he gets.He won my respect. The situation could have easily got out of hand, but instead, it ended up with us having achieved ‘an understanding’. All’s well that ends well, I suppose. But I should have known better and not behaved like that, even under stress. Some things are a little more important than a parking space.
 
-## And the Ugly <a href="#and-the-ugly" id="and-the-ugly"></a>
+## And the Ugly
 
 Before Abi’s illness, I imagined myself indestructible. But the stress of it all has taken its toll on my well-being; my eyesight has suffered, I’ve had all sorts of problems with my teeth, I’ve had more colds than I care to remember and generally, I don’t feel quite as fit and healthy as I once did. If you ever wanted evidence that your mental state affects your physical well-being, then I am it.
 

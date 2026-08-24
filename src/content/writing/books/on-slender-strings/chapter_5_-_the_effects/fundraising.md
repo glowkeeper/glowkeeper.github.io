@@ -6,13 +6,13 @@ I couldn’t just sit by and watch helplessly while my youngest daughter was suf
 
 I can recommend fundraising as a way of connecting with a beautiful side of humanity. I’ve met some truly amazing people while collecting money for our cause. It’s exhilarating to witness people at their generous best.
 
-## Cycling From Land’s End to John O’Groats <a href="#cycling-from-lands-end-to-john-o-groats" id="cycling-from-lands-end-to-john-o-groats"></a>
+## Cycling From Land’s End to John O’Groats
 
 I found it really tough cycling the length of the UK—from Land’s End to John O’Groats. I don’t look back on the experience particularly fondly. Among the low points was the afternoon of the first day, when we had to cycle busy roads, up a couple of long hills and go further than I’d ever cycled before. I set off a bit too fast, so I really struggled for the last ten miles. Consequently, my body ached for the rest of the ride. It’s particularly tough to begin each day, with a long cycle in front of you, unable to sit down. Shrewsbury to Preston was dour and busy. In New Cumnock, near Kilmarnock, my streetwise inner voice warned me not to stop at any traffic lights, under any circumstances. Then I managed to slip off my pedal, in the process gouging a huge chunk out of my shin, just 100 yards from the finishing line at John O’Groats. Looking back, I think it was somewhat apt that I crossed the line with blood pouring from my leg.
 
 However, there were some highlights too. Dartmoor was beautiful and not as tough as my mind had decided it would be the night before cycling over it. Likewise, Shap Fell; I actually enjoyed the long slog up to the top. Scotland was beautiful, and the route from Inveraray to Invergarry was especially stunning, as was Carbisdale Castle to Bettyhill. Scotland has quieter roads than England, which made for a much nicer ride. But most of all, I was proud to complete one of the iconic cycles in the UK and to have simultaneously raised over £3,000 for the hospital that saved Abi’s life.
 
-## Fundraising on a High Street <a href="#fundraising-on-a-high-street" id="fundraising-on-a-high-street"></a>
+## Fundraising on a High Street
 
 This was the first of three days spent on a turbo trainer fundraising for the hospital before I cycled from London to Nice. All three days brought an extraordinary amount of support. I don’t just mean financially either, but also the kind words of encouragement from the many people who stopped to hear Abi’s story.
 
@@ -28,7 +28,7 @@ Later that evening, a parent who had seen me fundraising sent an email. Her youn
 
 That email made me cry; it was a tremendously moving way to finish such a fulfilling day. At first, everything I tried to write in reply sounded inadequate. The next day I eventually told her how sorry I was for everything her family had experienced, and how much I admired her ability to offer support after all they had been through. I found that incredibly inspirational.
 
-## Fundraising at Abi’s Hospital <a href="#fundraising-at-abi-s-hospital" id="fundraising-at-abi-s-hospital"></a>
+## Fundraising at Abi’s Hospital
 
 I spent the second of my fundraising events on my turbo trainer at the hospital that had operated on Abi. It was a very long and particularly tiring day, but that didn’t matter because I managed to raise £798.97.
 
@@ -46,7 +46,7 @@ At 5.15 p.m., one of the fundraising team took a few pictures for the hospital w
 
 All in all, it was a wonderful day. When Abi was first admitted to the hospital, I was in awe of the dedication and professionalism of the staff there. Abi was very lucky to have their expert help on hand, and it was a pleasure to show my gratitude to them.
 
-## Fundraising on Yet Another High Street <a href="#fundraising-on-yet-another-high-street" id="fundraising-on-yet-another-high-street"></a>
+## Fundraising on Yet Another High Street
 
 I spent the last day of fundraising on my turbo trainer stationed on another high street. As usual, two vinyl banners hung from my handlebars telling our story. They had proved my centrepiece so far, and during my earlier fundraisers, I think everyone who had taken the time to read them had given me money.
 
@@ -58,7 +58,7 @@ By 9.45 a.m., I had set up, drawn a deep breath and started pedalling. The morni
 
 As usual, the truly inspirational people I met made the day incredible. There was the raw food advocate who had lost his nephew to cancer. The father whose teenage son’s benign tumour was successfully removed at the same hospital as Abi. There was the couple who lost their daughter to a brain tumour and who now run a charity dedicated to funding research. Then there was the man who was running a marathon and raising money for a charity devoted to providing nutritional support for children with cancer. I had a long conversation with a woman who, shortly after giving birth to her first son, was found to have a brain tumour. Twelve years on and she was fit, healthy and inspirational. Then there was the doctor with whom I discussed the reasons for the lack of research into childhood tumours. She thought that it was due to their being rare, so there wasn’t necessarily much of a sample size to draw research from. Finally, there was the lovely busker who stopped by just as I was about to pack up. She wished Abi luck with her fight against her illness. All remarkable people who took the time to stop and care.
 
-## Cycling From London to Nice <a href="#cycling-from-london-to-nice" id="cycling-from-london-to-nice"></a>
+## Cycling From London to Nice
 
 Just as I was getting into decent shape for cycling from London to Nice, Abi had to have more surgery. That put a halt, for a couple of months, to my fitness preparations. So by the time the ride began, I felt that I had not done enough training. But I needn’t have worried because I was just about fit enough and I managed to get properly in shape en route. That’s partly due to topography because the ride didn’t get really hilly until about seven days in. By the end of the challenge, I felt incredibly fit. Indeed, after a thousand miles, I was ‘flying’ and I didn’t want to stop. That was a fantastic feeling, in stark contrast to how I felt on my Land’s End to John O’Groats ride, where I was taking lots of painkillers to get through the ordeal. I expected more of the same, but I never got close to taking any drugs. Nor did I suffer from soreness; Brooks saddles are fantastic.
 
