@@ -141,6 +141,13 @@ export const gamesSections: SiteSection = {
       subText: "A fast-paced general-knowledge quiz played against the clock.",
       endPoint: 'quizmo',
       content: 'software/games/quizmo.md'
+    },
+    creamCheese: {
+      id: "software-games-cream-cheese",
+      title: "cream cheese",
+      subText: "A daily numerical deduction game: crack three different digits in twenty guesses.",
+      endPoint: 'cream-cheese',
+      content: 'software/games/cream-cheese.md'
     }
   }
 }
@@ -657,7 +664,7 @@ export const siteSections: Site = {
   software: {
     eyebrow: "Developer · Maker",
     title: "Code, mostly for fun",
-    subText: "Games, playful utilities and browser experiments—including the satirical commons game The Horizontal Front and the daily challenge Quizmo.",
+    subText: "Games, playful utilities and browser experiments, built for the pleasure of building them.",
     siteSections: [gamesSections, appsSections]
   },
   writing: {
