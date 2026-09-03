@@ -641,7 +641,7 @@ export const storiesSections: SiteSection = {
     },
     theMillwright: {
       id: "stories-the-millwright",
-      title: "the mill wright",
+      title: "the millwright",
       subText: "A candlelight tale of a millwright, told during WWF's 2017 Earth Hour.",
       endPoint: 'the-millwright',
       content: 'writing/stories/theMillwright.md'
