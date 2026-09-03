@@ -68,7 +68,25 @@ Rachael glanced towards the darkening path by which they had entered. For the fi
 
 "Well," she said, "unless you want to walk another mile in the dark, this is still home for the night."
 
-Sam listened for another moment. "What's for dinner?"
+Sam searched the branches above them.
+
+"A sparrowhawk may have passed overhead," he said. "That would quiet the smaller birds."
+
+"And whatever we heard in the leaves?"
+
+"Probably a fox."
+
+Rachael looked into the motionless undergrowth. "Mystery solved?"
+
+Sam listened again.
+
+The silence held.
+
+"Near enough."
+
+As his unease receded, the hunger he had forgotten returned.
+
+"What's for dinner?"
 
 Rachael looked pointedly at his rucksack. "You were in charge of food."
 
@@ -102,7 +120,7 @@ On the third attempt, a ring of blue flame caught beneath the kettle.
 
 "I knew there was a reason I brought you."
 
-They ate beneath the trees while the little stove hissed between them. The pasties had been flattened in Sam's rucksack, but the tea was hot and strong. Afterwards, he divided the chocolate and handed Rachael the larger piece without being asked.
+They ate beneath the trees while the little stove hissed between them. The pasties were indeed flattened, but the tea was hot and strong. Afterwards, Sam divided the chocolate and handed Rachael the larger piece without being asked.
 
 Their voices sounded strangely clear in the motionless air. When they had finished, Sam packed away the stove while Rachael stood brushing crumbs from her trousers.
 
@@ -234,9 +252,9 @@ Behind him, the old man moved.
 
 One hand closed around a dark wooden staff lying among the leaves. He pushed himself upright, and as he rose, the blood disappeared from his robe.
 
-"Enough," he said.
+"Enough."
 
-He did not raise his voice, but the word carried across the clearing.
+The word was quiet, but it carried across the clearing.
 
 The battle faltered.
 
@@ -252,35 +270,53 @@ When the last of the fighting vanished, the old man remained.
 
 Behind him, the other dead still watched from among the trees.
 
-He came towards Sam, leaning upon his staff. His pale robe was unmarked now, and there was no wound where the sword had entered his back.
+Rachael climbed out of the tent and turned around.
 
-Rachael climbed out of the tent.
+"Where's the fire?"
 
-"Sam?"
+There was no smoke now. The leaves were untouched, and the air no longer burnt her throat.
 
-He could not take his eyes from the old man.
+Sam pressed a hand to the place where the sword had passed through him.
 
-"Who are you?" he asked.
+Rachael saw the movement. "Are you hurt?"
 
-Rachael looked across the empty clearing. "Who are you talking to?"
+He did not answer.
 
-The old man glanced at her. "She cannot see me."
+She pulled aside the neck of his coat and examined his shoulder. There was no wound and no blood.
+
+When she touched his skin, she drew her hand back.
+
+"You're freezing."
+
+Beyond her, the old man came towards Sam, leaning upon his staff. His pale robe was unmarked now.
+
+"Who are you?" Sam asked.
+
+Rachael turned to follow his gaze. "Who are you talking to?"
+
+"She can neither see nor hear me," the old man said.
 
 Sam looked at the figures between the trees. "But I can see all of you."
 
-"The blade opened your sight to the dead."
+Rachael took hold of his hands. "Sam, look at me."
 
-Rachael touched Sam's face and drew her hand back. "You're freezing."
+He tried, but the dead were gathering behind her.
 
-"Can you stop it?" Sam asked the old man.
+Rachael released him and took out her phone. "I'm calling for help."
+
+She walked towards the centre of the clearing, watching the screen as she searched for a signal.
+
+"The blade opened your sight to the dead," the old man said.
+
+"Can you stop it?"
 
 "I stopped the second blow. I cannot recall the first."
 
 The whispers pressed more urgently into Sam's mind. He covered his ears, but the voices came from within as much as from the woods.
 
-"Please," he said. "Help me."
+"Please. Help me."
 
-The old man studied him for a moment.
+The old man studied him.
 
 "At sunrise, follow the path to the village. I will meet you where the woods end."
 
@@ -292,29 +328,41 @@ The old man turned towards it.
 
 "Because this night is not yet over."
 
-He began to fade. The trees showed through his robe, then through his skin, until Sam could see only the staff standing upright in the clearing.
+He began to fade. The trees showed through his robe, then through his skin, until only the staff remained standing in the clearing.
 
 That disappeared too.
 
-"Sam, there's nobody there." Rachael took hold of his hands. "Come back inside."
+"There's no signal," Rachael said behind Sam.
 
-He looked towards the path. Dead faces watched him from either side of it.
+He turned. She was watching him with the phone still in her hand.
 
-"We should leave," she said.
+"We need to leave."
+
+Sam looked towards the path. Dead faces watched from either side of it.
 
 "Not in the dark."
 
 "You said the woods were burning."
 
-Sam looked at the untouched leaves and the ancient trunks rising above them. There was no smoke now, no scorched earth and no trace of the battle.
-
 "I don't know what I saw."
 
-Rachael led him back into the tent. She wrapped both sleeping bags around him, but nothing warmed the cold beneath his skin.
+"You were talking to someone."
 
-"What happened out there?" she asked.
+"The path isn't safe."
 
-"I don't know," he said again.
+Rachael looked towards it. "It's empty."
+
+"Please, Rae."
+
+She looked at his unmarked shoulder, then at the dark path.
+
+"Inside, then," she said. "We leave as soon as it's light."
+
+She led him back into the tent and wrapped both sleeping bags around him, but nothing warmed the cold beneath his skin.
+
+"What did you see?" she asked.
+
+"I don't know."
 
 It was the first lie he told her.
 
@@ -510,23 +558,17 @@ Sam looked at the dead lining the road. Some had turned away, but others were st
 
 "I can't," he said again.
 
-She folded her arms against the morning cold. "Are you hurt?"
+Rachael watched him touch his shoulder. "Is it still cold?"
 
-"No."
+"Yes."
 
-"At least let me check."
+"There was nothing there when I checked."
 
-Sam pulled aside the neck of his coat. Rachael examined the place where the blade had entered him, then ran her fingers across the unbroken skin.
-
-He felt only the cold beneath it.
-
-"There's nothing there," she said.
-
-"I told you."
+"I know."
 
 "That doesn't mean nothing happened."
 
-Sam lowered his coat. "We should get away from here."
+Sam lowered his hand. "We should get away from here."
 
 "That's the first sensible thing you've said."
 
