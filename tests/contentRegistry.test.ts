@@ -20,8 +20,8 @@ describe('content registry', () => {
     await expect(validateContentRegistry()).resolves.toBeUndefined()
   })
 
-  it('documents the intentional millwright review draft', () => {
-    expect(allowedDrafts).toEqual(new Set(['writing/stories/millwrightReview.md']))
+  it('has no draft exemptions', () => {
+    expect(allowedDrafts).toEqual(new Set())
   })
 
   it('keeps reordered landing sections mapped to their route groups', () => {

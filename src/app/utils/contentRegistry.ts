@@ -6,9 +6,7 @@ import { readBookManifest } from '@/app/utils/bookRegistry'
 
 const contentDirectory = path.join(process.cwd(), 'src', 'content')
 
-export const allowedDrafts = new Set([
-  'writing/stories/millwrightReview.md',
-])
+export const allowedDrafts = new Set<string>()
 
 const collectMarkdownFiles = async (directory: string): Promise<string[]> => {
   const entries = await readdir(directory, { withFileTypes: true })
