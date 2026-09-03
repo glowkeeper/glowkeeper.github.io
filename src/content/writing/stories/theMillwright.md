@@ -168,6 +168,8 @@ Mikayla ended the call and sat holding the phone, listening to the silence outsi
 
 Headlights appeared on the track below. Mikayla watched them climb the slope until a marked police car drew up beside the camp.
 
+The sound of the engine woke the girls. Tent zips opened again, but Mikayla motioned for them to stay back.
+
 One officer came towards her. From the other side of the mill, his colleague appeared with a familiar figure walking ahead of him.
 
 It was the old man from the ridge.
@@ -228,7 +230,7 @@ Across the tent's canvas, two words had been smeared in a chalk-white paste:
 
 **FEED ME**
 
-Directly beneath the message sat one of the camp's blue enamel bowls, filled to the rim with flour. A finger had traced a single word across its surface:
+Directly beneath the message sat one of the camp's blue enamel bowls, a small chip missing from its rim. It was filled with flour, across which a finger had traced a single word:
 
 **BREAD**
 
@@ -249,6 +251,8 @@ She made herself look away from the message.
 "It's still somebody's idea of a joke. Pack your things—we're leaving."
 
 Before allowing the girls to dismantle her tent, Mikayla photographed the message and the bowl with her phone.
+
+Taking the bowl by its rim, she slipped it into a clean plastic bag. The police might want to examine it.
 
 The girls returned to their tents. Only when their attention had moved elsewhere did Mikayla touch one of the white letters.
 
@@ -290,7 +294,7 @@ She ended the call and slipped the phone into her pocket before returning to the
 
 The two officers were waiting beside their patrol car when the Guides reached Pyecombe. Mikayla moved the girls far enough away that they could not hear, then described the events of the night once again.
 
-She showed the officers the photographs on her phone: the white words across the green canvas, the bowl beneath them, the flour disturbed by a single finger. She also handed them the bowl, which she had carried down in a clean plastic bag.
+She showed the officers the photographs on her phone: the white words across the green canvas, the bowl beneath them, the flour disturbed by a single finger. She also handed over the plastic bag containing the bowl.
 
 "And you're certain the men who came to the camp were police officers?" one of them asked.
 
@@ -388,7 +392,7 @@ The old man's words returned to her:
 
 *They bound his soul to the mill and condemned him to wander, begging.*
 
-Not the place, Mikayla realized.
+Not the place, Mikayla realised.
 
 The mill.
 
@@ -448,7 +452,9 @@ Three knocks at the door, always after dark.
 
 The third knock came.
 
-Mikayla approached the door and looked through the spyhole. No one stood outside.
+Mikayla forced herself towards the door. By the time she reached it, her hands were shaking. She steadied herself against the frame and looked through the spyhole.
+
+No one stood outside.
 
 A soft scraping sound moved across the step.
 
