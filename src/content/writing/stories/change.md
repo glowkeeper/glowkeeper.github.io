@@ -70,7 +70,7 @@ Across its cover, in Raphael’s large and elaborate handwriting, were the words
 
 Harry opened it.
 
-Inside were several pages covered with official-looking figures, an itinerary for Raphael’s journey and a letter confirming an extremely important meeting one week later. Harry understood very little of the figures, but he understood the words *must be presented at the meeting* perfectly well.
+Inside were several pages covered with official-looking figures, a detailed itinerary showing the route Raphael had taken home and a letter confirming an extremely important meeting one week later. Harry understood very little of the figures, but he understood the words *must be presented at the meeting* perfectly well.
 
 He looked at his porridge.
 
@@ -92,13 +92,13 @@ At the door, he stopped.
 
 Beyond the veranda, the path descended through the trees towards the valley. Harry had walked that path many times, but he had never followed the road beyond it as far as the railway station.
 
-He thought of the cold water, the comfortable chair and the deer that would appear at the edge of the woods that afternoon.
+He thought of his comfortable chair and the deer that would appear at the edge of the woods that afternoon.
 
 “I’m too old for surprises,” he said.
 
-The folder waited beneath his arm.
+Then he felt the weight of the folder beneath his arm and remembered Raphael’s meeting.
 
-Harry closed the door behind him.
+Harry tightened his grip, stepped outside and closed the door behind him.
 
 By midday, he was standing on a railway platform with a ticket in his hand and a great black engine hissing in front of him.
 
@@ -230,7 +230,9 @@ Harry looked through the window at the unfamiliar country rushing past.
 
 “It is.”
 
-A film began playing at the front of the coach. Harry had never seen one before and watched in fascination for several minutes, but soon he turned back to Martha. The moving pictures were remarkable; her stories were better.
+As they travelled, villages, orchards and fields slipped past. Whenever Harry noticed something unfamiliar—a ruined tower, a distant windmill or a white horse carved into a hillside—Martha seemed to know a story about it.
+
+The passing country was remarkable. Martha made it larger.
 
 By the time the coach reached the next city, the long journey seemed to have taken no time at all.
 
@@ -366,7 +368,9 @@ There was nothing wrong with the boots. Their leather was cracked, their soles w
 
 They were not, however, especially convincing footwear for a mysterious city gentleman.
 
-Harry consulted Raphael’s itinerary. His flight departed the following morning, leaving him several hours to explore.
+Harry studied Raphael’s itinerary. Only one stage of his cousin’s homeward route remained: an aeroplane flight across the border.
+
+With the help of the hotel clerk, Harry booked a seat on a flight to Raphael’s home city the following morning. That left him the rest of the day to explore.
 
 Before long, he found a shoemaker whose window displayed rows of polished shoes. Some were pointed, some were buckled and some appeared far too delicate to risk upon an actual street.
 
@@ -412,7 +416,7 @@ Harry thought of his own mountain. Seeing more of the world had not made it smal
 
 When the aeroplane began its descent, Harry was sorry the flight had passed so quickly.
 
-Beyond passport control, the final city awaited him.
+Beyond passport control, Raphael’s city awaited him.
 
 Harry checked Raphael’s address and set off on foot. On the way, he passed a hatter’s shop. A black bowler hat in the window caught his attention, and a display of walking sticks stood inside the door.
 
@@ -536,10 +540,6 @@ For once, Raphael appeared to have nothing more to say.
 
 Harry helped himself to toast.
 
-“Last night,” Raphael said eventually, “I gave you my finest guest room.”
-
-“You did.”
-
 “When I stayed with you, I complained about everything.”
 
 “You did that too.”
@@ -551,6 +551,10 @@ Harry spread marmalade across his toast.
 “You are my cousin.”
 
 Raphael lowered his eyes.
+
+“Last night, I gave you my finest guest room.”
+
+“You did.”
 
 “I thought you were an important gentleman.”
 
@@ -602,7 +606,9 @@ Raphael gathered the papers and stood.
 
 “My meeting begins in an hour. Will you still be here when I return?”
 
-Harry considered the warm kitchen of his mountain home, his chair upon the veranda and the deer appearing at the edge of the woods.
+Harry thought of the warm kitchen on his mountain, his chair waiting upon the veranda and the deer emerging at the edge of the woods.
+
+He had intended to begin the journey home that morning. But Raphael was no longer speaking to an important gentleman. He was asking his cousin.
 
 “Until tomorrow morning.”
 
@@ -693,6 +699,22 @@ He remained at the rail.
 By the time the sun began to set, neither man had spoken for almost an hour.
 
 Raphael was surprised to discover that the silence had not required improving.
+
+The coach was crowded, and the cousins found seats at opposite ends.
+
+Raphael sat beside a farmer whose coat was patched at both elbows and whose boots were thick with dried mud. At first, Raphael angled his immaculate trousers carefully away from him.
+
+Then the farmer asked where he was travelling.
+
+By the time the coach reached the town, Raphael knew the names of the farmer’s three sheepdogs, had heard a complicated story about an escaped bull and was eating an apple from his orchard.
+
+Harry caught his cousin’s eye as they climbed down.
+
+Raphael looked at the apple in his hand.
+
+“Every day brings something new,” he said.
+
+Harry smiled.
 
 At last, the train carried them to the small station in the valley below Harry’s mountain.
 
