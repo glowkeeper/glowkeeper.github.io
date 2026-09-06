@@ -24,7 +24,7 @@ Most of the time.
 
 The Old Rectory has also known gardeners—and moles—who were rather less grateful.
 
-Soon after the first mole family moved to the Old Rectory, many generations ago, the gardener became convinced that their molehills were destroying his magnificent lawns.
+Soon after the first mole family moved to the Old Rectory, many generations ago, the gardener of the time became convinced that their molehills were destroying his magnificent lawns.
 
 He tried stamping the earth flat.
 
@@ -52,9 +52,9 @@ His campaign soon became the most popular entertainment in the grounds. Rabbits 
 
 One or two mischievous elves began digging additional holes merely to keep the performance moving.
 
-If you listen carefully on a summer evening, you can still hear the magpies cackling about it.
-
 The gardener did not hit a single mole. He did, however, destroy two wheelbarrows, a sundial and an ornamental statue that had offended nobody.
+
+If you listen carefully on a summer evening, you can still hear the magpies cackling about it.
 
 Eventually, the strain drove him completely insane, and he was taken away for a lengthy period of rehabilitation.
 
@@ -130,11 +130,13 @@ The gardener treasured that card for the rest of her life.
 
 The gas mask remained at the Old Rectory. Once the chemical campaign ended, the moles returned it to the potting shed, although they kept the gloves for washing up.
 
-Many years later, a robin built her nest inside the mask.
+Many years later, a wren built her nest inside the mask.
 
-The present gardener discovered her just as he was about to clear the shed. He closed the door again and left Mother Robin to raise her brood in peace. For six weeks, he told anyone willing to listen that he had been evicted from his own shed by a bird living in wartime protective equipment.
+The present gardener discovered her just as he was about to clear the shed. He closed the door again and left Mother Wren to raise her brood in peace. For six weeks, he told anyone willing to listen that he had been evicted from his own shed by a bird living in wartime protective equipment.
 
 He sounded extremely proud of it.
+
+Mother Wren returned to the gas mask in the years that followed. Three generations of her family were raised inside it. Only after the nest had been empty for a very long time did the gardener carefully remove it and take it to the little room at the top of the gardens.
 
 Gardeners, however, were not the only creatures capable of forgetting that the Old Rectory belonged to everyone.
 
@@ -214,7 +216,7 @@ The young mole muttered something about his tail.
 
 His father sentenced him to six months of washing up. This left the mole with very little time for digging traps and made excellent use of the protective gloves his family had inherited from the chemical war.
 
-The angel took possession of the stolen knives and announced that they would eventually be returned, provided their owners proved worthy.
+The angel took possession of the stolen knives.
 
 Angels, however, do not simply return lost objects. First, they must satisfy themselves that the intended recipients are worthy of such a grand gesture. If the children continue to love the woods, care for the creatures within them and pay attention to even the smallest seedlings, they may one day be reunited with their favourite knives.
 
@@ -232,21 +234,17 @@ Messengers set out across the grounds.
 
 Wrens carried the summons through the hedges. Rabbits passed it between their burrows. High above the woods, a kestrel repeated the message in a piercing call that sounded remarkably like a police officer’s whistle.
 
-Late one night, long after the human folk had gone to bed, animals and small folk gathered before an old cave in the woods.
-
-The Elven King was waiting for them.
-
-The Elven King struck the ground three times with his ancient yew staff.
-
-*Thump. Thump. Thump.*
-
-The clearing fell silent.
-
-Rabbits sat upright among the ferns. Birds crowded the branches overhead. Foxes, badgers, mice, moles and hedgehogs gathered beneath them, while fairies shone between the leaves like tiny lanterns.
+Late one night, long after the human folk had gone to bed, animals and small folk gathered before an old cave in the woods. Rabbits sat upright among the ferns. Birds crowded the branches overhead. Foxes, badgers, mice, moles and hedgehogs gathered beneath them, while fairies shone between the leaves like tiny lanterns.
 
 The young mole stood beside his father, wearing the protective gloves and carrying a bowl that still required washing.
 
+The Elven King was waiting for them. He struck the ground three times with his ancient yew staff.
+
+*Thump. Thump. Thump.*
+
 The King looked across the gathering.
+
+The clearing fell silent.
 
 “We share these grounds with the human folk,” he began. “Most of them cannot see us. Some do not believe we exist. A regrettable few believe that gardens belong exclusively to them.”
 
@@ -298,7 +296,7 @@ The animals gasped.
 
 “Your favourite?” asked a squirrel.
 
-“The one beneath the potting-shed roof. Three generations of my family were raised in it.”
+“The one inside the gas mask. Three generations of my family were raised in it.”
 
 “Disgraceful,” said the squirrel.
 
@@ -334,9 +332,9 @@ The mole lowered the bowl.
 
 The clearing descended into chittering, squawking and angry speculation. Some demanded that the gardener be banished. Others proposed confiscating his wheelbarrow. The rat suggested that his wine cellar should be searched as a matter of urgency.
 
-Once again, the Elven King struck the ground with his staff.
+Once again, the Elven King struck the ground three times with his ancient yew staff.
 
-*Thump.*
+*Thump. Thump. Thump.*
 
 The noise subsided.
 
@@ -406,8 +404,6 @@ The rat remained unconvinced.
 
 The horse raised her unshod hoof.
 
-“And my shoe.”
-
 A hush descended upon the woods.
 
 The Fairy Queen had entered the clearing.
@@ -432,15 +428,13 @@ The clearing erupted.
 
 “You see!” cried the rat.
 
-The King raised his staff, but the Fairy Queen lifted one hand.
-
-Silence returned.
+The King raised his staff to strike the ground, but the Fairy Queen lifted one hand and silence returned immediately.
 
 “The gardener showed the children each object,” she continued. “He asked them where it might have come from, who might once have used it and what its story could tell them about these grounds.”
 
 She looked towards Mother Wren.
 
-“The nest taught them to look carefully beneath roofs and among branches before disturbing anything.”
+“The nest taught them to look carefully inside sheds, beneath roofs and among branches before disturbing anything.”
 
 Mother Wren tilted her head.
 
@@ -530,7 +524,7 @@ He paused.
 
 The badger nodded.
 
-The horse lowered her head.
+The horse whinnied her approval.
 
 Mother Wren fluttered her wings, and even the rat appeared satisfied—although this may have been because he had remembered where another wine jug was hidden.
 
