@@ -34,7 +34,7 @@ export const SectionLanding = ({
       <p className="landing-deck">{sectionConfig.subText}</p>
 
       {sectionConfig.siteSections.map(subSection => (
-        <section key={subSection.path} className="section-group">
+        <section key={`${subSection.path}-${subSection.title}`} className="section-group">
           {sectionConfig.siteSections.length > 1 && <h2>{subSection.title}</h2>}
           <div className={`section-links ${linkGridClassName}`}>
             {Object.values(subSection.content).map(item => (

@@ -10,7 +10,8 @@ export enum AcademiaSections {
 
 export enum SoftwareSections {
   games,
-  apps
+  apps,
+  playground
 }
 
 export enum WritingSections {
@@ -97,7 +98,21 @@ export const academiaSections: SiteSection = {
 }
 
 export const appsSections: SiteSection = {
-  title: 'fun',
+  title: 'apps',
+  path: '/software/apps',
+  content: {
+    keepThese: {
+      id: "software-apps-keep-these",
+      title: "keep these",
+      subText: "A calm, private-by-default tool for making blackout poetry from classic writing.",
+      endPoint: 'keep-these',
+      content: 'software/apps/keep-these.md'
+    },
+  }
+}
+
+export const playgroundSections: SiteSection = {
+  title: 'playground',
   path: '/software/apps',
   content: {
     animated: {
@@ -665,7 +680,7 @@ export const siteSections: Site = {
     eyebrow: "Developer · Maker",
     title: "Code, mostly for fun",
     subText: "Games, playful utilities and browser experiments, built for the pleasure of building them.",
-    siteSections: [gamesSections, appsSections]
+    siteSections: [gamesSections, appsSections, playgroundSections]
   },
   writing: {
     eyebrow: "Poetry · Fiction · Non-fiction",

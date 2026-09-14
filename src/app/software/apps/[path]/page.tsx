@@ -1,21 +1,33 @@
 import { ContentPage } from '@/app/components/ContentPage'
 
-import { siteSections, SoftwareSections } from '@/app/config'
-import { createContentMetadataGenerator } from '@/app/utils/metadata'
+import { appsSections, playgroundSections } from '@/app/config'
+import { createPageMetadata } from '@/app/utils/metadata'
 
-const section = siteSections.software.siteSections[SoftwareSections.apps]
+const sections = [appsSections, playgroundSections]
 
-export const generateMetadata = createContentMetadataGenerator(section)
+export const generateMetadata = async ({
+  params,
+}: {
+  params: Promise<{ path: string }>
+}) => {
+  const { path } = await params
+  const section = sections.find(candidate =>
+    Object.values(candidate.content).some(item => item.endPoint === path)
+  )
+  const item = section && Object.values(section.content).find(content => content.endPoint === path)
+
+  return item && section ? createPageMetadata({
+    title: item.title,
+    description: item.subText,
+    path: `${section.path}/${item.endPoint}`,
+  }) : {}
+}
 
 export function generateStaticParams() {
 
-  const paths = Object.keys(siteSections.software.siteSections[SoftwareSections.apps].content).map(item => {
-    //console.log('book', book)
-    const path = siteSections.software.siteSections[SoftwareSections.apps].content[item].endPoint
-    return { path: path }
-  })
-  //console.log('paths', paths)
-  return paths
+  return sections.flatMap(section =>
+    Object.values(section.content).map(item => ({ path: item.endPoint }))
+  )
 }
 
 const AppsPage = async ({
@@ -24,6 +36,9 @@ const AppsPage = async ({
   params: Promise<{ path: string }>
 }) => {
   const { path } = await params
+  const section = sections.find(candidate =>
+    Object.values(candidate.content).some(item => item.endPoint === path)
+  ) ?? appsSections
 
   return <ContentPage endPoint={path} section={section} />
 }

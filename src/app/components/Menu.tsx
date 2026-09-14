@@ -163,7 +163,7 @@ export const Menu = () => {
                 {isExpanded && (
                   <div className="mobile-navigation-details">
                     {section.groups.map(group => (
-                      <div key={group.path}>
+                      <div key={`${group.path}-${group.title}`}>
                         {section.groups.length > 1 && <p>{group.title}</p>}
                         <div>
                           {Object.values(group.content).map(item => (
