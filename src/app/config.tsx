@@ -129,13 +129,6 @@ export const playgroundSections: SiteSection = {
       endPoint: 'calculator',
       content: 'software/apps/calculator.md'
     },
-    rectangles: {
-      id: "software-apps-rectangles",
-      title: "rectangles",
-      subText: "An interactive aid for exploring Exercism's rectangle-counting problem.",
-      endPoint: 'rectangles',
-      content: 'software/apps/rectangles.md'
-    },
   }
 }
   
@@ -143,6 +136,13 @@ export const gamesSections: SiteSection = {
   title: 'games',
   path: '/software/games',
   content: {
+    rectangleHunt: {
+      id: "software-games-rectangle-hunt",
+      title: "rectangle hunt",
+      subText: "An untimed daily visual-search game about finding rectangles hidden in line drawings.",
+      endPoint: 'rectangle-hunt',
+      content: 'software/games/rectangle-hunt.md'
+    },
     theHorizontalFront: {
       id: "software-games-the-horizontal-front",
       title: "the horizontal front",
