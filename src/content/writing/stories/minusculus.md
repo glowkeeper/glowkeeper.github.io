@@ -58,4 +58,4 @@ Mrs Nay stayed. At first it was only to peel labels off tins in exchange for sou
 
 It had been a hard night, a stressful day, and Mrs Bincor had been working like a dog, so when Mr Bincor entered her study with a cup of tea and a plate of biscuits, which he put on the desk, she was grateful for the respite. "Darling, you've been working too hard. Please rest," said Jeremy, standing behind his tired wife, lovingly massaging her tense shoulders. Treesa took her glasses off and rubbed her aching eyes. "It's this bloody renationalisation of the railways. That Chinese Hedge Fund is still making things difficult..."
 
-24 October, 2017
+24 October, 2017 - edited 13 October, 2026

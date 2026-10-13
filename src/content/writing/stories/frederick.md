@@ -74,6 +74,8 @@ He sat on the bench, with the medal on his chest and the monkey sitting politely
 
 And then he remembered the gold coins in his pocket.
 
+20 October, 2012 - adapted 13 October, 2026
+
 ---
 
 ## The Original
