@@ -192,6 +192,13 @@ export const flashFictionSections: SiteSection = {
   title: 'flash fiction',
   path: '/writing/flash-fiction',
   content: {
+    declansLingerie: {
+      id: "flash-declans-lingerie",
+      title: "declan's lingerie",
+      subText: "A reflection on Declan Rice, football fandom and the character supporters choose to see.",
+      endPoint: 'declans-lingerie',
+      content: 'writing/flashFiction/declansLingerie.md'
+    },
     eric: {
       id: "flash-eric",
       title: "eric",
@@ -254,13 +261,6 @@ export const reportsSections: SiteSection = {
       subText: "A supporter’s journey to Prague as West Ham win the Europa Conference League.",
       endPoint: 'champions-of-europe',
       content: 'writing/reports/championsOfEurope.md'
-    },
-    declansLingerie: {
-      id: "reports-declans-lingerie",
-      title: "declan's lingerie",
-      subText: "A reflection on Declan Rice, football fandom and the character supporters choose to see.",
-      endPoint: 'declans-lingerie',
-      content: 'writing/reports/declansLingerie.md'
     },
     myGreatEscape: {
       id: "reports-my-great-escape",
