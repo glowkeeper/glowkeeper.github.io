@@ -1,6 +1,6 @@
 # Frederick
 
-*Adapted from a story made up by my eldest daughter on a train in 2012. [The original](#the-original) is preserved below, exactly as she told it.*
+*Adapted from a story made up by my eldest daughter on a train in 2012. The original is preserved below, exactly as she told it.*
 
 Once upon a time there was a little boy named Frederick, and for thirteen years nothing was expected of him, which suited everyone.
 
