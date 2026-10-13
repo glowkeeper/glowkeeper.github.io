@@ -33,4 +33,4 @@ Earth had had an awful time. She missed Moon; she sobbed and wailed uncontrollab
 
 Soon after, following a glorious summer, Moon looked up at Earth: “Can I tell you a joke?” she asked. “What’s the difference between the Sun and King Arthur?” The earth wasn’t certain she actually wanted to hear the answer. Nevertheless: “I don’t know, what is the difference between the Sun and King Arthur?” Moon chuckled, before delivering the brilliant punchline: “The Sun keeps us warm for the day, but King Arthur warms his keep for the Knights.” There followed a deep, dark, silence, similar to that you may witness just before a solar eclipse. “That was rubbish!” Earth told Moon. “But I’ll still be your friend.”
 
-28th July, 2016
+28 July, 2016

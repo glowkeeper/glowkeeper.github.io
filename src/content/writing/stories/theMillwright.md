@@ -464,4 +464,4 @@ On the doorstep stood a blue enamel bowl, its familiar chip visible along the ri
 
 It was the bowl she had handed to the Sussex Police officers in Pyecombe.
 
-2 February 2017
+2 February, 2017
