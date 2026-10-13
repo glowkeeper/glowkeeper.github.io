@@ -101,6 +101,13 @@ export const appsSections: SiteSection = {
   title: 'apps',
   path: '/software/apps',
   content: {
+    feedbacker: {
+      id: "software-apps-feedbacker",
+      title: "feedbacker",
+      subText: "An open-source, human-led tool for marking and moderating university coursework with AI support.",
+      endPoint: 'feedbacker',
+      content: 'software/apps/feedbacker.md'
+    },
     keepThese: {
       id: "software-apps-keep-these",
       title: "keep these",
