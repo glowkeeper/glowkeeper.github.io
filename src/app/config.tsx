@@ -679,25 +679,25 @@ export const siteSections: Site = {
   },
   academia: {
     eyebrow: "Teaching · Curriculum · Research",
-    title: "Ideas made teachable",
+    title: "Hard ideas, made learnable",
     subText: "Current teaching, curriculum design and research across computing, data and technology.",
     siteSections: [academiaSections]
   },
   software: {
     eyebrow: "Developer · Maker",
-    title: "Code, mostly for fun",
-    subText: "Games, playful utilities and browser experiments, built for the pleasure of building them.",
+    title: "Code that's meant to be used",
+    subText: "Games, playful utilities and browser experiments, built with care and a sense of play.",
     siteSections: [gamesSections, appsSections, playgroundSections]
   },
   writing: {
     eyebrow: "Poetry · Fiction · Non-fiction",
-    title: "Words in several directions",
+    title: "Words with something to say",
     subText: "Political and personal poetry, short fiction, humour, football reports and longer-form work.",
     siteSections: [booksSections, poetrySections, storiesSections, flashFictionSections, reportsSections, humourSections]
   },
   music:  {
     eyebrow: "Songs · Home recordings",
-    title: "Loud ideas, played acoustically",
+    title: "Three chords and an opinion",
     subText: "Punk-acoustic songs about politics, frustration, friendship and the world as it is.",
     siteSections: [songsSections]
   }

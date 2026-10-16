@@ -18,7 +18,7 @@ const AboutPage = () => (
     imageSrc="/assets/images/standingMan.avif"
   >
     <p className="eyebrow">Educator · Developer · Creative</p>
-    <h1>About me</h1>
+    <h1>Make, teach, write</h1>
     <div className="landing-deck about-introduction">
       <p>I’m Dr Steve Huckle: a computing educator, curriculum designer and software developer with a longstanding interest in where technology, creativity and social purpose meet.</p>
       <p>My career has moved through systems administration, games and audio programming, web development, blockchain research and higher education. Today, I design learning experiences, teach computing and data skills, build independent software, and write poetry, fiction and songs.</p>
