@@ -11,6 +11,7 @@ export enum AcademiaSections {
 export enum SoftwareSections {
   games,
   apps,
+  projects,
   playground
 }
 
@@ -114,6 +115,20 @@ export const appsSections: SiteSection = {
       subText: "A calm, private-by-default tool for making blackout poetry from classic writing.",
       endPoint: 'keep-these',
       content: 'software/apps/keep-these.md'
+    },
+  }
+}
+
+export const projectsSections: SiteSection = {
+  title: 'projects',
+  path: '/software/projects',
+  content: {
+    retrofit: {
+      id: "software-projects-retrofit",
+      title: "retrofit",
+      subText: "A 3D tour and plain-spoken stories from retrofitting a Victorian cottage, including what it cost and what went wrong.",
+      endPoint: 'retrofit',
+      content: 'software/projects/retrofit.md'
     },
   }
 }
@@ -686,8 +701,8 @@ export const siteSections: Site = {
   software: {
     eyebrow: "Developer · Maker",
     title: "Code that's meant to be used",
-    subText: "Open-source tools and games, built with a sense of play.",
-    siteSections: [gamesSections, appsSections, playgroundSections]
+    subText: "Apps for educators and poets, games for the curious, and projects beyond the screen.",
+    siteSections: [gamesSections, appsSections, projectsSections, playgroundSections]
   },
   writing: {
     eyebrow: "Poetry · Fiction · Non-fiction",

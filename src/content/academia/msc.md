@@ -4,6 +4,8 @@ From 2010 to 2014, I studied Architecture: Advanced Environmental and Energy Stu
 
 My thesis examined whether UK government plans were sufficient to meet the emissions targets established by the Climate Change Act 2008. The accompanying essays explored some of the wider social, environmental and economic questions that shaped my postgraduate work.
 
+I have since put some of that into practice on my own home. [My Victorian Retrofit Home](/software/projects/retrofit) is the story so far.
+
 ## MSc Thesis
 
 [Are the Government’s Plans Sufficient In Order to Meet the Legislative Targets for CO2e Emissions Set Out Within the Climate Change Act 2008?](/assets/docs/SteveHuckleThesis.pdf)

@@ -8,6 +8,7 @@ import {
   humourSections,
   poetrySections,
   playgroundSections,
+  projectsSections,
   reportsSections,
   siteSections,
   SoftwareSections,
@@ -28,6 +29,7 @@ describe('content registry', () => {
   it('keeps reordered landing sections mapped to their route groups', () => {
     expect(siteSections.software.siteSections[SoftwareSections.games]).toBe(gamesSections)
     expect(siteSections.software.siteSections[SoftwareSections.apps]).toBe(appsSections)
+    expect(siteSections.software.siteSections[SoftwareSections.projects]).toBe(projectsSections)
     expect(siteSections.software.siteSections[SoftwareSections.playground]).toBe(playgroundSections)
 
     expect(siteSections.writing.siteSections[WritingSections.poetry]).toBe(poetrySections)
